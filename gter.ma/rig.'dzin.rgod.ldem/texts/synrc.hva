@@ -58,6 +58,6 @@ Picture. {\bf #2}\@br\@br
   <meta http-equiv="X-UA-Compatible" content="IE=IE10,chrome=1" />
   \end{rawhtml}}
   \htmlhead{\rawhtmlinput{head.htx}}
-  \htmlfoot{\rawhtmlinput{foot.htx}}
+%  \htmlfoot{\rawhtmlinput{foot.htx}}
   \footerfalse
 
