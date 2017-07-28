@@ -1,9 +1,10 @@
 HTMLS := $(patsubst %.tex,%.htm,$(wildcard *.tex))
+PDFS := $(patsubst %.tex,%.pdf,$(wildcard *.tex))
 
-default: touch $(HTMLS)
+default: touch $(HTMLS) $(PDFS)
 
-pdf:
-	xelatex --interaction nonstopmode ladder.to.akanishta.tex
+%.pdf: %.tex
+	xelatex --interaction nonstopmode "$<"
 
 touch:
 	touch *.tex
