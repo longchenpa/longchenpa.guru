@@ -51,4 +51,6 @@
 
 Максим: +380676631870 (Telegram)
 
+<img src="https://longchenpa.guru/seal.png" width=100>
+
 ཨོཾ་ཨཱཿཧཱུཾ།
