@@ -12,7 +12,7 @@
 **Вимоги**: акуратність, мінімальна кількість точок та сплайнів.
 **Об'єкти**: тханки, символіка, каліграфія, схематичні зображення.
 
-Приклад: http://longchenpa.guru/thang.ga/index.htm
+[Приклад](http://longchenpa.guru/thang.ga/index.htm)
 
 Авторинг Текстів
 ----------------
@@ -21,7 +21,7 @@
 **Вимоги**: мінімум помилок, швидкодія, знання тибетської мови, UTF-8 кодування.
 **Об'єкти**: практики, скан-копії оригіналів з TBRC.
 
-Приклад: http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/thig.le'i.rgya.can.gyi.rjes.chog.tshogs.kyi.mchod.pa.txt
+[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/thig.le'i.rgya.can.gyi.rjes.chog.tshogs.kyi.mchod.pa.txt)
 
 Переклад Текстів
 ----------------
@@ -29,7 +29,7 @@
 **Вимоги**: філологічна освіта, портфоліо, бажання, натхнення.
 **Об'єкти**: офировані та підготовлені тексти тантр, практик чи коментарів на тибетській мові.
 
-Приклад: http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/gzhi.lam.'bras.bu'i.smon.lam.htm
+[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/gzhi.lam.'bras.bu'i.smon.lam.htm)
 
 Коректор
 --------
@@ -37,7 +37,7 @@
 **Вимоги**: філологічна освіта, бажання, натхнення.
 **Об'єкти**: офировані та підготовлені тексти тантр, практик чи коментарів на тібетській чи українській мові.
 
-Приклад: http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/sngon.'gro/index.pdf
+[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/sngon.'gro/index.pdf)
 
 Волонтери
 ---------
