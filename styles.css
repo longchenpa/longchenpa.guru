@@ -36,13 +36,9 @@ header {
     padding: 0 0 40px;
     box-shadow: inset 0px -13px 20px 5px rgba(36, 37, 38, 0.23);
     text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 }
 
 header h1 {
-    flex: 1 0 100%;
     font-size: 46px;
     padding: 30px 0;
     margin: 0;
@@ -62,7 +58,7 @@ img {
 }
 
 .card3d {
-    margin: 10px 10px 30px;
+    margin: 0 10px 30px;
 }
 
 .card3d img {
@@ -72,11 +68,10 @@ img {
 
 header aside {
     text-align: left;
-    max-width: 630px;
     vertical-align: top;
     color: white;
     opacity: 0.95;
-    font-size: 20px;
+    font-size: 17px;
     text-shadow: 1px 1px 5px rgba(36, 37, 38, 0.7);
     padding: 10px;
 }
@@ -92,7 +87,7 @@ header a:hover {
 }
 
 header p {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 header h2 {
@@ -102,7 +97,7 @@ header h2 {
 }
 
 main {
-    padding: 50px 10px;
+    padding: 10px;
     background: #f7f3ee;
     background-image: linear-gradient( -225deg, #ffe29f 0%, #ffa99f 48%, #ff719a 100%);
     background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
@@ -113,10 +108,9 @@ main {
 main section {
     padding: 10px;
     text-align: left;
-    display: inline-block;
-    max-width: 500px;
     width: 100%;
-    margin-bottom: 30px;
+    display: inline-block;
+    margin-bottom: 10px;
     background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
     box-shadow: 0 6px 15px rgba(36, 37, 38, 0.08);
 }
@@ -140,13 +134,19 @@ main a:hover {
     text-shadow: 1px 1px 20px rgba(3, 169, 244, 0.7);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 600px) {
+    header:after {
+        display: table;
+        clear: both;
+        content: '';
+    }
     .card3d {
-        position: relative;
-        /* height: 60vh; */
         transform-style: preserve-3d;
         perspective: 800px;
-        margin: 30px 8%;
+        margin: 10px;
+        float: left;
+        position: relative;
+        top: 10px;
     }
     .card3d-image {
         overflow: hidden;
@@ -157,7 +157,7 @@ main a:hover {
     .card3d img {
         position: relative;
         border-radius: 5px;
-        height: 550px;
+        height: 430px;
     }
     .card3d-glare {
         display: block;
@@ -177,12 +177,34 @@ main a:hover {
     header h1 {
         font-size: 60px;
     }
+    main {
+        columns: 2;
+        column-gap: 10px;
+        padding: 10px 10px 30px;
+    }
+}
+
+@media (min-width: 950px) {
+    .card3d {
+        float: none;
+        display: inline-block;
+        margin-right: 4%;
+        top: 0;
+    }
+    .card3d img {
+        height: 530px;
+    }
     header aside {
+        max-width: 500px;
+        display: inline-block;
         font-size: 20px;
-        max-width: 700px;
     }
     main {
-        columns: 400px;
+        columns: 3;
         column-gap: 20px;
+        padding: 20px 20px 50px;
+    }
+    main section {
+        margin-bottom: 20px;
     }
 }
