@@ -133,7 +133,7 @@ main a {
     display: block;
     text-decoration: none;
     color: #555;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 main a:hover {
@@ -178,7 +178,7 @@ main a:hover {
         font-size: 60px;
     }
     header aside {
-        font-size: 22px;
+        font-size: 20px;
         max-width: 700px;
     }
     main {
