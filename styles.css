@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'local';
+    src: url('Geometria-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'local';
+    src: url('Geometria.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'local';
+    src: url('Geometria-Bold.otf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+html,
+body {
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    font-family: 'local';
+}
+
+header {
+    background-image: linear-gradient( to top, #5a55ae 13%, #7b5fac 25%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+    padding: 0 0 40px;
+    box-shadow: inset 0px -13px 20px 5px rgba(36, 37, 38, 0.23);
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header h1 {
+    flex: 1 0 100%;
+    font-size: 46px;
+    padding: 30px 0;
+    margin: 0;
+    font-weight: 900;
+    line-height: 1.4;
+    color: white;
+    text-shadow: 1px 1px 5px rgba(36, 37, 38, 0.7);
+}
+
+h1 .ti {
+    font-size: 150%;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.card3d {
+    margin: 10px 10px 30px;
+}
+
+.card3d img {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+}
+
+header aside {
+    text-align: left;
+    max-width: 630px;
+    vertical-align: top;
+    color: white;
+    opacity: 0.95;
+    font-size: 20px;
+    text-shadow: 1px 1px 5px rgba(36, 37, 38, 0.7);
+    padding: 10px;
+}
+
+header a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+}
+
+header a:hover {
+    text-shadow: 1px 1px 10px rgba(3, 169, 244, 0.84);
+}
+
+header p {
+    margin: 20px 0;
+}
+
+header h2 {
+    margin: 30px 0 10px;
+    font-size: 28px;
+    padding: 0;
+}
+
+main {
+    padding: 50px 10px;
+    background: #f7f3ee;
+    background-image: linear-gradient( -225deg, #ffe29f 0%, #ffa99f 48%, #ff719a 100%);
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    text-align: center;
+}
+
+main section {
+    padding: 10px;
+    text-align: left;
+    display: inline-block;
+    max-width: 500px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    box-shadow: 0 6px 15px rgba(36, 37, 38, 0.08);
+}
+
+main h2 {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 0 20px;
+    margin: 0;
+    color: #444;
+}
+
+main a {
+    display: block;
+    text-decoration: none;
+    color: #555;
+    font-size: 18px;
+    padding: 0 0 10px;
+}
+
+main a:hover {
+    text-shadow: 1px 1px 20px rgba(3, 169, 244, 0.7);
+}
+
+@media (min-width: 768px) {
+    .card3d {
+        position: relative;
+        /* height: 60vh; */
+        transform-style: preserve-3d;
+        perspective: 800px;
+        margin: 30px 8%;
+    }
+    .card3d-image {
+        overflow: hidden;
+        position: relative;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+        transition: transform 50ms;
+    }
+    .card3d img {
+        position: relative;
+        border-radius: 5px;
+        height: 550px;
+    }
+    .card3d-glare {
+        display: block;
+        background-image: radial-gradient( ellipse closest-side, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, 0));
+        /* background: red; */
+        content: '';
+        z-index: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    header {
+        padding-bottom: 100px;
+    }
+    header h1 {
+        font-size: 60px;
+    }
+    header aside {
+        font-size: 22px;
+        max-width: 700px;
+    }
+    main {
+        columns: 400px;
+        column-gap: 20px;
+    }
+}
