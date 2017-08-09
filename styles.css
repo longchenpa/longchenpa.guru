@@ -34,6 +34,24 @@ body {
     font-family: 'local';
 }
 
+.back {
+    color: #777;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    background: white;
+    transform: rotate(180deg);
+    text-decoration: none;
+    box-shadow: -2px -2px 8px rgba(36, 37, 38, 0.3);
+}
+
 header {
     /* background-image: linear-gradient( to top, #5a55ae 13%, #7b5fac 25%, #f18271 75%, #f3a469 87%, #f7c978 100%); */
     padding: 0 0 40px;
