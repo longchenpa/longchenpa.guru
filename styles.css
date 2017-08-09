@@ -23,18 +23,21 @@
     font-style: normal;
 }
 
-html,
+html {
+    min-height: 100%;
+    background-image: linear-gradient( to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+}
+
 body {
-    height: 100%;
     min-height: 100%;
     margin: 0;
     font-family: 'local';
 }
 
 header {
-    background-image: linear-gradient( to top, #5a55ae 13%, #7b5fac 25%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+    /* background-image: linear-gradient( to top, #5a55ae 13%, #7b5fac 25%, #f18271 75%, #f3a469 87%, #f7c978 100%); */
     padding: 0 0 40px;
-    box-shadow: inset 0px -13px 20px 5px rgba(36, 37, 38, 0.23);
+    /* box-shadow: inset 0px -13px 20px 5px rgba(36, 37, 38, 0.23); */
     text-align: center;
 }
 
@@ -97,11 +100,7 @@ header h2 {
 }
 
 main {
-    padding: 10px;
-    background: #f7f3ee;
-    background-image: linear-gradient( -225deg, #ffe29f 0%, #ffa99f 48%, #ff719a 100%);
-    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
-    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    padding: 5px 10px;
     text-align: center;
 }
 
@@ -110,7 +109,7 @@ main section {
     text-align: left;
     width: 100%;
     display: inline-block;
-    margin-bottom: 10px;
+    margin: 5px 0;
     background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
     box-shadow: 0 6px 15px rgba(36, 37, 38, 0.08);
 }
@@ -180,7 +179,7 @@ main a:hover {
     main {
         columns: 2;
         column-gap: 10px;
-        padding: 10px 10px 30px;
+        padding: 5px 10px 30px;
     }
 }
 
@@ -202,9 +201,9 @@ main a:hover {
     main {
         columns: 3;
         column-gap: 20px;
-        padding: 20px 20px 50px;
+        padding: 10px 20px 50px;
     }
     main section {
-        margin-bottom: 20px;
+        margin: 10px 0;
     }
 }
