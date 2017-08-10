@@ -141,6 +141,14 @@ header h2 {
     padding: 0;
 }
 
+footer h2 {
+    margin: 30px 0px 120px 20px;
+    font-size: 22px;
+    color: white;
+    text-shadow: 1px 1px 5px rgba(36, 37, 38, 0.7);
+    padding: 0;
+}
+
 main {
     padding: 5px 10px;
     text-align: center;
