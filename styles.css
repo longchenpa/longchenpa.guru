@@ -55,7 +55,7 @@ body {
     display: inline-block;
     background: white;
     text-decoration: none;
-    padding: 2px 4px 0px 1px;
+    padding: 1px 3px 3px 3px;
     line-height: 1;
     box-shadow: 2px 4px 8px rgba(36, 37, 38, 0.2);
     transition: transform .3s;
