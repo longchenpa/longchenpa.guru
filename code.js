@@ -25,7 +25,7 @@ if (header.offsetWidth >= 768) {
     })
 
     let id
-    let tran = 0
+    let tran = 50
     header.addEventListener('mouseenter', e => {
         console.log('dd')
         id = setInterval(() => {
