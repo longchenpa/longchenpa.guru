@@ -19,6 +19,27 @@
     src: url(Geometria-MediumItalic.otf);
 }
 
+@font-face {
+    font-family: 'local';
+    font-style: normal;
+    font-weight: normal;
+    src: url(Geometria-Light.otf);
+}
+
+@font-face {
+    font-family: 'local';
+    font-weight: bold;
+    font-style: normal;
+    src: url(Geometria-Medium.otf);
+}
+
+@font-face {
+    font-family: 'local';
+    font-style: italic;
+    font-weight: bold;
+    src: url(Geometria-MediumItalic.otf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -31,7 +52,7 @@ body {
 }
 
 #navcontainer {
-    font-family: 'Geometria';
+    font-family: local, 'Geometria';
     background: #f4f4f4;
     padding: 10px 0 20px;
 }

@@ -37,7 +37,7 @@ Picture. {\bf #2}\@br\@br
 \end{figure}}
 \fi}
 
-\newcommand{\ru}{}
+\newcommand{\ru}{\@span{style="font-family:Geometria;"}}
 \newcommand{\ti}{\@span{style="font-family:Geometria;"}}
 
 %\newcommand{\verse}{}
