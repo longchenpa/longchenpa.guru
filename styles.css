@@ -23,15 +23,8 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'ti';
-    /* src: url('TibetanMachineWeb.ttf'); */
-    src: url('Qomolangma-UchenSutung.ttf');
-    font-weight: normal;
-}
-
 .ti {
-    font-family: 'ti';
+    font-family: Kokonor, initial;
     font-weight: normal;
     line-height: 1.6;
 }
