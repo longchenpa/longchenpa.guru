@@ -1,5 +1,4 @@
 
-default: pdf
-
-pdf:
+default:
+	./pub tex index.tex
 	(xelatex --interaction nonstopmode ladder.to.akanishta.tex; mv -f -v ladder.to.akanishta.pdf index.pdf)
