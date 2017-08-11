@@ -9,7 +9,7 @@
     font-family: 'Geometria';
     font-weight: bold;
     font-style: normal;
-    src: url(Geometria-Bold.otf);
+    src: url(Geometria-Medium.otf);
 }
 
 @font-face {
@@ -43,9 +43,6 @@ body {
 #nav>li:nth-child(2)>ul>li {
     display: inline-block;
     padding-right: 10px;
-    /*border: 1px solid grey;
-    margin: 0 3px 5px;
-    border-radius: 20px; */
 }
 
 #navcontainer a {
@@ -69,7 +66,7 @@ body {
 
 #navcontainer>ul>li>a {
     display: inline-block;
-    width: 90px;
+    width: 110px;
     margin-right: 10px;
     color: #555;
 }
@@ -82,7 +79,6 @@ body {
     margin: 0;
     padding-bottom: 40px;
     background: #f9f7f3;
-    max-width: 600px;
     color: #585858;
 }
 
@@ -117,9 +113,11 @@ p:nth-child(2) {
     padding-top: 30px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 700px) {
     body {
         margin: 10px auto 10px;
+        font-size: 19px;
+        max-width: 680px;
     }
     p,
     h1,
