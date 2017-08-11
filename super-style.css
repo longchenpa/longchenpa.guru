@@ -5,6 +5,8 @@
     src: url(Geometria-Light.otf);
 }
 
+.section { margin-top: 20px; }
+
 @font-face {
     font-family: 'Geometria';
     font-weight: bold;
