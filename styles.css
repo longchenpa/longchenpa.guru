@@ -23,6 +23,10 @@
     font-style: normal;
 }
 
+b {
+    color: #111;
+}
+
 .ti {
     font-family: 'Kokonor', initial;
     font-weight: normal;
@@ -155,10 +159,15 @@ main a {
     text-decoration: none;
     color: #555;
     font-size: 16px;
+    transition: 0.1s;
 }
 
 main a:hover {
-    text-shadow: 1px 1px 20px rgba(3, 169, 244, 0.7);
+    color: #4151b1;
+}
+
+main b:hover {
+    color: #4151b1;
 }
 
 @media (min-width: 600px) {
