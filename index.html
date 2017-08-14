@@ -1,109 +1,408 @@
 <html>
+
 <head>
-<title>Лонгчен Нінгтік</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="synrc.css" type="text/css" rel="stylesheet">
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Лонгчен Нінгтік</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		@font-face {
+			font-family: 'g';
+			src: url('Geometria-Bold.otf');
+			font-weight: bold;
+		}
+
+		@font-face {
+			font-family: 'g';
+			src: url('Geometria-Light.otf');
+		}
+
+		body {
+			font-family: g;
+			margin: 0;
+			background: #222a53;
+			overflow-x: hidden;
+			d
+		}
+
+		article {
+			background-image: linear-gradient( to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+			border-bottom-left-radius: 200px;
+			border-bottom-right-radius: 200px;
+			box-shadow: 0 10px 20px rgba(36, 37, 38, 0.3);
+			padding-bottom: 100px;
+		}
+
+		header {
+			padding-top: 20px;
+			text-align: center;
+		}
+
+		header>img {
+			animation-duration: 0.7s;
+			animation-fill-mode: both;
+			animation-name: zoomIn;
+
+			border-radius: 50%;
+			border: 1px solid rgba(0, 0, 0, 0.2);
+			margin: 20px;
+			background: white;
+			padding: 10px;
+			display: inline-block;
+			vertical-align: middle;
+			box-shadow: 0px 5px 36px rgba(0, 0, 0, 0.4);
+		}
+
+		header>div {
+			margin: 10px;
+			vertical-align: middle;
+			display: inline-block;
+			animation-name: fadeInDown;
+			animation-duration: 0.7s;
+			will-change: transform;
+			text-shadow: 1px 1px 5px rgba(36, 37, 38, 0.7);
+		}
+
+		header h1 {
+			text-align: left;
+			font-size: 50px;
+			color: white;
+		}
+
+		header h2 {
+			color: white;
+			font-size: 24px;
+			text-align: left;
+		}
+
+		@keyframes fadeInDown {
+			from {
+				opacity: 0;
+				transform: translate3d(0, -100%, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		@keyframes fadeInLeft {
+			from {
+				opacity: 0;
+				transform: translate3d(-100%, 0, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		@keyframes fadeInRight {
+			from {
+				opacity: 0;
+				transform: translate3d(100%, 0, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		aside {
+			display: block;
+			text-align: center;
+			padding: 40px 0 60px;
+		}
+
+
+
+		.card3d:nth-child(1) {
+			animation-name: fadeInLeft;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d:nth-child(2) {
+			animation-name: zoomIn;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d:nth-child(3) {
+			animation-name: fadeInRight;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d {
+			display: inline-block;
+			margin: 0 10px 30px;
+		}
+
+		.card3d img {
+			border: 5px solid white;
+			will-change: tranform;
+			box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+			border-radius: 5px;
+			transition: transform 50ms;
+			max-height: 100%;
+			max-width: 100%;
+		}
+
+		.card3d {
+			transform-style: preserve-3d;
+			perspective: 800px;
+			margin: 20px;
+			position: relative;
+			top: 10px;
+		}
+
+		.card3d-image {
+			overflow: hidden;
+			position: relative;
+			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+			transition: transform 50ms;
+		}
+
+		.card3d img {
+			position: relative;
+			border-radius: 5px;
+			height: 360px;
+		}
+
+		.card3d-glare {
+			display: block;
+			background-image: radial-gradient( ellipse closest-side, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, 0));
+			/* background: red; */
+			content: '';
+			z-index: 1;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+		}
+
+		h1 {
+			margin: 0;
+			padding: 0;
+		}
+
+
+
+		main {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+
+		@keyframes zoomIn {
+			from {
+				opacity: 0;
+				transform: scale3d(.3, .3, .3);
+			}
+
+			50% {
+				opacity: 1;
+			}
+		}
+
+		h1 {
+			font-size: 22px;
+			text-align: center;
+		}
+
+
+
+		main a {
+			animation-duration: 0.7s;
+			animation-fill-mode: both;
+			animation-name: zoomIn;
+			will-change: trnsform;
+			display: block;
+			border-radius: 5px;
+			border: 1px solid rgba(250, 250, 250, 0.3);
+			max-width: 360px;
+			margin: 20px;
+			transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+			padding: 10px 20px;
+			text-decoration: none;
+			font-size: 17px;
+			box-shadow: 0 15px 35px rgba(50, 50, 50, 0.3);
+			background: rgba(255, 255, 255, 0.15);
+			color: white;
+			text-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5);
+		}
+
+		main a:hover {
+			color: #555;
+			text-shadow: none;
+			background: rgba(255, 252, 252, .9);
+			box-shadow: 0 20px 50px rgba(50, 50, 50, 0.4);
+			transition: all 0.1s cubic-bezier(0.23, 1, 0.32, 1);
+		}
+
+		footer {
+			color: white;
+			text-align: center;
+			text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.5);
+			padding: 60px 30px 50px;
+			font-size: 17px;
+		}
+
+		footer a {
+			text-decoration: none;
+			color: white;
+		}
+	</style>
 </head>
+
 <body>
+	<article>
+		<header>
+			<img src="/A.jpg">
+			<div>
+				<h1> Лонгчен Нінгтік</h1>
+				<h2>Лінія передачі Лонгчен Нінгтік<br>школи Нінгма тибетського буддизму</h2>
+			</div>
+			<aside>
+				<figure class="card3d">
+					<div class="card3d-image">
+						<img src="gter.ma/snying.thig.rtsa.pod/images/thankas/10375991_10152490490038793_6672789700645810949_n.jpg">
+					</div>
+				</figure>
 
-<table width=100% cellpadding=10 cellspacing=0 align=center><tr>
-<td width=390 height=200 align=center valign=center>
-<a href="index.html"><img src="pecha.png" width=200><br></a>
-</td>
-<td width=400 valign=top colspan=2>
+				<figure class="card3d">
+					<div class="card3d-image">
+						<img src="gter.ma/snying.thig.rtsa.pod/images/thankas/10300222_10152490490143793_1520208761764887606_n.jpg">
+						<div class="card3d-glare"></div>
+					</div>
+				</figure>
 
-	<h1><b style="font-size: 38pt;">Лонгчен Нінгтік</b><br>
-	    <b style="font-size: 14pt;"><span class=ti></span>Лінія передачі Лонгчен Нінгтік <br>школи Нінгма тибетського буддизму</b><br></h1>
+				<figure class="card3d">
+					<div class="card3d-image">
+						<img src="gter.ma/snying.thig.rtsa.pod/images/thankas/10376085_10152490490013793_8193204956552144104_n.jpg">
+						<div class="card3d-glare"></div>
+					</div>
+				</figure>
+			</aside>
+		</header>
 
-	<p style="font-size:10pt;"></p>
+		<main>
 
-</td>
-</tr>
-
-
-<tr><td colspan=3>
-<hr style="z-order:2;margin-bottom:-10px;margin-left:-20px;margin-right:-20px;">
-</td></tr>
-
-<tr bgcolor="#eeeeee">
-<td colspan=3>
-<table align=center style="padding-bottom:10px;">
-<tr>
-<td width=10><img width="190px" src="gter.ma/snying.thig.rtsa.pod/images/thankas/10375991_10152490490038793_6672789700645810949_n.jpg"></td>
-<td width=20><img width="190px" src="gter.ma/snying.thig.rtsa.pod/images/thankas/10300222_10152490490143793_1520208761764887606_n.jpg"></td>
-<td width=20><img width="190px" src="gter.ma/snying.thig.rtsa.pod/images/thankas/10376085_10152490490013793_8193204956552144104_n.jpg"></td>
-</tr>
-</table>
-</td>
-</tr>
-
-<tr bgcolor=GhostWhite><td width=400 valign=top>
-
-	<h1><a href="gzhung.po.ti/index.htm"><b>གཞུང་པོ་ཏི།</b>
-	    <div style="color:silver;font-size:18pt;">Канон Нінгмапи</div></a></h1>
-
-	<p align=left>Традиція перекладів започаткована Гуру Падмасабхавою яка
-	   включає слово Будди та коментарі (канжур та танжур), а також
-	   повне зібрання тантр древніх.</p>
-
-</td><td width=400 valign=top>
-
-	<h1><a href="bka'.ma/klong.chen.rab.'byams/index.htm"><b> ཀློང་ཆེན་པ། </b></a>
-	    <div style="color:silver;font-size:18pt;">Лонгчен Рабджам</div></h1>
-
-      <p>Всевідуючий Лонгчен Рабджам Дріме Озер (1308–1364) в 26 томах своїх праць,
-       включно з Семи Скарбницями, Трьома Трилогіями та Тетралогією Сердечної Сутності.</p>
-
-	<h1><a href="bka'.ma/index.htm"><b>བཀའ་མ།</b></a>
-	    <div style="color:silver;font-size:18pt;">Нінгма Кама</div></h1>
-
-	<p>Інші майсти Нінгма Кама: Розгдом Махапандіта, Міпам Рінпоче, Патрул Рінпоче, Нгаванг Палзанг.</p>
-
-</td><td valign=top>
-
-	<h1><a href="gter.ma/snying.thig.rtsa.pod/index.htm"><b>འཇིགས་མེད་གླིང་པ།</b></a>
-	    <div style="color:silver;font-size:18pt;">Джигме Лінгпа</div></h1>
+			<a href="gzhung.po.ti/index.htm">
+				<h1>
+					<div>གཞུང་པོ་ཏི།</div>
+					<div>Канон Нінгмапи</div>
+				</h1>
+				<p>Традиція перекладів започаткована Гуру Падмасабхавою яка включає слово Будди та коментарі (канжур та танжур), а також
+					повне зібрання тантр древніх.
+				</p>
+			</a>
 
 
-        <p align=left>Рігдзин Джигме Лінгпа (1729–1798) був великим йогіном та тертоном.
-           Найбільша його робота була Дорогоццінна Скарбниця Якостей яка є викладенням шляху сутри і тантри.
-           Його труди і терма Лонгчен Нінгтік зібрані в 14 томах.</p>
 
-	<h1><a href="gter.ma/index.htm"><b> གཏེར་མ།</b></a>
-	    <div style="color:silver;font-size:18pt;">Нінгма Терма</div></h1>
+			<a href="bka'.ma/klong.chen.rab.'byams/index.htm">
+				<h1>
+					<div>ཀློང་ཆེན་པ།</div>
+					<div>Лонгчен Рабджам</div>
+				</h1>
+				<p>Всевідуючий Лонгчен Рабджам Дріме Озер (1308–1364) в 26 томах своїх праць, включно з Семи Скарбницями, Трьома Трилогіями
+					та Тетралогією Сердечної Сутності.
+				</p>
+			</a>
 
-	<p>Тексти практик ліній Дуджом Терсар, Пема Лінгпа Затер Чодзо, Кончок Чиду,
-	    Лонгсал Нінгпо Затер та інші.</p>
-	    
-	    <br><br><br>
 
-</td></tr>
 
-<tr>
-<td colspan=3>
-<hr style="z-order:2;margin-top:-10px;margin-left:-20px;margin-right:-20px;">
-</td>
-</tr>
+			<a href="bka'.ma/index.htm">
+				<h1>
+					<div>བཀའ་མ།</div>
+					<div>Нінгма Кама</div>
+				</h1>
+				<p>Інші майсти Нінгма Кама: Розгдом Махапандіта, Міпам Рінпоче, Патрул Рінпоче, Нгаванг Палзанг.
+				</p>
+			</a>
 
-<tr>
-<td valign=top width=400>
 
-</td><td valign=top width=370>
 
-<p style="font-size:10pt;">Тибетскі тексти на цьому сайті взяті
-та звірені з TBRC та перекладені учнями Лонгчен Нінгтік Україна.</p>
+			<a href="gter.ma/snying.thig.rtsa.pod/index.htm">
+				<h1>
+					<div>འཇིགས་མེད་གླིང་པ།</div>
+					<div>Джигме Лінгпа</div>
+				</h1>
+				<p>Рігдзин Джигме Лінгпа (1729–1798) був великим йогіном та тертоном. Найбільша його робота була Дорогоццінна Скарбниця
+					Якостей яка є викладенням шляху сутри і тантри. Його труди і терма Лонгчен Нінгтік зібрані в 14 томах.
+				</p>
 
-</td><td valign=top width=400>
+			</a>
 
-<p>
-&copy; 2017 <a href="organization.htm">Лонгчен Нінгтік Україна</a><br>
-</p>
 
-</p>
-</td>
-</tr>
+			<a href="gter.ma/index.htm">
+				<h1>
+					<div>གཏེར་མ།</div>
+					<div>Нінгма Терма</div>
+				</h1>
+				<p>Тексти практик ліній Дуджом Терсар, Пема Лінгпа Затер Чодзо, Кончок Чиду, Лонгсал Нінгпо Затер та інші.
 
-</table>
+				</p>
+
+
+			</a>
+
+		</main>
+	</article>
+	<footer>
+		<p>Тибетскі тексти на цьому сайті взяті та звірені з TBRC<br> та перекладені учнями Лонгчен Нінгтік Україна.</p>
+		&copy; 2017 <a href="organization.htm">Лонгчен Нінгтік Україна</a>
+	</footer>
+
+	<script>
+		let container = document.querySelector('header')
+
+		if (container.offsetWidth >= 768) {
+			let cards = container.querySelectorAll('.card3d')
+			cards.forEach(card => {
+				let img = card.querySelector('.card3d-image')
+				let glare = card.querySelector('.card3d-glare')
+
+				container.addEventListener('mousemove', e => {
+					let { left, right, top, bottom, height, width } = img.getBoundingClientRect()
+					let centerX = right - width / 2
+					let centerY = bottom - height / 2
+					img.style.transform = `
+					rotateX(${-15 * (e.pageY - centerY) / container.offsetHeight}deg)
+					rotateY(${25 * (e.pageX - centerX) / container.offsetWidth}deg)`
+					glare.style.transform = `
+					translateX(${-130 * e.pageX / container.offsetWidth}px)
+					translateY(${-250 * e.pageY / container.offsetHeight}px)`
+				})
+
+				let id
+				let tran = 50
+				container.addEventListener('mouseenter', e => {
+					id = setInterval(() => {
+						if (tran <= 50) {
+							clearInterval(id)
+						} else {
+							tran -= 6
+							img.style.transition = `transform ${tran}ms`
+						}
+					}, 16)
+				})
+
+				container.addEventListener('mouseleave', e => {
+					if (id) clearInterval(id)
+					tran = 500
+					img.style.transition = `transform ${tran}ms`
+					img.style.transform = ''
+				})
+			})
+		}
+	</script>
 
 </body>
+
 </html>
