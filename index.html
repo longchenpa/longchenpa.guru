@@ -46,11 +46,10 @@
 			vertical-align: middle;
 			padding: 30px;
 			border-radius: 70%;
-			box-shadow:
-                        inset 0 0 3px 6px rgba(100, 150, 250, 0.3),
-			0 0 1px 1px rgba(0, 0, 150,     1),
-			0 0 1px 2px rgba(0, 150, 0,     1),
-			0 0 1px 3px rgba(150, 0, 0,     1),
+			box-shadow: inset 0 0 3px 6px rgba(100, 150, 250, 0.3),
+			0 0 1px 1px rgba(0, 0, 150, 1),
+			0 0 1px 2px rgba(0, 150, 0, 1),
+			0 0 1px 3px rgba(150, 0, 0, 1),
 			0 0 1px 4px rgba(250, 200, 120, 1),
 			0 0 6px 13px rgba(250, 250, 250, 0.5);
 		}
@@ -276,6 +275,7 @@
 				<figure class="card3d">
 					<div class="card3d-image">
 						<img src="gter.ma/snying.thig.rtsa.pod/images/thankas/10375991_10152490490038793_6672789700645810949_n.jpg">
+						<div class="card3d-glare"></div>
 					</div>
 				</figure>
 
@@ -364,47 +364,49 @@
 	</footer>
 
 	<script>
-		let container = document.querySelector('header')
+		document.addEventListener('DOMContentLoaded', e => {
+			let container = document.querySelector('header')
 
-		if (container.offsetWidth >= 768) {
-			let cards = container.querySelectorAll('.card3d')
-			cards.forEach(card => {
-				let img = card.querySelector('.card3d-image')
-				let glare = card.querySelector('.card3d-glare')
+			if (container.offsetWidth >= 768) {
+				let cards = container.querySelectorAll('.card3d')
+				cards.forEach(card => {
+					let img = card.querySelector('.card3d-image')
+					let glare = card.querySelector('.card3d-glare')
 
-				container.addEventListener('mousemove', e => {
-					let { left, right, top, bottom, height, width } = img.getBoundingClientRect()
-					let centerX = right - width / 2
-					let centerY = bottom - height / 2
-					img.style.transform = `
+					container.addEventListener('mousemove', e => {
+						let { left, right, top, bottom, height, width } = img.getBoundingClientRect()
+						let centerX = right - width / 2
+						let centerY = bottom - height / 2
+						img.style.transform = `
 					rotateX(${-15 * (e.pageY - centerY) / container.offsetHeight}deg)
 					rotateY(${25 * (e.pageX - centerX) / container.offsetWidth}deg)`
-					glare.style.transform = `
+						glare.style.transform = `
 					translateX(${-130 * e.pageX / container.offsetWidth}px)
 					translateY(${-250 * e.pageY / container.offsetHeight}px)`
-				})
+					})
 
-				let id
-				let tran = 50
-				container.addEventListener('mouseenter', e => {
-					id = setInterval(() => {
-						if (tran <= 50) {
-							clearInterval(id)
-						} else {
-							tran -= 6
-							img.style.transition = `transform ${tran}ms`
-						}
-					}, 16)
-				})
+					let id
+					let tran = 50
+					container.addEventListener('mouseenter', e => {
+						id = setInterval(() => {
+							if (tran <= 50) {
+								clearInterval(id)
+							} else {
+								tran -= 6
+								img.style.transition = `transform ${tran}ms`
+							}
+						}, 16)
+					})
 
-				container.addEventListener('mouseleave', e => {
-					if (id) clearInterval(id)
-					tran = 500
-					img.style.transition = `transform ${tran}ms`
-					img.style.transform = ''
+					container.addEventListener('mouseleave', e => {
+						if (id) clearInterval(id)
+						tran = 500
+						img.style.transition = `transform ${tran}ms`
+						img.style.transform = ''
+					})
 				})
-			})
-		}
+			}
+		})
 	</script>
 
 </body>
