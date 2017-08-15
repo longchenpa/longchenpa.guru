@@ -17,9 +17,14 @@
 			src: url('Geometria-Light.otf');
 		}
 
+		html {
+			max-width: 100%;
+		}
+
 		body {
 			font-family: g;
 			margin: 0;
+			max-width: 100%;
 			overflow-x: hidden;
 			background-image: linear-gradient( to bottom, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
 		}
@@ -27,6 +32,8 @@
 		header {
 			padding-top: 60px;
 			text-align: center;
+			max-width: 100%;
+			position: relative;
 		}
 
 		header>figure {
@@ -108,6 +115,9 @@
 			display: block;
 			text-align: center;
 			padding: 40px 0 60px;
+			max-width: 100%;
+			position: relative;
+			will-change: tranform;
 		}
 
 
@@ -187,6 +197,8 @@
 
 
 		main {
+			max-width: 1400px;
+			margin: auto;
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
@@ -258,6 +270,21 @@
 		footer a {
 			text-decoration: none;
 			color: white;
+		}
+
+		@media(max-width: 768px) {
+			header h1 {
+				text-align: center;
+				font-size: 40px;
+			}
+
+			header h2 {
+				font-size: 20px;
+			}
+
+			* {
+				animation-name: none !important;
+			}
 		}
 	</style>
 </head>
