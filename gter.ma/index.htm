@@ -1,224 +1,450 @@
 <html>
 
 <head>
-    <title>Океан Терма</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link href="../synrc.css" type="text/css" rel="stylesheet">
-    <style</style>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Океан Терма</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		@font-face {
+			font-family: 'g';
+			src: url('../Geometria-Bold.otf');
+			font-weight: bold;
+		}
+
+		@font-face {
+			font-family: 'g';
+			src: url('../Geometria-Light.otf');
+		}
+
+		html {
+			max-width: 100%;
+		}
+
+		body {
+			font-family: g;
+			margin: 0;
+			max-width: 100%;
+			overflow-x: hidden;
+			background-image: linear-gradient( to bottom, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+		}
+
+		header {
+			padding-top: 60px;
+			text-align: center;
+			max-width: 100%;
+			position: relative;
+		}
+
+		header>figure {
+			animation-duration: 0.7s;
+			animation-fill-mode: both;
+			animation-name: zoomIn;
+			/* background: #f3a469; */
+			display: inline-block;
+			vertical-align: middle;
+			padding: 30px;
+			border-radius: 70%;
+			box-shadow: inset 0 0 3px 6px rgba(100, 150, 250, 0.3),
+			0 0 1px 2px rgba(0, 150, 0, 1),
+			0 0 1px 3px rgba(150, 0, 0, 1),
+			0 0 1px 4px rgba(250, 200, 120, 1),
+			0 0 6px 13px rgba(250, 250, 250, 0.4);
+		}
+
+		header>div {
+			margin: 10px;
+			vertical-align: middle;
+			display: inline-block;
+			animation-name: fadeInDown;
+			animation-duration: 0.7s;
+			will-change: transform;
+			text-shadow: 1px 3px 8px rgba(36, 37, 38, 0.3);
+		}
+
+		header h1 {
+			text-align: left;
+			font-size: 50px;
+			color: white;
+		}
+
+		header h2 {
+			color: white;
+			font-size: 24px;
+			text-align: left;
+		}
+
+		@keyframes fadeInDown {
+			from {
+				opacity: 0;
+				transform: translate3d(0, -100%, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		@keyframes fadeInLeft {
+			from {
+				opacity: 0;
+				transform: translate3d(-100%, 0, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		@keyframes fadeInRight {
+			from {
+				opacity: 0;
+				transform: translate3d(100%, 0, 0);
+			}
+
+			to {
+				opacity: 1;
+				transform: none;
+			}
+		}
+
+		aside {
+			display: block;
+			text-align: center;
+			padding: 40px 0 60px;
+			max-width: 100%;
+			position: relative;
+			will-change: tranform;
+		}
+
+
+
+		.card3d:nth-child(1) {
+			animation-name: fadeInLeft;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d:nth-child(2) {
+			animation-name: zoomIn;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d:nth-child(3) {
+			animation-name: fadeInRight;
+			animation-duration: 0.7s;
+			will-change: transform;
+		}
+
+		.card3d {
+			display: inline-block;
+			margin: 0 10px 30px;
+		}
+
+		.card3d img {
+			border: 5px solid white;
+			will-change: tranform;
+			border: 1px solid rgba(250, 250, 250, 0.3);
+			border-radius: 5px;
+			transition: transform 50ms;
+			max-height: 100%;
+			max-width: 100%;
+		}
+
+		.card3d {
+			transform-style: preserve-3d;
+			perspective: 800px;
+			margin: 20px;
+			position: relative;
+			top: 10px;
+		}
+
+		.card3d-image {
+			overflow: hidden;
+			position: relative;
+			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+			transition: transform 50ms;
+		}
+
+		.card3d img {
+			position: relative;
+			border-radius: 5px;
+			height: 360px;
+		}
+
+		.card3d-glare {
+			display: block;
+			background-image: radial-gradient( ellipse closest-side, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, 0));
+			content: '';
+			z-index: 1;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+		}
+
+		h1 {
+			margin: 0;
+			padding: 0;
+		}
+
+
+
+		main {
+			max-width: 1400px;
+			margin: auto;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+
+		@keyframes zoomIn {
+			from {
+				opacity: 0;
+				transform: scale3d(.3, .3, .3);
+			}
+
+			50% {
+				opacity: 1;
+			}
+		}
+
+		h1 {
+			font-size: 22px;
+			text-align: center;
+		}
+
+
+
+		main a {
+			animation-duration: 0.7s;
+			animation-fill-mode: both;
+			animation-name: zoomIn;
+			will-change: trnsform;
+			display: block;
+			border-radius: 5px;
+			border: 1px solid rgba(250, 250, 250, 0.3);
+			min-width: 300px;
+			margin: 20px;
+			max-width: 370px;
+			flex: 1 0;
+			transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+			padding: 10px 20px;
+			text-decoration: none;
+			font-size: 17px;
+			box-shadow: 0 15px 35px rgba(50, 50, 50, 0.3);
+			background: rgba(255, 255, 255, 0.15);
+			color: white;
+			text-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5);
+		}
+
+		main a:hover {
+			color: #555;
+			text-shadow: none;
+			background: rgba(255, 252, 252, .9);
+			box-shadow: 0 20px 50px rgba(50, 50, 50, 0.4);
+			transition: all 0.1s cubic-bezier(0.23, 1, 0.32, 1);
+		}
+
+		footer {
+			text-align: center;
+			color: white;
+			text-align: center;
+			text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.5);
+			padding: 100px 0px 50px;
+			margin: 0 30px;
+			font-size: 17px;
+		}
+
+		footer p {
+			border-top: 15px dotted rgba(250, 250, 250, 0.5);
+			padding-top: 40px;
+			display: inline-block;
+			max-width: 450px;
+		}
+
+		footer a {
+			text-decoration: none;
+			color: white;
+		}
+
+		@media(max-width: 768px) {
+			header h1 {
+				text-align: center;
+				font-size: 40px;
+			}
+
+			main {
+				margin: 10px;
+			}
+
+			main a {
+				margin: 10px;
+				padding: 10px 10px;
+			}
+			header h2 {
+				font-size: 20px;
+			}
+
+			* {
+				animation-name: none !important;
+			}
+		}
+	</style>
 </head>
 
 <body>
+	<header>
+		<figure>
+			<a href="../index.html"><img src="../A.svg" alt="" width=60></a>
+		</figure>
+		<div width=200>
+			<h1>Океан Терма</h1>
+			<h2>Тут представлені терма 11-20 століття.</h2>
+		</div>
+	</header>
 
-    <table width=100% cellspacing=0 cellpadding=10 align=center>
+	<main>
 
-
-        <tr>
-            <td width=400 height=200 align=center height=230 valign=center>
-                <a href="../index.html"><img src="../pecha.png" border=0 width=200></a><br>
-            </td>
-            <td width=370 valign=top colspan=2>
-
-                <h1>
-                    <b style="font-size: 24pt;">Океан Терма</b><br>
-                    <b style="font-size: 38pt;"><span class=ti>གཏེར་མ།</span></b><br>
-                </h1>
-
-                <p style="font-size:10pt;">
-                    Одкровення (терма) – унікальна система передачі знань та зберігання чистоти вчення. Древні терма як стовбур, який може висохнути.
-                    Нові терма, як гілки з листям та квітами, завжди молоді та свіжі. Тут представлені терма 11-20 століття.</p>
-
-            </td>
-        </tr>
-        <tr>
-            <td colspan=3>
-                <hr style="z-order:2;margin-bottom:-10px;margin-left:-20px;margin-right:-20px;">
-            </td>
-        </tr>
-
-        <!-- Fresh Terma -->
-
-
-        <tr bgcolor=GhostWhite>
-            <td width=420 valign=top>
-
-                <h1><a href="bdud.'joms.gling.pa.gter.chos/index.htm"><b>བདུད་འཇོམས་གླིང་པ་གཏེར་ཆོས།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Дуджом Лінгпа Терчо</div>
-                </h1>
-
-                <p>Дуджом Лінгпа (1835—1904) був предбачений в пророцтвах багатьох тертонів минулого. Його власні терма Дуджом
+                <a href="bdud.'joms.gling.pa.gter.chos/index.htm">
+                    <h1><div>བདུད་འཇོམས་གླིང་པ་གཏེར་ཆོས།</div>
+                        <div>Дуджом Лінгпа Терчо</div></h1>
+                    <p>Дуджом Лінгпа (1835—1904) був предбачений в пророцтвах багатьох тертонів минулого. Його власні терма Дуджом
                     Терсар містяться в зібранні з 21 тому. Його вчення як і всіх великих тертонів минулого містять три розділи
-                    — Ла, Дзог и Туг. Терма Трома Нагмо є скарбом його мислення (гонтер). </p>
+                    — Ла, Дзог и Туг. Терма Трома Нагмо є скарбом його мислення (гонтер). </p></a>
 
-            </td>
-            <td valign=top width=370>
-
-                <h1><a href="a.paM.gter.chos/index.htm"><b>ཨ་པཾ་གཏེར་ཆོས།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Апам Терчо</div>
-                </h1>
-
-                <p>Апам Тертон (1895—1945) залишив зібрання Апам Терчо яке включає зокрема терма Червоної Тари, Заблам Дзогчен
+                <a href="a.paM.gter.chos/index.htm">
+                    <h1><div>ཨ་པཾ་གཏེར་ཆོས།</div>
+                        <div>Апам Терчо</div></h1>
+                    <p>Апам Тертон (1895—1945) залишив зібрання Апам Терчо яке включає зокрема терма Червоної Тари, Заблам Дзогчен
                     Чодрук (Глибокий шлях — Шість Дхарм Величного Довершення) та інші, відкриті чудесним сином Дуджома Лінгпи
-                    в шістнадцяти томах.</p>
+                    в шістнадцяти томах.</p></a>
 
-            </td>
-            <td valign=top width=420>
-
-                <h1><a href="'jigs.bral.ye.shes.rdo.rje/index.htm"><b>འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Джігдрал Єше Дордже</div>
-                </h1>
-
-                <p>Нові терма Дуджома Джигдрал Єше Дордже (1904—1987). Коли Дуджом Лінгпа пішов, він миттєво переродився як
+                <a href="'jigs.bral.ye.shes.rdo.rje/index.htm">
+                    <h1><div>འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ</div>
+                        <div>Джігдрал Єше Дордже</div></h1>
+                    <p>Нові терма Дуджома Джигдрал Єше Дордже (1904—1987). Коли Дуджом Лінгпа пішов, він миттєво переродився як
                     Його Святість Дуджом Рінпоче. Дуджом Рінпоче передавав терма своего попереднього втілення, а також відкрив
-                    нові терма. В роботі нараховується 25 томів.</p>
+                    нові терма. В роботі нараховується 25 томів.</p></a>
 
-            </td>
-        </tr>
-
-        <!-- Kathok Terma -->
-
-        <tr bgcolor=GhostWhite>
-            <td width=390 valign=top>
-
-                <h2><a href="'ja'.tshon.pod.drug/index.htm"><b>འཇའ་ཚོན་པོད་དྲུག</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Джацон Подрук</div>
-                </h2>
-
-                <p>Кончок Чіду або Втілення Трьох Дорогоцінностей — цикл терма Джацона Нінгпо (1585—1656), присвячений головним
+                <a href="'ja'.tshon.pod.drug/index.htm">
+                    <h1><div>འཇའ་ཚོན་པོད་དྲུག</div>
+                        <div>Джацон Подрук</div></h1>
+                    <p>Кончок Чіду або Втілення Трьох Дорогоцінностей — цикл терма Джацона Нінгпо (1585—1656), присвячений головним
                     чином практиці Гуру Рінпоче. Тертон передав ці вчення Дудулу Дордже (1615—1672). Більшу частину цих текстів
                     перевів на английску мову Пітер Роберц. Ця лінія була ввірена також школі Кагью. Всього у Джацона Нінгпо
                     8 томів в Джацон Подрук.</p>
+                </a>
 
-            </td>
-            <td valign=top width=420>
-
-                <h1><a href="klong.gsal.snying.po'i.zab.gter/index.htm"><b>ཀློང་གསལ་སྙིང་པོའི་ཟབ་གཏེར།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Лонгсал Нінгпо Затер</div>
-                </h1>
-
-                <p>Цикл Лонгсал Дордже Нінгпо був відкритий Терченом Рігдзіном Лонгсал Нінгпо (1625—1692) також відомий як Лонгсал
+                <a href="klong.gsal.snying.po'i.zab.gter/index.htm">
+                    <h1><div>ཀློང་གསལ་སྙིང་པོའི་ཟབ་གཏེར།</div>
+                        <div>Лонгсал Нінгпо Затер</div></h1>
+                    <p>Цикл Лонгсал Дордже Нінгпо був відкритий Терченом Рігдзіном Лонгсал Нінгпо (1625—1692) також відомий як Лонгсал
                     Нінгпо, Великий тертон монастиря Каток, учень Рігдзіна Дудула Дордже. Всього у Лонгсала Нінгпо 7 циклів
-                    терма.</p>
+                    терма.</p></a>
 
-            </td>
-            <td width=400 valign=top>
+                <a href="snying.thig.rtsa.pod/index.htm">
+                    <h1><div>སྙིང་ཐིག་རྩ་པོད།</div>
+                        <div>Нінгтік Цапод</div></h1>
+                    <p>Лонгчен Нінгтик (Сутність Серця Лонгченпи) — Терма Мислення Джигме
+                       Лінгпи (1730—1798) в 3 томах. Цей цикл
+                       набув широкого поширення в усіх орденах Нінгми.</p></a>
 
-                <h1><a href="snying.thig.rtsa.pod/index.htm"><b class=ti>སྙིང་ཐིག་རྩ་པོད།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Нінгтік Цапод</div>
-                </h1>
+                <a name="ka+rma.gling.pa.gter.chos/texts/index.txt">
+                    <h1><div>ཀྲམ་གླིང་པ་གཏེར་ཆོས།</div>
+                        <div>Карма Лінгпа Терчо</div></h1>
+                    <p>Карма Лінгпа (1326—?) відкрив Забчо Шитро Гонпа Рангдрол та Бардо Тодол Ченмо,
+                       відому як Тибетска Книга Мертвих.</p></a>
 
-                <p>Лонгчен Нінгтик (Сутність Серця Лонгченпи) — Терма Мислення Джигме Лінгпи (1730—1798) в 3 томах. Цей цикл
-                    набув широкого поширення в усіх орденах Нінгми.</p>
-
-            </td>
-        </tr>
-
-        <!-- Great Lingpa -->
-
-
-        <tr bgcolor=GhostWhite>
-            <td width=400 valign=top>
-
-                <h1><a name="ka+rma.gling.pa.gter.chos/texts/index.txt"><b class=ti>ཀྲམ་གླིང་པ་གཏེར་ཆོས།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Карма Лінгпа Терчо</div>
-                </h1>
-
-                <p>Карма Лінгпа (1326—?) відкрив Забчо Шитро Гонпа Рангдрол та Бардо Тодол Ченмо, відому як Тибетска Книга Мертвих.</p>
-
-            </td>
-            <td valign=top width=370>
-
-                <h1><a name="rat+na.gling.pa.gter.chos/index.txt"><b class=ti>རཏྣ་གླིང་པ་གཏེར་ཆོས།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Ратна Лінгпа Терчо</div>
-                </h1>
-
-
-                <p>Ратна Лінгпа (1403—1479) склав Нінгма Г'юбум та відкрив наступні терма: Тукдруб Янгтік Дюпа, Цасум Дребу
+                <a name="rat+na.gling.pa.gter.chos/index.txt">
+                    <h1><div>རཏྣ་གླིང་པ་གཏེར་ཆོས།</div>
+                        <div>Ратна Лінгпа Терчо</div></h1>
+                    <p>Ратна Лінгпа (1403—1479) склав Нінгма Г'юбум та відкрив наступні терма: Тукдруб Янгтік Дюпа, Цасум Дребу
                     Донтри (Сущностные наставления реализации Трёх Корней), Пурба Янгсанг Ламе (Соверешнно секретный и непревзойденный
                     кинжал), Їдам Цасум Дрилдруб, Цедруб Сангва Дюпа, Дюпа Коржи, Гуру Жидрак, Тукчен Сангдю, Дзогчен Лонгсал
-                    Німа.
-                </p>
+                    Німа.</p></a>
 
-                <br><br>
+                <a href="padma.gling.pa'i.zab.gter.chos.mdzod/index.htm">
+                    <h1><div>པདམ་གླིང་པའི་ཟབ་གཏེར་ཆོས་མཛོད།</div>
+                        <div>Пема Лінгпа Затер Чодзо</div></h1>
+                    <p>Пема Лінгпа (1450—1521) відкрив багато циклів і його роботи нараховують 21 том.</p></a>
 
-            </td>
-            <td width=400 valign=top>
+                <a href="nyang.ral.nyi.ma.'od.zer/index.htm">
+                    <h1><div>ཉང་རལ་ཉི་མ་འོད་ཟེར།</div>
+                        <div>Н'янграл Німа Озер</div></h1>
+                    <p>Н'янграл Німа Озер (1124—1192).</p></a>
 
-                <h1><a href="padma.gling.pa'i.zab.gter.chos.mdzod/index.htm"><b class=ti>པདམ་གླིང་པའི་ཟབ་གཏེར་ཆོས་མཛོད།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Пема Лінгпа Затер Чодзо</div>
-                </h1>
-
-                <p>Пема Лінгпа (1450—1521) відкрив багато циклів і його роботи нараховують 21 том.</p>
-
-
-            </td>
-        </tr>
-
-
-        <!-- Old Terma -->
-
-
-        <tr bgcolor=GhostWhite>
-            <td width=400 valign=top>
-
-                <h1><a href="nyang.ral.nyi.ma.'od.zer/index.htm"><b class=ti>ཉང་རལ་ཉི་མ་འོད་ཟེར།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Н'янграл Німа Озер</div>
-                </h1>
-
-
-                <p>Н'янграл Німа Озер (1124—1192).</p>
-
-            </td>
-            <td valign=top width=370>
-
-                <h1><a href="chos.dbang.gter.ma/index.htm"><b class=ti>ཆོས་དབང་གཏེར་མ།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Терма Гуру Чованга</div>
-                </h1>
-
-                <p>Зібрання терма Гуру Чованга (1212—1270) вллючає цикли: Лама Сангду (Лама — Зібрання Таємниць) — вчення по
+                <a href="chos.dbang.gter.ma/index.htm">
+                    <h1><div>ཆོས་དབང་གཏེར་མ།</div>
+                        <div>Терма Гуру Чованга</div></h1>
+                    <p>Зібрання терма Гуру Чованга (1212—1270) вллючає цикли: Лама Сангду (Лама — Зібрання Таємниць) — вчення по
                     практиці Гуру (Ладруб), де міститься відома Семистрофна Молитва — запрошення Гуру Падмасамбхави, Тукже
                     Ченпо Янгнінг Дупа (Авалокітешвара), Янсанг Пудрі (Ваджракілая), Каг'є Санг Дзонг (Восьми Садхан Каг'ю),
                     Дзогчен Янгті Санже Нямджор — практика Аті Йога Одиннадцять деянь Падмакари — намтар (життєпис Лотосонародженого
-                    Гуру), Дхарані, яка містить всю сутність Трипітаки.</p>
+                    Гуру), Дхарані, яка містить всю сутність Трипітаки.</p></a>
 
-                <br><br>
-
-            </td>
-            <td valign=top width=400>
-
-                <h1><a href="rig.'dzin.rgod.ldem/index.htm"><b class=ti>རིག་འཛིན་རྒོད་ལྡེམ།</b></a>
-                    <div align=left style="color:silver;font-size:18pt;">Рігдзин Годем</div>
-                </h1>
-
-                <p>Рігдзин Годем (1337—1408) відомий Дзогчен тантрою Молитва Самантабхадри.</p>
-
-            </td>
-        </tr>
-
-        <tr>
-            <td colspan=3>
-                <hr style="z-order:2;margin-top:-10px;margin-left:-20px;margin-right:-20px;">
-            </td>
-        </tr>
-
-        <tr>
-            <td valign=top width=400>
-
-            </td>
-            <td valign=top width=370>
-
-                <p style="font-size:10pt;">Тибетскі тексти на цьому сайті взяті та звірені з TBRC та перекладені учнями Лонгчен Ньингтик Украина.</p>
-
-            </td>
-            <td valign=top width=400>
-
-                <p>&copy; 2017 <a href="../organization.htm">Лонгчен Нінгтік Україна</a><br></p>
-
-                </p>
-            </td>
-        </tr>
+                <a href="rig.'dzin.rgod.ldem/index.htm">
+                    <h1><div>རིག་འཛིན་རྒོད་ལྡེམ།</div>
+                        <div>Рігдзин Годем</div></h1>
+                    <p>Рігдзин Годем (1337—1408) відомий Дзогчен тантрою Молитва Самантабхадри.</p></a>
 
 
-    </table>
+	</main>
+	<footer>
+		<p>Тексти на цьому саті звірені з TBRC та перекладені учнями Лонгчен Нінгтік Україна.</p>
+		<br> &copy;&nbsp;2011&mdash;2017&nbsp;
+		<a href="organization.htm">Лонгчен Нінгтік Україна</a>
+	</footer>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', e => {
+			let container = document.querySelector('header')
+
+			if (container.offsetWidth >= 768) {
+				let cards = container.querySelectorAll('.card3d')
+				cards.forEach(card => {
+					let img = card.querySelector('.card3d-image')
+					let glare = card.querySelector('.card3d-glare')
+
+					container.addEventListener('mousemove', e => {
+						let { left, right, top, bottom, height, width } = img.getBoundingClientRect()
+						let centerX = right - width / 2
+						let centerY = bottom - height / 2
+						img.style.transform = `
+					rotateX(${-15 * (e.pageY - centerY) / container.offsetHeight}deg)
+					rotateY(${25 * (e.pageX - centerX) / container.offsetWidth}deg)`
+						glare.style.transform = `
+					translateX(${-130 * e.pageX / container.offsetWidth}px)
+					translateY(${-250 * e.pageY / container.offsetHeight}px)`
+					})
+
+					let id
+					let tran = 50
+					container.addEventListener('mouseenter', e => {
+						id = setInterval(() => {
+							if (tran <= 50) {
+								clearInterval(id)
+							} else {
+								tran -= 6
+								img.style.transition = `transform ${tran}ms`
+							}
+						}, 16)
+					})
+
+					container.addEventListener('mouseleave', e => {
+						if (id) clearInterval(id)
+						tran = 500
+						img.style.transition = `transform ${tran}ms`
+						img.style.transform = ''
+					})
+				})
+			}
+		})
+	</script>
 
 </body>
 
