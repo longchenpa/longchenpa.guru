@@ -19,19 +19,37 @@
 
         a {
             display: block;
-            margin: 5px 10px;
             text-decoration: none;
-            color: #555;
+            color: inherit;
+        }
+
+        a:hover {
+            color: blueviolet;
         }
 
         body {
             margin: 0;
             font-family: 'local';
-            background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
-            /* background-image: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%); */
-            background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
             background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+            color: #555;
+            text-align: center;
         }
+
+        header {
+            margin: 40px 20px;
+            color: #666;
+        }
+
+        header h1 {
+            margin: 0;
+            padding: 0;
+            font-size: 30px;
+        }
+
+        header .ti {
+            font-size: 140%;
+        }
+
 
         h2 {
             margin: 0;
@@ -40,86 +58,128 @@
         }
 
         article {
-            /* text-align: center;
-            display: inline-block; */
-            columns: 2;
-            display: block;
+            background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%), radial-gradient(91% 146%, rgba(255, 255, 255, 0.8) 47%, rgba(0, 0, 0, 0.20) 100%);
+            background-blend-mode: screen;
+            margin: 10px 0 30px;
+            padding-bottom: 20px;
+            box-shadow: 0 7px 10px -5px rgba(100, 100, 100, 0.3);
+            border-radius: 4px;
+            border-top: 1px solid white;
+            display: inline-block;
+        }
+
+        article:hover {
+            box-shadow: 0 7px 20px 0px rgba(100, 100, 100, 0.2);
+        }
+
+        article h2 {
+            font-size: 20px;
+            margin: 10px 0 5px;
         }
 
 
         article section {
-            vertical-align: top;
-            margin: 20px;
             text-align: left;
-            max-width: 360px;
-            display: inline-block;
+            padding: 10px;
         }
 
         main {
-            margin: 0 0 30px;
+            margin: 0 10px 50px;
+            display: inline-block;
+        }
+
+        main h2 {
+            text-align: left;
+            font-size: 20px;
         }
 
         main section {
+            text-align: left;
             background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%), radial-gradient(91% 146%, rgba(255, 255, 255, 0.8) 47%, rgba(0, 0, 0, 0.20) 100%);
             background-blend-mode: screen;
             min-width: 100%;
-            margin: 15px 0;
             box-shadow: 0 7px 10px -5px rgba(100, 100, 100, 0.3);
             transition: 0.2s;
             border-radius: 4px;
             border-top: 1px solid white;
+            margin: 10px 0 10px;
+            padding: 15px 0;
+        }
+
+        main section a {
+            padding: 0 10px 0;
+        }
+
+        main section h2 {
+            padding: 0 10px 10px;
+            max-width: 360px;
+        }
+
+        main section div {
+            padding: 0 10px;
         }
 
         main section:hover {
             box-shadow: 0 7px 20px 0px rgba(100, 100, 100, 0.2);
         }
 
-        main section h2 {
-            font-size: 24px;
-            margin: 10px 0;
-        }
-
-        main section div {
-            margin: 10px;
-        }
-
-        @media (min-width: 600px) {
+        @media (min-width: 650px) {
             article {
-                display: block;
+                margin: 0 10px 30px;
             }
 
             article section {
+                vertical-align: top;
                 display: inline-block;
             }
 
             main {
-                columns: 3;
-                column-gap: 30px;
-                margin: 20px;
-                text-align: left;
+                column-gap: 10px;
+                column-count: 2;
+                margin: 10px;
             }
+
             main section {
-                font-size: 20px;
+                margin: 5px 0 5px;
                 display: inline-block;
                 vertical-align: top;
+            }
+        }
+
+        @media (min-width: 1000px) {
+            body {
+                font-size: 17px;
+            }
+
+            header h1 {
+                font-size: 40px;
+            }
+
+            main {
+                padding: 20px;
+                margin: 0 auto;
+                column-gap: 20px;
+                column-count: 3;
+                max-width: 1300px;
+            }
+            main section {
+                margin: 10px 0 10px;
             }
         }
     </style>
 </head>
 
 <body>
-    <nav>
-        <a href=""></a>
-
-    </nav>
 
     <header>
-        <h1>Линия<br>Лонгчен Ньингтик Украина <span class=ti>ཀློང་ཆེན་སྙིང་ཐིག་བླ་རྒྱུད།</span></h1>
+        <h1>Линия Лонгчен<br>Ньингтик Украина
+            <div class=ti>ཀློང་ཆེན་སྙིང་ཐིག་བླ་རྒྱུད།</div>
+        </h1>
     </header>
 
     <article>
         <section>
-            <h2>Первая линия передачи Палтрула Ринпоче</h2>
+            <h2>Первая линия передачи<br>Палтрула Ринпоче</h2>
             <a target="_parent" href="#">Рикдзин Джикмэ Лингпа</a>
             <a target="_parent" href="#">Джикмэ Гьялве Ньюгу</a>
             <a target="_parent" href="#">Палтрул Оргьен Джикмэ Чокьи Вангпо</a>
@@ -128,7 +188,7 @@
         </section>
 
         <section>
-            <h2>Вторая линия передачи Додрупчена</h2>
+            <h2>Вторая линия<br>передачи Додрупчена</h2>
             <a target="_parent" href="#">Рикдзин Джикмэ Лингпа</a>
             <a target="_parent" href="#">Додрупчен I Джикмэ Тринле Озер</a>
             <a target="_parent" href="#">До Кхенце Еше Дордже</a>
@@ -137,7 +197,7 @@
         </section>
 
         <section>
-            <h2>Третья линия передачи Адзома Друкпы</h2>
+            <h2>Третья линия передачи<br>Адзома Друкпы</h2>
             <a target="_parent" href="#">Рикдзин Джикмэ Лингпа</a>
             <a target="_parent" href="#">Джикмэ Гьялве Ньюгу</a>
             <a target="_parent" href="#">Джамьянг Кхенце Вангпо</a>
@@ -191,12 +251,12 @@
             <a target="_parent" href="#">Ботруп Донгак Тенпи Ньима</a>
             <a target="_parent" href="#">Кхенпо Пема Цеванг Лхундруп Ринпоче</a>
             <a target="_parent" href="#">Донла Пема Дудул</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
             <a target="_parent" href="#">Катхок Кхенпо Тензин Дракпа</a>
             <a target="_parent" href="#">Кхенпо Палден Шерап Ринпоче</a>
             <a target="_parent" href="#">Донла Пема Дудул</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
             <a target="_parent" href="#">Кенчен Пема Цеванг</a>
             <a target="_parent" href="#">Дзогчен Кенпо Чога</a>
@@ -207,10 +267,10 @@
             <h2>Cущностные устные наставления Додрубчена</h2>
             <a target="_parent" href="#">Додрупчен III Джикмэ Тенпи Ньима</a>
             <a target="_parent" href="#">Катхок Кхенпо Кунзанг Палден</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Юкхок Чатралва Чойинг Рангдрол</a>
             <a target="_parent" href="#">Додрупчен IV Рикдзин Джалу Дордже</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Додрупчен IV Туптен Тринле Палзанг</a>
             <a target="_parent" href="#">Додрупчен Лонгьянг Ринпоче</a>
             <a target="_parent" href="#">Донла Пема Дудул</a>
@@ -238,7 +298,7 @@
         <section>
             <h2>Наставления по Еше Лама</h2>
             <a target="_parent" href="#">Адзом Друкпа Дродул Паво Дордже</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Додрупчен III Джикмэ Тенпи Ньима</a>
             <a target="_parent" href="#">Юкхок Чатралва Чойинг Рангдрол</a>
             <a target="_parent" href="#">Кхенпо Чойинг Чапдал Ринпоче</a>
@@ -251,7 +311,7 @@
             <h2>Cущностные устные наставления Адзома</h2>
             <a target="_parent" href="#">Адзом Друкпа Дродул Паво Дордже</a>
             <a target="_parent" href="#">Адзом Гьялсе Гьюрмэ Дордже</a>
-            <div> и </div>
+            <div> ~ </div>
             <a target="_parent" href="#">Адзом Гьялсэ Пема Вангьял</a>
             <a target="_parent" href="#">Адзом Друктрул Туптен Пема Тринле</a>
             <a target="_parent" href="#">Онтрул Тенпи Вангчук Ринпоче</a>
@@ -264,10 +324,10 @@
             <a target="_parent" href="#">Тромге Чоктрул Арик Ринпоче</a>
             <a target="_parent" href="#">Чакдуд Тулку Пема Гаргьи Вангчук Ринпоче</a>
             <a target="_parent" href="#">Донла Пема Дудул</a>
-            <div> и </div> <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
+            <div> ~ </div> <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
             <a target="_parent" href="#">Чатрал Ринпоче Сангье Дордже</a>
             <a target="_parent" href="#">Донла Пема Дудул</a>
-            <div> и </div> <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
+            <div> ~ </div> <a target="_parent" href="#">Катхок Кхенпо Нгаванг Палзанг</a>
             <a target="_parent" href="#">Кенчен Пема Цеванг</a>
             <a target="_parent" href="#">Дзогчен Кенпо Чога</a>
             <a target="_parent" href="#">Камла Намдак</a>
