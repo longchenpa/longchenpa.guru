@@ -40,12 +40,11 @@ Picture. {\bf #2}\@br\@br
 \newcommand{\ru}{\@span{style="font-family:Geometria;"}}
 \newcommand{\ti}{}
 
-%\newcommand{\verse}{}
-%\newcommand{\endverse}{}
-\newcommand{\siderules}{}
-\newcommand{\endsiderules}{}
+\newcommand{\verse}{\@open{div}{class="verse"}}
+\newcommand{\endverse}{\@close{div}}
+\newcommand{\siderules}{\@open{div}{class="siderules"}}
+\newcommand{\endsiderules}{\@close{div}}
 \newcommand{\tablefootnote}{}
-
 
 \setcounter{secnumdepth}{0}
 
