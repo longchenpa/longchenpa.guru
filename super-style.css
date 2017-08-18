@@ -49,12 +49,7 @@
     max-width: 100%;
 }
 
-body {
-    margin: 0;
-}
-
-#navcontainer {
-    font-family: local, 'Geometria';
+#navcontainer {    
     background: #f4f4f4;
     padding: 10px 0 20px;
 }
@@ -103,6 +98,7 @@ body {
     padding-bottom: 40px;
     background: #f9f7f3;
     color: #585858;
+    font-family: local, 'Geometria';
 }
 
 h2 {
