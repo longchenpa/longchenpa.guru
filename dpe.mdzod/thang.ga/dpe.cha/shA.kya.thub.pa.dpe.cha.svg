@@ -2742,21 +2742,21 @@
             <g id="1101">
                 <rect id="Rectangle-1" stroke="#979797" stroke-width="1.4875" sketch:type="MSShapeGroup" x="18.59375" y="18.625" width="557.8125" height="251.4375"></rect>
                 <rect id="Rectangle-1-Copy-2" stroke="#FFFFFF" stroke-width="1.4875" sketch:type="MSShapeGroup" x="0" y="0" width="595" height="298"></rect>
-                <text id="6/15" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="8" font-weight="normal" sketch:alignment="right" fill="#000000">
-                    <tspan x="561.84375" y="285.375">6/15</tspan>
+                <text id="Махаяна" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="8" font-weight="normal" sketch:alignment="right" fill="#000000">
+                    <tspan x="543.953125" y="285.375">Махаяна</tspan>
                 </text>
-                <text id="Шакья-Тубпа" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="8" font-weight="normal" fill="#000000">
-                    <tspan x="18.59375" y="285.375">Шакья Тубпа</tspan>
+                <text id="Шак’я-Тубпа" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="8" font-weight="normal" fill="#000000">
+                    <tspan x="18.59375" y="285.375">Шак’я Тубпа</tspan>
                 </text>
                 <text id="ཤཱ་ཀྱ་ཐུབ་པ" sketch:type="MSTextLayer" font-family="Kokonor" font-size="24" font-weight="normal" fill="#1C1C1C">
-                    <tspan x="312" y="103">ཤཱ་ཀྱ་ཐུབ་པ</tspan>
+                    <tspan x="312" y="134">ཤཱ་ཀྱ་ཐུབ་པ</tspan>
                 </text>
                 <text id="Так-є.-Будда,-Бхагав" sketch:type="MSTextLayer" font-family="Palatino Linotype" font-size="10" font-weight="normal" fill="#262626">
-                    <tspan x="312.309375" y="134">Так є. Будда, Бхагават, Татхагата, Архат, </tspan>
-                    <tspan x="312.309375" y="147.330078">Самьяксамбудда, Володар Відання та стоп, </tspan>
-                    <tspan x="312.309375" y="160.660156">Сугата, Знаючий світ, Возничий, усмирячий істот, </tspan>
-                    <tspan x="312.309375" y="173.990234">Неперевершений, Учитель богів та людей </tspan>
-                    <tspan x="312.309375" y="187.320312">         — це Будда Бхагават.</tspan>
+                    <tspan x="312" y="156">Так є. Будда, Бхагават, Татхагата, Архат, </tspan>
+                    <tspan x="312" y="169.330078">Самьяксамбудда, Володар Відання та стоп, </tspan>
+                    <tspan x="312" y="182.660156">Сугата, Знаючий світ, Возничий, усмирячий істот, </tspan>
+                    <tspan x="312" y="195.990234">Неперевершений, Учитель богів та людей </tspan>
+                    <tspan x="312" y="209.320312">         — це Будда Бхагават.</tspan>
                 </text>
             </g>
         </g>
