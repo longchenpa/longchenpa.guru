@@ -9,26 +9,26 @@
 \usepackage{tocloft}
 \usepackage{ifxetex}
 \ifxetex
-  \usepackage[russian]{polyglossia}
+  \usepackage{babel}
+  \usepackage{polyglossia}
   \usepackage{fontspec}
-  \setmainlanguage{russian}
   \defaultfontfeatures{Ligatures=TeX}
 \else
   \usepackage[T1,T2A]{fontenc}
   \usepackage[utf8]{inputenc}
 \fi
 
+\begin{hyphenrules}
+\hyphenation{russian}{}      %аб-со-лю-т-но-го Ста-дии за-ро-ж-де-ни-я}
+\end{hyphenrules}
+
 \XeTeXinterchartokenstate 1
 \XeTeXinterchartoks 0 0 = {\-}
 \language=1
-\lefthyphenmin=3
-\righthyphenmin=3
+\lefthyphenmin=2
+\righthyphenmin=2
 \hyphenpenalty=1000
-\tolerance=500
-
-\begin{hyphenrules}{russian}
-\hyphenation{очень}
-\end{hyphenrules}
+\tolerance=1000
 
 \newfontfamily\cyrillicfont{Geometria}
 \newfontfamily\tibetanfont{DDC Uchen}
@@ -63,14 +63,16 @@
         {
              \vspace{-15cm}
              \textsc{\noindent
-             \setmainlanguage{tibetan}
+             \setdefaultlanguage{tibetan}
              \newtoggle{tibetan@scriptlangequal}
              \Large ༄༅།  །ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་\\[0.05\baselineskip]
                            བསྐྱེད་རིམ་ལྷ་ཁྲིད་འོག་མིན་བགྲོད་པའི་ཐེམ་སྐས་།\\
              }
              \\
              \textsc{\noindent
-             \setdefaultlanguage{russian}\setmainfont{Geometria}
+             \setdefaultlanguage{russian}
+             \setmainlanguage{russian}
+             \setmainfont{Geometria}
              \newtoggle{russian@scriptlangequal}
              \\
              Джигме Лингпа и Патрул Ринпоче \\ [0.3\baselineskip]
@@ -127,3 +129,4 @@
  \gdef\tfn@fnt{0}
 }
 \makeatother
+

@@ -5,7 +5,14 @@
     src: url(Geometria-Light.otf);
 }
 
-.section { margin-top: 20px; }
+.section { margin-top: 20px; margin-bottom: 20px; }
+.verse   { margin-left:50px; font-size: 13pt; margin-top:20px; margin-bottom: 20px; }
+.cellpading0 { }
+.siderules { margin-left:30px; color: blue; margin-bottom: 20px; }
+.subsection { margin-left:0px; margin-bottom: 20px; }
+.subsubsection { margin-left:30px; margin-top: 20px; margin-bottom: 20px; }
+table { margin-bottom: 20px }
+.center { text-align: center; margin-top: 20px; margin-bottom: 20px;  }
 
 @font-face {
     font-family: 'Geometria';
