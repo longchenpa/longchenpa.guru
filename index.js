@@ -77,12 +77,13 @@ document.addEventListener('DOMContentLoaded', e => {
 
         function fadeIn(element) {
             let opacity = 0
-            let id = setInterval(function () {
+            requestAnimationFrame(function again() {
                 element.style.opacity = opacity
-                opacity += 1 / 60
-                if (opacity > 1) clearInterval(id)
-            }, 800 / 60)
+                opacity += 1 / 45
+                if (opacity < 1) requestAnimationFrame(again)
+            })
         }
+
 
         function switchSlides() {
             backgroundImage.src = foregroundImage.src
