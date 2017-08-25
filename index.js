@@ -69,7 +69,9 @@ document.addEventListener('DOMContentLoaded', e => {
     function showSlides(slidesContainer, index, dom) {
         let slides = Array.from(dom.images).map(i => i.src)
         let backgroundImage = document.createElement('img')
+        backgroundImage.className = "background-slide"
         let foregroundImage = document.createElement('img')
+        foregroundImage.className = "foreground-slide"
         backgroundImage.src = slides[0]
         foregroundImage.src = slides[1]
         let next = 2
@@ -85,12 +87,12 @@ document.addEventListener('DOMContentLoaded', e => {
         }
 
         function fadeIn(element) {
-            foregroundImage.className = "visible"
+            foregroundImage.classList.toggle("visible-slide")
         }
 
         function switchSlides() {
             backgroundImage.src = foregroundImage.src
-            foregroundImage.className = ""
+            foregroundImage.classList.toggle("visible-slide")
             foregroundImage.src = slides[next]
             next++
             if (next == slides.length) next = 0

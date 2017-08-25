@@ -227,28 +227,31 @@ img {
 	display: inline-block;
 	margin: 10px;
 	box-shadow: 0 5px 40px -5px rgba(50, 50, 50, 0.3);
-	transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+	transition: box-shadow 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 	position: relative;
+	transform: rotateZ(360deg);
 }
 
 .slides a:hover {
 	box-shadow: 0 0px 35px rgba(250, 250, 250, 0.6);
 }
 
-.slides img {
+.background-slide {
 	background: white;
 	border-radius: 4px;
 }
 
-.slides img:last-child {
+.foreground-slide {
+	background: white;
+	border-radius: 4px;
 	position: absolute;
 	left: 0;
 	top: 0;
 	opacity: 0;
-	will-change: opacity;
+	transform: rotateZ(360deg);
 }
 
-.slides img.visible:last-child {
+.visible-slide {
 	transition: opacity 1s cubic-bezier(0.23, 1, 0.32, 1);
 	opacity: 1;
 }
