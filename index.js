@@ -50,13 +50,27 @@ document.addEventListener('DOMContentLoaded', e => {
     }
 
     let slidesContainers = document.querySelectorAll('.slides a')
-    Array.from(slidesContainers).map(showSlides)
-    async function showSlides(slidesContainer, index) {
-        let text = await fetch(slidesContainer.href).then(res => res.text())
-        let dom = new DOMParser().parseFromString(text, "text/html")
-        let slides = Array.from(dom.images).map(i =>
-            new URL('.' + new URL(i.src).pathname, slidesContainer.href).href
-        )
+    Array.from(slidesContainers).map(loadSlides)
+
+    function loadSlides(slidesContainer, index) {
+        let xhr = new XMLHttpRequest()
+        xhr.open('GET', slidesContainer.href, true)
+        xhr.responseType = 'document'
+        xhr.onload = function () {
+            if (xhr.readyState === xhr.DONE) {
+                if (xhr.status === 200) {
+                    showSlides(slidesContainer, index, xhr.responseXML)
+                }
+            }
+        }
+        xhr.send(null)
+    }
+
+    function showSlides(slidesContainer, index, dom) {
+        // let slides = Array.from(dom.images).map(i =>
+        //     new URL('.' + new URL(i.src).pathname, slidesContainer.href).href
+        // )
+        let slides = Array.from(dom.images).map(i => i.src)
         let backgroundImage = document.createElement('img')
         let foregroundImage = document.createElement('img')
         backgroundImage.src = slides[0]
@@ -79,11 +93,10 @@ document.addEventListener('DOMContentLoaded', e => {
             let opacity = 0
             requestAnimationFrame(function again() {
                 element.style.opacity = opacity
-                opacity += 1 / 45
+                opacity += 1 / 60
                 if (opacity < 1) requestAnimationFrame(again)
             })
         }
-
 
         function switchSlides() {
             backgroundImage.src = foregroundImage.src

@@ -170,6 +170,14 @@ img {
 	transition: all 0.1s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
+.links h1 {
+	text-align: center;
+}
+
+.links h1 div:last-child {
+	font-size: 24px;
+}
+
 .books {
 	text-align: center;
 	max-width: 700px;
