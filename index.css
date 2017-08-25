@@ -239,6 +239,14 @@ img {
 .slides img:last-child {
 	position: absolute;
 	left: 0;
+	top: 0;
+	opacity: 0;
+	will-change: opacity;
+}
+
+.slides img.visible:last-child {
+	transition: opacity 1s cubic-bezier(0.23, 1, 0.32, 1);
+	opacity: 1;
 }
 
 .footer {

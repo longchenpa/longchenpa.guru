@@ -67,9 +67,6 @@ document.addEventListener('DOMContentLoaded', e => {
     }
 
     function showSlides(slidesContainer, index, dom) {
-        // let slides = Array.from(dom.images).map(i =>
-        //     new URL('.' + new URL(i.src).pathname, slidesContainer.href).href
-        // )
         let slides = Array.from(dom.images).map(i => i.src)
         let backgroundImage = document.createElement('img')
         let foregroundImage = document.createElement('img')
@@ -79,28 +76,21 @@ document.addEventListener('DOMContentLoaded', e => {
         slidesContainer.appendChild(backgroundImage)
         slidesContainer.appendChild(foregroundImage)
 
-        backgroundImage.style.opacity = 1
-        foregroundImage.style.opacity = 0
         setTimeout(showNextSlide, index * 2500 + 2500)
 
         function showNextSlide() {
-            fadeIn(foregroundImage)
-            setTimeout(switchSlides, 2000)
+            fadeIn()
+            setTimeout(switchSlides, 3000)
             setTimeout(showNextSlide, 5000)
         }
 
         function fadeIn(element) {
-            let opacity = 0
-            requestAnimationFrame(function again() {
-                element.style.opacity = opacity
-                opacity += 1 / 60
-                if (opacity < 1) requestAnimationFrame(again)
-            })
+            foregroundImage.className = "visible"
         }
 
         function switchSlides() {
             backgroundImage.src = foregroundImage.src
-            foregroundImage.style.opacity = 0
+            foregroundImage.className = ""
             foregroundImage.src = slides[next]
             next++
             if (next == slides.length) next = 0
