@@ -67,35 +67,28 @@ document.addEventListener('DOMContentLoaded', e => {
     }
 
     function showSlides(slidesContainer, index, dom) {
-        let slides = Array.from(dom.images).map(i => i.src)
-        let backgroundImage = document.createElement('img')
-        backgroundImage.className = "background-slide"
-        let foregroundImage = document.createElement('img')
-        foregroundImage.className = "foreground-slide"
-        backgroundImage.src = slides[0]
-        foregroundImage.src = slides[1]
-        let next = 2
-        slidesContainer.appendChild(backgroundImage)
-        slidesContainer.appendChild(foregroundImage)
+        let slides = Array.from(dom.images).map(i => {
+            let img = document.createElement('img')
+            img.className = "slide"
+            img.src = i.src
+            slidesContainer.appendChild(img)
+            return img
+        })
 
-        setTimeout(showNextSlide, index * 2500 + 2500)
+        let next = 0
+        slides[next].classList.toggle("visible-slide")
+
+        setTimeout(showNextSlide, index * 2500 + 5000)
 
         function showNextSlide() {
-            fadeIn()
-            setTimeout(switchSlides, 3000)
-            setTimeout(showNextSlide, 5000)
-        }
-
-        function fadeIn(element) {
-            foregroundImage.classList.toggle("visible-slide")
-        }
-
-        function switchSlides() {
-            backgroundImage.src = foregroundImage.src
-            foregroundImage.classList.toggle("visible-slide")
-            foregroundImage.src = slides[next]
+            let prev = slides[next]
+            setTimeout(() => {
+                prev.classList.toggle("visible-slide")
+            }, 2000)
             next++
             if (next == slides.length) next = 0
+            slides[next].classList.toggle("visible-slide")
+            setTimeout(showNextSlide, 5000)
         }
     }
 })
