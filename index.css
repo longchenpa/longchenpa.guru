@@ -223,7 +223,7 @@ img {
 }
 
 .slides a {
-	margin: 10px;
+	margin: 20px;
 	box-shadow: 0 5px 40px -5px rgba(50, 50, 50, 0.3);
 	transition: box-shadow 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 	display: inline-block;
@@ -250,7 +250,7 @@ img {
 }
 
 .visible-slide {
-	transition: opacity 1s cubic-bezier(0.23, 1, 0.32, 1);
+	transition: opacity 1.5s;
 	opacity: 1;
 }
 
