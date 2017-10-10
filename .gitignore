@@ -1,0 +1,13 @@
+head.htx
+temp.*
+*.aux
+*.log
+*.toc
+pub
+.DS_Store
+dpe.mdzod/po.ti/*
+dpe.mdzod/*.txt
+*/snying.thig.rtsa.pod/dcp/*
+*/'jigs.bral.ye.shes.rdo.rje/books/*
+*.htoc
+*.haux
