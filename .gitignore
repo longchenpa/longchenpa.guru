@@ -1,0 +1,11 @@
+head.htx
+temp.*
+*.aux
+*.log
+*.toc
+pub
+.DS_Store
+*/snying.thig.rtsa.pod/dcp/*
+*/'jigs.bral.ye.shes.rdo.rje/books/*
+*.htoc
+*.haux
