@@ -5,7 +5,7 @@
 %\usepackage{tocloft}
 \usepackage[english,russian]{babel}
 \usepackage{fontspec}
-%\usepackage{polyglossia}
+\usepackage{polyglossia}
 \usepackage{hyphenat}
 %\usepackage{caption}
 %\usepackage[usenames,dvipsnames]{color}
@@ -39,7 +39,7 @@
 \newcommand*{\titleNENDRO}
 {
 \newfontfamily{\cyrillicfont}{Geometria}
-%\setdefaultlanguage{tibetan}
+\setdefaultlanguage{tibetan}
 \setmainfont{Geometria}
     \begingroup
         \thispagestyle{empty}
@@ -50,7 +50,7 @@
         \parbox[c][][s]{0.75\textwidth}
         {
              \vspace{-15cm}
-%            \setdefaultlanguage{tibetan}
+            \setdefaultlanguage{tibetan}
             \setmainfont{DDC Uchen}
              \textsc{\Large  ༄༅༎ །རྫོགས་པ་ཆེན་པོ་ཀློང་ཆེན་སྙིང་ཏིག་\\[0.05\baselineskip]
                                   གི་སྔོན་འགྲོའི་ངག་འདོན་ཁྲིགས་\\[0.05\baselineskip]
@@ -58,24 +58,26 @@
                                   ལམ་བཟང་བྱ་བ་བཞུགས་སོ། \\}
             \\
              \textsc{\noindent
-%             \setdefaultlanguage{russian}
+             \setdefaultlanguage{russian}
              \setmainfont{Geometria}
-             Додрубчен Джигме Трінлей Озер \\ [0.3\baselineskip]
+             Додрубчен Джигме Тринлей Озер \\ [0.3\baselineskip]
              \\
              \Large
-             Неперевершений шлях \\[0.3\baselineskip]
-             для пізнання всього: \\[0.3\baselineskip]
-             попередні практики \\[0.3\baselineskip]
-             сердечної cутності \\[0.3\baselineskip]
-             обширного простору \\[0.3\baselineskip]
-             остаточного довершення.} \\[0.3\baselineskip]
+             Сердечная сущность\\[0.3\baselineskip]
+             обширного пространства\\[0.3\baselineskip]
+             Великого Завершения.\\[0.3\baselineskip]
+             Великолепный путь\\[0.3\baselineskip]
+             к всеведению: \\[0.3\baselineskip]
+             предварительные практики }
         }}
     \endgroup
-%    \setdefaultlanguage{russian}
+    \setdefaultlanguage{russian}
     \setmainfont{Geometria}
 }
 
 % define images store
+
+\graphicspath{{./images/}}
 
 % start each section from new page
 
@@ -94,17 +96,17 @@
 %    \newpage}
 
 \newcommand{\ru}{
-%    \setdefaultlanguage{russian}
+    \setdefaultlanguage{russian}
     \setmainfont{Geometria}
 }
 
 \newcommand{\ti}{
- %   \setdefaultlanguage{tibetan}
+    \setdefaultlanguage{tibetan}
     \setmainfont{DDC Uchen}
 }
 
-%\newtoggle{russian@scriptlangequal}
-%\newtoggle{tibetan@scriptlangequal}
+\newtoggle{russian@scriptlangequal}
+\newtoggle{tibetan@scriptlangequal}
 
 \newlength\tindent
 \setlength{\tindent}{\parindent}
