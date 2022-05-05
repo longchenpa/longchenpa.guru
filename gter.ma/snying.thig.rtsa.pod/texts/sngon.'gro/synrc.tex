@@ -1,33 +1,14 @@
-% Copyright (c) 2015 Synrc Research Center
+% Copyright (c) 2022 Synrc Research Center
 
-%\usepackage{afterpage}
-%\usepackage{graphicx}
-%\usepackage{tocloft}
 \usepackage[english,russian]{babel}
 \usepackage{fontspec}
-%\usepackage{polyglossia}
 \usepackage{hyphenat}
-%\usepackage{caption}
-%\usepackage[usenames,dvipsnames]{color}
 \usepackage[top=18mm, bottom=25.4mm,
             inner=15mm,outer=18mm,
             paperwidth=142mm, paperheight=200mm]{geometry}
 
-\hyphenation{бес-чувстве-нен cуще-ствования
- буду-щем разно-образии Дхар-му наско-лько счастли-вого ниж-них
- сохрани-лось всеведую-щие свер-нуть неза-висимости}
-
+\hyphenation{}
 \fontencoding{T1}
-
-%\setlength{\cftsubsecnumwidth}{2.5em}
-%\defaultfontfeatures{Ligatures=TeX}
-
-% include image for HeVeA and LaTeX
-
-%\makeatletter
-%\def\@seccntformat#1{\llap{\csname the#1\endcsname\hskip0.7em\relax}}
-%\makeatother
-
 \addto\captionsrussian{\renewcommand{\contentsname}{Зміст}}
 
 \newcommand{\includeimage}[2]
@@ -41,7 +22,6 @@
 \newcommand*{\titleNENDRO}
 {
 \newfontfamily{\cyrillicfont}{Geometria}
-%\setdefaultlanguage{tibetan}
 \setmainfont{Geometria}
     \begingroup
         \thispagestyle{empty}
@@ -52,7 +32,6 @@
         \parbox[c][][s]{0.75\textwidth}
         {
              \vspace{-15cm}
-%            \setdefaultlanguage{tibetan}
             \setmainfont{DDC Uchen}
              \textsc{\Large  ༄༅༎ །རྫོགས་པ་ཆེན་པོ་ཀློང་ཆེན་སྙིང་ཏིག་\\[0.05\baselineskip]
                                   གི་སྔོན་འགྲོའི་ངག་འདོན་ཁྲིགས་\\[0.05\baselineskip]
@@ -60,7 +39,6 @@
                                   ལམ་བཟང་བྱ་བ་བཞུགས་སོ། \\}
             \\
              \textsc{\noindent
-%             \setdefaultlanguage{russian}
              \setmainfont{Geometria}
              Додрубчен Джигме Трінлей Озер \\ [0.3\baselineskip]
              \\
@@ -73,40 +51,15 @@
              остаточного довершення.} \\[0.3\baselineskip]
         }}
     \endgroup
-%    \setdefaultlanguage{russian}
     \setmainfont{Geometria}
 }
-
-% define images store
-
-% start each section from new page
-
-%\let\stdsection\section
-%\renewcommand\section{\newpage\stdsection}
-
-% define style for code listings
 
 \lefthyphenmin=1
 \hyphenpenalty=100
 \tolerance=3000
 
-%\newcommand\blankpage{
-%    \null
-%    \thispagestyle{empty}
-%    \newpage}
-
-\newcommand{\ru}{
-%    \setdefaultlanguage{russian}
-    \setmainfont{Geometria}
-}
-
-\newcommand{\ti}{
- %   \setdefaultlanguage{tibetan}
-    \setmainfont{DDC Uchen}
-}
-
-%\newtoggle{russian@scriptlangequal}
-%\newtoggle{tibetan@scriptlangequal}
+\newcommand{\ru}{\setmainfont{Geometria}}
+\newcommand{\ti}{\setmainfont{DDC Uchen}}
 
 \newlength\tindent
 \setlength{\tindent}{\parindent}
