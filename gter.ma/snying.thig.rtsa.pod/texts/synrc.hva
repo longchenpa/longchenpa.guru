@@ -2,7 +2,7 @@
 
 %\usepackage[english]{babel}
 \usepackage{fontspec}
-\usepackage{polyglossia}
+%\usepackage{polyglossia}
 \usepackage{hyphenat}
 \usepackage{titlesec}
 \usepackage{ifthen}
