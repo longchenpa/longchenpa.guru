@@ -1,6 +1,6 @@
 \documentclass[11pt]{article}
 
-\usepackage[english,russian]{babel}
+%\usepackage[english]{babel}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \usepackage{hyphenat}
@@ -21,7 +21,7 @@
 \newcommand{\SubSectionNo}[1]{\large\subsection*{#1}\normalsize}
 \newcommand{\SubSubSection}[1]{\large\subsubsection{#1}\normalsize}
 \newcommand{\SubSubSectionNo}[1]{\large\subsubsection*{#1}\normalsize}
-\newcommand{\parbox}[9]{{}\@br}
+%\newcommand{\parbox}[9]{{}\@br}
 
 \newcommand{\includeimage}[3]{
 \ifhevea
@@ -40,8 +40,8 @@ Picture. {\bf #2}\@br\@br
 \newcommand{\ru}{}
 \newcommand{\ti}{}
 
-\newcommand{\verse}{\@open{div}{class="verse"}}
-\newcommand{\endverse}{\@close{div}}
+%\newcommand{\verse}{\@open{div}{class="verse"}}
+%\newcommand{\endverse}{\@close{div}}
 \newcommand{\siderules}{\@open{div}{class="siderules"}}
 \newcommand{\endsiderules}{\@close{div}}
 \newcommand{\tablefootnote}{}
@@ -62,6 +62,5 @@ Picture. {\bf #2}\@br\@br
 
   \end{rawhtml}}
   \htmlhead{\rawhtmlinput{head.htx}}
-  \htmlfoot{\rawhtmlinput{foot.htx}}
   \footerfalse
 
