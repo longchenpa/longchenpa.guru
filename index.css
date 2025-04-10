@@ -45,6 +45,8 @@ img {
 	animation-duration: 0.7s;
 	animation-fill-mode: both;
 	animation-name: zoomIn;
+	background: rgba(255, 255, 255, 0.1);
+	clip-path: circle(70% at 50% 50%); /* Ensure the glow stays within a circle */
 	box-shadow: inset 0 0 3px 6px rgba(100, 150, 250, 0.3), 0 0 1px 2px rgba(0, 150, 0, 1), 0 0 1px 3px rgba(150, 0, 0, 1), 0 0 1px 4px rgba(250, 200, 120, 1), 0 0 6px 13px rgba(250, 250, 250, 0.4);
 }
 
