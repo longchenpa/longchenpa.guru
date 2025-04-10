@@ -37,19 +37,41 @@ img {
 }
 
 .a {
-	display: inline-block;
-	vertical-align: middle;
-	padding: 30px;
-	border-radius: 70%;
-	-webkit-border-radius: 70%;
-	will-change: transform;
-	animation-duration: 0.7s;
-	animation-fill-mode: both;
-	animation-name: zoomIn;
-	background: rgba(255, 255, 255, 0.1);
-	-webkit-clip-path: circle(70% at 50% 50%);
-	clip-path: circle(70% at 50% 50%); /* Ensure the glow stays within a circle */
-	box-shadow: inset 0 0 3px 6px rgba(100, 150, 250, 0.3), 0 0 1px 2px rgba(0, 150, 0, 1), 0 0 1px 3px rgba(150, 0, 0, 1), 0 0 1px 4px rgba(250, 200, 120, 1), 0 0 6px 13px rgba(250, 250, 250, 0.4);
+    display: inline-block; /* Use flexbox to center content */
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    aspect-ratio: 1 / 1; /* Ensure 1:1 ratio */
+    border-radius: 70%; /* Perfect circle */
+    will-change: transform;
+    animation-duration: 0.7s;
+    animation-fill-mode: both;
+    animation-name: zoomIn;
+    position: relative; /* For pseudo-element positioning */
+    background: rgba(255, 255, 255, 0.5); /* Slight background to prevent overflow */
+    -webkit-clip-path: circle(70% at 50% 50%); /* Safari compatibility */
+    clip-path: circle(70% at 50% 50%); /* Ensure the element is clipped to a circle */
+}
+
+.a::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+    border-radius: 70%;
+    background: radial-gradient(
+        circle at center,
+        #3f51b1 50%,
+        DodgerBlue,
+        Gold,
+        White
+    );
+    z-index: -1;
+    -webkit-clip-path: circle(70% at 50% 50%); /* Safari compatibility */
+    clip-path: circle(70% at 50% 50%);
 }
 
 .header-h {
