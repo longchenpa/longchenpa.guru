@@ -1,3 +1,5 @@
+རྒྱུད།
+12 gryud/
 ཀ
 369 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/
 370 dbang mdor bstan pa/
@@ -360,7 +362,117 @@
 705 'phags pa bgegs sel ba'i gzungs/
 706 gnod sbyin gyi sde dpon chen po gar mkhan mchog gi brtag pa (las gnod sbyin gar mkhan mchog gi brtag pa)/
 ཙ
+707 gnod sbyin gyi sde dpon chen po gar mkhan mchog gi brtag pa (las gnod sbyin gar mkhan mchog gi brtag pa phyi ma)/
+708 'phags pa gnod 'dzin dpal zhes bya ba'i gzungs/
+709 'phags pa 'jig pa chen po brgyad las sgrol ba zhes bya ba'i gzungs/
+710 'phags pa gnod gnas dbang po ci ltar 'byung ba'i rtog pa zhes bya ba/
+711 a) ral pa gyen brdzes kyi rtog pa chen po byang chub sems dpa' chen po'i rnam par 'phrul pa le'u rab 'byams las bcom ldan 'das ma 'phags ma sgrol ma'i rtsa ba'i rtog pa zhes bya ba/
 ཚ
+710 ral pa gyen brdzes kyi rtog pa chen po byang chub sems dpa' chen po'i rnam par 'phrul pa le'u rab 'byams las bcom ldan 'das ma 'phags ma sgrol ma'i rtsa ba'i rtog pa zhes bya ba/
+712 'phags pa nor bu bzang po'i gzungs zhes bya ba/
+713 gnod sbyin nor bu bzang po'i rtog pa/
+714 'phags pa me kha la zhes bya ba'i gzungs/
+715 'phags pa rig sngags kyi rgyal po dbugs chen po zhes bya ba/
+716 rin po che brdar ba'i gzungs/
+717 bskor ba'i gzungs/
+718 'phags pa dkon mchog gi rten la bskor ba bya ba'i gzungs zhes bya ba/
+719 yon yongs su sbyong ba zhes bya ba/
+720 yon yongs su sbyong ba'i gzungs/
+721 phyag bya ba'i gzungs/
+722 gos brgya thob pa'i gzungs/
+723 mi dga' bar byed pa'i gzungs/
+724 'phags pa pad+ma'i spyan zhes bya ba'i gzungs/
+725 'phags pa ye shes ta la la zhes bya ba'i gzungs 'gro ba thams cad yongs su sbyong ba/
+726 skran zhi ba'i gzungs/
+727 ma zhu ba'i nad 'byang ba'i gzungs/
+728 'phags pa sdang ba thams cad rab tu zhi bar byed ba'i gzungs/
+729 sdig pa thams cad rab tu zhi bar byed pa zhes bya ba'i gzungs/
+730 khro ba zhi bar byed pa'i gzungs/
+731 'phags pa khros pa zhi bar byed pa'i gzungs/
+732 tshig btsan pa'i gzungs/
+733 bdag bsrung ba'i gzungs/
+734 'phags pa yid du 'ong ba zhes bya ba/
+735 mgrin pa snyan pa'i gzungs/
+736 don thams cad 'grub pa'i gzungs/
+737 las grub pa'i gzungs/
+738 dug zhi bar byed pa zhes bya ba/
+739 bcings pa las grol ba'i gzungs/
+740 'phags pa bdud thams cad skrag par byed pa zhes bya ba/
+741 rma 'byor bar byed pa zhes bya ba'i gzungs sngags/
+742 me'i zug rngu rab tu zhi bar byed pa'i gzungs/
+743 mkhris pa'i nad sel ba'i sngags/
+744 bad kan gyi nad sel ba'i gzungs sngags/
+745 ka?.a ya'i nad sel ba'i sngags/
+746 'phags pa rims dang srog chags kyis mi tshugs pa zhes bya ba'i gzungs/
+747 'phags pa shes rab kyi pha rol tu phyin pa stong phrag brgya pa'i gzungs/
+748 'phags pa shes rab kyi pha rol tu phyin pa stong phrag nyi shu lnga pa'i gzungs/
+749 'phags pa shes rab kyi pha rol tu phyin pa brgyad stong pa'i gzungs/
+750 pha rol tu phyin pa drug gi snying po'i gzungs/
+751 pha rol tu phyin pa drug gzung bar 'gyur ba'i gzungs/
+752 pha rol tu phyin pa bcu thob par 'gyur ba'i gzungs/
+753 tshad med pa bzhi thob par 'gyur ba'i gzungs/
+754 shes rab kyi pha rol tu phyin pa stong phrag brgya ba bzung bar 'gyur ba'i gzungs/
+755 'phags pa phal po che gzung bar 'gyur ba'i gzungs/
+756 'phags pa sdong po bkod pa'i snying po/
+757 'phags pa ting nge 'dzin rgyal po'i mdo bzung bar 'gyur ba'i gzungs/
+758 'phags pa rma bya chen mo'i snying po/
+759 'phags ma so sor 'brang ma chen mo gzung bar 'gyur ba'i gzungs/
+760 'phags pa lang kar gshegs pa mdo thams cad bklags par 'gyur ba'i gzungs/
+761 'phags pa dpung bzang gis zhus pa zhes bya ba'i rgyud/
+762 dkyil 'khor thams cad kyi spyi'i cho ga gsang ba'i rgyud/
+763 bsam gtan gyi phyi ma rim par phye ba/
+764 legs par grub par byed pa'i rgyud chen po las sgrub pa'i thabs rim par phye ba/
+765 'phags pa yongs su bsngo ba'i 'khor lo zhes bya ba theg pa chen po'i mdo/
+766 'phags pa dgongs pa'i rgyud kyi phreng ba chen po byang chub sems dpa'i rnam par nges pa chen po bstan pa las nor bu chen po rin po che la mkhas pa bstan pa yongs su bsngo ba chen po'i rgyal po zhes bya ba/
+767 'phags pa yongs su bsngo ba'i rgyal po chen po sngags dang bcas pa/
+768 dpal legs par grub par byed pa'i rgyud chen po las byung ba'i smon lam/
+769 'phags pa spyan ras gzigs dbang phyug yid bzhin gyi nor bu'i rtog pa las smon lam 'byung ba/
+770 stong chen mo rab tu 'joms pa las gsungs pa'i smon lam/
+771 rig sngags kyi rgyal mo rma bya chen mo las gsungs pa'i smon lam dang bden tshig/
+772 sbyin pa'i rabs las 'byung ba'i smon lam/
+773 'phags pa yangs pa'i grong khyer du 'jug pa'i mdo las 'byung ba'i bde legs kyi tshigs su bcad pa/
+774 bde legs kyi tshigs su bcad pa/
+775 bde legs su 'gyur ba'i tshigs su bcad pa/
+776 lhas zhus pa'i bkra shis kyi tshigs su bcad pa/
+777 dpal rnal 'byor gyi rgyud kyi dkyil 'khor gyi lha de bzhin gshegs pa rigs lnga 'khor dang bcas pa/
+778 sangs rgyas rabs bdun gyi bkra shis kyi tshigs su bcad pa/
+779 de bzhin gshegs pa lnga'i bkra shis tshigs su bcad pa/
+780 dpal rigs gsum gyi bkra shis/
+781 dkon mchog gsum gyi bkra shis kyi tshigs su bcad pa/
+782 rigs gsum gyi bkra shis/
+783 bkra shis kyi tshigs su bcad pa/
+784 dkon mchog gsum gyi bkra shis kyi tshigs su bcad pa/
+785 rigs kyi 'jig rten mgon po lnga bcu pa zhes bya ba/
+786 ji bzhin brnyes pa nam mkha' dang mnyam pa zhes bya ba'i rgyud/
+787 dpal ye shes rdo rje kun las bsdus pa/
+788 dpal rdo rje snying po rgyan gyi rgyud ces bya ba/
+789 'phags pa gnyis su med pa mnyam pa nyid rnam par rgyal ba zhes bya ba'i rtog pa'i rgyal po chen po/
+790 bklags pas grub pa bcom ldan 'das ma 'phags pa sor mo can zhes bya ba rig pa'i rgyal mo/
+791 mdo chen po 'dus pa chen po'i mdo zhes bya ba/
 ཛ
+792 chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po/
+793 de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po rdo rje bkod pa'i rgyud rnal 'byor grub pa'i lung kun 'dus rig pa'i mdo theg pa chen po mngon par rtogs pa chos kyi rnam grangs rnam par bkod pa zhes bya ba'i mdo/
+794 de bzhin gshegs pa thams cad kyi gsang ba gsang ba'i mdzod chen po mi zad pa gter gyi sgron ma brtul zhugs chen po bsgrub pa'i rgyud y
 ཝ
+795 de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po khro bo rdo rje'i rigs kun 'dus rig pa'i mdo rnal 'byor grub pa'i rgyud zhes bya ba theg pa chen po'i mdo/
+796 dpal gsang ba'i snying po de kho na nyid rnam par nges pa/
+797 rdo rje sems dpa'i sgyu 'phrul dra ba gsang ba thams cad kyi me long zhes bya ba'i rgyud/
+798 gsang ba'i snying po de kho na nyid nges pa/
+799 'phags pa thabs kyi zhags pa pad mo'i phreng zhes bya ba/
 ཞ
+800 lha mo sgyu 'phrul dra ba chen mo zhes bya ba'i rgyud/
+801 gsang ba'i snying po de kho na nyid nges pa'i bla ma chen po/
+802 'phags pa 'jam dpal las bzhi 'khor lo gsang ba'i rgyud/
+803 de bzhin gshegs pa thams cad kyi dgongs pa bla na med pa gsang ba rta mchog rol pa'i rgyud chen po zhes bya ba/
+804 dpal he ru ka snying rje rol pa'i rgyud gsang ba zab mo'i mchog ces bya ba/
+805 a) thams cad bdud rtsi lnga'i rang bzhin dngos grub chen po nye ba'i snying po mchog bam po chen po brgyad pa/
+805 b) bdud rtsi chen po mchog gi lung gi sde las sman ra sa ya na bsgrub pa'i lung 'bum sde las btus pa/
+805 c) bdud rtsi chen po mchog gi lung gi nang nas bsgrub pa chen po'i lung dang gzungs kyi mtshan nyid dang sbyor ba'i man ngag dang gan bsgrub pa'i lung dang byang chub kyi sems kyi yon tan dang a ma? ta grub pa'i lung /
+805 d) bdud rtsi chen po mchog gi lung 'bum sder bzhugs pa'i nang nas lung a nu yo ga'i spyod pa bla na med pa bstan pa/
+805 e) rigs lnga bde bar gshegs pa la phyag 'tshal lo/
+805 f) bdud rtsi 'khyil pa la phyag 'tshal lo/
+805 g) bdud rtsi bum pa'i lung /
+805 h) bcom ldan 'das 'jam dpal rnon po la phyag 'tshal lo/
+806 mkha' 'gro ma me lce 'bar ba'i rgyud/
+807 drag sngags 'dus pa rdo rje rtsa ba'i rgyud zhes bya ba/
+808 'jig rten mchod bstod sgrub pa rtsa ba'i rgyud zhes bya ba/
