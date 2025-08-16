@@ -2,12 +2,11 @@
 
 \usepackage[english,russian,tibetan]{babel}
 \usepackage{fontspec}
-\usepackage{polyglossia}
 \usepackage{hyphenat}
 \usepackage{import}
 
 \usepackage[top=18mm, bottom=22.4mm,
-            inner=15mm,outer=18mm,
+            inner=14mm,outer=17mm,
             paperwidth=142mm, paperheight=200mm]{geometry}
 
 \fontencoding{T1}
@@ -19,8 +18,6 @@
 \caption{#2}
 \end{figure}
 }
-
-\graphicspath{{./images/}}
 
 \lefthyphenmin=1
 \hyphenpenalty=100
@@ -34,18 +31,8 @@
 \newcommand{\SubSubSection}[1]{\subsubsection{#1}}
 \newcommand{\SubSubSectionNo}[1]{\subsubsection*{#1}}
 
-\newcommand{\ru}{
-    \setdefaultlanguage{russian}
-    \setmainfont{Geometria}
-}
-
-\newcommand{\ti}{
-    \setdefaultlanguage{tibetan}
-    \setmainfont{DDC Uchen}
-}
-
-\newtoggle{russian@scriptlangequal}
-\newtoggle{tibetan@scriptlangequal}
+\newcommand{\ru}{ \setmainfont{Geometria} }
+\newcommand{\ti}{ \setmainfont{DDC Uchen} }
 
 \newlength\tindent
 \setlength{\tindent}{\parindent}
