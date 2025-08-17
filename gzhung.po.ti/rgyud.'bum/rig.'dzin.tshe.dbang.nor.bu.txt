@@ -1,0 +1,432 @@
+Ka.1	chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po
+Ka.2	chos thams cad rdzogs pa chen po byang chub kyi sems su 'dus pa'i mdo
+Ka.3	rnam par grangs pa'i mdo
+Ka.4	phun sum tshogs pa'i mdo
+Ka.5	bye brag 'byed pa'i mdo
+Ka.6	khyad par 'phags pa'i mdo
+Ka.7	gol sgrib ston pa'i mdo
+Ka.8	gtan la 'bebs pa'i mdo dang// don gyi 'grel pa
+Ka.9	nges par ston pa'i don
+Ka.10	theg pa yas 'bubs kyi mdo dang// don gyi 'grel pa dgu pa
+Ka.11	yongsu rdzogs pa'i mdo dang don gyi 'grel pa
+Ka.12	don gyi 'grel pa lnga po
+Ka.13	byang chub sems kyi bstan pa gtad pa
+Ka.14	la zlo gsang ba'i 'khor lo zhes bya ba'i rgyud
+Ka.15	chos tham.d byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa namkha' dang mnyam pa yi ge med pa'i rgyud
+Ka.16	chos thams cad byang chub kyi sems rdzogs pa chen po 'khor brtsad nas gcod pa rgya mtsho dang mnyam pa rnyogs pa med pa'i rgyud
+Ka.17	chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud
+Ka.18	chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rin po che dang mnyam pa skye ba med pa'i rgyud
+Ka.19	rdzogs pa chen po sa gcig pa
+Ka.20	byang chub kyi sems sgom pa don grub pa
+Ka.21	rtsal chen sprug pa
+Ka.22	byang chub kyi sems khyung chen
+Ka.23	rdo rje sems dpa'i lta ba/ rdo rje sems dpa' namkha' che
+Ka.24	bde 'jam
+Ka.25	namkha' rgyal po
+Ka.26	rje btsan dam pa
+Ka.27	rtse mo byung rgyal
+Ka.28	kun 'dus
+Ka.29	srog gi 'khor lo
+Ka.30	byang chub kyi sems bde ba'i myu gu
+Ka.31	bde ba 'phra bkod
+Ka.32	rdzogs pa spyi gcod
+Ka.33	khams gsum sgron ma
+Ka.34	skye med ti ka
+Ka.35	byang chub kyi sems rtsal chen gyi rgyud
+Ka.36	byang chub kyi sems khyung chen
+Ka.37	rdo rje sems dpa' namkha' che rgyas pa yi ge med pa'i rgyud
+Ka.38	byang chub sems bsgom pa
+Ka.39	byang chub sems rdzogs pa chen po ye shes bdun gyi rgyud
+Ka.40	bkra shis pa'i dpal
+Ka.41	rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud
+Ka.42	rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud
+Ka.43	rdo rje sems dpa' namkha' che bram ze rgyas pa'i rgyud 
+
+Kha.1	bde ba chen po byang chub kyi sems rmad du byung ba'i le'u
+Kha.2	byang chub kyi sems bsgom pa yi ge med pa'i rgyud
+Kha.3	chos thams cad sems nyid ye shes kyi rgyal po dngos grub rang byung du spyod par dbang bskur ba
+Kha.4	rdzogs pa chen po chos nyid byang chub kyi sems/ thig le rgya mtsho gnas la 'jug pa zhes bya ba'i rgyud
+Kha.5	byang chub sems kyi man ngag rin chen phreng ba
+Kha.6	man ngag thams cad kyi sdom
+Kha.7	dpal kun tu bzang po bde ba chen po'i man ngag
+Kha.8	bang mdzod 'phrul gyi me long
+Kha.9	thag ring du 'gro ba namkha'i mtha' dang mnyam pa'i rgyud
+Kha.10	'khor lo rdo rje
+Kha.11	byang chub kyis sems rin po che 'khor lo zhes bya ba'i rgyud
+Kha.12	rdo rje sems dpa' namkha' che rgyas pa zhes bya ba/ rnal 'byor pha'i rgyud
+Kha.13	rdo rje sem.da' namkha' che rgyas pa zhes bya ba rnal 'byor ma'i rgyud
+Kha.14	rin po che 'khor lo brtsegs pa'i rgyud
+Kha.15	byang chub kyi sems nya mo bag la nyal/ bcom.das kyi thugs kyi snying po
+Kha.16	rin po che snang byed kyi rgyud
+Kha.17	rma bya 'jing bsnol gyi rgyud
+Kha.18	byang chub kyi sems rma bya 'jing bsnol gyi rgyud las/ mtha'i mun sel chen po
+Kha.19	rdzogs pa chen po dpal gyi dpal chos chen po rmad du byung ba'i rgyud
+Kha.20	rdzogs pa chen po chos nyid byang chub kyi sems/ rin chen bkod pa rnam par dbye ba'i rgyud
+Kha.21	byang chub kyi sems rmadu byung ba/ byang chub kyi sems rmad du byung ba'i le'u
+Kha.22	srogi 'byung ba rgyud kyi rgyal po
+
+Ga.1	byang chub kyis sems rmad du byung ba'i rgyud
+
+Nga.1	ye shes gsang ba sgron ma rin po che man ngag gi rgyud
+Nga.2	rin po che 'khor lo zhes bya ba'i rgyud
+Nga.3	ye shes gsang ba zhes bya ba'i rgyud
+Nga.4	byang chub kyi sems ye shes rdzogs pa'i rgyud
+Nga.5	rdzogs pa chen po byang chub kyi sems/ kun la 'jug pa rnam dag ston pa'i rgyud
+Nga.6	byang chub sems rdo rje 'od 'phro ba'i rgyud kyi rim pa
+Nga.7	rin po che gdam ngag sna tshogs 'khor lo'i rgyud
+Nga.8	rin po che gdam ngag sna tshogs 'khor lo bskor ba'i rgyud phyi ma
+Nga.9	rin po che 'phags lam bkod pa'i rgyud
+Nga.10	chos thams cad kyi don bstan pa rdzogs chen thig le nyag gcig ye nas bya btsal bral ba
+Nga.11	rin po che srid pa bar do rang snang ba'i rgyud
+Nga.12	lha ma yin g.yul ngo bzlog pa'i rgyud
+Nga.13	ro bsregs thal ba nag po thams cad rdzogs par 'dus pa'i rgyud kyi rgyal po chen po
+Nga.14	lha rgyud rin chen spung pa
+Nga.15	'phags pa 'jam dpal gyi bshad rgyud rin po che'i 'phreng ba
+Nga.16	'jam dpal dgongs pa 'dus pa/ gsang sngags chen po'i rgyud
+Nga.17	sku gsum gyi snang ba gsal bar ngo sprad pa'i rgyud
+Nga.18	dur khrod phung po 'bar ba man ngag gi rgyud
+Nga.19	rdo rje yang rtse'i rgyud
+Nga.20	rdo rje yangs rtog gi rgyud
+
+Ca.1	snying po rdo rje rin po che thams cad gcig pa'i rgyud
+Ca.2	dam tshig bkod pa sa gzhi'i rgyud rin po che spung pa'i rgyan
+Ca.3	'byung po kun 'dul zhes bya ba'i rgyud
+Ca.4	lha rgyud rin po che dbang gi 'khor lo zhes bya ba'i rgyud
+Ca.5	rdo rje gsang ba chen po'i sku rin po che dbyigi sgron ma shes rab chen po'i mdo
+Ca.6	thig le kun gsal chen po'i rgyud
+Ca.7	ye shes mar me'i rgyud
+Ca.8	sangs rgyas ye shes sems dpa'i dgongs pa tshigs gsum pa zhes bya ba'i rgyud
+Ca.9	man ngag snying gi dgons pa rgyal ba'i dka' zhes pa'i rgyud
+Ca.10	thig le kun 'dus chen po'i rgyud
+Ca.11	sku'i rgyud padma 'khyil pa
+Ca.12	rdo rje rtse mo 'dus pa'i rgyud
+Ca.13	ye shes bla ma chen po'i rgyud
+Ca.14	thig le gsang ba'i brda' rgyud
+Ca.15	byang chub kyi sems rgyal mtshan rtse mo'i rgyud
+Ca.16	rdo rje srin po rno ba rdo rje mchu can gyi rgyud zhes bya ba rgyud thams cad kyi snying po/ 'khor ba dong sprugs chen po'i rgyud
+Ca.17	rdzogs pa chen po thig le gsang ba de kho na nyid nges pa'i rgyud
+Ca.18	snang srid kha sbyor bdud rtsi bcud thig 'khor ba thog mtha' gcod pa'i rgyud
+
+Cha.1	snang srid kha sbyor bdud rtsi bcud thig 'khor ba thog mtha' gcod pa'i rgyud phyi ma
+Cha.2	snang srid kha sbyor bdud rtsi bcud thig 'khor mtha' gcod pa'i rgyud phyi ma'i phyi ma
+Cha.3	rin po che bcud kyi yang snying thog ma'i gras thag gcod pa spros pa gcod pa rtsa ba'i rgyud
+Cha.4	spros pa gcod pa sde lnga'i rgyud
+Cha.5	rin po che bdud rtsi bcud thigs kyi rgyud
+Cha.6	rin po che snang gsal spu gri 'bar bas 'khrul snang rtsad nas gcod pa namkha'i mtha' dang mnyam pa'i rgyud
+Cha.7	rin po che spyi'i gnad skyon sel theg le kun gsal gyi rgyud
+Cha.8	gter snying po rin po che spungs pa'i rgyud
+Cha.9	thig le ye shes bcud spungs sgron ma 'od 'bar gyi rgyud
+Cha.10	bdud rtsi bcud thigs sgron ma rtsegs pa'i rgyud
+Cha.11	snying po bcud spungs namkha' klong yangs kyi rgyud
+Cha.12	thugs kyi dgongs pa'i bcud 'dus pa// ka dag rnams kyi gsang don bcudu dril pa/ ma rig mun sel nyi zla 'bar ba'i rgyud
+Cha.13	sangs rgyas kun gyi dgongs pa'i bcud bsdus ri bo brtsegs pa'i rgyud
+Cha.14	dri med ka dag gi rgyud/ rin po che gsang ba chen po
+Cha.15	rgyud thams cad kyi rgyal po nyi zla'i snying po 'od 'bar ba bdud rtsi rgya mtshor 'khyil ba'i rgyud
+Cha.16	skye med ka dag zang ka'i rgyud
+Cha.17	spros bral don gsal chen po'i rgyud
+Cha.18	rgyud thams cad kyi rtse rgyal namkha' 'bar ba'i rgyud
+
+Ja.1	rgyud thams cad kyi spyi phud nyi zla bkod pa nam mkha' dang mnyam pa'i rgyud
+Ja.2	namkha' 'brug sgrog thog babs glog 'dus spyi rgyal 'phrul gyi rgya mdud kyi rgyud
+Ja.3	lta ba la shan chen po rin chen sgron ma rtsa ba'i rgyud
+Ja.4	rtsa rlung thig le'i rgyud
+Ja.5	yang ti gser gyi 'bru gcig pa snang byed spu gri'i rgyud
+Ja.6	lta ba la thal gyi rgyud
+Ja.7	kun bzang srog gi thig pa 'bras bu ye grol chen po'i rgyud
+Ja.8	yang ti nag po thig le mthong brtol gyi rgyud rig pa bcud byung gi brda' srog gi chan pa
+Ja.9	yang ti nag po srog gi 'khor lo'i rgyud le med
+Ja.10	rgyud kyi rgyal po nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud
+Ja.11	rdzogs pa chen po nges don 'dus pa'i rgyud/ lta ba thams cad kyi snying po rin po che rnam par bkod pa
+Ja.12	rdzogs pa chen po rin po che 'khor ba rtsad gcod kyi rgyud
+Ja.13	rdzogs pa chen po 'khor ba rtsad nas gcod pa// chos sku skye med rig pa'i rgyud
+Ja.14	rdzogs pa chen po sangs rgyas thams cad kyi dgongs pa chos sku gcig tu 'dus par bka' bgros pa'i don// rin po che yon tan kun 'byung gi rgyud
+Ja.15	rdzogs pa chen po lta ba'i yang snying// sangs rgyas thams cad kyi dgongs pa// nam mkha' klong yangs kyi rgyud
+Ja.16	rdzogs pa chen po shin tu rnal 'byor sangs rgyas thams cad 'byung ba'i rgyud// ye shes chos kyi sku// don 'dus rigs pa'i gsung// gsang ba thugs kyi ting 'dzin ni// rang 'byung bde ba'i 'khor lo// mthar phyin 'bras bu'i rgyud
+Ja.17	rdzogs pa chen po rmad byung don gyi snying po// rang byung bde ba'i 'khor lo'i rgyud
+Ja.18	rdzogs pa chen po don 'dus pa'i rig pa'i gsung rang byung bde ba'i 'khor lo
+Ja.19	rdo rje sems pa'i yi ge rgya pa dbang mchog rgyal po'i rgyud
+Ja.20	rdo rje sems dpa' yi ge brgya pa'i rgyud/ thugs 'phrin las thams cad dam tshig gi rgyud
+
+Nya.1	rdzogs pa chen po nges don 'dus pa'i yang snying / kun tu bzang po /ye shes klong gi rgyud/ rin po che gser gyi yang zhun
+Nya.2	rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud
+Nya.3	rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma
+Nya.4	rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma
+Nya.5	rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i phyi ma gsang ba'i rgyud
+Nya.6	rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma
+Nya.7	rdzogs pa chen po nges don thams cad 'dus pa/ ye shes namkha' dang mnyam pa'i rgyud/ lta sgom thams cad kyi snying po/ /mnyam pa nyid kyi rgyal po
+Nya.8	rdzogs pa chen po ma rig mun pa rab tu sel bar byed pa'i lta ba // ye shes gting nas rdzogs pa'i rgyud
+Nya.9	rdzogs pa chen po lta ba thams cad kyi snying po'i rgyud
+Nya.10	ye shes 'khor lo'i rgyud
+Nya.11	thig le mthong brtol gyi rgyud// rig pa bcur 'byung gi brda'// srog gi 'chan pa/ yang ti nag po'i rgyud
+Nya.12	rdzogs pa chen po ye shes 'khor lo gsang ba thugs rgyud
+Nya.13	'jam dpal 'dus pa'i rgyud
+Nya.14	'phags pa spyan ras gzigs ting nge 'dzin rtse gcig gi rgyud
+
+It is noteworthy that Rig 'dzin Tshe dbang nor bu vol Tha seems to be absolutely identical to mTshams brag vol Na - the same texts are given in the same order. mTshams brag has many emendations in small print throughout the volume, eg in pages. 281-383.
+
+Tha.1	rin po che 'byung bar byed pa sgra thal 'gyur chen po'i rgyud
+Tha.2	bkra shis mdzes ldan chen po'i rgyud % dpal namkha' chen po
+Tha.3	rdo rje sems dpa' snying gi me long gi rgyud
+Tha.4	kun tu bzang po thugs kyi me long gi rgyud zhes bya ba thams cad ston pa'i rgyud
+Tha.5	ngo sprod rin po che spras pa zhing khams bstan pa'i rgyud
+Tha.6	mu tig phreng ba zhes bya ba'i rgyud
+Tha.7	kun tu bzang po klong drug pa'i rgyud
+Tha.8	gser gyi me rtog mdzes pa rin po che'i sgron ma 'bar ba'i rgyud
+Tha.9	nyi ma dang zla ba kha sbyor ba chen po gsang ba'i rgyud
+Tha.10	seng ge rtsal rdzogs chen po'i rgyud
+Tha.11	nor bu 'phra bkod rang gi don thams cad gsal bar byed pa'i rgyud
+
+Da.1	de bzhin gshegs pa thams cad kyi thugs/ gsang ba'i ye shes don kyi snying po/ /rdo rje bkod pa'i rgyud/ rnal 'byor grub pa'i lung/ kun 'dus rig pa'i mdo/ /theg pa chen po'i mngon par rtogs pa/ chos kyi rnam grangs rnam par bkod pa zhes bya ba'i mdo
+Da.2	de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi gsang ba/ dur khrod khu byug rol pa'i rgyud/ zhes bya ba theg pa chen po'i mdo
+
+Na.1	de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po/ khro bo rdo rje'i rigs kun 'dus rig pa'i mdo/ /rnal 'byor bsgrub pa'i rgyud ces bya ba theg pa chen po'i mdo
+Na.2	de bzhin gshegs pa thams cad kyi gsang ba/ gsang ba'i mdzod chen po// mi zad pa gter gyi sgron ma/ brtul shugs chen po bsgrub pa'i rgyud/ ye shes rngam pa glog gi 'khor lo zhes bya ba/ theg pa chen po'i mdo
+Na.3	lta ba thams cad kyi rgyal po kun tu bzang po che ba la rang gnas pa'i rgyud
+Na.4	dbang gi rgyal po dbang skur rgyal po'i rgyud
+Na.5	rgyud kyi rgyal po ting 'dzin mchog gi rgyud
+Na.6	'phrin las thams cad kyi rgyal po skabs sbyor bdun pa'i rgyud
+Na.7	spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud
+Na.8	dam tshig chen po'i rgyal po dam tshig bkod pa'i rgyud
+
+Pa.1	zhi ba lha rgyud chen po
+Pa.2	chos nyis zhi ba'i lha rgyud
+Pa.3	khro bo lha rgyud chen mo
+Pa.4	khro bo lha rgyud kyi rtog pa chen po
+Pa.5	thugs rjes chen po'i gtor ma/ sha khrag rus pa'i gtor rgyud chen po
+Pa.6	rnal 'byor nang pa'i tshogs rgyud
+Pa.7	dpal 'bar khro mo'i rgyud
+Pa.8	de bzhin gshegs pa thams cad kyi rakta dmar gyi rgyud
+Pa.9	rin po che'i me lha zhi bar gyur pa 'bar ba'i rgyud
+Pa.10	rdo rje dur mo'i tantra zhes bya ba'i rgyud chen po
+Pa.11	sku gdung 'bar ba tsha tsha dang mchod rten gyi rgyud
+Pa.12	hu'm. mdzad chen po'i rgyud
+Pa.13	de bzhin gshegs pa thams cad kyi 'khor lo// namkha'i mdzod kyi rgyud/ 'jig rten las 'das pa'i mdo
+Pa.14	zla gsang chen po'i mdo
+
+Pha.1	gsang ba'i snying po de kho na nyid nges pa
+Pha.2	dpal gsang ba'i snying po'i phyi ma
+Pha.3	gsang ba'i snying po de kho na nyid nges pa
+Pha.4	gsang ba'i snying po de kho na nyid nges pa las/ rgyud phyi ma'i phyi ma
+Pha.5	dpal gsang ba'i snying po de kho na nyid nges pa
+Pha.6	'phags pa rtog pa'i rgyal po / /sgyu 'phrul dra ba le'u stong phrag brgya pa las/ /mtshan nyid dang rgyud thams cad lung gi spyad pa/ de bzhin gshegs pa thams cad kyi gsang ba/ gsang ba'i snying po de kho na nyid nges pa'i le'u las/ sgyu 'phrul le lhag ces bya ba/ 'khor lo bskor ba'i tshogs sems kyi 'bras bu nges pa
+Pha.7	gsang ba'i snying po de kho na nyid nges pa las/ sgyu 'phrul brgyad pa zhes bya ba'i rgyud
+Pha.8	gsang ba'i snying po de kho na nyid nges pa'i sgyu 'phrul dra ba bla ma chen po
+
+Ba.1	lha mo sgyu 'phrul dra ba chen po zhes bya ba'i rgyud
+Ba.2	'phags pa 'jam dpal gyi mtshan yang dag par brjod pa
+Ba.3	rdo rje sems dpa' sgyu 'phrul dra ba gsang thams cad kyi me long zhes bya ba'i rgyud
+Ba.4	dpal sgyu 'phrul dra ba ye shes kyi snying po'i rgyud
+Ba.5	sgyu 'phrul rgya mtsho zhes bya ba'i rgyud
+Ba.6	thabs lam gcig car ston pa sgyu 'phrul thal ba'i rgyud
+Ba.7	rdo rje sems dpa'i sgyu 'phrul dra ba las// gsang ba snying po de kho na nyid bstan pa// rol pa chen po'i rgyud
+
+Ma.1	rdo rje gsang ba'i snying po rtsa ba'i rgyud de kho na nyid nges pa
+Ma.2	gsang ba'i snying po de kho na nyid nges pa'i khro bo chen po stobs kyi rgyud kyi rgyal po
+Ma.3	khro bo chen po'i stobs kyis rnal 'byor dbang phyug sgrub pa'i rgyud
+Ma.4	rgyud kyi rgyal po chen po sgyu 'phrul snying po bkod pa
+Ma.5	dpal sangs rgyas thams cad dang mnyam par sbyor ba zhes bya ba'i rgyud kyi rgyal po
+Ma.6	sangs rgyas thams cad dang mnyam par sbyor ba/ mkha'gro sgyu ma bde ba'i mchog/ ces bya ba'i rgyud phyi ma
+Ma.7	sangs rgyas thams cad mnyam par sbyor zhes bya ba rgyud kyi rgyal po
+Ma.8	rtog pa thams cad bsdud pa zhes bya ba/ sangs rgyas thams cad dang mnyam par sbyor ba/ mkha' 'gro ma sgyu ma bde ba'i mchog gi rgyud phyi ma'i phyi ma
+Ma.9	gsung rgyud zla gsang thig le
+
+Tsa.1	rgyud kyi rgyal po chen po dpal gsang ba 'dus pa
+Tsa.2	gsang 'dus rgyud phyi ma
+Tsa.3	dpal mchog dang po zhes bya ba theg pa chen po'i rtog pa'i rgyal po
+Tsa.4	dpal mchog dang po'i rgyud phyi ma
+Tsa.5	rgyud kyi rgyal po chen po las kyi phreng ba
+Tsha.1	dpal he ru ka rol pa'i rgyud/ gsang ba zab mo'i mchog
+Tsha.2	de bzhin gshegs pa thams cad kyi dgongs pa /bla na med pa / gsang ba rta mchog rol pa'i rgyud chen po
+Tsha.3	dpal snying rje rol pa'i rgyud/ 'jig rten las 'das pa gsang ba'i mdo
+Tsha.4	rgyud kyi rgyal po chen po dpal bdud rtsi rol pa
+
+Dza.1	phur pa bcu gnyis kyi rgyud ces bya ba'i mdo
+Dza.2	glang po che rab 'bog gi rgyud
+Dza.3	rgyud kyi rgyal po chen po sgyu 'phrul gyi dra ba
+Dza.4	'phags pa thabs kyi zhags pa padma phreng gi don bsdus pa zhes bya ba'i rgyud
+Dza.5	dam tshig thams cad kyi nyams chags skong ba'i lung lnga/ bshags pa thams cad kyi rgyud dri ma med pa'i rgyal po
+Dza.6	rdo rje gzi ldan 'bar ba'i rgyud
+Dza.7	dam tshig thams cad kyi nyams chag skong ba'i lung lnga/ bshags pa thams cad kyi rgyud dri ma med pa'i rgyal po
+
+Wa.1	dpal zla gsang nag po'i rgyud
+Wa.2	dpal zla gsang nag po'i rtsa ba'i rgyud
+Wa.3	dpal zla gsang nag po'i rgyud
+
+Zha.1	'phags pa 'jam dpal dri ma med pa'i gsang ba'i rgyud
+Zha.2	dpal gshin rje nag po me rlung skyin thang 'khrug pa rgyud kyi rgyal po
+Zha.3	'phags pa 'jam dpal gshin rje nag po gsang ba'i rgyud
+Zha.4	'phags pa 'jam dpal gsang ba'i rgyud kyi rgyal po// pra khog snang gi rtag pa// phyi ma'i rgyal po sgrub pa'i lung// khro bo rnam par rgyal ba'i rgyud phyi ma'i yang phyi ma
+Zha.5	dpal tshe bdag nag po'i 'phrin las kyi dgongs pa/ thams cad rdzogs pa'i rgyud chen po
+Zha.6	dpal gshin rje 'khrul 'khor nag po sdig pa snying 'dzings gsang ba'i rgyud
+Zha.7	'phags pa 'jam dpal gshin rje'i rgyal po sdig pa stobs chen gsang ba'i rgyud
+Zha.8	dpal zla gsang drag sngags nag po shan pa sbu gri'i rgyud
+Zha.9	dpal drag sngags zla gsang nag po'i rgyud
+Zha.10	'jam dpal gshin rje ma ru tse'i sngags rgyud bstan pa
+Zha.11	gnod sbyin ma ru tse ro langs gsang ba'i rgyud
+Zha.12	gnub kyi man ngag drag po'i sngags rgod bstan bsrungs spu gri lta bu'i rgyud// padma dbang rgyal gyi bka'// dregs pa pho mo 'dus pa'i las kyi rgyud
+Zha.13	gshin rje nag po gsang ba de kho na nyid kyi rgyud kha thun
+Zha.14	gshin rje nag po kha thun gsang ba de kho na nyid phyi ma'i rgyud
+Zha.15	'phags pa 'jam dpal las bzhi'i 'khor lo'i gsang ba'i rgyud
+Zha.16	dpal tshe bdag nag po drag sngags sngon du phyung ba'i rgyud kyi rgyal po
+
+Za.1	'jam dpal khro bo snying gzer gsang ba'i rgyud
+Za.2	'phags pa 'jam dpal khro bo gshin rje gshed rgyal po gsang ba'i rgyud
+Za.3	rdo rje srin po bse yi skyes bu can/ gnod sbyin dmar po'i rgyud
+Za.4	'jam dpal gshin rje'i dmar po'i shan pa srog gi 'khor lo'i rgyud
+Za.5	'jam dpal dmar po'i sngags rgyud kyi rgyal po
+Za.6	gshin rje dmar po bshan pa las kyi rgyud ces bya ba/ spu gri reg chod ru mtshon dmar po'i drag sngags
+Za.7	gnod sbyin gar mkhan mchog gi rgyud
+Za.8	'jam dpal dmar po zor ba dmar nag gi rgyud
+Za.9	'phags pa 'jam dpal gshin rje'i rgyal po ma ru tse thugs kyi rgyud
+Za.10	drag po sngags rbod sdig pa snying 'dzings kyi rgyud
+Za.11	drag po phung byed kyi rgyud
+Za.12	ngan sngags gtsug lag gi rgyud phyi ma'i yang phyi ma
+Za.13	'jig rten gsum gyi shes pa bsgral ba'i rgyud
+Za.14	de bzhin gshegs pa thams cad kyi dgongs pa khro bo 'dus pa'i rgyud
+Za.15	gnod sbyin gdong gsum gi rgyud
+Za.16	gshin rje sngags bzlog zhes bya ba'i rgyud
+Za.17	gshin rje sngags bzlog bya ba'i rgyud
+Za.18	'phags pa 'jam dpal mched bzhi'i sngags rgyud
+Za.19	'jam dpal gsang ba'i rgyud phyi ma
+Za.20	’jam dpal ma ru tse’i sngags rgyud las/ phyi ma’i phyi ma
+Za.21	'phags pa 'jam dpal gshin rje'i gshed nag po
+Za.22	dpal zla gsang nag po'i rgyud
+
+'A.1	rta mchog rol pa'i rgyud chen po
+'A.2	dpal padma dbang chen dregs pa bsrungs bzlog yon tan gyi rgyud
+'A.3	dpal padma dbang chen dregs pa zil gnon gyi rgyud
+'A.4	padma dbang chen yang gsang khros pa'i rgyud
+'A.5	dpal rdoe khro bo chen po rta mgrin zhes bya ba'i rgyud kyi rgyal po
+'A.6	dpal rta mgrin gi rgyud phyi ma
+'A.7	dpal padma gar gyi dbang phyug ma'i rgyud
+'A.8	padma'i lha thams cad 'dus pa dpal rta mgrin gyi rgyud ngo mtshar rmad du byung pa
+'A.9	khro bo dmar ser gsang ba'i rgyud lo'i nad ser ba bsrung ba
+'A.10	dpal che ba'i che mchog rta mgrin gsang ba 'dus pa'i rgyud
+'A.11	dpal padma dbang chen dregs pa tshar gcod kyi rgyud
+'A.12	dpal rta mgrin gsang ba'i 'phrin las kyi rgyud
+'A.13	phyir bzlog pa stobs can rta mgrin gyi rgyud
+'A.14	klu 'dul ba zhes bya ba'i rgyud
+'A.15	de bzhin gshegs pa thams cad kyis dgongs pa lung bstan pa/ rnal 'byor chen po'i gsang ba rnam par phye ba/ rnal 'byor spyod pa'i sa/ /dpal rdo rje 'phreng ba'i mngon par brjod pa/ /rta mchog rol pa'i lung/ /rgyud thams cad kyi snying po/ /dbang chen 'dus pa'i rgyud
+
+Ya.1	dpal padma dbang chen padma gar gyi dbang phyug gis dregs pa can gzan la 'bebs pa 'phrin las kyi rgyud
+Ya.2	dpal padma dbang chen dregs pa gnad 'bebs kyi rgyud
+Ya.3	dpal padma dbang chen dregs pa dbang bsdud kyi rgyud
+Ya.4	de bzhin gshegs pa thams cad kyi dgongs pa'i khro bo 'dus pa/ /bde gshegs spyir dril rta mgrin rdog ma leb rgan gyi rgyud
+Ya.5	dpal rta mgrin gyi las rgyud
+Ya.6	dbang chen 'dus pa'i rgyud
+Ya.7	dbang chen 'dus pa'i tantra
+Ya.8	de bzhin gshegs pa thams cad kyi sku dang/ gsung dang/ thugs dang/ yon tan dang/ 'phrin las las gsang bar bka' spros pa/ dbang rgyas rta mchog rol pa'i rgyud chen po
+Ya.9	rta mgrin gsang rgyud
+
+Ra.1	dpal khrag 'thung 'dus pa'i rgyud ces bya ba/ dpal khrag 'thung rdo rje btsun mo'i bha ga la bde ba chen po'i dbyings
+Ra.2	he ru ka 'dus pa'i rgyud phyi ma dpal he ru ka'i gal po dur khrod mngon par 'byung ba zhes bya ba'i rgyud phyi ma
+Ra.3	dpal khrag 'thung gal po che
+Ra.4	dpal chen he ru ka'i gal po
+Ra.5	dpal he ru ka'i thugs kyi rgyud gal po
+Ra.6	'jig rten las 'das pa'i mdo zhes bya ba'i rgyud
+Ra.7	rdo rje rigs kyi bsgrub lugs// khro bo pun d.a ri ka'i tan tra
+Ra.8	de bzhin rigs kyi sgrub thabs gsang ba me dpung thugs kyi rgyud
+Ra.9	kro dha khrag 'thung rol pa'i rgyud chen po
+Ra.10	khrag 'thung rol pa'i rgyud
+Ra.11	yang dag bsgrub pa'i rgyud
+
+La.1	bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud
+La.2	thams cad bdud rtsi lnga'i rang zhin dngos grub chen po nye ba'i snying po mchog/ bam po brgyad pa
+La.3	thams cad bdud brtsi'i rang bzhin
+La.4	bdud rtsi chen po 'khor lo 'bar ba'i rgyud
+La.5	thams cad bdud rtsi lnga'i rang bzhin/ /rin po che 'phreng ba'i rgyud
+La.6	bdud rtsi bde ba chen po'i rgyud
+La.7	thams cad bdud rtsi lnga'i rang bzhin du 'khrungs shing skye bar byed pa 'bras bu rin po che'i 'od ltar bstan pa'i rgyud
+La.8	bdud rtsi las rgya mtsho'i rgyud
+La.9	thams cad bdud rtsi lnga'i rang bzhin/ dngos grub chen po nye ba'i snying po'i mchog
+La.10	bdud rtsi chen po chos nyid gsang ba'i rgyud
+La.11	bdud rtsi 'khyil pa 'chi med tshe'i rgyud
+La.12	sangs rgyas thams cad kyi bdud rtsi ye shes 'od ldan gyis rgyud
+
+Sha.1	rdo rje phur pa gsang ba'i rtsa ba rnal 'byor che na mo/ yang dag pa'i rgyud
+Sha.2	rgyud kyi rgyal po rdo rje 'phreng ba
+Sha.3	rdo rje khros pa phur pa rtsa ba'i rgyud
+Sha.4	rgyud kyi rgyal po chen po dpal 'jig rten snang byed
+Sha.5	rdo rje phur pa phrin las kyi 'khor lo gab pas gsang ba'i rgyud kyi rgyal po
+Sha.6	rdo rje phur pa gsang ba'i rgyud 'byung po kun 'dul
+Sha.7	rdo rje phur pa zhe sdang yongs su dag pa'i rgyud kyi rgyal po
+Sha.8	rdo rje phur pa gsang ba gdams ngag can gyi rgyud
+Sha.9	rdo rje phur pa'i chos thams cad kyis gsang ba'i don dbyings dang ye shes gnyis su med pa'i rgyud kyi rgyal po
+Sha.10	dpal rdo rje gzhon nu me long gsal ba'i spu gri reg chod 'khor lo rtsibs kyi rgyud
+Sha.11	phur pa karma las kyi rgyud
+Sha.12	rdo rje phur pa chen po gtor ma'i rgyud
+Sha.13	phur pa yaks.a za byed 'bar ba dam tshig gi rgyud
+Sha.14	bse sgrom dmar po'i rgyud
+Sha.15	rdo rje phur pa mdung rtse dmar po'i rgyud
+Sha.16	shwa na dkar nag gi rgyud
+Sha.17	sbas pa zab mo mdung rtse'i rgyud
+Sha.18	'phrin las phun sum tshogs pa'i rgyud
+Sha.19	rdo rje 'bar ba gsang ba'i rgyud
+Sha.20	dpal rdo rje gzhon nu thugs rje khros pa rtsa ba'i rgyud kyi bshad pa
+Sha.21	phur pa gsang ba'i dgongs rgyud chen po
+
+Sa.1	de bzhin gshegs pa chen po rdo rje phur pa'i rgyud
+Sa.2	rdo rje phur bu chos thams cad mya ngan las 'das pa'i rgyud chen po
+Sa.3	rdo rje phur pa chen po gsod byed 'bar ba'i rgyud
+Sa.4	rgyud kyi rgyal po khro bo hu'm. ka ra'i rgyud
+Sa.5	rgyud kyi rgyal po khro bo rnam par rgyal ba'i rgyud
+Sa.6	khro bo dbyug pa sngon po'i rgyud
+Sa.7	khro bo chen po gshin rje gshed po'i rgyud
+Sa.8	khro bo mi g.yo mgon po'i rgyud
+Sa.9	rgyud kyi rgyal po rta mgrin gyi rgyud
+Sa.10	khro bo chen po gzhan gyis mi thub pa'i rgyud
+Sa.11	rgyud kyi rgyal po bdud rtsi 'khyil pa'i rgyud
+Sa.12	khro bo khams gsum rnam par rgyal ba'i rgyud
+Sa.13	khro bo chen po stobs po che'i rgyud
+Sa.14	rdo rje phur pa zhes bya ba'i rgyud kyi rgyal po
+Sa.15	phur pa rdo rje bkod pa rnal 'byor chen po'i rgyud
+Sa.16	sku dang ye shes thams cad 'dus pa'i sangs rgyas mdud pa
+Sa.17	rdo rje phur pa gsang ba'i rgyud chen po
+
+Ha.1	'phags pa sangs rgyas thams cad kyi ye shes kyi rtse mo'i rgyud kyi rgyal po chen po
+Ha.2	phur pa bcu gnyis 'byung ba'i rgyud chung du bstan pa
+Ha.3	rdo rje phur pa bcu gnyis kyi rgyud
+Ha.4	yum gzung ma'i dngos grub chen po'i rgyud
+Ha.5	kha 'bar ma las rgya mtsho'i rgyud
+Ha.6	ma mo lam rgyud lung
+Ha.7	srid pa'i mtsho bzhi'i rgyud
+Ha.8	gsang ba gtan tshig ma mo 'dus pa'i tantra
+Ha.9	ma mo srid pa zla gsang thig le'i rgyud
+
+A.1	ma mo thams cad kyi las rgyud lung
+A.2	sngags kyi bsrungs ma dpal e' ka dza' t.i rgyud
+A.3	thugs kyi yang snying ma mo 'bum tig gi rgyud
+A.4	las kyi mkha 'gro ma de kho na nyid gsum du 'dus pa zhes bya ba'i rtsibs kyi rgyud chen po
+A.5	ma mo snang srid thig le'i rgyud
+A.6	thig le byang bskor phyi ma
+
+A'h..1	de bzhin gshegs pa zhi ba thams cad 'dus pa rtsa ba'i rgyud
+A'h..2	dpal che mchog 'dus pa rtsa ba'i rgyud
+A'h..3	dpal khrag 'thung 'dus pa rtsa ba'i rgyud
+A'h..4	gshin rje gshed rab 'dus pa rtsa ba'i rgyud
+A'h..5	dpal bcom ldan 'das dbang chen 'dus pa rtsa ba'i rgyud
+A'h..6	bde bar gshegs pa thams cad kyi 'phrin las 'dus pa phur pa rtsa ba'i rgyud
+A'h..7	ma mo 'dus pa rtsa ba'i rgyud
+A'h..8	rig pa 'dzin pa 'dus pa'i rgyud
+A'h..9	'jig rten mchod stod bsgrub pa rtsa ba'i rgyud
+A'h..10	drag sngags 'dus pa rdo rje rtsa ba'i rgyud
+A'h..11	mdo rgyud rtogs pa bsdus pa'i sgron ma
+A'h..12	dpal mgon po nag po gsang ba snying gi 'khor lo dngos grub chen po 'byung ba'i rgyud
+A'h..13	dpal nag po chen po sku gsung thugs khros pa'i rgyud
+A'h..14	dpal nag po chen po drag po'i rtag pa dur khrod chen po'i rgyud
+A'h..15	dpal nag po chen po me lce 'phreng ba zhes bya ba'i rgyud
+
+Hu'm..1	man ngag rtsegs pa gri gug gi rgyud
+Hu'm..2	nag po chen po gzugs can gcer bu'i rgyud
+Hu'm..3	dpal nag po chen po'i rgyud dur khrod nag po
+Hu'm..4	las kyi mgon po bya rog gdong can gyi rgyud
+Hu'm..5	rnal 'byor dbang phyug chen mo ral gcig ma'i rgyud
+Hu'm..6	ral gcig ma chos kyi bdag mo spu gri ya ma'i rgyud
+Hu'm..7	dpal lha mo nag mo'i thugs kyi srog bsgrub/ gsang ba'i rgyud
+Hu'm..8	e ka dza' t.i sbas pa nag mo'i rgyud
+Hu'm..9	mkha'gro ma me lce 'bar ba'i rgyud
+Hu'm..10 ma mo e ka dza ti za byed spyang rgyal nag mo'i rgyud
+Hu'm..11 'phags pa he bsdud 'bar ma'i rgyud
+Hu'm..12 bdud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti'i mgo snying bzer nag po'i rgyud chen po
+Hu'm..13 srid pa'i bems
+Hu'm..14 lha 'dre stong gi dra ba'i rgyud chen po
