@@ -4,18 +4,18 @@ A:link { color: blue; text-decoration: none; }
 A:visited { color: blue; text-decoration: none; }
 A:hover { color: blue; text-decoration: none; }
 SUP { font-size:10pt; }
-BODY { font-size:14pt; font-family: local, Calibri, Lucida Sans, "Lucida Grande"; }
-TD { margin: 0 auto; padding-right: 20px; }
-H1 { color: darkblue; font-weight: bold; font-size:20pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
-H2 { color: darkblue; font-size:18pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
+BODY { font-size:10pt; font-family: local, Calibri, Lucida Sans, "Lucida Grande"; }
+TD { margin: 0 auto; padding-right: 20px; font-size: 10pt; }
+H1 { color: darkblue; font-weight: bold; font-size:18pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
+H2 { color: darkblue; font-size:16pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
 H3 { font-size:14pt; margin-top:20px; margin-bottom:10px; margin-right:6px; } 
-P { font-size:12pt; margin-top: 0px; margin-bottom: 8px; }
+P { font-size:10pt; margin-top: 0px; margin-bottom: 8px; }
 .ti { font-family: ti; font-weight: lighter;}
 h1 > .ti { font-size: 26pt; font-family: ti; font-weight: lighter;}
 h2 > .ti { font-size: 19pt; font-family: ti; font-weight: lighter;}
 h3 > .ti { font-size: 15pt; font-family: ti; font-weight: lighter;}
-P.poem { font-size:12pt; margin-top: 0px; margin-bottom: 8px; white-space: pre;}
-LI { font-size:12pt; }
+P.poem { font-size:10pt; margin-top: 0px; margin-bottom: 8px; white-space: pre;}
+LI { font-size:10pt; }
 pre { font-size:10pt; font-family: Lucida Console; }
 .menu { font-size:12pt; font-family: Calibri, Lucida Sans Unicode; color: red; }
 .small_infoblock { font-family: Calibri, Lucida Sans Unicode; font-size:8pt; }
