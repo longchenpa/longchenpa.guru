@@ -35,7 +35,7 @@ Volume I - KA.pdf
            thugs rje chen po'i 'od
            gnam spar 'debs (467.1-469.1)
 
-Volume I - KHA.pdf
+Volume II - KHA.pdf
 
      [KA]. chos thams cad nam mkha' dang mnyam pa yi ge med pa'i rgyud bzhungs so rdzog chen rgyud do (1-103)
       [1]. chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa yi ge med pa'i rgyud (1.1-14.3)
@@ -72,7 +72,7 @@ Volume I - KHA.pdf
       [2]. khyung chen ldings pa (366.1-370.3)
      [TA]. yi ge 'bru bshad las kyi 'khor lo (371.1-409.6)
 
-Volume II - KHA.pdf
+Volume III - KHA.pdf
 
      [KA]. byang chub kyi sems rdzogs pa chen po ye shes gsang ba bshad pa'i rgyud gsang ba mtha' dang mnyam pa (1.1-35.6)
     [KHA]. byang chub kyi sems kyi rgya mtsho klong dgu'i rgyud (37.1-73.6)
@@ -100,7 +100,7 @@ Volume II - KHA.pdf
    [DZA]. rin po che srid pa bar ma do snang ba'i rgyud (387.1-411.5)
     [WA]. a ra li rnyog pa med pa'i rgyud bzhugs s+ho ang he he (413.1-433.2)
 
-Volume III - GA.pdf
+Volume IV - GA.pdf
 
      [KA]. chos rnams thams cad sems ye shes kyi rgyal po dngos grub rang byung du spyod pa dbang bskur ba rna rgyud zam pa (1.1-52.1)
     [KHA]. rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma (53-86)
@@ -135,7 +135,7 @@ Volume III - GA.pdf
     [APP]. byang chub sems klong yang pa'i dkyil 'khor (501.4-503.2)
      [PA]. byang chub sems kun tu bzang po rig pa rang gi rtsal shar ba'i rgyud (505.1-525.3)
 
-Volume IV - GA 'OG.pdf
+Volume V - GA 'OG.pdf
 
      [KA]. theg pa gcod pa'i 'khor lo (1.1-59.4)
     [KHA]. lta ba spyod pa'i 'khor lo (61.1-153.2)
@@ -189,4 +189,3 @@ Volume VIII - JA.pdf
     [PHA]. rin po che gser gyi rgya mdu (389.1-393.1)
      [BA]. yang ti nag po'i 'bru gcig pa (395.1-403.2)
     [APP]. bai ro'i 'dra 'bag chen mo (405.1-605.8)
-

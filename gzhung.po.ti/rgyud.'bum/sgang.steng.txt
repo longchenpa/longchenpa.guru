@@ -3,8 +3,8 @@ Volume 1 (Ka)
 1. Chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po/ 001-062 (1b-91b)
 2. Kun byed rgyal po'i skabs sbyor/ 062-064 (91b-94b) Colophon : kun byed rgyal po’i skabs sbyor lnga bcu rtsa bdun bshad pa rdzogs so//.
 3. Kun byed rgyal po'i rgyud phyi ma/ 064-071 (94b-107a) Colophon : rgyud phyi ma zhes bya ba mdo lung bcu gnyis pa rdzogs so.
-4. Kun byed rgyal po'i rgyud phyi ma'i phyi ma/ 071-084 (107a124b)
-5. La zlo gsang ba'i 'khor lo zhes bya ba’i rgyud/ 084-092 (124b137b)
+4. Kun byed rgyal po'i rgyud phyi ma'i phyi ma/ 071-084 (107a-124b)
+5. La zlo gsang ba'i 'khor lo zhes bya ba’i rgyud/ 084-092 (124b-137b)
 6. Shes bya mtha' gcod kyi rgyud/ 092-113 (137b-169a) Colophon : byang chub kyi sems shes bya mtha’ gcod kyi rgyud ces bya ba rdzogs so/.
 7. Byang chub kyi sems su 'dus pa'i mdo/ 113-120 (169a-178b) Colophon : byang chub kyi sems kyi mdo dang ‘grel pa rdzogs so/.
 8. rNam par bgrang ba'i mdo dang 'grel pa/ 120-121 (178b-182a)
@@ -18,7 +18,7 @@ Volume 1 (Ka)
 16. Yongs su rdzogs pa'i mdo dang 'grel pa/ 153-160 (230a-239b) 
 17. Don gyi 'grel pa lnga po/ 160-162 (239b-241b) Colophon : yongs su gcod pa’i mdo dang don gyi ‘grel pa lnga pa’o// //rdzogs so//.
 18. bsTan pa yongs su gtad pa/ 162-162 (241b-242b)
-19. bKra shis pa’i dpal [Rig pa khu byug gi rgyud]/ 162-169 (242b254a)
+19. bKra shis pa’i dpal [Rig pa khu byug gi rgyud]/ 162-169 (242b-254a)
 20. rTsal chen gyi rgyud/ 169-174 (254a-259b)
 21. Khyung chen gyi rgyud/ 174-179 (259b-270a)
 22. Byang chub sems bsgom pa/ 179-184 (270a-274b)
@@ -95,14 +95,14 @@ rgyud/ rdzogs pa’i yang rdzogs pa/ zab mo’i yang zab mo/ shin tu rnal
 Catalogue of the sGang steng-b NGB 21
 gyi mkhan po dznyå na garbha dang/ bod kyi dge slong bee ro tsa nas
 bsgyur cing gtan la phab pa/ phyis skad gsar bcad kyis kyang bcos pa’o//.
-53. Byang chub sems bsgom pa yi ge med pa'i rgyud/ 198-200 (295b299b)
+53. Byang chub sems bsgom pa yi ge med pa'i rgyud/ 198-200 (295b-299b)
 Colophon : byang chub kyi sems bsgom pa yi ge med pa’i rgyud ces bya ba/
 man ngag gi snying po don dam pa’i don dam pa las/ thams cad yi ge med
 par gyur ba’i skabs shin tu brtag dka’ ba’i don rdzogs so// //rgya gar gyi
 mkhan po shr¥ shingha dang/ dznyå na garbha zer ba ‘dug1
 / bod kyi lo tsa
 ba dge slong bee ro tsa nas bsgyur ba’o//.
-54. Byang chub kyi sems rmad du byung ba'i rgyud/ 200-211 (299b316a)
+54. Byang chub kyi sems rmad du byung ba'i rgyud/ 200-211 (299b-316a)
 Colophon : /rgyud kyi rgyal po chos thams cad kyi rmad du byung ba
 rdzogs so// //byang chub kyi sems rmad du byung ba phyi ma ta ma nyid
 dang gsum bzhugs pa las/ zab mo pu ti’i lha khang du bu gnyis lus so/ slob
@@ -211,11 +211,11 @@ mo ‘khor lo bskor ba’i rgyud chen po rdzogs so// //dgon phug gi bka’ rgyud
 mkha’ ‘gro shr¥ dza mun tas mngon sum du snying ‘byin no//.
 73. Yi ge 'bru bshad las kyi 'khor lo/ 157-170 (235a-254b)
 [No colophon.]
-74. Byang chub kyi sems thig pa nya mo bag la nyal/ 170-171 (254b257a)
+74. Byang chub kyi sems thig pa nya mo bag la nyal/ 170-171 (254b-257a)
 Colophon : /byang chub kyi sems thig pa nya mo bag la nyal rdzogs so//
 /rgya gar gyi mkhan po shr¥ sing ha dang/ bod kyi lo tsa ba bee ro tsa nas
 bsgyur ba’o//.
-75. Rig pa nam mkha' ltar gsal ba zhes bya ba'i rgyud/ 171-175 (257a262a)
+75. Rig pa nam mkha' ltar gsal ba zhes bya ba'i rgyud/ 171-175 (257a-262a)
 Colophon : /rig pa nam mkha’ ltar gsal ba’i rgyud rdzogs so// //rgya gar
 gyi paˆ∂i ta shr¥ singha dang/ bod kyi lo tsa ba dge slong bee ro tsa nas
 bsgyur zhing zhus te gtan la phab pa’o/ /ye shes gsang ba’i rgyud ces
@@ -335,7 +335,7 @@ skya’i rgyud las bskyar zhus dag/.
 Colophon : /de bzhin gshegs pa thams cad kyi sku dang/ gsung dang/
 thugs la sogs pa’i ‘phrin las kyi rgyal po skabs sbyor bdun pa’i rgyud/ nges
 par bstan pa’i ‘bras bu bkod pa rdzogs so//.
-96. rGyud kyi rgyal po ting nge 'dzin mchog gi rgyud/ 101-112 (153a168b)
+96. rGyud kyi rgyal po ting nge 'dzin mchog gi rgyud/ 101-112 (153a-168b)
 Colophon: //de skad ces yid byed pa po kun tu bzang pos/ ci yang ma
 gsungs par bka’ stsal pas/ rdo rje sems dpa’ la sogs pa rigs lnga’i sangs
 rgyas yab yum dang/ zhi khro’i lha brgya rtsa brgyad kyi dkyil ‘khor gyis/
@@ -346,7 +346,7 @@ rdzogs so// i thi.
 (168b-207b)
 Colophon : //dam tshig thams cad kyi rgyal po sa ma ya bkod pa’i rgyud
 rdzogs so//.
-98. dBang gi rgyal po dbang bskur rgyal po'i rgyud/ 138-155 (207b234a)
+98. dBang gi rgyal po dbang bskur rgyal po'i rgyud/ 138-155 (207b-234a)
 Colophon : /de bzhin gshegs pa thams cad kyi spyi dbang/ rgyud kyi rgyal
 po dbang bskur rgyal po’i rgyud/ rgyud kyi rgyal po de dag gi ‘khor lo
 bskor bas sems kyi ‘bras bu’i mchog thob/ rdzogs so//.
@@ -414,7 +414,7 @@ gsang sngags thabs kyi lam mchog ‘dus pa’i rgyud ces bya ba rdzogs so//
 bsgyur cing zhus te gtan la phab pa’o//.
 109. Lha rgyud rin po che dbang 'khor lo/ 173-180 (260a-270a)
 [No colophon].
-110. Rin po che srid pa bar do rang snang ba'i rgyud/ 180-188 (270a281b)
+110. Rin po che srid pa bar do rang snang ba'i rgyud/ 180-188 (270a-281b)
 Colophon : //rin po che srid pa bar ma do snang ba’i rgyud ces bya ba/ rdo
 rje sems dpa’i rgyud rdzogs so//.
 111. Lha ma yin g.yul ngo bzlog pa'i rgyud/ 188-204 (281b-304b)
@@ -698,7 +698,7 @@ gsang ba yang gsang gi rgyud snod med rnams la gsang ngo//.
 Colophon : //rin po che ‘khor lo rtsegs pa’i rgyud ces bya ba thun mong ma
 yin pa’i rgyud chen po rdzogs so// //bi ma la dang dpal brtsegs kyi ‘gyur (=
 bsgyur)//.
-157. Rin po che gdams ngag sna tshogs 'khor lo'i rgyud/ 182-186 (273b277b)
+157. Rin po che gdams ngag sna tshogs 'khor lo'i rgyud/ 182-186 (273b-277b)
 Colophon : // bsam yas dpal gyi phugs rings su/ /rjes ‘bangs gnyis kyis
 gnog pa’i chos so/ /rgyal ba thugs rgyud ma chad pa/ /gang zag snyan
 brgyud ma chad pa/ /gcig nas gcig tu brgyud pa’i don/ /man ngag kun la
@@ -732,14 +732,14 @@ des sangs rgyas rin po che11/ des sgrags kyi yang mdzod (=rdzong) du su la
 yang ma spel bar thugs kyi dgongs pa de la mdzad do/ /tha ma ‘gar sras la
 yang thugs ma ches par/ man ngag gzhag pa’i snod ma rnyed nas dar dril
 bu tshigs su bcad nas sbas so/ /las ‘phro can dang phrad par shog//.
-162. dPal kun tu bzang po bde ba chen po'i man ngag/ 226-235 (338b353a)
+162. dPal kun tu bzang po bde ba chen po'i man ngag/ 226-235 (338b-353a)
 Colophon : //yang ‘byed ‘phrul gyi lde mig las/ man ngag lus tshad kyi
 rgyud phyi mar byas pa’o/ /dgongs pa’i don mdor bsdus pa tshig le’ur byas
 pa/ rang snang gi ston pa kun tu bzang po la/ zer gyi sdud pa po rdo rje
 sems dpas man ngag gi don yang nas yang du zhus pa’i don yang ‘byed
 ‘phrul gyi lde mig ces kyang bya/ kun tu bzang po bde ba chen po’i man
 ngag ces kyang bya rdzogs so//.
-163. Dur khrod phung po 'bar ba man ngag gi rgyud/ 235-242 (353a362b)
+163. Dur khrod phung po 'bar ba man ngag gi rgyud/ 235-242 (353a-362b)
 Colophon : //dur khrod phung po ‘bar ba’i man ngag gi rgyud rdzogs so//
 //slob dpon bi ma las mnga’ bdag la gdams pa/ gzhan la bstan pa gyur na
 sgrol byed chen pos snying khrag ‘jib/ ces gdams so//.
@@ -817,7 +817,7 @@ slong bee ro tsa na la/ rdo rje sems dpa’i thugs kyi gter/ mkhas pa’i gdams
 ngag brgyud pa ‘di/ /rdo rje yang dag rtsal la sogs/ /skal ldan re las ma
 gtogs pa/ /gcig la mi snub gnyis la mi spel te/ /thugs kyi gter du bcang
 zhing sems la bslan//.
-177. rDzogs pa chen po rnal 'byor chos nyid kyi rgyud/ 011-013 (18a19a)
+177. rDzogs pa chen po rnal 'byor chos nyid kyi rgyud/ 011-013 (18a-19a)
 Colophon : /rnal ‘byor rdzogs pa chen po chos nyid kyi rgyud rdzogs so//
 //slob dpon padmas sgra rang ‘gyur du bsgyur ba’o//.
 178. dPal ldan dgyes pa'i rgyud/ 013-013 (19a-20a)
@@ -884,7 +884,7 @@ Colophon : //yang ti nag po ‘bru gcig pa rdzogs so//.
 Colophon : //snying po ye shes bcud spungs pa thig le gsang ba’i rgyud
 rdzogs so//.
 Catalogue of the sGang steng-b NGB 39
-194. Rin chen rdzogs pa ye shes rang 'bar ba'i rgyud/ 198-203 (297b304a)
+194. Rin chen rdzogs pa ye shes rang 'bar ba'i rgyud/ 198-203 (297b-304a)
 Colophon : //rin chen rdzogs pa ye shes rang ‘bar ba’i rgyud ces bya ba thig
 le gsum gyi ‘bras bu mchog chen po rdzogs so//.
 195. bDe ba byang chub sems kyi rgyud/ 203-204 (304a-305b)
@@ -933,7 +933,7 @@ rang shes rig gi rgyal po rdo rje kun tu bzang po dang/ rigs lnga’i bde bar
 gshegs pa dang/ sprul pa’i sku sangs rgyas ‘od srungs rnams dang/ rtsa ba’i
 rgyud chen po bshad pa rdzogs so// ..nyams su mi len gang zag la/ /srod
 dang bral ba’i kha bzhin bsdams/ /rgya rgya rgya ithi/.
-206. Ye shes 'khor lo gsang ba snying po don gyi rgyud/ 006-012 (9b17b)
+206. Ye shes 'khor lo gsang ba snying po don gyi rgyud/ 006-012 (9b-17b)
 Colophon : //ye shes ‘khor lo gsang ba’i snying po don gyi rgyud ces bya
 ba/ la zlo ba chen po man ngag gi rgyab rten rdzogs so// //sems phyogs kyi
 snyan brgyud ithi/.
@@ -947,7 +947,7 @@ rgyan gyi dgongs pa zhes bya ba rdzogs so//.
 [No colophon.]
 210. Nor bu dri ma med pa'i rgyud/ 020-021 (28b-31a)
 [No colophon.]
-211. rDo rje rnal 'byor ma'i rgyud/mkha' 'gro ma 'di skad/ 021-024 (31a36b)
+211. rDo rje rnal 'byor ma'i rgyud/mkha' 'gro ma 'di skad/ 021-024 (31a-36b)
 [No colophon.]
 212. sKu gsum ja log bskal pa 'od ldan gyi rgyud/ 024-029 (36b-45a)
 Colophon : //bskal pa ‘od ldan gyi rgyud rdzogs so//.
@@ -1094,7 +1094,7 @@ Colophon : //rtse gcig gi rgyud chen po zhes bya ba rdzogs so//.
 281-285 (422a-428a)
 Colophon : //phyag na rdo rje dra po lta stangs kyi rgyud ye shes thog
 ‘bebs kyi rgyud ye shes thog ‘babs zhes bya ba rdzogs so//.
-248. 'Phags pa mi g.yo ba 'khor ba rang grol gyi rgyud/ 285-287 (428a432a)
+248. 'Phags pa mi g.yo ba 'khor ba rang grol gyi rgyud/ 285-287 (428a-432a)
 Colophon : //rang grol gyi rgyud rdzogs // //lho stag tshangs seng ge ru/
 ldom bi chung ram la brgyud/ des myang ston la/ des dbus pa ston pa la
 brgyud pa lags so//.
@@ -1151,7 +1151,7 @@ nyan la blo sho rgod/ /man ngag gdeng du ma gyur par/ /tshig la don med
 smrang gi bsgom pa mkhan/ /man ngag gzong du ‘tshong ba’i bod ban la/
 /spel ba’i gnas med gter du sbas/ /nam zhig skal ldan gcig dang phrad par
 shog/ /bka’ rgya/ zab rgya/ gter rgya//.
-257. bDud rtsi bcud bsdus sgron ma rtsegs pa'i rgyud/ 052-064 (78b96b)
+257. bDud rtsi bcud bsdus sgron ma rtsegs pa'i rgyud/ 052-064 (78b-96b)
 Colophon : //rgyud thams cad kyi rtse rgyal bdud rtsi bcud bsdus sgrom
 ma rtsegs pa’i rgyud rdzogs so// //o rgyan padmas bshad/ lo tsa ba ska ba
 dpal rtsegs kyis bsgyur/ rgyal po khri srong lde btsan la gdams so// /gter
@@ -1298,7 +1298,7 @@ pa’o/ /las ‘phro can dang ‘phrad par shog/ /rgya rgya rgya//.
 Colophon : /rin po che spu gri ‘bar ba sems sde’i spros pa bcad pa zhes bya
 ba rdzogs so// //rgya gar gyi gu ru padma sam bha bas bshad/ bod kyi lo tsa
 ba ka ba dpal brtsegs kyis bsgyur cing gtan la phab pa’o/ /ithi//.
-280. Chu gri14 'bar bas dbang sde spros pa gcod pa/ 250-254 (373b380b)
+280. Chu gri14 'bar bas dbang sde spros pa gcod pa/ 250-254 (373b-380b)
 Colophon : /rin po che gser gyi spu gri ‘bar bas dbang sde spros pa gcod pa
 zhes bya ba rdzogs so// //rgya gar gu ru padma yis/ /dbang sde spros pa
 gcod pa rnams/ /ka ba dpal brtsegs rgyal po nyid la gtad/ /gzhan la mi
@@ -1425,7 +1425,7 @@ rang bzhin rdzogs pa chen po ‘bum phrag drug cu rtsa bzhi’i bcud rang
 byung ba rdzogs so// //rgya gar gyi mkhan po bi ma la dang/ bod kyi lo tsa
 ba ka ba dpal brtsegs kyis bsgyur ba’o/ /dpal sngags kyi srung mas srungs
 shig/.
-295. Mu tig rin po che 'phreng ba'i rgyud ces bya ba/ 094-119 (139b180a)
+295. Mu tig rin po che 'phreng ba'i rgyud ces bya ba/ 094-119 (139b-180a)
 Colophon : /mu tig ‘phreng ba rin po che’i rgyud ces bya ba/ rang bzhin
 rdzogs pa chen po’i rgyud ‘bum [glose : lha’i yul na ‘di dag bzhugs pa la]
 phrag drug cu rtsa de dag gi nang nas snying po bsdus bzhi’i khyad par du
@@ -1492,7 +1492,7 @@ Catalogue of the sGang steng-b NGB 53
 307. rDzogs pa chen po thig le gsang ba de kho na nyid nges pa'i
 rgyud/ 161-164 (247a-252b)
 Colophon : /rdzogs pa chen po thig le gsang ba’i nges rgyud rdzogs sho//.
-308. Byang chub kyi sems rgyal mtshan rtse mo'i rgyud/ 164-167 (252b257a)
+308. Byang chub kyi sems rgyal mtshan rtse mo'i rgyud/ 164-167 (252b-257a)
 Colophon : //byang chub kyi sems rgyal mtshan rtse mo’i rgyud rdzogs
 sho// //tha rims (=ram) rgya gyis btab bo//.
 309. Byang chub kyi sems thugs kyi rgyud rin po che spungs pa'i
@@ -1866,7 +1866,7 @@ nor/ don gyi mchog/ klong chen srog gi thig bya ba rdzogs so/ rgya rgya
 rgya/ kha tham/ ∂a bee ro tsa nas sprel lo sprel zla’i tshes bcu’i snga dro
 ‘ching phu’i yang dben du/ chu shog rin chen zer ‘phro la bris/ /rgyal sras
 sprul sku’i drung du gsol//.
-354. Bla ma sku gsum bde ba chen po'i gsang rgyud/ 155-163 (233a245a)
+354. Bla ma sku gsum bde ba chen po'i gsang rgyud/ 155-163 (233a-245a)
 Colophon : //sangs rgyas thams cad kyi dgongs pa mthar thug gcig tu dril
 ba/ bla ma sku gsum bde ba chen po’i gsang rgyud ces bya ba / u rgyan
 padma ‘byung gnas kyis/ u rgyas gyi skad las bod kyi yi ge ru/ /chos
@@ -1959,7 +1959,7 @@ Colophon : //dngos grub yid bzhin gsang ba mchog gi rgyud bka’i tha ram
 zhes bya rdzogs so// //sa ma ya/ sbas rgya/ gtad rgya/ gter rgya/ kha thiµ
 (=thiµ)/ dha thiµ/ rgya rgya rgya/ sangs rgyas gling pa’i gter ma/ bla dkar
 dung gi sgo mo nas gdan drangs pa’o//.
-363. mKha’ ‘gro gsang rgyud bka’i lde mig ces bya ba/ 257-263 (388a395a)
+363. mKha’ ‘gro gsang rgyud bka’i lde mig ces bya ba/ 257-263 (388a-395a)
 Colophon : //’phrin las mthar phyin rmad du byung ba mkha’ ‘gro gsang
 rgyud bka’i lde mig [395a] ces bya ba rdzogs so// //sa ma ya/ sbas rgya/
 gtad rgya/ gter rgya/ kha thaµ: dha thiµ: :sprul sku skye (= skyes) mchog
@@ -1980,7 +1980,7 @@ ghuhya/ [∂åkiˆ¥s’ script] / bdag ‘dra mkhar chen bza’ yis yi ger bris
 [∂åkiˆ¥s’ script]/ o ∂hyan dri med lhun grub kyis rtswa ri sprul ‘khor gyi
 shar sgo/ rdo rje sgom phug ces bya ba nas gdan drangs so/ /lcags pho sprel
 lo spre’u zla la/ tsa gongs chos kyi pho brang du bris [428a] pa’o//.
-366. Thig le yang zab 'bras bu ye grol chen po'i rgyud/ 285-285 (428a429a)
+366. Thig le yang zab 'bras bu ye grol chen po'i rgyud/ 285-285 (428a-429a)
 Colophon : /sa ma yå/ ‘bras bu ye grol gyi rgyud rdzogs so//.
 367. Lung bstan rjes su gnang pa'i rgyud/ 285-287 (429a-432a)
 Colophon : //rdzogs so/ /sa ma yå/ rgya rgya rgya// //der longs sku thug rje
@@ -2118,7 +2118,7 @@ Colophon: //bdud rtsi sman gyi rgyud rdzogs so//
 / 085-093 (127a ‘gong ma’-139a)
 Colophon: //rakta dmar gyi rgyud rdzogs so// //rakta dmar gyi rgyud las
 / mtha’ bstan pa’i le’u ste bco lnga pa’o// //gro lod rtsal gyis bsgyur ba’o//
-386. Rin po che me lha zhi bar gyur pa ‘bar ba’i rgyud / 093-109 (139a164a)
+386. Rin po che me lha zhi bar gyur pa ‘bar ba’i rgyud / 093-109 (139a-164a)
 Colophon: //zhi ba’i sbyin sreg gi rgyud chen po rdzogs so//
 387. rDo rje dur mo’i tantra zhes bya ba’i rgyud chen po / 109-113
 (164a-169a)
@@ -2132,7 +2132,7 @@ chapter endings] sByin sreg las kyi le'u 113-116 (169a-172b)
 Colophon: /sbyin sreg las kyi le’u las / rdzas kyi sbyin sreg gi le'u ste tha
 ma’o//
 389. [no title given in Skt or Tb, no salutation; title from colophon and
-chapter endings] Khro bo’i sbyin sregs las kyi le’u 116-117 (172b174a)
+chapter endings] Khro bo’i sbyin sregs las kyi le’u 116-117 (172b-174a)
 Colophon: khro bo’i sbyin sreg las kyi le’u las / me lce mtshon gis tshig pa
 gso ba dang / las kyi ‘pham ltung bsal ba dang / me lha gshegs su gsol ba'i
 le'u ste tha ma’o/
@@ -2312,7 +2312,7 @@ gsum gyi gsang ba'i k¥ la ya bcu gnyis kyi bshad pa'i rgyud ces bya ba
 theg pa chen po'i mdo rdzogs so/
 Volume 20 (Wa)
 415. Dam tshig thams cad kyi nyams chag skong ba'i lung lnga/ bshags
-pa thams cad kyi rgyud dri ma med pa'i rgyal po/ 001-033 (1b51a)
+pa thams cad kyi rgyud dri ma med pa'i rgyal po/ 001-033 (1b-51a)
 Colophon : nyams chag thams cad skong ba'i rgyud kyi rgyal po/ bshags
 pa thams cad kyi rgyud dri ma med pa'i rgyal po zhes bya ba rdzogs so// 
 //rgya gar gyi mkhan po bi ma la mi tra dang/ bod kyi lo tsa ba snyags
@@ -2387,14 +2387,14 @@ Colophon : bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i
 mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shåkya
 thub pa'i zhal nas gsungs pa rdzogs so/
 425. rDo rje sems dpa'i sgyu 'phrul dra ba las/ gsang ba snying po de
-kho na nyid bstan pa/ rol pa chen po'i rgyud/ 113-154 (171a230b)
+kho na nyid bstan pa/ rol pa chen po'i rgyud/ 113-154 (171a-230b)
 Colophon : sgyu 'phrul ngo mtshar bshad pa'i dra ba gsang ba'i snying
 po de kho na nyid nges pa las/ rol pa chen po'i rgyud ces bya ba rdzogs so//
 426. dPal gsang ba'i snying po'i phyi ta/ 154-155 (230b-234a)
 Colophon : dpal gsang ba'i snying po'i rgyud phyi ma rdzogs so// rgya
 gar gyi mkhan po dznyå na garbha dang/ lo tsa ba bee ro tsa nas bsgyur
 bao//
-427. rGyas pa chen po'i rgyud phyi ta don 'dzin pa/ 155-156 (234a234b)
+427. rGyas pa chen po'i rgyud phyi ta don 'dzin pa/ 155-156 (234a-234b)
 Colophon : rgyas pa chen po'i rgyud phyi ta don 'dzin pa rdzogs so//
 rgya gar gyi paˆ†i bi ma la mi tra dang/ bod kyi lo tsa ba rma rin chen
 mchog dang/ snyags dznyå na ku ma ras bsgyur cing gtan la phab pa’o/
@@ -2469,7 +2469,7 @@ stobs kyi rnal 'byor dbang phyug sgrub pa'i sgyu 'phrul dra ba'i rgyud
 rdzogs so/ rgya gar gyi mkhan po bi ma la mi tra dang/ lo tsa ba slob dpon
 bee ro tsa nas bsgyur cing zhus te gtan la phab pa’o//
 443. rGyud kyi rgyal po chen po sgyu 'phrul dra ba/ theg pa chen po'i
-yang chen po'i tshul zab mo gsang ba'i mchog 222-261 (332b393a)
+yang chen po'i tshul zab mo gsang ba'i mchog 222-261 (332b-393a)
 Colophon : bcom ldan ‘das kyis di skad ces bka’ stsal pa dang/ lha dang/
 mi dang/ lha ma yin dang/ dri za dang/ thams cad dang ldan pa’i ‘khor de
 dag yi rang ste / bcom ldan ‘das kyis gsungs pa la mngon par bstod do/
@@ -2514,7 +2514,7 @@ Colophon : //rgyud kyi mjug bsdus pa’i skabs te dgu pa’o rdzogs so//
 450. mDo rgyud rtog pa bsdus pa'i sgron ma zhes bya ba/ thugs rje spyang
 thag gi gnas/ mdzad pa lha'i cho 'phrul 'phrin las mthar phyin pa'i
 bsgrub pa/ gsang sngags nges par 'byed pa'i don gsal bar byed pa'i
-sgron ma/ lung thams cad kyi rgyal po chen po/ 178-192 (267b287b)
+sgron ma/ lung thams cad kyi rgyal po chen po/ 178-192 (267b-287b)
 Colophon : bcom ldan 'das bde bar gshegs pa thams cad 'dus pa'i thugs
 rje spyang thag gi gnas/ mdzad pa lha'i cho 'phrul 'phrin las mthar phyin
 pa'i bsgrub pa/ gsang sngags nges pa'i don gsal bar byed pa'i sgron ma/
@@ -2590,7 +2590,7 @@ dpal khrag 'thung 'dus pa rtsa ba'i rgyud rdzogs so// //rgya gar gyi
 mkhan po slob dpon chen po padma 'byung gnas dang/ bod kyi lo tsa ba
 bee ro tsa na bdag gis bsgyur cing zhus te gtan la phab pa’o/ /shog ser bcu
 drug ‘dug /gter rgya / sbas rgya / gtad rgya’o//
-460. gShin rje gshed rab tu 'dus pa rtsa ba'i rgyud/ 200-216 (300b322b)
+460. gShin rje gshed rab tu 'dus pa rtsa ba'i rgyud/ 200-216 (300b-322b)
 Colophon : bcom ldan 'das gshin rje gshed rab tu 'dus pa rtsa ba'i rgyud
 ces bya ba rdzogs so// //rgya gar gyi slob dpon chen po padma 'byung
 gnas dang / bod kyi lo tsa ba bee ro tsa na bdag gis bsgyur cing zhus te
@@ -2620,7 +2620,7 @@ Colophon : rig pa 'dzin pa 'dus pa rtsa ba'i rgyud ces bya ba rdzogs so//
 //rgya gar gyi mkhan po padma 'byung gnas dang/ /bod kyi lo tsa ba bee
 ro tsa na bdag gis bsgyur cing zhus te gtan la phab pa’o/ /shog ser bcu
 gcig la zhus/ rgyal po’i bla dpe’o/ gter rgya / sbas rgya/ gtad rgya’o//
-465. 'Jig rten mchod bstod sgrub pa rtsa ba'i rgyud/ 272-289 (407b435a)
+465. 'Jig rten mchod bstod sgrub pa rtsa ba'i rgyud/ 272-289 (407b-435a)
 Colophon : dregs pa can gyi sde dpon 'jig rten mchod bstod sgrub pa rtsa
 ba'i rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po padma
 'byung gnas dang / bod kyi lo tsa ba bee ro tsa na bdag gis bsgyur cing
@@ -2691,7 +2691,7 @@ rgyud/ 153-185 (229a-277a)
 Colophon : slob dpon chen po mahå ni pi shu ta dang/ lotstsha ba
 dharma sing ngas legs pa rtsal gyi dur khrod lang kar bsgyur ba rdzogs
 so//
-477. 'Phags pa 'jam dpal rin po che gsang ba'i rgyud/ 185-194 (277a290b)
+477. 'Phags pa 'jam dpal rin po che gsang ba'i rgyud/ 185-194 (277a-290b)
 Colophon : //'jam dpal rin po che gsang ba'i rgyud rdzogs so// //bal po'i
 rgyal po bha su dhå ra dang / bod kyi lotstsha ba snubs ban sangs rgyas
 rin po ches / bal yul bha ra sa'i brag phug tu bsgyur ba’o//
@@ -2707,7 +2707,7 @@ ra kana / 'jam dpal zla gsang nag po yan lag gi rgyud rdzogs so//
 Colophon : gshin rje sngags rgyud nag po'i rgyud rdzogs so// //bsnubs
 rdo rje dbang phyug gis / lus sems rdul du glag nas / slob dpon pa la gshin
 rje'i rgyud rnams zhus so/
-480. dPal gshin rje dmar nag 'bar ba'i rme rgyud/ 218-259 (326b386b)
+480. dPal gshin rje dmar nag 'bar ba'i rme rgyud/ 218-259 (326b-386b)
 Colophon : de nas lha dang mkha' 'gro rnams kyis / 'jig rten 'di ru mi la
 ma gtad par / yul u rgyan gyi yul rgya mtsho chen po la brten pa rdzu
 'phrul gyis bgrod pa las / gzhan gyis bgrod par mi nus pa / dur khrod
@@ -2735,7 +2735,7 @@ rje thod ‘phreng gis / rdo rje dbang phyug bde chen rtsal/ /des rdo rje
 dbang chen ‘byam pa rtsal / zhal dri med zla shar rtsal / spu ngan rdo rje
 yang dbang gter/ /kun la yod na khyad par med/ rgyud lugs ‘di dang
 ‘grogs nas gter du mchis/ /las dag dam tshig can dang phrad par shog/
-481. gShin rje'i rgyal po las sna tshogs pa'i rgyud/ 259-273 (386b406b)
+481. gShin rje'i rgyal po las sna tshogs pa'i rgyud/ 259-273 (386b-406b)
 Colophon : gshin rje nag po ya ma ra dza khros pa'i rgyud ces bya ba
 rdzogs so// //ngan sngags bkol ba'i las rgyud lags so//
 482. rDo rje 'khor lo drag po zhes bya ba/ rdo rje ur mo'i rtog pa/ 273-
@@ -2756,7 +2756,7 @@ Colophon : //rgya gar gyi mkhan po tsan tra kti ri dang / å tsarya bo de
 ku ta dang/ lo tstsha ba dge slong blo gros dbang phyug gis bsgyur cing
 zhus te gtan la phab pa’o/ /skad gsar chad kyis kyang bsgyur cing zhus te
 gtan la phab pa’o//
-487. Thod pa brtag pa 'jigs byed chen po'i rgyud/ 290-299 (432a444b)
+487. Thod pa brtag pa 'jigs byed chen po'i rgyud/ 290-299 (432a-444b)
 Colophon : thod pa brtag pa rdo rje 'jigs byed chen po'i rgyud ces bya ba
 rdzogs so//
 488. gShin rje zlog byed 'char ka nag po rtsa ba'i rgyud/ 299-302
@@ -2791,7 +2791,7 @@ Volume 27 (Sha)
 493. De bzhin gshegs pa thams cad kyi sku gsung thugs gsang ba'i ye
 shes / 'jam dpal gshin rje nag po gsang ba de kho na nyid kyi
 snying po 'khrul 'khor rin po che'i rgyal mtshan 'phrul gyi me long
-khri drug stong pa zhes bya ba rgyud kyi rgyal po/ 002-165 (1b248a)
+khri drug stong pa zhes bya ba rgyud kyi rgyal po/ 002-165 (1b-248a)
 Colophon : (none)
 494. dPal gshin rje nag po 'khrul 'khor rgyal mtshan me long gi rgyud
 kyi rgyal po/ 165-331 (248a-495a)
@@ -2844,7 +2844,7 @@ so//
 Colophon: //dpal drag sngags nag po’i rgyud / bal po’i rgyal po ba su
 dhåra dang / ban chung gcugs ban che yang dbang gter gyis / ‘bar sa’i
 brag phug tu / mkha’ ‘gro ma dang bka’ bgros nas bsgyur ba’o//
-503. ‘Jam dpal khro bo snying gzer gsang ba’i rgyud / 162-166 (241b248b)
+503. ‘Jam dpal khro bo snying gzer gsang ba’i rgyud / 162-166 (241b-248b)
 Colophon: //snying gzer gsang ba’i rdzogs so// //’phra rgyud drug cu
 rtsa gcig /rnal ‘byor chen po’i rgyud / ‘jam dpal gshin rje ‘bum sde rnam
 par bkod pa las / gdug pa klu ‘dul byed le’u bkod pa’o/ /bal po’i rgyal po ba
@@ -2858,7 +2858,7 @@ dbang sangs rgyas ye shes gter gyis yul bal yul gyi gnas / ‘ba’ su ra’i br
 phug tu bsgyur te gtan la phab pa’o/ /rna brgyud bdun las / shan pa spu
 gri’i dregs pa sna tshogs zla gsang rmod pa dam pa yin no/ /rgya rgya
 rgya// 
-505. ‘Jig rten gsum gyi shes pa bsgral ba’i rgyud / 189-198 (283a297b)
+505. ‘Jig rten gsum gyi shes pa bsgral ba’i rgyud / 189-198 (283a-297b)
 [No colophon]
 506. [no title given; no salutation: title from colophon] Ngan sngags
 gtsug lag gi rgyud phyi ma’i yang phyi ma 198-212 (297b-318b)
@@ -2898,7 +2898,7 @@ des dana dhå la la bshad / des ba su dhara la bshad / des snums sangs
 rgyas ye shes la bshad / des snums yul rong kyi rdzong rdza lhud lhul mor
 gter du sbas pa / rgya dum pa zhang khrom gyis rnyed / de la rong pa
 shi’u ston gyis zhus pa’o// 
-510. gNod sbyin gdong gsum pa’i rgyud / 243-251/2 (366a378b/379a)
+510. gNod sbyin gdong gsum pa’i rgyud / 243-251/2 (366a-378b/379a)
 Colophon: //sangs rgyas bstan pa bsrung ba dang/ /bdud dang mu stegs
 ‘dul ba’i phyir/ /drag po las dang ldan pa’i rnal ‘byor pas/ /drag po shugs
 dang ldan pa’i bsgrub par bya/ /nga yi sangs rgyas bstan pa bsrung bar
@@ -2957,7 +2957,7 @@ thod ‘phreng gsang ba’i thugs brgyud nas; ;nam mkha’i snying po thugs
 kyi mdzod brtol nas/ /dri med zla shar thugs kyi dkyil du bstim/ /budha
 ratnas gsang ba’i mdzod brton nas/ /yon tan rgya mtsho gsang ba’i gter
 du bzhag /Ithi / gtad rgya / gsang rgya / gter rgya / rgya rgya rgya// 
-518. ‘Jam dpal gshin rje gshed gsang rgyud/ 064/5-069/8 (99a/b103b/104a)
+518. ‘Jam dpal gshin rje gshed gsang rgyud/ 064/5-069/8 (99a/b-103b/104a)
 Colophon: //’jam [104a] /dpal gsang ba’i rgyud phyi ma rdzogs so//
 //gnubs padma dbang rgyal gyi thugs kyi brnag pa’o/ /ya mar ra dza
 ‘khros pa’i rgyud do/ 
@@ -2965,12 +2965,12 @@ Colophon: //’jam [104a] /dpal gsang ba’i rgyud phyi ma rdzogs so//
 skad du/ formula] 068-073 (104a-110b)
 Colophon: //dregs pa pho mo’i las rgyud rdzogs so// //dregs pa pho mo
 ‘dus pa’i rgyud rdo rje gter bzhad rtsal la gtad pa/ shubhaµ//
-520. gShin rje ‘char ka nag po zhes bya ba’i rgyud / 073-081 (110b123b)
+520. gShin rje ‘char ka nag po zhes bya ba’i rgyud / 073-081 (110b-123b)
 Catalogue of the sGang steng-b NGB 87
 Colophon: //gzhin rje ‘char ka nag po zhes bya ba’i rgyud rdzogs so//
 //rgyal po sprin gyi shugs can gyis rdo rje gdan gyi ‘og nas rnyed pa’o/
 /mgos la gnang// //
-521. gShin rje sngags bzlog gi rgyud ces bya ba / 082-84/5 (124a127a/b)
+521. gShin rje sngags bzlog gi rgyud ces bya ba / 082-84/5 (124a-127a/b)
 Colophon: //gshin rje nag po’i sngags bzlog /gdong [127b] zor nag po
 stod pa’i rgyud ces bya ba rdzogs so// //spu ngan rdo rje khri gtsug la/
 /lha srin sde brgyad ‘du ‘du nas/ /gsang sngags bdag por dbang yang
@@ -3036,7 +3036,7 @@ rgyud ces bya ba/ 166/7-172 (251a/b-259a)
 Colophon: /drag sngags gcod pa’i rgyud las / drag sngags thams cad
 gcod pa’i rgyud ces bya ba rdzogs so// 
 533. rNam gsum drag po gshin rje drag sngags gcod pa’i rgyud/ rnam
-gsum rgyud kyi man ngag ‘dus pa zhes bya ba / 172-185 (259a278b)
+gsum rgyud kyi man ngag ‘dus pa zhes bya ba / 172-185 (259a-278b)
 Colophon: //rnam gsum ‘dus pa’i man ngag /drag sngags gcod pa’i
 rgyud bsrung ba dang bsad pa’i man ngag gi don ‘dus pa/ ma rgyud don
 gyi man ngag bstan pa’i rgyud rdzogs so// 
@@ -3084,7 +3084,7 @@ lugs gnyis / rgyud le’u bdun bdun yod do/ /’di gshin rje gnod sbyin du
 sgrub yin no/ /gcig ni gshin rje srin por sgrub par yin no/ /lar na drag
 sngags kyi la dor pa gshin rje dmar po khrag skyug yin no/ zhes bla ma
 khrag thung nag po gsung / le’u bdun pa rdzogs so// 
-539. gNod sbyin ging dmar sgrol ba srin po’i rgyud / 260-265 (393a397b)
+539. gNod sbyin ging dmar sgrol ba srin po’i rgyud / 260-265 (393a-397b)
 [No colophon] 
 540. rDo rje srin po bse yi skyes bu gnod sbyin dmar po’i rgyud / 265-
 274 (397b-412a) Colophon: //rdo rje srin po rtsa ba’i rgyud rdzogs so// 
@@ -3102,13 +3102,13 @@ bya ba / 280-283 (421a-424b)
 Colophon: //dpal gshin rje dmar po ma ra ya khrag skyugs spu gri reg
 chod kyi rgyud rdzogs so// //rgya gar gyi mkhan po dha na da las / bod
 kyi ban chung khri gtsug la gnang ba’o//
-543. ‘Jam dpal dmar po’i sngags rgyud kyi rgyal po / 283-287 (424b430b)
+543. ‘Jam dpal dmar po’i sngags rgyud kyi rgyal po / 283-287 (424b-430b)
 Colophon: //’jam dpal dmar po’i sngags rgyud kyi rgyal po’i sngags
 rgyud rdzogs so// //rgya gar gyi mkhan po shan ting gar bha dang / bod
 kyi lo tsa gnubs bandhe ba dbang phyug dpal gyis / bsam yas dga’ ba’i
 dpal gyi/ dur khrod gong mar bsgyur cing zhus te gtan la phab pa’o//
 544. gShin rje dmar po shan pa las kyi rgyud ces bya ba/ /spu gri reg
-chod ru mtshon dmar po’i drag sngags / 287-290/1 (430b436a/b)
+chod ru mtshon dmar po’i drag sngags / 287-290/1 (430b-436a/b)
 Colophon: //gshin rje dmar po’i gshan pa las kyi rgyud / spu gri reg
 mchod gsang ba ru mtshon dmar po’i drag sngags / Orgyan padma
 ‘byung gnas kyis/ /bal yul tsha ba tsha shod kyi/ /mchod rten dmar por
@@ -3117,7 +3117,7 @@ phyis/ /dam med ser snas bcings pa dang/ /skyon can ‘og brus byed pa la/
 /bstan na chos ‘dis thams cad gcod/ /spu gri reg mchod gsang [436b] ba’i
 rgyud rdzogs so// //ru mtshon dmar po’i rgyud ‘di rgya gar dha na dha
 las / yon tan rgya mtsho la btsas su bzhag go// shubhaµ //
-545. gNod sbyin gar mkhan mchog gi rgyud / 291-293/4 (436b441b/442a)
+545. gNod sbyin gar mkhan mchog gi rgyud / 291-293/4 (436b-441b/442a)
 Colophon: //gnod sbyin zla gsang dmar po’i rgyud ces bya ba [442a]
 /rdzogs so// //rgyud ‘di ni dmar po srog gi rgyud ces bya ba / gnod sbyin
 gar mkhan gyi rgyud ces bya ba / ma ru tse gsung gi rgyud ces bya ba /
@@ -3146,7 +3146,7 @@ Colophon: //‘jam dpal ma ru tse’i sngags rgyud rdzogs so//
 314/5-319 (474a/b-478b)
 Colophon: /‘phags pa ‘jam dpal gshin rje’i rgyal po ma ru tse’i thugs kyi
 rgyud rdzogs so//
-552. gNod sbyin ma ru tse ro langs gsang ba’i rgyud/ 319-320 (478b483a)
+552. gNod sbyin ma ru tse ro langs gsang ba’i rgyud/ 319-320 (478b-483a)
 Colophon: /gshin rje wa thod dmar po’i rgyud tsha rgod dmyal ba’i las
 rdzogs so// //gnubs kyi man ngag drag po’i sngags rgod / bstan bsrungs
 spu gri lta bu’i rgyud / pad ma dbang rgyal gyi bka’// // [volume ends]
@@ -3257,7 +3257,7 @@ Colophon : padma’i lha thams cad ‘dus pa dpal rta mgrin gyi rgyud ngo
 mtshar rmad du byung ba zhes bya ba rdzogs so// // slob dpon padmas
 rgyal po khri srong lde btsan la gnang ba’o/ /O rgyan thugs gter gyi bdag
 po / man ngag lcang ra pa brgyud pa dge/
-574. Kro dha khrag thung rol pa’i rgyud chen po / 230-238 (345b355b)
+574. Kro dha khrag thung rol pa’i rgyud chen po / 230-238 (345b-355b)
 Colophon : //khro bo khrag thung rol pa’i rgyud rdzogs so//
 575. Khrag thung rol pa’i rgyud/ 238-240 (355b-358b)
 Colophon : //khrag thung rol pa’i rgyud ces bya ba / ral pa nag gi rgyud
@@ -3348,7 +3348,7 @@ Colophon: //slob dpon padmas bsgyur cing gtan la phab pa rdzogs so//
 gdams ngag dang bcas pa ‘di / mkha’ ‘gro mtsho rgyal la gdams pa
 rdzogs so// //gshin rje dmar nag gnyis la gtad de rgya / gu ya ; gter rgya ;
 sbas rgya ; so phag shi kha thaµ ; Ithi ; ye shes khyung grags zhus so//
-584. Thugs rje chen po padma rgyas pa’i rgyud / 059-62/3 (88a93b/94a)
+584. Thugs rje chen po padma rgyas pa’i rgyud / 059-62/3 (88a-93b/94a)
 Colophon: //rang byung thugs rje chen / sangs rgyas snang ba mtha’ yas /
 mkha’ ‘gro gar gyi dbang mo / slob dpon padma ‘byung gnas / jo bo rang
 byung mched bzhi / mkha’ ‘gro ma cig mtsho [94a] rgyal ; mnga’ bdag
@@ -3403,7 +3403,7 @@ Colophon: dpal he ru ka’i gal po dur khrod mngon par ‘byung ba zhes
 bya ba’i rgyud phyi ma rdzogs sho// //rgya gar gyi mkhas pa shri singha
 dang / bod kyi ban dhe bee ro tsa nas bsgyur ba’o/ /he ru ka ‘dus rgyud kyi
 rgyud phyi ma rdzogs so//
-594. dPal khrag ‘thung gal po che zhes bya ba/ 70-152/3 (106a228a/228b)
+594. dPal khrag ‘thung gal po che zhes bya ba/ 70-152/3 (106a-228a/228b)
 Colophon : he ru ka’i rgal po chen po zhes bya ba / lung thams cad kyi
 rgyal po zhes bya ba rdzogs so// //rgya gar gyi paˆ∂ita padma sambhabas /
 bal po su dha ra la gnang / des gnub sangs rgyas la [228b] gnang / des ba
@@ -3416,7 +3416,7 @@ bshad pa’o/ /sba ston spyan gyis zhu tig nan tan bgyis pa ‘di / bstan pa
 dang sems can la phan pa rgya chen po ‘byung bar gyur cig /bas sbas ston
 gdung brgyud rnams kyis legs par bsam gtan du myong bar mdzad lags
 pas so// //dge’o/ /bkra shis so/ mangalaµ/
-595. ‘Jig rten las ‘das pai mdo zhes bya ba’i rgyud / 153-172/3 (228b251a/b)
+595. ‘Jig rten las ‘das pai mdo zhes bya ba’i rgyud / 153-172/3 (228b-251a/b)
 Colophon: //gsang sngags rdo rje theg pa thabs kyi rnal ‘byor gyi mdo
 rdzogs so// //dpal U rgyan gyi mkhan po padma sam bhaba dang/ zhu
 zhen gyi lo tstsha ba snubs nam mkha’i snying pos / brag dmar dpal gyi
@@ -3508,7 +3508,7 @@ Colophon : bdud [36b] rtsi mchog gi lung rdzogs so/
 ba’i snying po’i mchog / 023-028 (36b-45a)
 Colophon : dngos grub nye ba’i snying po’i rgyud gsum ni / sru legs pa’i
 sgron ma la gtad do/ /rdzogs so//
-617. bDud rtsi ‘khyil ba ‘chi med tshe’i rgyud bya ba/ 028-045 (45a68b)
+617. bDud rtsi ‘khyil ba ‘chi med tshe’i rgyud bya ba/ 028-045 (45a-68b)
 Colophon : bdud rtsi ‘khyil ba ‘chi med tshe’i rgyud ces bya ba rdzogs so//
 //’di chig rgyud yin bas spel na ; dam can chos skyong dang / mkha’ ‘gro
 rnams kyi bka’ chad yong bas / lung m thob pa la thos par mi bya ste /
@@ -3526,7 +3526,7 @@ snyan ku ma ras bsgyur ba’o// //
 Colophon : /dzogs so/ /rgya gar gyi mkhan po bhi ma la mi tra dang /
 bod kyi lo tstsha ba snyags gnya’n ku ma ras bsgyur cing zhus te gtan la
 phab pa’o/
-620. bDud rtsi las rgya mtsho’i rgyud ces bya ba / 110-146 (166a220a)
+620. bDud rtsi las rgya mtsho’i rgyud ces bya ba / 110-146 (166a-220a)
 Colophon : //bdud rtsi las rgya mtsho’i rgyud ces bya ba rdzogs so//
 //rgya gar gyi mkhan po bi ma la mi tra dang / bod kyi lo tsa snyag
 dznyana ku ma ras bsgyur ba’o// [there is interlinear writing roughly half
@@ -3615,7 +3615,7 @@ mkhan po dznyana garbha dang / bod kyi dge slong beero tsa nas bsgyur
 cing gtan la phab pa’o//
 633. rDo rje phur ba’i rtsa ba / 155-157a (233a-235b)
 Colophon: //Ithi//
-634. rDo rje phur ba rtsa ba’i rgyud kyi dum bu/ 157a-159 (235b238b)
+634. rDo rje phur ba rtsa ba’i rgyud kyi dum bu/ 157a-159 (235b-238b)
 Colophon: /rdo rje phur ba rtsa ba’i dum bu slob dpon padma ‘byung
 gnas dngos kyi rgya dpe dang ‘thun par / dpal sa skya pan∂itas / gyas ru’i
 sa’i cha shangs kyi sreg zhing du bsgyur cing zhus te gtan la phab pa’o//
@@ -3752,7 +3752,7 @@ mkhan po padma saµbhawa dang / lo tstsha ba lce ku ku radza dang/
 brang ti rag shis bsgyur//
 652. rDo rje phur ba chen po gtor ma’i rgyud/ 187-196 (283a-295b)
 Colphon: /rdo rje phur ba chen po gtor ma’i rgyud chen po rdzogs sho//
-653. rDo rje phur ba zhes bya ba’i rgyud kyi rgyal po / 196-204 (295b309b)
+653. rDo rje phur ba zhes bya ba’i rgyud kyi rgyal po / 196-204 (295b-309b)
 Colphon: //rgyud kyi rgyal po rdo rje phur ba zhes bya ba / drag po’i las
 kyi rtog pa chen po rdzogs sho// //slob dpon chen po padma ‘byung gnas
 kyi phyag dpe las / bod kyi lo tstsha ba kun dga’ rgyal mtshan gyis
@@ -3853,7 +3853,7 @@ Colophon: [rgyud gtad pa’i le’u ste bcu bdun] rdzogs sho// //rgya gar gyi
 slob dpon padma ‘byung gnas dang / bod kyi lo tstsha ba ngam ‘bre sal
 [or: bres la] les bsam yas kyi phyims phu dge gong du bsgyur cing zhus te
 gtan la phab pa’o// //dge bar gyur cig 
-671. Phur ba gsang ba’i dgongs pa rgyud chen po / 122-189 (185b285a)
+671. Phur ba gsang ba’i dgongs pa rgyud chen po / 122-189 (185b-285a)
 Colophon: k¥laya gsang ba’i dgongs rgyud ces bya ba rdzogs sho// //O
 rgyan gyi mkhan po padma thod ‘phreng dang / bod kyi lo tstsha ba
 mang yul gyi lce ku ku rådza dang / brang ti dza ya ra k∑itas bsgyur cing
@@ -3894,12 +3894,12 @@ pa’o//
 [No colophon] 
 680. rGyud kyi rgyal po rta mgrin gyi rgyud / 327-330 (492a-495b)
 [No colophon] 
-681. Khro bo chen po gzhan gyis mi thub pa’i rgyud / 330-332 (495b497b)
+681. Khro bo chen po gzhan gyis mi thub pa’i rgyud / 330-332 (495b-497b)
 [No colophon] 
 682. Rgyud kyi rgyal po bdud rtsi ‘khyil ba’i rgyud/ 332/331-334
 (497b/498a-500b)
 [No colophon] 
-683. Khro bo khams gsum nam par rgyal ba’i rgyud / 334-335 (500b504a) 
+683. Khro bo khams gsum nam par rgyal ba’i rgyud / 334-335 (500b-504a) 
 [No colophon] 
 684. Khro bo chen po stobs po che’i rgyud / 335-339 (504a-509a)
 [No colophon] 
@@ -3932,10 +3932,10 @@ phyug la / des nga ‘bre klu’i rgyal mtshan la / des nga ‘bre gsal le la / 
 lang lhab byang chub rdo rje la dbang rtags su gcig nas gcig du brgyud
 pa’o/ /mo phyi ngo dga’ snod ngan ba la snying sgor mi byung mi bstan
 no//
-691. Phur ba gsang ba’i rgyud ces bya ba / 218/219-228 (330a/b343a)
+691. Phur ba gsang ba’i rgyud ces bya ba / 218/219-228 (330a/b-343a)
 Colophon: gab pa gsang ba’i rgyud ces kyang bya / klag rgyud chung gu
 zhes kyang bya ba rdzogs so//
-692. Phur ba nag po mdung rtse gsum pa’i rgyud / 228-240 (343a361a)
+692. Phur ba nag po mdung rtse gsum pa’i rgyud / 228-240 (343a-361a)
 Colophon: //rdo rje phur ba nag po mdung rtse gsum pa’i rgyud bstan
 pa bsrung ba’i las bstan pa rdzogs so//
 693. rDo rje phur ba shan pa’i spu gri’i rgyud kyi rgyal po chen po / 
@@ -4004,7 +4004,7 @@ Colophon: //ma mo rab tu gsang ba’i rgyud hu lu mu zhes kyang
 bya/tsitta snying bkol zhes by ba’i rgyud rdzogs so//.
 709. sNying tig [464b] bkol ba’i rgyud / 308/9-315 (464a/b-472b)
 Colophon: /ma mo rnams gyi snying tig bkol ba’i rgyud rdzogs so// 
-710. Srog tig dang nying tig kyi rgyud ces bya ba/ 314-318 (472a476a) Colophon: //yang tig bkol ba’i rgyud rdzogs so// //rgya gar gyi
+710. Srog tig dang nying tig kyi rgyud ces bya ba/ 314-318 (472a-476a) Colophon: //yang tig bkol ba’i rgyud rdzogs so// //rgya gar gyi
 mkhan po sri singha dang//bod kyi lo tsa ba dba’ ‘khor bee ro tsa nas
 bsgyur ba’o//
 Volume 40 (Thi)
@@ -4100,7 +4100,7 @@ Colophon: dpal rdo rje mkha’ ‘gro ma me lce ‘bar ba’i rgyud rdzogs so//
 ka’i zhal snga nas bsgyur bar byed pa’i lo tsa ba dam pa ni / cog ro klu’i
 rgyal mtshan bshes gnyen gyis bsgyur cing gtan la phab nas phyi ma’i
 don du bshad do// // shuddhe/ 
-729. ‘Phags pa he sdud ‘bar ma’i rgyud ces bya ba / 124-129 (185b195a)
+729. ‘Phags pa he sdud ‘bar ma’i rgyud ces bya ba / 124-129 (185b-195a)
 Colophon: /re ma ti mched bzhi’i ‘phrin las kyi rgyud/ he sdud ‘bar ba
 zhes bya ba rdzogs so//
 730. dPal rdo rje nag mo ral pa spyi bcings gsang ba ‘phrin las kyi
@@ -4298,7 +4298,7 @@ Colophon: rgyud kyi nang nas dam par gyur ba’i // bal po’i bas su dha ra
 yis gdams/ /rum bu ghuya de ba tsan tra’i thugs dam lags/ de la bsnubs
 ban sangs rgyas bdag gis rnyed/ /dpal E ka dza ti khrag rba klong gi
 rgyud ces bya ba rdzogs so//
-759. Ral gcig ma ‘dus pa nag mo’i rgyud ces bya ba/ 139-142 (209a211b)
+759. Ral gcig ma ‘dus pa nag mo’i rgyud ces bya ba/ 139-142 (209a-211b)
 Colophon: //ral gcig ma nag mo ‘dus pa nag mo’i rgyud ces bya ba
 rdzogs so// //rgyud ‘di slob dpon ru bu guhya de brtsan tras rdo rje gdan
 kyi byang ngos nas brag phug sgong nga rang ‘khrungs kyi nang nas bton
@@ -4339,7 +4339,7 @@ cha//
 766. Phung byed chen mo bzhi’i rgyud [no title given; title supplied
 from sentence following salutation]/ 158-159 (235b-237a)
 Colophon: //rdzogs so//
-767. dPal lha mo spu gri so rgal gyi rgyud ces bya ba/ 159-162 (237a240b)
+767. dPal lha mo spu gri so rgal gyi rgyud ces bya ba/ 159-162 (237a-240b)
 Colophon: /rdzogs so//
 768. ‘Phag pa lha mo ling tog sgong nga zhes bya ba rgyud kyi rgyal
 po/ 162-165 (240b-248a)
@@ -4351,7 +4351,7 @@ ma ling tog sgangs nga’i rgyud ces bya ba / rgyud kyi rgyal po rdzogs so//
 Colophon: /dpal lha mo nag mo’i gser gyi sbram bu zhes bya ba rdzogs
 so// //rgya gar gyi guru padma ‘byung gnas dang; lo tstsha ba sa ma tis
 bsgyur ba’o//
-770. ‘Phag pa lha mo nag mo’i srog gi ‘khor lo’i rgyud / 175-186 (263a278b)
+770. ‘Phag pa lha mo nag mo’i srog gi ‘khor lo’i rgyud / 175-186 (263a-278b)
 Colophon: //‘phag pa lha mo nag mo’i srog gi ‘khor lo’i rgyud rdzogs so//
 //rgya gar gi mkhan po dzina mitras bsgyur / zhu chen kyi lo tstsha ba ka
 ba lha sra kyis kyang gtugs te gtan la phab pa’o//
@@ -4368,7 +4368,7 @@ bsgyur cing gtan la phab pa’o//
 773. Nag mo re ma ti’i rgyud ces bya ba / 205-206 (306a-308b)
 Colophon: //man ngag gi rgyud rdzogs so//
 774. Ma mo gnam lcags thog gi pu yug ma ‘jig rten gnam lcags thog gi
-‘khor lo bskor te/ dgra bsad pa’i rgyud ces bya ba/ 206-208 (308b311b)
+‘khor lo bskor te/ dgra bsad pa’i rgyud ces bya ba/ 206-208 (308b-311b)
 Colophon: /gnam lcags thog gi pu yug drag sngags gsang ba’i rgyud
 rdzogs so/ /Áthi//
 120 Revue d'Etudes Tibétaines
@@ -4376,7 +4376,7 @@ rdzogs so/ /Áthi//
 rgyud kyi rgyal po// 208-216 (311b-323b)
 Colophon: //rdzogs so// rgya gar gyi slob dpon shan tim garbha dang /
 pa kor bee ro tsa nas bsgyur//
-776. Ral nag mtshon ‘khrugs kyi rgyud ces bya ba / 216-218 (323b326b)
+776. Ral nag mtshon ‘khrugs kyi rgyud ces bya ba / 216-218 (323b-326b)
 Colophon: //ral nag mtshon ‘khrugs kyi rgyud rdzogs so//
 777. ‘Dod pa’i khams kyi dbang phyug ma’i rgyud ces bya ba// 218-
 293/4 (326b-438a/b)
@@ -4386,7 +4386,7 @@ rdzogs so// dpal ldan lha mo’i rgyud mchog ‘di/ gang gis rnyed [438b]
 pas dngos grub ster/ /snod ldan dam tshig gtsang ba dang/ /’gro don dga’
 zhing bstan bsrung ba/ /de yi lag tu ‘phel bar shog /rgya gar gyi mkhan po
 shri sidha dang/ /bod kyi lo tstsha ba bee ro tsa nas bsgyur ba’o//
-778. dPal lha mo nag mo’i bstod pa’i rgyal po’i rgyud / 294-299 (438b449a)
+778. dPal lha mo nag mo’i bstod pa’i rgyal po’i rgyud / 294-299 (438b-449a)
 Colophon: /bstod pa rgyal po’i rgyud rdzogs so//
 779. Ma mo nag mo nyi ma’i smod mo srog gi rgyud ces bya ba / 299-
 305 (449a-457a)
@@ -4431,7 +4431,7 @@ rgyas ye shes rin po ches bsgyur ro//
 Colophon: /rgyud kyi rgyal po chen po ‘byung po ‘dul byed ces bya ba
 rdzogs so// //rgya gar gyi mkhan po ba su dha ra dang / lo tsa ba buddha
 rad nas gtan la phab pa’o//
-786. Phyag na rdo rje las rgya mtsho’i rgyud ces bya ba / 021-57 (33a85a)
+786. Phyag na rdo rje las rgya mtsho’i rgyud ces bya ba / 021-57 (33a-85a)
 Colophon: //gsang ba’i bdag po rdo rje gtum po’i las rgya mtsho’i bsgrub
 pa’i rgyud ces pa rdzogs so//
 787. Phyag na rdo rje gtum po khros pa rtsa ba’i rgyud chen po zhes
@@ -4570,13 +4570,13 @@ rin po ches bsgyur cing zhus te gtan la phab pa’o//
 zhes bya ba’i rgyud / 116-126 (174a-187a)
 Colophon: //A pa ra tsitta srog rtsa mngon du phyung ba’i rgyud rdzogs
 so//
-807. gNod sbyin ‘dod pa’i rgyal po khros pa’i rgyud/ 126-128 (187a192a)
+807. gNod sbyin ‘dod pa’i rgyal po khros pa’i rgyud/ 126-128 (187a-192a)
 Colophon: A pa ra tsitta dmar po’i rgyud rdzogs so// gu ru padmas
 dngul phug tu gter du sbas so//
-808. gNod sbyin chen po dnos grub bzang po’i rgyud/ 128-130 (192a195a)
+808. gNod sbyin chen po dnos grub bzang po’i rgyud/ 128-130 (192a-195a)
 Colophon: //gnod sbyin A pa ra tsitta’i las rgyud ces bya ba / rin po che
 dngos grub bzang po’i bdag po phyag na rdo rjes gsung pa rdzogs so//
-809. gNod sbyin gsang ba rin chen thugs kyi rgyud / 130-132/3 (195a198a/b)
+809. gNod sbyin gsang ba rin chen thugs kyi rgyud / 130-132/3 (195a-198a/b)
 Colophon: //ho gsang ba’i bdag pos rgyal po rnam thos la / rgyal pos slob
 dpon badzra pa ril la byin/ des rgyal po Indrabodhi la byin / des slob dpon
 prahati la byin / des bas su dhå ra byin/ des yang dbang gter la gtad pa’o/
@@ -4601,11 +4601,11 @@ rgya/ sbas rgya/ gtad rgya/ Ithi//
 ba’i rgyud chen po zhes bya ba/ 140-147 (210a-222a)
 Colophon: //rin po che sbyin gyi rgyud dgos ‘dod ‘byung ba zhes bya ba
 rdzogs so//
-813. gNod sbyin zha ‘on bdud ‘dul gyi rgyud ; 147-152/1 (222a226b/227a)
+813. gNod sbyin zha ‘on bdud ‘dul gyi rgyud ; 147-152/1 (222a-226b/227a)
 Colophon: //gsang ba’i rgyas btab gter du sbas/ /las ‘phro can dang ‘phrad
 par shog /rdo rje bdud ‘dul bco lnga las / [227a] /gsang ba’i kha tshar
 bdun po rtse mo mi ‘gyur ba’i rgyal mtshan rdzogs so// 
-814. mGon po rdo rje bdud ‘dul gyi rgyud ces bya ba / 151-156 (227a233b)
+814. mGon po rdo rje bdud ‘dul gyi rgyud ces bya ba / 151-156 (227a-233b)
 Colophon: //mgon po rdo rje bdud ‘dul gyi rgyud drag sngags bdun pa’i
 rgyud ces bya ba rdzogs so// //rdo rje gdon gyi mchod rten nag po’i
 bsrungs mar bskos pa’o/ /∂å ki ma rnams la phyag na rdo rjes bka’ bsgo
@@ -4627,7 +4627,7 @@ so//
 816. gNod sbyin zha ‘on rdo rje bdud ‘dul gyi gsang ba pa rin po che’i
 rgyud ces bya ba / 162-163 (241b-245a)
 Colophon: //gnod sbyin gsang ba rin po che’i rgyud rdzogs so//
-817. mGon po nag po dug gi spu gri rtsa ba’i rgyud / 163-172 (245a257b)
+817. mGon po nag po dug gi spu gri rtsa ba’i rgyud / 163-172 (245a-257b)
 Colophon: //dpal mgon po nag po dug gi spu gri rtsa ba’i rgyud rdzogs
 so//
 818. dPal mgon po nag po dug gi spu gri gsang ba’i rgyud / 172-189
@@ -4706,7 +4706,7 @@ du rgyug breng breng / nga yi nor khyer la shog /de nas rang la A tsha ra
 yang ngo/ /nga gang du ‘gro ther nas ong ngo/ de nas rang mnos sa ru
 rbad do/ /nor bre gang shul du yang phyin nas bkug nas yong ngo/ /rgya
 nas bod du ‘gyur ba zab po/ Ithi//
-829. Nag po chen po sa gyo ba’i rgyud ces bya ba/ 225-228 (338a341b)
+829. Nag po chen po sa gyo ba’i rgyud ces bya ba/ 225-228 (338a-341b)
 Colophon: /dpal nag po chen po sa gyo ba’i rgyud ces bya ba rdzogs so/
 ba ma tha na gaµ thran % kha tha ma/
 830. [‘Phags pa rin po che dpung rgyan gyi rgyud] [title supplied from
@@ -4790,7 +4790,7 @@ dkyil ‘khor spa dro skyer chur sbas so [appears to be Paro sKyer chu in
 Bhutan]/ ‘dir ma smos so/ /‘dir dmar po lcam dral gyi sgrub thabs chung
 du ‘di dang / pho mo khros na skan lugs ‘di ni gsal ba yin te / gnad shin
 tu che’o; ;gzus ston rin chen rgyal po’i mtshon cha’o//
-839. ‘bZang mo stobs kyi srog gi rgyud ces bya ba / 012-022 (18b33b)
+839. ‘bZang mo stobs kyi srog gi rgyud ces bya ba / 012-022 (18b-33b)
 Colophon: //slob dpon zhi ba mo’i thugs kyi yang zhun gyi yang zhun /
 slob dpon bi ma la’i thugs kyi brnag pa / slob dpon nyang mchog rab kyi
 thugs bcud / bi ma la gir ti’i man ngag /bsgrang kyi thugs kyi brnag pa
@@ -4818,7 +4818,7 @@ Colophon: //pad ma tsug lag ‘khor lo’i rgyud phyi ma rdzogs so//
 Colophon: //shin rje gtsug lag gi ‘khor lo’i rgyud phyi ma rdzogs so//
 848. Phyag na rdo rje tsug lag ‘khor lo’i rgyud / 069-072 (104a-106b)
 Colophon: //rdzogs so//
-849. rDo rje khyung tsug lag ‘khor lo’i rgyud/ 072-071-072 (106b108b)
+849. rDo rje khyung tsug lag ‘khor lo’i rgyud/ 072-071-072 (106b-108b)
 Colophon: //rdo rje kyhung tsug lag ‘khor lo’i rgyud rdzogs so//
 850. rDo rje tsug lag ‘khor lo’i rgyud / 072-077 (108b-115a)
 Colophon: //rdo rje tsug lag ‘khor lo’i rgyud phyi ma’i phyi ma rdzogs
@@ -4864,13 +4864,13 @@ rgyud / thirgya / nirgya / sirgya / man ngag don ‘grol rdzogs so//
 Colophon: //rdo rje tsug lag drag po ngan sngags gzhi bar byed pa
 bdud rtsi ‘byung ba ‘khor lo’i man ngag gyi rgyud rdzogs so//
 860. [no title given; supplied from chapter endings, but see colophon]
-Drag po brtsegs pa dgongs lung bstan pa’i rgyud/ 99-122 (148a181b)
+Drag po brtsegs pa dgongs lung bstan pa’i rgyud/ 99-122 (148a-181b)
 Colophon: //drag po brtsegs pa lung bstan pa’i ‘byung po gdug pa’i
 bshad rgyud chen po rdzogs so/ /rgya rgya rgya//
 861. Drag po ngan sngags kyi rtsa ba’i rgyud / 122-152 (181b-228b)
 Colophon //drag po ngan sngags kyi rgyud ces bya ba rtsa ba’i rgyud
 chen po rdzogs so//
-862. Drag po ngan sngags kyi bshad rgyud / 152/3-172 (228b/229a257b)
+862. Drag po ngan sngags kyi bshad rgyud / 152/3-172 (228b/229a-257b)
 Colophon: //drag po ngan sngags kyi bshad rgyud rdzogs so// //rgya rgya
 / rgya gar gyi slob dpon phung byed shin ting garbha dang / bod kyi lo
 tsa ba chen po rdo rje thogs med rtsal gyis / bsam yas dpu tshal gyi gling
@@ -4896,7 +4896,7 @@ gi rgyud kyi rgyal po// 189-194 (285a-291b)
 Colophon: //rtsa ba dang / phyi ma dang / phyi ma’i yang phyi ma dang
 / de rnams kyi mtshangs skong ba’i rim par gsungs pa / ngan sngags
 gtsug lag gi rgyud kyi rgyal po rdzogs so// rgya rgya rgya//
-866. Drag po ngan sngags skal pa’i dum bu’i rgyud / 194-199 (291b300a)
+866. Drag po ngan sngags skal pa’i dum bu’i rgyud / 194-199 (291b-300a)
 Colophon: /rdzogs so//
 867. Srog las kyi rgyal po srog bdag gser gyi ga bur zhes bya ba / 199-
 227 (300a-340a)
@@ -4970,7 +4970,7 @@ mi sbyin snod dang sbyar la sbyin/ /bka’ srungs dam lam thogs par/
 rgya dag la nan tan bya / rdzogs so//
 877. Drag po’i sngags rgod chen po zhes bya ba’i rgyud/ rgyud kyi
 rgyal po rus sbal [‘sbal’ missing in mTshams brag, subscripted here,
-present in chapter endings] khro bo’i rtog pa’o / 276-281 (412b423a)
+present in chapter endings] khro bo’i rtog pa’o / 276-281 (412b-423a)
 Colophon: ;;‘phags pa jam dpal shin rje rje gshed kyi rgyud / rus sbal
 khro bo rtog pa’i zhes bya ba rtog pa bcu gsum pa / gdug pa gsum ’dul
 gyi rgyud rdzogs so// sa ma yan ra skan//
@@ -5021,7 +5021,7 @@ Colophon: // pa la tra gsang ba’i snying thor gyi rgyud rdzogs so//
 //dharma rgya mtsho//
 Catalogue of the sGang steng-b NGB 135
 887. gNod sbyin thams cad kyi srog tig ba la patra mchod rten nag po’i
-rgyud kyi yang snying zhes bya / 011-013/014 (16a20a/20b/21a)
+rgyud kyi yang snying zhes bya / 011-013/014 (16a-20a/20b/21a)
 Colophon: //ba la patra mchod rten nag po’i rgyud / rtog pa phyi ma’i
 phyi ma / bstan pa’i bsrungs ba’i rgyud shin tu gsang ba / rgyud gi yang
 snying zhes bya’o [20b] rgyud kyi bcud bkol ba zhes ang bya’o/ /yang tig
@@ -5085,13 +5085,13 @@ dros pa yi glu rnams la dam tshig byin nas / gtsug lag khang bsrung du
 bcug go /thog mar tshangs pa klu gnod gyis bskor bsrungs su bskos te /
 yun gyi btsas su bzhag go /Unaˆa rgya / U na na rgya / ba ma ra rgya /
 tri pa ra rgya / Ithi / A khra / gsang go/ /gu he//
-892. Bya khyung glog ‘gyu’i las kyi rgyud ces bya ba / 064-085 (96b128a)
+892. Bya khyung glog ‘gyu’i las kyi rgyud ces bya ba / 064-085 (96b-128a)
 Colophon: //bya khyung glog ‘gyu’i las kyi rgyud ces bya ba rdzogs sho//
 893. Las rab tu ‘byed pa klu’i rgyal po rtog pa’i rgyal po’i rgyud ces
 bya ba/ 085-99 (128a-148a)
 Colophon: //klu’i rgyal po rtog pa las rab tu ‘byed pa zhes by ba gab pa
 dang sbas pa’i rgyud rdzogs sho/ /‘Ithi//
-894. Klu’i dam tshig gi rgyud ces bya ba/ 099/100-110/111 (148a/b165b/166a)
+894. Klu’i dam tshig gi rgyud ces bya ba/ 099/100-110/111 (148a/b-165b/166a)
 Colophon: //klu’i dam tshig gi rgyud phyi [166a] /ma rdzogs sho//
 895. Klu dam tshig gi rgyud phyi ma’i las su phyung ba’i ti ka’o/ 111-
 118 (166a-175b)
@@ -5100,7 +5100,7 @@ Colophon: //klu’i dam tshig gi rgyud phyi ma’i las khol bu rdzogs sho//
 896. Klu nag po’i rgyud / 118/7-120 (175b/176a-178b)
 Colophon: /sbal nag po ‘khor lo zhes bya ba klu nag po’i rgyud rdzogs
 sho//
-897. Dam tshig las kyi rgyal po’i rgyud ces bya ba / 120-146 (178b218b)
+897. Dam tshig las kyi rgyal po’i rgyud ces bya ba / 120-146 (178b-218b)
 Colophon: //bdag ‘dra sangs rgyas ye shes kyis; ;rgya yi skad bsgyur
 lotstsha’i tshig sbyang nas/ /rgyal po ba su dha ra’i gongs pa ‘di/ /rin chen
 snying po gser phul nas/ /mos gus dad pa’i sgo nas zhus/ /srog gis btsal
@@ -5219,10 +5219,10 @@ klu’i rgyal po gsang ba’i lung / rgya gar gyi mkhas pa ka ma la shi la
 dang / padma ’byung gnas kyis tshangs pa klu khang du gtams pa rdzogs
 shyo;; ;;le’u grangs sum cu rtsa bzhi pa/ /mkhas pas brtags te bsdeb par
 bya’o/ /’di bas dkon pa’i yig sna med pa yin// 
-904. Klu’i ‘khor lo nag po / byol song ha la nag po / 296-299 (442b449a) Colophon:
+904. Klu’i ‘khor lo nag po / byol song ha la nag po / 296-299 (442b-449a) Colophon:
 /klu’i ‘khor lo nag po ha la ‘bar ba’i rgyud / byol song glang mgo can gyis
 gsungs pa rdzogs shyo// 
-905. Sa bdag srog gi ‘khor lo zhes bya ba’i rgyud / 299-304 (449a455b)
+905. Sa bdag srog gi ‘khor lo zhes bya ba’i rgyud / 299-304 (449a-455b)
 Colophon: //sa bdag srog gi ‘khor lo zhes bya ba/ /klu rigs srog rgyud
 rdzogs shyo//
 906. Klu nag po’i rgyud sdig pa phung shig ces bya ba / 304-307
