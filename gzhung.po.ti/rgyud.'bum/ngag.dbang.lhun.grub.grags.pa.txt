@@ -1,0 +1,1292 @@
+Tibetan Manuscript and Xylograph Traditions 
+The Written Word and Its Media within the Tibetan Culture Sphere
+Edited by Orna Almogi
+
+Contents
+
+Preface 3 
+ORNA ALMOGI & DORJI WANGCHUK Prologue: Tibetan Textual Culture between Tradition and Modernity 5 
+ORNA ALMOGI The rNying ma rgyud ’bum Set at the National Archives Kathmandu: The History of Its Production and Transmission 31
+MICHELA CLEMENTE Different Facets of Mang yul Gung thang Xylographs 67
+HILDEGARD DIEMBERGER Early Tibetan Printing in Southern La stod: Remarks on a 1407 Print Produced at Shel dkar 105
+FRANZ-KARL EHRHARD Buddhist Hagiographies from the Borderlands: Further Prints from Mang yul Gung thang 127
+AGNIESZKA HELMAN-WAżNY Overview of Tibetan Paper and Papermaking: History, Raw Materials, Techniques and Fibre Analysis 171
+MATTHEW KAPSTEIN A Collection of Miscellaneous Kanjur Folios including Four Illustrated Pages from a rNying ma Tantra in statu nascendi 197
+SAM VAN SCHAIK The Uses of Implements are Different: Reflections on the Functions of Tibetan Manuscripts 221
+PETER SCHWIEGER Some Palaeographic Observations on Tibetan Legal Documents 243
+MARTA SERNESI Reprinting the Buddhist Classics: On the Production and Circulation of Blockprints 267
+TSUGUHITO TAKEUCHI & MAHO IUCHI Varieties of Tibetan Texts from Khara-khoto and Etsin-gol: An Introductory Remark 321
+VESNA WALLACE Remarks on the Tibetan Language Manuscripts and Xylographs in Mongolia and on the Technology of Their Production 347
+DORJI WANGCHUK Sacred Words, Precious Materials: On Tibetan Deluxe Editions of Buddhist Scriptures and Treatises 371
+
+Preface
+
+Textual scholarship, including text and book cultures, has a long and 
+rich history throughout the Tibetan cultural sphere. Since the 
+development of the Tibetan script—according to traditional sources 
+sometime in the 7th century—tens (or perhaps hundreds) of thousands 
+of texts, be they of Indic origin or autochthonous Tibetan, have been 
+written down on Tibetan soil. Consequently, a much greater number 
+of books, be they in the form of manuscripts or xylographs, were 
+produced, transmitted, and further reproduced throughout the 
+centuries. Tibetan textual scholarship thus becomes highly interesting 
+and relevant for all of us who strive to gain a nuanced and well
+founded knowledge of Tibetan intellectual culture, intellectual 
+history, religion, philosophy, textual criticism, literature, or language. 
+In recent years we have been witnessing a growing interest in 
+Tibetan textual scholarship—including Tibetan text and book 
+cultures—that goes beyond the mere textual and contentual matters. 
+Issues concerning material and visual aspects of Tibetan book 
+culture—including writing materials, economical and logistical 
+aspects of production, patronage, codicology, palaeography, 
+technology, craftsmanship, artistry, and art—and such concerning 
+Tibetan text culture—including traditional textual scholarship in 
+general and compilatory processes and editorial policies in 
+particular—have come to the forefront of Tibetan Studies. Religious 
+and sociological aspects of Tibetan book culture have likewise been 
+increasingly addressed—particularly those focusing on the book as 
+being a ritual or reverential object, an artefact possessing magical 
+powers, a prestigious item to be owned, a merit-accruing object, or a 
+piece of art. 
+
+With the conviction that a better understanding of these aspects 
+will advance and enhance Tibetan textual studies as a whole, a 
+conference on “Manuscript and Xylograph Traditions within the 
+Tibetan Cultural Sphere: Regional and Periodical Characteristics” 
+was held at the Universität Hamburg in May 15–18, 2013. As the title 
+suggests, the conference aimed at discussing and identifying regional 
+and periodical characteristics of various manuscript and xylograph 
+traditions within the Tibetan cultural sphere. The present volume 
+contains twelve of the papers presented at the conference along with 
+an introductory essay, which all together cover many of the above
+mentioned issues regarding Tibetan manuscripts, xylographs, and 
+legal handwritten documents, stemming from different periods of 
+Tibetan history and from various regions within the Tibetan cultural 
+sphere, including such that had been under its influence in the past. 
+Although the volume is far from addressing neither all traditions of 
+text and book cultures within the Tibetan cultural sphere nor all 
+issues concerning them, it is hoped that it nonetheless will be a 
+modest contribution to the advancement of research in this field 
+along with several other recent publications with a similar or related 
+focus. 
+
+I would like to particularly thank Dorji Wangchuk for his 
+cooperation and assistance in organising the conference and in 
+making it possible through the financial support of the Khyentse 
+Center for Tibetan Buddhist Textual Scholarship (KC-TBTS), and 
+likewise for his support in various ways during the editing of the 
+present volume. Special thanks are also due to the Khyentse 
+Foundation whose financial support of the KC-TBTS enabled both 
+the conference and the publication of the present volume. And last 
+but not least thanks are also due to Eric Werner for his help in 
+solving some last-minute technical problems during the preparation 
+of the final version of the volume.
+Orna Almogi
+Hamburg, July 30, 2016
+
+The rNying ma rgyud ’bum Set at the National Archives Kathmandu: The History of Its Production and Transmission Orna Almogi (Hamburg)[1]
+ 
+1. Introductory Remarks
+
+When I started my study on the history of the formation, production, 
+and transmission of the rNying ma rgyud ’bum (the Collection of the 
+Ancient Tantras), nine editions—eight manuscript and one 
+xylograph—were accessible, for five of which there already exist 
+catalogues of varying scope:
+(1) The mTshams brag illuminated manuscript edition (Tb), 
+with an online catalogue compiled by the Tibetan & 
+Himalayan Library (THL),
+(2) The Rig ’dzin Tshe dbang nor bu illuminated manuscript 
+edition (Tn), also known as the Waddell edition, with a 
+detailed online catalogue compiled by Cathy Cantwell, 
+Robert Mayer, and Michael Fisher,
+(3) The gTing skyes plain manuscript edition (Tk), with a 
+catalogue compiled by Eiichi Kaneko (1982) and an online
+catalogue compiled by the THL, 
+(4) The Nubri illuminated manuscript edition (Nu), 
+uncatalogued,
+(5) The illuminated manuscript edition (Na) stored at the 
+National Archives Kathmandu (NAK), uncatalogued,
+(6) The sGang steng plain manuscript edition (Gt-p), 
+uncatalogued,
+(7) The sGang steng illuminated manuscript edition (G-i), with 
+a catalogue compiled by Cathy Cantwell, Robert Mayer, 
+Michael Kowalewky, and Jean-Luc Achard,
+(8) dGra med rtse plain manuscript edition (Gm),
+uncatalogued,3
+(9) sDe dge xylograph edition (Dg), with a catalogue complied 
+by Jean-Luc Achard (2003) and an online catalogue 
+compiled by the THL.
+
+Right from the outset of my study of the history of the 
+transmission of the collection, it was clear that a thorough 
+examination of the content of the Nubri and the NAK sets—which 
+were microfilmed by the Nepal-German Manuscript Preservation
+
+Project (NGMPP)4—would be necessary, not only for gaining an 
+accurate picture of the history of their formation, production, and 
+transmission, but also for better understanding the history of the 
+rNying ma rgyud ’bum in general, and the place these two sets 
+occupy within the collection’s various groups of transmission in 
+particular.5 For this purpose, the Nubri and NAK sets stood at the 
+centre of my initial investigation of the collection. In the following, I 
+shall present some of the main findings regarding these two editions, 
+primarily focusing, however, on the NAK set and only by extension 
+on the Nubri one.
+
+
+2. The Tibetan-Nepalese Borderlands rNying ma rgyud ’bum Editions: General Remarks
+
+My study of these two sets—which, for reasons that will be made 
+clear below, I collectively designate the “Tibetan-Nepalese 
+Borderlands group”—has initially focused on their content and its 
+arrangement, primarily following historical-philological and 
+bibliographical methods. Some of the questions that arose in the 
+course of the investigation were later on further addressed by 
+employing various scientific methods, including material analysis 
+(mainly of the inks and pigments, but to a lesser extent also of the 
+paper) and multispectral imaging of the NAK set. [6]
+
+Both the NAK and Nubri sets have been previously studied by 
+Franz-Karl Ehrhard. As early as 1979, Ehrhard recorded seven 
+volumes of a rNying ma rgyud ’bum set in his catalogue of the NAK 
+collection of Tibetan texts that had been microfilmed thus far by the 
+NGMPP (i.e. on the basis of the microfilms). [7] But it was not until 
+1989, after gaining access to the NAK Tibetan collection itself, that
+the entire Tibetan holdings, including the rNying ma rgyud ’bum set 
+stored there, could be microfilmed. During the microfilming, it 
+became clear that the set is incomplete. The team determined, most 
+probably correctly, that the original number of volumes of the set 
+was 37, but at the time it was believed that only 32 of them had 
+survived and were in the safekeeping of the Archives. [8]
+
+In 1992, this time during an expedition to Nubri (Samagaon), the NGMPP 
+microfilmed a second rNying ma rgyud ’bum set. The Nubri set was 
+complete, consisting of 37 volumes, and it soon became clear that the 
+Nubri and the NAK sets are closely related to each other in terms of 
+contents, organisation, and the history of their transmission. Ehrhard 
+studied the two collections, paying particular attention to the second 
+of the two dkar chag-s that were microfilmed together with the Nubri 
+set, and published his findings in a 1997 article.[9]
+ 
+In regard to the Nubri set, Ehrhard showed that several editions 
+were produced at the behest of Brag dkar rta so sprul sku Chos kyi 
+dbang phyug (1775–1837) at the end of the 18th and beginning of the 
+19th centuries, one of them during the years 1813–1814. This latter 
+set was reportedly prepared on the basis of a set from Glang ’phrang, 
+which could be borrowed thank to one sKal bzang of the rDo dmar 
+family. Ehrhard notes that the set was later kept in Brag dkar rta so 
+and is today in the hands of Slob dpon ’Gyur med, who enabled the 
+NGMPP to microfilm it. In regard to the edition stored at the NAK, 
+Ehrhard suggested—on account of its similarity to the Nubri set and 
+the fact that some of the volumes bore the seal of the Śrī Tīn 
+Mahārāja Bhim Shumser Jang Bahadur Rana, who was the prime 
+minister of Nepal from 1929 to 1932—that it is possibly the set 
+reported to have been produced shortly after the Nubri set by a 
+disciple of Brag dkar rta so sprul sku, one O rgyan ’phrin las bstan 
+’dzin, who belonged to the Nyang clan of gZhung in Rong shar (i.e. 
+the family responsible for the founding and upkeep of the main 
+temple of Junbesi in Solu Khumbu), and to have later been given to 
+Prime Minister Bhim Shumser. He further suggests that Sangs rgyas 
+Bla ma (1856–1939) of the Nyang clan, who was under the 
+protection of the Raṇa family and who was the person behind the 
+renovation of the gZhung temple in Junbesi in 1914, was involved in
+the gifting of the set to Bhim Shumsher. In regard to the content of 
+these two editions, one of the interesting discoveries by Ehrhard at 
+that time was the fact that the last two volumes of both sets contain 
+rDzogs chen tantras that are not included in the gTing skyes edition, 
+but are found in the Bai ro rgyud ’bum. 
+
+My first step in the investigation of the two sets in question was to 
+edit the dkar chag containing the bibliographical list that was 
+microfilmed by the NGMPP together with the Nubri set (i.e. dKar 
+chag 1). In addition, I located the titles mentioned there in the Nubri 
+set itself and compared the Nubri and the NAK sets in terms of their 
+contents and organisation. Moreover, I also attempted to identify the 
+individual texts contained in these two sets with those found in the 
+other known editions. Very soon, several things became clear: [10]
+
+(a) Despite the great similarity between the Nubri and NAK 
+sets, they differ in enough ways to presuppose a slightly 
+different history of transmission.
+
+(b) While the Nubri edition is more or less uniform in terms of 
+its organisation, format, and layout, the NAK set is rather 
+chaotic in these points, betraying rather poor editorial skills, 
+and perhaps also a lack of familiarity with the literary 
+material, on the part of its producers and editors. 
+
+(c) The texts found in the last two volumes noted by Ehrhard as 
+missing from the gTing skyes edition are all found in the 
+editions belonging to the Central Bhutanese group.[11]
+ 
+(d) Both sets contain texts that could not be located thus far in 
+any of the other accessible rNying ma rgyud ’bum editions 
+that are catalogued. 
+
+(e) The NAK set apparently suffered from the moment it was 
+conceived from a very ill thought-out organisational 
+concept, which is particularly evident in the assignment of 
+the volume numbers and the foliation. The fact that the set 
+was in Nepalese possession seems to have contributed to the 
+disorder, for the librarians in charge could seemingly not 
+read Tibetan (though there was an attempt to insert folio 
+numbers in Indian numerals on the verso of folios, 
+apparently in order to facilitate the handling of the set by 
+staff with no knowledge of Tibetan). These circumstances 
+are perhaps the reason, too, why during the microfilming by 
+the NGMPP only 32 volumes could be identified, although 
+35 were present and were in fact microfilmed.
+
+(f) And most importantly, the two sets clearly differ from the 
+gTing skyes and the Rig ’dzin Tshe dbang nor bu editions in 
+various ways, and therefore the four editions cannot be 
+classified into one and the same group called “south-central,”
+as previously suggested by Robert Mayer and Cathy Cantwell.[12]
+
+3. The Six Groups of Transmission of the rNying ma rgyud ’bum
+
+In connection with this last point, I would like to briefly present now 
+an overview of the currently accessible rNying ma rgyud ’bum sets 
+by way of grouping them in terms of the history of their 
+transmission. During the past years, four further sets have become 
+accessible. Two sets were digitised in Bhutan in 2012 within the 
+framework of the above-mentioned project “Doxographical 
+Organisational Schemes in Manuscripts and Xylographs of the 
+
+Collection of the Ancient Tantras”:13 (1) a unique set from gDong 
+dkar la monastery (Dk), Paro (sPa gro) district, and (2) an 
+illuminated set from sPa sgar monastery (Pg), Thimphu (Thim 
+phu/phug) district.14 Two further sets were digitised in 2013: (3) 
+another unique set located in Khams (Kh), the digital images of 
+which were obtained by me in the fall of 2013 from mKhan po ’Jam 
+blo from the ’Jam dbyangs shes rig dar spel khang in Chengdu, and 
+(4) an illuminated set from Sangs rgyas gling monastery 
+(Sg), Tawang (rTa dbang), which was digitised by an Oxford 
+University project under Cathy Cantwell, Robert Mayer, and 
+Ngawang Tsepag. While the discoveries of the sPa sgar and Sangs 
+rgyas gling editions have little significance in terms of advancing our 
+understanding of the history of the transmission of the rNying ma 
+rgyud ’bum collection, that of the gDong dkar la edition has great 
+significance in this regard, since it represents a unique, hitherto 
+unknown line of transmission. As for the Khams edition, although its 
+content and organisation appears to be different from all other 
+accessible editions, it is still unclear how significant it is as far as the 
+collection’s history of transmission is concerned, and the matter is 
+yet to be thoroughly investigated. The structure and content of these 
+two editions cannot, however, be discussed here and will be treated 
+separately elsewhere. On the basis of my extensive studies of the 
+Nubri and NAK sets and my preliminary investigations of the gDong 
+dkar la and Khams editions (catalogues of all four sets are currently 
+under preparation),15 I suggest the following grouping of the 
+thirteen16 editions accessible to date:17
+
+(a) The Central Bhutanese group comprises six sets, all of 
+which consist of 46 volumes and obviously ultimately go back 
+to the same origin: (i) sGang steng plain manuscript edition 
+(Gt-p), (ii) sGang steng illustrated manuscript edition (Gt-i), 
+
+(iii) mTshams brag illustrated manuscript edition (Tb), (iv) 
+dGra med rtse plain manuscript edition (Gm), (v) sPa sgar 
+illustrated manuscript edition (Pg), and (vi) Sangs rgyas gling 
+illustrated manuscript edition (Sg), which is unfortunately 
+incomplete (vols. 11, 12 and 41 being missing). The relation of 
+these six editions among themselves has not been thus far 
+satisfactorily clarified. It is, however, quite certain that the 
+sGang steng sets are among the earliest ones and that they (or 
+one of them) have played an important role in the history of the 
+transmission of the other editions in this group. From the 
+information obtained thus far it seems that the earliest among 
+them is the plain sGang steng set, which, according to 
+historical sources, was produced in 1642 by Pad gling gsung 
+sprul III Phan pa bzang po alias Kun mkhyen Tshul khrims rdo 
+rje (1598–1669; TBRC: P1692) as a commemoration set 
+(dgongs rdzogs) for his teacher sGang steng sprul sku I rGyal 
+sras Padma ’phrin las (1565–1642; TBRC: P2659) right after 
+his death.18 According to his autobiography, Pad gling gsung 
+sprul III commissioned various objects to commemorate the 
+death of sGang steng sprul sku I, the most important of which 
+was a complete 46-volume rNying ma rgyud ’bum set. The 
+scribes and other craftsmen are stated there to have been 
+brought from distant places and the work to have been brought
+to completion with much care.19 The set that served as the 
+master copy for this edition is stated in Karma bde legs’s
+rGyud ’bum dkar chag as having been borrowed from lHa 
+lung, and the production as having taken about four months 
+and as having required about 40 scribes (at least some of whom 
+appear to have been from sNye mo).20 No information 
+regarding the circumstances of the production of the master 
+copy (reportedly from lHa lung)—which is clearly older than 
+all accessible sets of the Central Bhutanese group, and possibly 
+the one to which all ultimately goes back—could be obtained 
+thus far. The sGang steng illuminated set is said to have been 
+produced in 1726/27 as a commemoration set for sGang steng 
+sprul sku II bsTan ’dzin legs pa’i don grub (1645–172621;
+TBRC: P514). It has been further stated that the set was 
+prepared under the auspices of the rGyal tshab—to be 
+identified as Mi pham dbang po (1709–1738; TBRC: P531), 
+the reincarnation of rGyal sras bsTan ’dzin rab rgyas (1638–
+1698; TBRC: P512)—who also consecrated the set, that its 
+front pages were written in gold on black paper, and that it 
+consisted of “about 45!” volumes.22
+ 
+The mTshams brag set is reported to have been commissioned
+by mTshams brag sprul sku I Ngag dbang ’brug pa (1682–
+1748; TBRC: P526), the founder of mTshams brag monastery 
+and a disciple of sGang steng sprul sku II bsTan ’dzin legs pa’i 
+don grub (1645–1726; TBRC: P514). His biography, composed 
+by rJe mkhan po IX Shākya rin chen (1710–1759; TBRC: 
+P530), mentions his commissioning of the edition only 
+briefly.23 There the origin of the master copy is stated to be 
+Punakha. This, however, is something that needs further 
+verification, since sGang steng monastery, which has thus far 
+been widely believed to be the source of the master copy, is 
+located in Wangdue Phodrang (dBang ’dus pho brang) district 
+and not in Punakha. The date of production is not provided 
+either but it has most probably begun in 172624 and been 
+completed in 1728.25 These dates as the years of production of 
+this set make one wonder what the exact connection between it 
+and the one commissioned by rGyal tshab Mi pham dbang po 
+and others at around the same time to commemorate sGang 
+steng sprul sku II. One askes oneself, for example, whether 
+mTshams brag sprul sku, too, conceived the set as 
+commemoration to sGang steng sprul sku II (who was his own 
+teacher), whether the same set served as the master copy, and 
+whether there was any logistical coordination between the two 
+projects (e.g. sharing the same scribes and editors). 
+The production date of the Sangs rgyas gling edition26 is 
+unclear but, provided it is a copy of the mTshams brag set, it
+would be later than the latter. The production dates of the dGra 
+med rtse and sPa sgar sets have not yet been determined. This 
+leaves us with the sGang steng plain edition produced in 1642, 
+the sGang steng illuminated edition of 1726/27, and the 
+mTshams brag edition probably dating from 1726–1728, that 
+is, from around the same time as the sGang steng illustrated 
+set, while the relationship among the Gt-p, Gt-i, and Tb sets is 
+not completely clear. 
+
+(b) The South-Western Tibetan group comprises two sets, both 
+apparently of 33 volumes originally: (i) Rig ’dzin Tshe dbang 
+nor bu illuminated manuscript edition (Tn) (incomplete), and 
+
+(ii) gTing skyes dGon pa byang plain manuscript edition (Tk). 
+The two sets represent the fruit of activity surrounding the 
+production and transmission of the rNying ma rgyud ’bum in 
+South-Western Tibet during the late 18th century and perhaps 
+also at the beginning of the 19th century. As for the Rig ’dzin 
+Tshe dbang nor bu set, as shown by Cantwell and Mayer, it 
+was commissioned in honour of Kaḥ thog rig ’dzin Tshe dbang 
+nor bu (1698–1755), perhaps by actual students of his or later 
+followers of his tradition, and thus can likely be dated to the 
+late 18th century.27 As already pointed out by Dan Martin, the 
+gTing skyes set is probably the set reported in the biographies 
+of the gTing skyes dGong pa byang throne-holders composed 
+by mTha’ grol rdo rje. There it is listed among the numerous 
+books that the founder of dGon pa byang (TBRC: G1KR1628),
+Padma chos ’phel (alias Bya btang mKhas grub lha rje alias 
+Tshe ring don ’grub, 1772/1773–1836; cf. TBRC: 
+P2DB20793), deposited in the monastery’s temple.28 The year 
+of the monastery’s founding, and thus a terminus post quem of
+the set’s production, is unknown, but considering the dates of
+Padma chos ’phel, it would be reasonable to assume that he 
+carried out activities of such monumental scale during the 
+second half of his life and thus place the set’s production in the 
+early decades of the 19th century. This would position it slightly 
+later than the Rig ’dzin Tshe dbang nor bu set. The relation 
+between the two sets is, however, yet to be determined. 
+
+(c) The Tibetan-Nepalese Borderlands group also consists of 
+two sets, apparently both originally in 37 volumes: (i) the 
+Nubri set (Nu), an illuminated manuscript edition that was 
+produced in Brag dkar rta so and is currently stored in Nubri, 
+and (ii) the NAK set (Na), an illuminated manuscript edition 
+probably produced in the Solu Khumbu area and is currently 
+stored at the National Archives in Kathmandu (incomplete). As 
+pointed out earlier, both were produced at the beginning of the 
+19th century: the Nubri set was produced in Brag dkar rta so at 
+the behest of Brag dkar rta so sprul sku Chos kyi dbang phyug 
+during the years 1813–1814, and the NAK set probably in the 
+Solu Khumbu area shortly after the Nubri set at the behest of 
+one O rgyan ’phrin las bstan ’dzin, a disciple of Brag dkar rta 
+so sprul sku. As I shall show below, although the NAK set is 
+probably later than the Nubri one, it reflects an earlier (i.e. 
+older) stage in the history of the transmission than the Nubri 
+set, as is clearly evident from its organisation.
+
+(d) The Western Bhutanese group, consisting thus far of one 
+set, namely, the gDong dkar la plain manuscript edition (Dk). 
+As I have shown elsewhere, the set was probably produced in 
+1647 in East Bhutan, at the behest of sPa gro Chos dbang lhun 
+grub (b. 17th cent.; TBRC: P2718) and under the sponsorship of 
+King Dewa of Kha ling, his queen and other residents of the 
+area.29 This set comprises 28 volumes, and from a preliminary 
+study of it, it has become clear that it differs greatly from all 
+other sets accessible thus far and indeed represents an 
+independent compilation. There is no doubt that it is
+independent of the Central Bhutanese group, which came into 
+being around the centre of the Pad gling tradition in lHa lung. 
+To be noted is that the earliest available set amongst the 
+Central Bhutanese group (i.e. the plain sGang steng) was 
+produced only a few years prior to the gDong dkar la edition. 
+There is therefore no doubt that a thorough study of it will shed 
+more light on the history of the rNying ma rgyud ’bum
+collection in general and its transmission in Bhutan in 
+particular. An interesting feature of this set is that it is rich in 
+editorial glosses, which give numerous hints regarding the 
+process of its compilation and the policies followed by its 
+editors (see fig. 2). These glosses are valuable not only for our 
+better understanding of the collection’s history of transmission 
+but also for our better understanding of the text and book 
+cultures in Tibet in general, for they provide us with unique 
+glimpses into the compilatory and editorial processes shaping 
+large corpora of Buddhist literary collections (be they 
+canonical, para-canonical, or extra-canonical)—processes that 
+have been practised within the Tibetan cultural sphere for 
+centuries.30
+
+(e) The fifth group, which will be tentatively called (Central 
+Bhutanese)–Eastern Tibetan,31 likewise consists thus far of 
+only one set of 34 volumes, which are written in dBu med in 
+black ink with rubrication in red (see fig. 3). For lack of 
+sufficient details regarding its exact origin, it is simply referred 
+to here as the Khams edition (Kh). As stated above, I obtained 
+digital images of this set from mKhan po ’Jam blo (of the ’Jam 
+dbyangs shes rig dar spel khang) during a visit to Chengdu in 
+the fall of 2013. This set of images consists of 34 folders,
+numbered 1–34. To be noted, however, that the 34th folder 
+contains images of an as yet unidentified modern reproduction 
+of a dBu med manuscript (bearing page numbers in printed 
+Arabic numerals), which obviously differs from the first 33 
+volumes in both codicological and palaeographical terms. The 
+set—which is currently stored in gZhi chen monastery,32 a 
+subsidiary of Kaḥ thog monastery in the Serta area—is, like the 
+gDong dkar la set, unique in terms of content and organisation. 
+My preliminary study of this Khams edition shows that, while 
+it too bears witness to independent compilatory work on the 
+part of its producers, its compilers had access to a set related to 
+the Central-Bhutanese group. It seems that, just as in the case 
+of the Tibetan-Nepalese Borderlands group, this edition 
+represents a transitional or intermediate stage between the 
+South-Western Tibetan and the Central Bhutanese groups. 
+However, since it includes not only texts found in the editions 
+of both the Tibetan-Nepalese Borderlands and Central 
+Bhutanese groups, but also texts that are only found in the 
+Central Bhutanese group, it clearly represents a stage in the 
+transmission that is later than the one reflected by the Tibetan-
+Nepalese Borderlands group. Moreover, its organisation does 
+not resemble any of the other groups, so that its exact relation 
+to them is yet to be determined. It appears, however, to 
+resemble more the Central Bhutanese group in terms of content 
+(if not in terms of organisation). Thus the suggestion to
+tentatively name the group it represents (Central Bhutanese)–
+Eastern Tibetan. According to personal communication with 
+Karma bde legs (previously of dPal brtseg, Lhasa), this edition 
+was apparently compiled at the behest of Khyab gdal lhun grub 
+(b. 17th cent.) from Brag dmar monastery33 (the current 
+digitisation efforts in gZhi chen were carried out by mKhan po 
+’Chi med rig ’dzin from Bla rung sgar, likewise in the Serta 
+area). The exact time and place of compilation and production, 
+the master copies used, the persons involved, and the exact role 
+of Brag dmar Khyab gdal lhun grub are, however, as yet to be 
+clarified. If this edition indeed dates from the late 17th or early 
+18th century (provided it was indeed commissioned by Brag 
+dmar Khyab gdal lhun grub), the circumstances of its 
+production, if they come to light, are surely bound to shed light 
+on the collection’s history of transmission in East Tibet, of 
+which little is known thus far.34
+
+(f) The (Central)–Eastern Tibetan group consists of the only 
+xylographic edition of the collection that has ever been 
+produced. Despite the fact that this group is represented by 
+only a single set from East Tibet, it seems more accurate to 
+designate it “(Central)–Eastern Tibetan” and not simply 
+“Eastern Tibetan,” since, as is well known, it was prepared at 
+the behest of the queen of sDe dge Tshe dbang lha mo—the 
+wife of the sDe dge king Sa dbang bzang po, who died at the 
+early age of 25 years—between the years 1794 and 1798. It is 
+said to be based on several sets, but the master copy was 
+obviously the Central Tibetan set (or a copy of it) 
+commissioned by ’Jigs med gling pa (1729/30–1798; TBRC: 
+P3) in Padma ’od gling some years earlier.35 A comparison of 
+its contents with ’Jigs med gling pa’s title list of the Padma ’od 
+gling set contained in his history-cum-catalogue of the rNying 
+ma rgyud ’bum shows that the two are indeed very similar, 
+though not identical.36
+
+4. The NAK Set, Its Production, Organisation, and History of Transmission
+
+In the following I wish to return to the two Tibetan-Nepalese 
+Borderlands editions, with an emphasis on the NAK set. On the basis 
+of my comparison of the content of these two sets, the following 
+conclusions could be drawn thus far:
+(a) Due to the fact that, unlike the Nubri set, the NAK set 
+suffers from great deficiencies in regard to the organisation of 
+its individual texts, volumes numbers, and foliation it clearly 
+represents an earlier stage than the Nubri set in terms of the 
+overall history of the transmission of the rNying ma rgyud 
+’bum in the Tibetan-Nepalese Borderlands. (This of course 
+does not mean that the former was produced earlier than the 
+latter!) Thus, the Nubri set could not have possibly served as 
+the master copy for the NAK set—as one is tempted to believe 
+based on the assumption that the latter was very probably 
+produced after the former and the reported master–disciple 
+relationship between Brag dkar rta so sprul sku, who was 
+behind the production of the Nubri set, and O rgyan ’phrin las
+bstan ’dzin from Rong shar, who, it has been suggested, was 
+the figure behind the production of the NAK set.
+(b) The Tibetan-Nepalese Borderlands group—of presumably 
+originally 37 volumes in each of its sets—clearly represents an 
+intermediate stage between the South-Western Tibetan 
+group—consisting of the gTing skyes and Tshe dbang nor bu 
+editions, presumably originally 33 volumes each—and the 
+Central Bhutanese group—consisting of six sets of 46 volumes 
+each. As Ehrhard already pointed out, dkar chag 2, which was 
+transmitted together with the Nubri set, informs us that when 
+Myang ston mnga’ bdag Rig ’dzin rgya mtsho (b. 17th cent.), a 
+disciple of gTer bdag gling pa (1646–1714; TBRC: P7), was 
+acting as the chief editor of the sNar thang xylograph edition of 
+the bKa’ ’gyur prepared at Shel dkar at the behest of the ruler 
+Pho lha ba/nas bSod nams stobs rgyas (1689–1747; TBRC: 
+P346)—that is, sometime between 1730 and 1732—he asked 
+the ruler to invite a master named Ngag dbang lhun grub grags 
+pa from lHo brag lHa lung to participate in the endeavour. 
+Consequently, Ngag dbang lhun grub grags pa came to dPal 
+mo chos sding in La stod (TBRC: G1KR1648), a monastery 
+founded by Bo dong ’Jigs med grags pa alias Phyogs las rnam 
+rgyal (1376–1451; TBRC: P2627), and gave there teachings—
+including a text transmission of the rNying ma rgyud ’bum!—to 
+various personalities of the area. It is further reported that after 
+the teaching and reading transmission, Ngag dbang lhun grub 
+grags pa called upon the disciples to make a copy of the entire 
+collection of the rNying ma rgyud ’bum in order to increase the 
+reading transmission and to likewise carry out a reading 
+transmission of the collection at least once. As a result, several 
+sets were produced. Considering this report, it is very plausible 
+that the text transmission of the rNying ma rgyud ’bum given 
+by Ngag dbang lhun grub grags pa was based on a copy of a 
+collection that he brought with him from lHo brag lHa lung, 
+which, as we know, was the centre of the Pad gling 
+reincarnation lineages and the location where the prototype for 
+the Central Bhutanese editions very probably originated.37 In 
+this case, it is also very likely that this lHa lung set served as 
+the master copy for the Tibetan-Nepalese borderlands editions. 
+This would suggest that the texts contained in the last two
+volumes of these two editions and other texts that are not found 
+in the editions of the South-Western Tibetan group but in those 
+of the Central-Bhutanese one were already included in the lHa 
+lung edition, and maybe were even added to the rNying ma 
+rgyud ’bum there for the first time. However, we have no exact 
+information as to its predecessor, or in other words, to the 
+prototype I assume to have served as the master copy for the 
+Tibetan-Nepalese Borderlands editions, and which I suggest 
+represents an intermediate, or transitional, stage in the history 
+of the transmission of the collection, reflecting its state at a 
+particular point on the line of transmission between the SouthWestern Tibetan group, on the one hand, and the Central 
+Bhutanese group, on the other. To be kept in mind is that if the 
+master copy of the Tibetan-Nepalese Borderlands editions was 
+indeed a copy brought by Ngag dbang lhun grub grags pa from 
+lHo brag lHa lung in 1730, it would appear that Ngag dbang 
+lhun grub grags pa brought along with him a copy representing 
+an earlier stage of the 46-volume Central Bhutanese group 
+despite the fact that several copies of the 46-volume edition 
+have already existed (i.e. at least the sGang steng plain edition 
+of 1642, sGang steng illuminated edition of 1726/27, mTshams 
+brag edition of probably 1726–1728, and the one reported to 
+have been prepared by Pad gling gsung sprul IV Ngag dbang 
+kun bzang rdo rje in the 1710s or early 1720s). The reasons for 
+Ngag dbang lhun grub grags pa’s choice of the master copy 
+could have been very practical ones, such as availability (we 
+still do not have any explicit information regarding the 
+existence of the 46-volume edition in lHa lung itself), but also 
+other matters could have played a role, such as the tradition he 
+belonged to and the lineage of reading transmission he 
+received.
+As I pointed out earlier, the NAK set is incomplete and suffers from 
+major organisational deficiencies, a fact that initially led to 
+difficulties in identifying and determining the number of available 
+volumes. During my cataloguing of the NAK set—which also 
+included a comparison with the Nubri set—it became clear that 35 of 
+what were probably originally 37 (Ka−Ji) volumes are currently 
+stored in the National Archives, with only volumes Za and Sha being 
+missing. Most of the organisational deficiencies seem to have had 
+their origin already at the time the set was being produced. They 
+mainly take the form of the wrong assignment of volume numbers—
+which in turn led to some confusion in the way the individual 
+volumes were stored in the National Archives. While the originally 
+37 volumes of the NAK set should have been, exactly as in the case 
+of the Nubri set, assigned the numbers Ka–Ji, what we find is that in 
+several cases certain volume numbers have been assigned twice, and 
+in two other cases volume numbers have probably not been assigned 
+at all:
+(a) Two volumes are assigned the number Ja. During the 
+cataloguing it became clear that one of them, designated by me 
+Ja2, should be in fact volume Zha, which at first seems to be 
+missing. This volume is, however, unfortunately incomplete, 
+the first 81 folios being missing. As I have shown elsewhere, 
+there seem to be no particular features common to volumes Ja 
+and Ja2 (= Zha) which could possibly explain this confusion: 
+the hands are different and no shared pattern of the 
+employment of the ink varieties could be observed. It could, 
+however, be demonstrated that the ink varieties used in Ja2 (= 
+Zha) are rather similar to those used in some of the last 
+volumes of the collection, which are generally of poorer 
+quality—that is, in terms of the performance of the scribes and 
+artist, the materials used, and the editorial scrutiny—and which 
+appear to have been possibly produced towards the end of the 
+project, perhaps by a different group of scribes in the same or a 
+different location, and very probably also under some financial 
+strain. This fact may not fully explain the reason for the 
+confusion in the assignment of the volume number, but perhaps 
+it partly does.38
+(b) In addition to one volume numbered Tha, which 
+corresponds to its counterpart in the Nubri set and thus can be 
+assumed to be bearing the correct volume number, we find 
+another small volume that is likewise assigned the number Tha. 
+This volume, which I have designated Tha2, merely consists of 
+133 folios and only contains one text. This text corresponds to 
+the third text in volume Da in the Nubri set and is indeed 
+missing from volume Da in the NAK set.39 Also to be noted is
+the fact that unlike in the case of the other volumes, the first 
+two folios of Tha2 are not illuminated. Unfortunately, no 
+evidence could be found thus far—either through 
+palaeographical examination or by means of material analysis 
+of the types of ink used—that could hint at the origin of Tha2 
+and explain its existence or coming into being.40
+(c) We also find two volumes with the number Ma. The 
+volume I designate Ma2 is incomplete, missing the first 191 
+folios. As I have pointed out elsewhere, it had been initially 
+assigned the volume number Pha, but the number was later on 
+altered to Ma. The reasons for this change have thus far not 
+been clarified, neither through historical-philological inquiry 
+nor by way of material analysis or multispectral imaging. 
+Nonetheless, it could be established, through both 
+palaeographical examination and material analysis of the ink—
+that Ma2 was highly likely to have been an integral part of the 
+collection from the time of its production and so is not of 
+external origin. It should be, however, perhaps pointed out that 
+most of the texts contained in Ma2 are found in volume Ma of 
+the Rig ’dzin Tshe dbang nor bu edition, which could be a 
+useful piece of evidence regarding the history of the 
+transmission of this cluster of texts, provided more pieces of 
+the puzzle surface in the future. Furthermore, all five texts 
+contained therein (i.e. fols. 192–390) match the first five texts 
+in volume Pha of the Nubri set.41 Interestingly, the counterparts 
+of the remaining 15 texts in volume Pha of the Nubri edition 
+(Nu.237–244) are found in volume Da in the NAK set (fols. 1–
+164),42 while the counterparts of the texts contained in volume 
+Pha of the NAK set are all found in volume Ba of the Nubri 
+set.43 These differences between the Nubri and the NAK sets in 
+the distribution of texts within the individual volumes should 
+be weighed against the fact that in general there is otherwise a 
+rather good correspondence between the two sets.
+(d) At least two volumes seem not to have been initially 
+assigned a number at all, namely, Wa and Ji. Moreover, as I 
+have already pointed out elsewhere, both of these volumes 
+seem to have been at some point erroneously assigned the 
+number Tsa (while the latter has also been occasionally 
+confused with the number Ca due to the graphical similarity of 
+these two Tibetan letters), a mistake that was obviously soon 
+recognised by the persons involved in the production. The 
+reason that these volumes initially lacked a number and that 
+they were then falsely assigned the same number (in both cases 
+there may have been some graphical confusion) has 
+unfortunately not been satisfactorily clarified thus far.44
+ 
+Besides these obvious irregularities and confusion regarding the 
+assignment of volume numbers, one often also observes confusion 
+regarding the assignment of folio numbers in the NAK set. Several of 
+these cases have been examined by way of multispectral imaging. As 
+has already pointed out, the processed images seem to support the 
+historical-philological and palaeographical-codicological analyses 
+which suggest that the work load appeared to have been distributed 
+among the scribes in bundles of ten folios and that at least in some 
+cases the confusion in the foliation is probably a result of this 
+division of labour (possibly when not properly supervised and 
+coordinated).45
+ 
+Despite the evidently poor editorial quality, the production of the 
+NAK set must have been regarded as a prestigious project, as is 
+commonly the case with the production of such huge corpora. The 
+fact that the first two written pages (i.e. fols. 1b & 2a) of most of the 
+volumes in the set are illuminated—the text being written with 
+golden ink on black paper and decorated with illustrations—further 
+confirm the prestigious nature of this undertaking. Nonetheless, the 
+quality of the illuminated pages varies greatly, including (i) the 
+quality of the gold (which turned out to be in most cases a mixture of 
+gold and orpiment in varying ratios, while only in some cases was the 
+ink found to be made of pure gold, and in some others it consisted of 
+orpiment alone with no gold component at all), (ii) the usage of red 
+ink instead of golden ink (particularly in the last volumes),46 (iii) the 
+quality of the illustrations (some of which were, for example, left 
+unpainted or only partly painted), (iv) the quality of other decorative 
+elements, such as the curtained windows of the verso of the first 
+folios (some windows, for example, were left uncut), and (v) 
+inconsistency in the layout. Some examples of the varying quality of 
+the illuminated front pages of the NAK set—of, in particular, their 
+declining quality in terms of both material and artistry—as well as 
+variation in their layout are provided below (see figs. 4–8).47 As I 
+have suggested elsewhere, the inconsistency in the quality of the gold 
+and the illustrations—which seem to be declining particularly in the 
+last volumes—appears to hint at financial difficulties towards the end 
+of the production project.
+
+To sum up, as we have seen, the organisational incoherency and 
+fluctuating quality of the craftsmen’s skill and style and of the 
+writing material used could be partly explained on the basis of the 
+observations and findings made thus far, and several plausible 
+assumptions could be accordingly articulated: (i) At least some of the 
+volumes of the NAK set were produced by a different team of 
+scribes, possibly at a different location. (ii) Different artists, likewise 
+possibly in different locations, were responsible for the illustrations. 
+(iii) The sponsors of this huge undertaking very probably faced 
+financial difficulties, particularly towards its end phase. (iv) The 
+division of labour among the scribes possibly involved the 
+distribution of bundles consisting of ten folios each. (v) The editorial 
+proofreading was in all likelihood carried out in a centralised 
+manner.
+
+5. Concluding Remarks 
+
+In this paper, I have touched upon and discussed several issues 
+regarding the history of the transmission of the rNying ma rgyud 
+’bum in general and that of the NAK set in particular. I first pointed 
+out the existence of a hitherto unrecognised distinct group among the 
+currently accessible rNying ma rgyud ’bum sets, one that reflects a 
+separate line of transmission, namely, the Tibetan-Nepalese 
+Borderlands group, consisting of the Nubri and NAK sets, which thus 
+far have been grouped together with the Rig ’dzin Tshe dbang nor bu 
+and the gTing skyes sets (under the designation “south-central”). 
+Secondly, I have presented a scheme of six groups, presenting six 
+distinct lines of the transmission of the rNying ma rgyud ’bum
+collection, with an attempt to briefly discuss the dates and the
+
+circumstances of their production, so as to enable us to better 
+understand the relation between the sets within one and the same 
+group on the one hand and between the groups on the other. This was 
+followed by a brief discussion of the historical background of the
+Nubri and NAK sets and of their content in comparison to other sets, 
+on the basis of which I suggested that the Tibetan-Nepalese 
+Borderlands group represents an intermediate or transitional stage 
+between the South-Western Tibetan and the Central Bhutanese 
+groups. Lastly, I discussed some distinct features of the NAK set, 
+particularly in comparison to the Nubri set, focusing on selected 
+irregularities in the NAK set. On the basis of this examination I 
+proposed that the NAK set represents a stage in the transmission line 
+of the collection in the Tibetan-Nepalese Borderlands that is earlier 
+than that of the Nubri set, even though the NAK set was probably 
+produced later than the Nubri one. However, all the circumstances 
+surrounding the production of the NAK set have yet to be uncovered. 
+Considering all the irregularities that slipped through the editorial 
+oversight—as reflected in organisational matters, such as text order, 
+assignment of volume numbers, and foliation—and the fluctuating 
+quality of the material and its visual impact—as reflected in writing 
+materials, the skills and style of the craftsmen (scribes and artists), 
+and layout—several questions arise regarding the production of the 
+NAK set. These include (i) whether the organisational deficiencies 
+reflect the state of the master copy; (ii) whether there was no capable 
+scholar available; (iii) whether the set was produced in haste; (iv) 
+whether its production was partially outsourced or staggered—that is, 
+it was produced in different places or at different points in time; (v) 
+what led to the logistical or financial difficulties that the production 
+process seems to have faced; and (vi) whether all the volumes 
+currently stored at the National Archives have been an integral part 
+of the collection from the very beginning or whether some are later 
+additions. While some of these questions will have to remain 
+unanswered as long as no further evidence comes to light, attempts 
+have been made to answer some of them, at least partially, by 
+combining historical-philological studies with codicological-cum-
+palaeographical investigations and scientific examinations (including 
+analyses of the ink and paper and multispectral imaging). The present 
+article augments my two recent publications concerning the NAK set, 
+which have mainly presented the research results of codicological-
+cum-palaeographical studies combined with scientific methods—
+including material analysis of the ink and paper and multispectral 
+imaging of select folios from the NAK set—conducted in an attempt 
+to answer some of the questions that have ensued as a result of 
+observations made during my historical-philological (i.e. particularly 
+bibliographical) studies of the Nubri and NAK sets. It particularly 
+discusses findings resulting from historical-philological studies—of 
+mainly bibliographical, biographical, and historical material of 
+various sorts—in an attempt to shed more light on the history of the 
+production and transmission of the rNying ma rgyud ’bum collection 
+in the Tibetan-Nepalese borderlands in general and of the NAK set in 
+particular.
+Moreover, the findings gained through the study of the 
+circumstances of the production of the NAK set go beyond their 
+significance to the study of the history of the formation, production 
+and transmission of the rNying ma rgyud ’bum collection. As I have 
+shown in my recent discussion of the gDong dkar la edition,48 the 
+study of the circumstances leading to the formation of a rNying ma 
+rgyud ’bum set—and in fact of any other large corpus of Buddhist 
+literature for that matter—could shed more light on the book and text 
+cultures within the Tibetan cultural sphere in general, and on the 
+compilatory process, editorial policies, scribal practices, and 
+logistical matters in particular. This is in addition to the increasing 
+knowledge obtained in recent years regarding the material aspects of 
+the culture of the book within the Tibetan cultural domain, 
+particularly concerning paper but also ink and pigments. 
+
+Bibliography
+
+1. Primary Sources
+
+gTing skyes ’khrungs rabs rnam thar = mTha’ grol rdo rje. mTshungs 
+med dpal mgon bla ma dam pa gting skyes dgon byang mchog 
+sprul ’khrungs rabs bcu’i rnam par thar pa mdo tsam brjod pa. 
+Biographies of successive embodiments of the Tingkye Gonpa 
+Jang masters. Reproduced from a manuscript made in 1965 in 
+Sikkim. Thimphu: Kunzang Tobgyel & Mani Dorji, 1979. 
+[Scans: TBRC: W2CZ6602].
+
+Gu bkra’i chos ’byung = Gu ru bkra shis alias sTag sgang mkhas 
+mchog Ngag dbang blo gros, bsTan pa’i snying po gsang chen 
+snga ’gyur nges don zab mo’i chos kyi byung ba gsal bar byed 
+pa’i legs bshad mkhas pa dga’i byed ngo mtshar gtam gyi rol 
+mtsho. Beijing: Krung go bod kyi shes rig dpe skrun khang, 
+1990.
+
+mTshams brag rnying rgyud dkar chag = Mi nyag Thub bstan chos 
+dar. mTshams brag rnying ma rgyud ’bum gyi dkar chag gsal 
+ba’i me long. Beijing: Mi rigs dpe skrun khang, 2009.
+Ngag dbang ’brug pa’i rnam thar = rJe mkhan po IX Shākya rin 
+chen. rGyal kun brtse ba’i spyi gzugs sems dpa' chen po gsung 
+dbang sprin dbyangs kyi rtogs pa brjod pa rig ’dzin kun tu dga’ 
+ba’i zlos gar. In Thub dbang gnyis pa rgyal ba shākya rin chen 
+gyi gsung ’bum. Reproduced from the unique MS. Prepared 
+after the author’s death and preserved at his monastery of Phajo-ldin Bya-rgod-phun-po. Thimphu: Kunzang Topgey, 
+1976, vol. 2, pp. 487–585. [Scans: TBRC: W8684-4366]. 
+
+rGyud ’bum dkar chag = Karma bde legs. sNga ’gyur rgyud ’bum rin 
+po che phyogs sgrig gi dkar chag. Lhasa: dPal brtsegs bod yig 
+dpe rnying zhib ’jug khang, 2009.
+rNying ma rgyud ’bum Dg = sDe dge Xylograph Edition. 25+1 vols. 
+Scans: TBRC: W21939. Catalogue: (i) Jean-Luc Achard, “Rig 
+
+’dzin Tshe dbang mchog grub (1761–1829) et la constitution 
+du rNying ma rgyud ’bum de sDe dge.” Revue d’Etudes 
+Tibétaines 3: 43–89, 2003; (ii) The Tibetan & Himalayan 
+Library (THL), www.thlib.org.
+
+rNying ma rgyud ’bum Dk = gDong dkar la Plain Ms Edition. 28 
+vols. Stored at gDong dkar la monastery, Paro district, Bhutan. 
+Tibetan Manuscript and Xylograph Traditions
+62
+Digitisation: CSMC, Universität Hamburg & Preservation of 
+Bhutan’s Written Heritage, Bhutan, 2012.
+
+rNying ma rgyud ’bum Gm = dGra med rtse Plain Ms Edition. 46 
+vols. Stored at dGra med rtse monastery, Mongar district, 
+Bhutan. Digitisation: Karma Phuntsho in cooperation with The 
+British Library, 2006.
+
+rNying ma rgyud ’bum Gt-i = sGang steng Illuminated Ms Edition. 46 
+vols. Stored at sGang steng monastery, Wangdue district, 
+Bhutan. Digitisation: Karma Phuntsho in cooperation with The 
+British Library, 2003. Catalogue: Cathy Cantwell, Rob Mayer, 
+Michael Kowalewski & Jean-Luc Achard, The sGang steng-b 
+rNying ma’i rGyud ’bum Manuscript from Bhutan. 
+“Introduction” by Cantwell & Mayer, 4–15, “Catalogue” by 
+Cantwell, Mayer, Kowalewski & Achard, 16–141. Revue 
+d’Etudes Tibétaines 11, 2006.
+
+rNying ma rgyud ’bum Gt-p = sGang steng Plain Ms Edition. 46 vols. 
+Stored at sGang steng monastery, Wangdue district, Bhutan. 
+Digitisation: Karma Phuntsho in cooperation with The British
+Library, 2004.
+rNying ma rgyud ’bum Kh = Khams Plain Ms Edition. 34 vols. 
+Digitisation: mKhan po ’Chi med rig ’dzin, Bla rung sgar, 
+2011?. [Partly = TBRC: W2PD17382, 39(!) vols.; scans 
+currently restricted.]
+
+rNying ma rgyud ’bum Na = National Archives Kathmandu 
+Illuminated Ms Edition. 37? vols. (incomplete, 35 vol. 
+available). Stored at the National Archives Kathmandu, Nepal 
+(Ms no. 5). [The set is probably originally from Junbesi, Solu 
+Khumbu, Nepal.] Microfilmed by the Nepal-German 
+Manuscript Preservation Project (NGMPP), 1989: Reel Nos. 
+AT 1/1–AT 25.
+
+rNying ma rgyud ’bum Nu = Nubri Illuminated Ms Edition. 37 vols. 
+In the possession of Slob dpon ’Gyur med, Nubri (Samagaon), 
+Nepal. [The set is originally from Brag dkar rta so.] 
+Microfilmed by the Nepal-German Manuscript Preservation 
+Project (NGMPP), 1993: Reel Nos. L 426/4–L 448/1.
+
+rNying ma rgyud ’bum Pg = sPa sgar Illuminated Ms Edition. 46 
+vols. Was stored at sPa sgar monastery, Thimphu district, 
+Bhutan. Digitisation: CSMC, Universität Hamburg & 
+Orna Almogi: The rNying ma rgyud ’bum Set at the National Archives Kathmandu 63
+Preservation of Bhutan’s Written Heritage, Bhutan, 2012. [Ms 
+destroyed by fire on 29.02.2012.]
+
+rNying ma rgyud ’bum Sg = Sangs rgyas gling Illuminated Ms 
+Edition. 46 vols. (incomplete, 43 vols. available). Digitisation: 
+Cathy Cantwell, Rob Mayer, Ngawang Tsepag, 2013. [Scans 
+can be viewed in person at the Weston Library of the Bodleian, 
+Oxford; announced as soon to be made available through the 
+TBRC: W1KG16449].
+
+rNying ma rgyud ’bum Tb = mTshams brag Illuminated Ms Edition. 
+46 vols. Stored at mTshams brag monastery, Thimphu district, 
+Bhutan. Facsimile Edition: Thimphu: The National Library of 
+Bhutan, 1982. Scans: TBRC: W21521. Catalogue: The Tibetan 
+& Himalayan Library (THL), www. thlib.org.
+
+rNying ma rgyud ’bum Tk = gTing skyes Plain Ms Edition. 33 vols. 
+Facsimile Edition: Thimphu: Dingo Khyentse Rimpoche, 
+1973–1975. 33+3 vols. Scans: TBRC: W21598. Catalogues: (i) 
+Eiichi Kaneko 1982. Ko Tanotora zenshū kaidai mokuroku [A 
+catalogue of the Khyentse edition of the gTing-skyes dgon-pabyang rnying-ma-rgyud-’bum]. Tokyo: Kokusho Kankūkai; (ii) 
+The Tibetan & Himalayan Library (THL), www. thlib.org.
+rNying ma rgyud ’bum Tn = Rig ’dzin Tshe dbang nor bu (=Waddell) 
+Illuminated Ms Edition. 33? vols. (incomplete). Stored at 
+various places, including The British Library, London; 
+Bodleian Library, Oxford University; Victoria and Albert 
+Museum, London. Catalogue: Cathy Cantwell, Robert Mayer 
+& Michael Fisher, http://ngb.csac.anthropology.ac.uk/.
+
+sDe dge rnying rgyud dkar chag = Mi nyag Thub bstan chos dar. 
+rNying ma rgyud ’bum gyi dkar chag gsal ba’i me long. 
+Beijing: Mi rigs dpe skrun khang, 2000.
+
+sGang steng sprul sku gnyis pa’i rnam thar = rJe mkhan po X bsTan 
+’dzin chos rgyal. sGang steng sprul sku bstan ’dzin legs pa’i 
+don grub kyi rnam thar. Phuentsholing, Bhutan: KMT 
+Publishers, [2009].
+
+Tshul rdor rnam thar = Pad gling gsung sprul III Phan pa bzang po 
+alias Kun mkhyen Tshul khrims rdo rje, sPrul sku tshul rdor 
+gyi rnam par thar pa’i tshul sgrib med ston pa’i me long. Ms. 
+[Scans: TBRC: W8LS15799].
+Tibetan Manuscript and Xylograph Traditions 64
+
+2. Secondary Sources
+
+Achard, Jean-Luc. 2003 = See rNying ma rgyud ’bum Dg.
+Almogi, Orna. 2015. “The Spa sgar and Gdong dkar la Rnying ma 
+rgyud ’bum Editions: Two Newly Discovered Sets from 
+Bhutan.” In Olaf Czaja & Guntram Hazod (eds.), The 
+Illuminating Mirror. Tibetan Studies in Honour of Per K. 
+Sørensen on the Occasion of his 65th Birthday. Wiesbaden: Dr. 
+Ludwig Reichert Verlag, 1–14.
+——. forthcoming-a. The Collection of the Ancient Tantras (rNying 
+ma rgyud ’bum): The History of Its Formation, Production, and 
+Transmission. Indian and Tibetan Studies Series. Hamburg: 
+Department for Indian and Tibetan Studies, Universität 
+Hamburg.
+——. forthcoming-b. “Spiritual Masters and Master Copies on the 
+Move: On Some Manuscript Editions of the rNying ma rgyud 
+’bum from East Tibet and Their Origin.” 
+Almogi, Orna, Emanuel Kindzorra, Oliver Hahn & Ira Rabin. 2015. 
+“Inks, Pigments, Paper: In Quest of Unveiling the History of 
+the Production of a Tibetan Buddhist Manuscript Collection 
+from the Tibetan-Nepalese Borderlands.” JIABS 36/37, 
+2013/2014 (2015): 93‒117.
+Almogi, Orna, Martin Delhey, Claire MacDonald & Boryana 
+Pouvkova. 2015. “Recovering Lost Text and Beyond: 
+Multispectral Imaging for Text-related and Codicological 
+Studies of Tibetan Paper and Sanskrit Palm-Leaf Manuscripts.”
+Cantwell, Cathy. 2002. “Distinctive Features of the Edition.” 
+http://ngb.csac.anthropology.ac.uk. [A revised version of 
+“Distinctive Features of the Rig ’dzin tshe dbang nor bu 
+(Waddell) Edition of the rNying ma’i rgyud ’bum.” In Helmut 
+Eimer & David Germano (eds.), The Many Canons of Tibetan 
+Buddhism. PIATS, Leiden 2000. Leiden: Brill, 2002: 359–
+376.] 
+Cantwell, Kathy & Robert Mayer. 2007. The Kīlaya Nirvāṇa Tantra 
+and the Vajra Wrath Tantra: Two Texts from the Ancient 
+Tantra Collection. Philosophisch-historische Klasse, 
+Denkschriften 349. Beiträge zur Kultur- und Geistesgeschichte 
+Orna Almogi: The rNying ma rgyud ’bum Set at the National Archives Kathmandu
+65
+Asiens 52. Vienna: Verlag der Österreichischen Akademie der 
+Wissenschaften.
+Cantwell et al. 2006 = See rNying ma rgyud ’bum Gt-i.
+Ehrhard, Franz-Karl. 1980. “Tibetan Texts in the National Archives, 
+Kathmandu.” JNRC 4: 233–250.
+——. 1997. “Recently Discovered Manuscripts of the rNying ma 
+rgyud ’bum from Nepal.” In H. Krasser et al. (eds.), Tibetan 
+Studies: Proceedings of the 7th Seminar of the International 
+Association for Tibetan Studies, Graz 1995, vol. 1, 253–267.
+Kaneko, Eiichi. 1982 = See rNying ma rgyud ’bum Tk.
+Martin, Dan. unpublished. “NGB Historical Notes: A chronologically 
+arranged list of prints and manuscripts (both available and 
+unavailable) of the Rnying-ma Rgyud-’bum, based mainly on 
+narrative historical sources.” Unpublished version from 1995
+
+
+================
+1 The findings presented in this article are some of the results of two 
+research projects generously funded by the Deutsche 
+Forschungsgemeinschaft (DFG): (a) “The Manuscript Collections of the 
+Ancient Tantras (rNying ma rgyud ’bum): An Examination of Variance,” 
+conducted within the framework of the Researcher Group “Manuscript 
+Cultures in Asia and Africa” (FOR 963, 2008–2011), and (b) 
+“Doxographical Organisational Schemes in Manuscripts and Xylographs of 
+the Collection of the Ancient Tantras,” conducted within the framework of 
+the Centre for the Study of Manuscript Cultures (CSMC/SFB 950, 2011–
+2015), both at Universität Hamburg. I would like to take this opportunity to 
+thank the Nepal Research Centre in Kathmandu for their assistance in 
+various ways over this period, which greatly facilitated my research, and 
+likewise thank Philip Pierce (Kathmandu) for proofreading my English. 
+Thanks are also due to Kelsang Lhamo and Jeff Wallman, TBRC, for their 
+help in obtaining access to some scanned material.
+2 Cantwell and Mayer name the illuminated set catalogued by them, together 
+with Michael Kowalewky and Jean-Luc Achard, “sGang steng-b” and the 
+other, plain set from sGang steng, which was digitised later, “sGang stenga,” justifying their decision as follows: “We adopt this nomenclature 
+because, as we will explain below, we believe the finer and more expensive 
+manuscript we photographed first and which is presented here was made 
+later than the simpler more cheaply produced one we one (sic) discovered 
+later.” (Cantwell et al. 2006: 5). They further support their assumption with 
+findings gained through philological studies, but nonetheless state in their 
+conclusion that they “do not yet know for certain” which set is the earliest, 
+but they do justify their decision by stating that “it is more likely that the 
+finer one presented here is later, since it is the more expensively made of the 
+two” (ibid. 10). As I shall show below, historical sources indeed seem to 
+support the assumption that the plain set (provided this is indeed the 
+reported set) was produced earlier than the illuminated one. However, since 
+the connection between the two sets is yet to be established, I suggest 
+naming the two sets sGang steng-p and sGang steng-i (“p” standing for 
+“plain” and “i” standing for “illuminated”). It is hoped that future studies—
+philological, historical, or bibliographical—will help shed more light on the 
+relation between the two editions and on the exact role of each of them in 
+the history of the transmission of the Central Bhutanese group. To be noted 
+here is that the oral tradition in sGang steng monastery is not confident in 
+this regard either, though it appears that there is a tendency to believe that 
+the illuminated set served as the master copy for the sets from mTshams 
+brag and dGra me rtse (personal communication with sGang steng sprul sku 
+at sGang steng monastery on September 9, 2009, and further verifications 
+via Khenpo Seng nge rdo rje in February 2016). Cantwell and Mayer for 
+their part have suggested that the mTshams brag edition is not a copy of the 
+illuminated sGang steng set, but rather that both are copies of a third, as yet 
+unidentified, exemplar (ibid. 9–10).
+3 Although I consider the dGra med rtse edition, written in black ink on 
+white paper, to be plain, it should be nonetheless noted that some efforts 
+have been made to lend the edition a somewhat fairer look: the title page 
+(i.e. folio 1b of each volume) is written on thicker-layered paper, held 
+together by what seem to be black and red leather strips, while the resulting 
+knots serve as decorative elements; textile curtains are mounted on these 
+same title pages; and the written area of the first two written pages (i.e.
+folios 1b and 2a of each volume) is smeared with reddish colour (see fig. 1). 
+4 The microfilming of both sets was carried out under the supervision of 
+Franz-Karl Ehrhard, who was at the time the director of the Nepal Research 
+Centre (NRC), the NGMPP branch in Kathmandu.
+5 The cataloguing of the remaining two sets, sGang steng-p and dGra med 
+rtse, has clearly been less urgent for this purpose due to their great similarity 
+to the two other 46-volume Bhutanese sets—mTshams brag and sGang 
+steng-i—for which catalogues already exist.
+5 The cataloguing of the remaining two sets, sGang steng-p and dGra med 
+rtse, has clearly been less urgent for this purpose due to their great similarity 
+to the two other 46-volume Bhutanese sets—mTshams brag and sGang 
+steng-i—for which catalogues already exist.
+6 The findings of these scientific investigations, which took place in March 
+2013 in the National Archives Kathmandu, have been published in Almogi, 
+Kindzorra, Hahn & Rabin 2015 and Almogi, Delhey, MacDonald & 
+Pouvkova 2015.
+7 Ehrhard 1980: 245–246. The volumes recorded by Ehrhard are Cha, Nya, 
+Tha, Pha, Ba, Tsa, and Chi. Note, however, that in Ehrhard 1997: 254, the 
+number of volumes recorded at the time is erroneously noted as being eight.
+8 Ehrhard 1997: 254.
+9 The first dkar chag―titled rNying ma rgyud ’bum gyi glegs bam nang gi 
+chos tshan bzhugs byang dkar chag dpe rdzi bsam ’phel nor bu’i ’phreng ba
+(NGMPP Reel No. L 426/4, 26 fols. = dKar chag 1)―contains the list of 
+titles included in the edition. The second―titled sNga ’gyur gsang chen 
+rnying ma rgyud ’bum gyi glegs bam yongs rdzogs gzheng tshul dkar chag tu 
+bkod pa rdzogs ldan snang ba gsar pa’i dga’ ston (NGMPP Reel No. L 
+426/5, 14 fols. = dKar chag 2)―contains a descriptive account of the 
+production of the edition. Ehrhard has translated and edited two excerpts 
+from the latter. His findings, summarised in the following paragraphs, are 
+based on his 1997 article. 
+10 The information provided in the present article regarding the overall 
+organisation of the Nubri and NAK sets—including volume and text 
+numbers, the identification and location of the individual texts within the 
+sets, and the comparison between the two sets—is based on the current draft 
+of the catalogue in Almogi (forthcoming-a).
+11 On the groups of the rNying ma rgyud ’bum editions in terms of the 
+history of their transmission, see below.
+12 See, for example, Cantwell & Mayer 2007: 70–78; 2012: 26–30
+13 The digitisation of this set was made possible thanks to the financial 
+support of the DFG and fruitful cooperation with the Preservation of 
+Bhutan’s Written Heritage, directed by Karma Phuntsho.
+14 For a discussion of these two sets in general, and for preliminary findings 
+regarding the history of the transmission of the gDong dkar la set in 
+particular, see Almogi 2015.
+15 A detailed catalogue of the Nubri and NAK sets is nearly completed. 
+Preliminary title lists of both the gDong dkar la and the Khams editions 
+have also been compiled, and detailed catalogues of both are currently under 
+preparation.
+16 I may add that we currently know of several other sets, which are 
+unfortunately not accessible thus far. For some examples, see Almogi 2015: 
+10, n. 25.
+
+17 For more information regarding the sets listed here—including place of 
+storage, publication details when applicable, details regarding their 
+digitisation, existing catalogues, and accessibility—see the bibliography.
+18 The identification of the set reported in historical sources as having been 
+produced at the behest of Pad gling gsung sprul III with the sGang steng 
+plain set is primarily based on my communication with the current sGang 
+steng sprul sku. Moreover, as will be shown shortly, since the illuminated 
+sGang steng set can very likely be identified with another sGang steng set 
+reported in historical sources, which clearly describe it as being illuminated, 
+the identification of the plain set with the one reported to have been 
+produced at the behest of Pad gling gsung sprul III suggests itself rather 
+forcefully.
+19 Tshul rdor rnam thar (fol. 18b1–5): rje bla ma’i dgongs rdzogs su … gtso 
+bor rnying ma rgyud ’bum pu sti bzhi bcu zhe drug tshang ba yig mkhan sogs 
+rgyang ring mo nas bkug cing do gal bskyed de| rten bzhengs rnams ’khos* 
+[= ’khur?] khyer gyis gang pher bsgrubs|. *This syllable seems to have 
+undergone a correction in which the original final letter (unclear which 
+letter it was) has been deleted and instead the final letter -s has been 
+inserted, however, not exactly in its place but below the syllable (obviously 
+due to lack of space). Note that the author of the Tshul rdor rnam thar is 
+indicated by the TBRC (W8LS15799) as anonymous. However, it is made 
+clear in the introductory part that this is an autobiography. This is also 
+evident from the fact that the biography is written in the first person.
+20 See Karma bde legs’s rGyud ’bum dkar chag (35.10–36.1), which cites an 
+unspecified biography of Pad gling gsung sprul III Kun mkhyen Tshul 
+khrims rdo rje as its source for this information (apparently merely relying 
+on information provided by Karma Phuntsho). I have not been able to 
+identify this source. Note that according to Karma bde legs (ibid. 35.17–18), 
+the number of volumes are there said to be 45 (and not 46). One wonders,
+however, whether there has been a confusion here with the report on the 
+sGang steng illuminated set (for the Tibetan text, see note 22). 
+21 The TBRC notes that 1726 as sGang steng sprul sku II’s year of death is 
+questionable. However, 1726 is supported by his biography, which states 
+that he died when reaching the age of 82. According to the Tibetan custom 
+this is to be interpreted as his 82th year (i.e. when he was 81 years old), 
+which, having been born in 1645, yields 1726. That he died in 1726 and not 
+in 1727 (i.e. when he actually was 82) is further supported by the fact that
+his reincarnation, sGang steng sprul sku III Kun bzang ’phrin las rnam 
+rgyal, was born in 1727 (TBRC: P3AG16). The exact time of his death is 
+further specified in his biography as the midnight of the 15th of the 9th month 
+(i.e. “the month in which the Buddha’s Decent Festival takes place”). See
+grangs brgyad cu gya gnyis bzhes pa’i skabs lha babs zla ba’i dus chen bcos 
+lnga’i nam gung la mya ngan las ’das so||. The fact that sGang steng sprul 
+sku II died towards the end of the Gregorian year (i.e. Nov. 9th) would mean 
+that, even if the set was commissioned immediately after his death, its 
+production must have stretched into 1727.
+22 See the biography of sGang steng sprul sku II composed by rJe mkhan po 
+X bsTan ’dzin chos rgyal (1701–1766/7; TBRC: P541), the sGang steng 
+sprul sku gnyis pa’i rnam thar (208.6–12), which states: gsung rten kun 
+bzang rdor sems kyi thugs bcud rgyud ’bum rin po che pusta ka grangs tshad 
+bzhi bcu zhe lnga tsam yod pa| shog deb dang po’i rigs la mthing shog gser 
+yig zhun ma las bgyis pa dag kyang dgongs rdzogs su dmigs te ’phral rang 
+du grub bo|| de rnams kyang rgyal tshab sprul pa’i sku dang tshul ldan gyi 
+skyes chen mang pos rab tu gnas par mdzad cing| slar yang sprul pa’i sku 
+myur ’byon gyi gsol ’debs thugs dam yang bskul bar byas so||. See also 
+Karma bde legs’s rGyud ’bum dkar chag (36.1–8), which refers to the same 
+source (relying, however, on Karma Phuntsho’s report). My identification of 
+the rGyal tshab with Mi pham dbang po (as silently done by Karma bde 
+legs) is based on various passages in the sGang steng sprul sku gnyis pa’i 
+rnam thar, including (196.12–13): … mi ring bar rje rgyal ba’i sras mi 
+pham dbang po nyid rgyal tshab tu mnga’ gsol ba’i dgongs pas|…, and 
+(206.8–9): … rgyal tshab sprul pa’i sku rje btsun mi pham dbang po…. Note 
+that Karma bde legs states that it appears that the sGang steng illuminated 
+version was made on the basis of the plain one. Also note that Cantwell and 
+Mayer point out an oral tradition prevalent in sGang steng (based on oral 
+communication with Karma Phuntsho) and conclude that the second 
+illuminated set was produced in Me ri dkar po, a temple now lying in ruins 
+above Nor bu lding across the pass from sGang steng. Cantwell & Mayer 
+1997: 68–69.
+23 Ngag dbang ’brug pa’i rnam thar (561.3): gzhan yang rnying ma’i 
+rgyud ’bum ’di dkon par gzigs te| sku gzhogs spungs thang nas ma dpe g.yar 
+po zhus| shog bu’i rtsol ba mdzad de phral du sgrub pa gnang|. Dan Martin, 
+in his unpublished notes, refers to another version of this same biography.
+24 The passage provided by the TBRC entry of the Sangs rgyas gling edition 
+(for which see note 25) reads rab byung bcu gcig pa (i.e. the 11th sexagenary 
+cycle), which would place the year zil gnon me rta noted there in 1666. I 
+tentatively suggest emending the text to rab byung bcu gnyis pa (i.e. the 12th
+sexagenary cycle), which would yield the year in question as 1726, and 
+which, considering the fact that the birth year of mTshams brag sprul sku 
+Ngag dbang ’brug pa, the commissioner of the set, is 1682, would make 
+much better sense. This would mean that the production of the set had taken 
+about two years (from 1726 to 1728), which could be considered long 
+compared to the production of other sets, which reportedly took only several 
+months. To be noted, however, is the remark found in the same passage that 
+the production took many years (mi lo du ma’i ring bzhengs par grags), 
+which may suggest that the author of the passage indeed took 1666 as the 
+year in which the production started (so that the production stretched over 
+62 years, which is indeed a long period!). Mi nyag Thub bstan chos dar, 
+who has obviously paraphrased and slightly shortened this same passage, 
+notes the year in which the production started as 1728. This discrepancy 
+may well be an attempt by Thub bstan chos dar to make up for what he 
+probably saw as a problem in the dates provided in the passage (he indeed 
+completely omits the sentence that identifies 1666 as the year in which 
+production started). See the mTshams brag rnying rgyud dkar chag (16.20–
+21: …rab byung bcu gnyis pa sa sprel spyi lo 1728 lor bzhengs pa’i ’go 
+brtsams|…). The uncertainty about the dates of production are also reflected 
+in Karma bde legs’s catalogue, which identifies the year in which the project 
+began as 1725 and the year in which it ended as 1748, just before mTshams 
+brag sprul sku’s death. See the rGyud ’bum dkar chag (36.12–13): …lo 1725
+la dbu btsugs te 1748 lo zhing du ma gshegs gong tsam du grub pa dang|….
+Note that Dan Martin, in his unpublished notes, suggested that the set was 
+produced around 1730.
+25 TBRC: W1KG16449, “Authorship Statement”: mtshams brag rnying ma 
+rgyud ’bum ni| dpal sgang steng dgon pa’i sprul sku [b]stan ’dzin legs pa’i 
+don grub kyi zhal slob mtshams brag sprul sku ngag dbang grub pas rab 
+byung bcu gcig [= gnyis?] pa’i zin [= zil] gnon me rta’i hor zla dang po’i 
+rgyal ba gsum par dbu btsugs| rab byung bcu gnyis pa sa sprel spyil [= spyi] 
+lo 1728 lor rgyud rgyal legs par grub pa ste | mi lo du ma’i ring bzhengs par 
+grags| pusti 46 dang| chos tshan 904| ldeb 40399 bzhugs| ldeb ’bring bris ma| 
+dbu ldeb gser bris ma yin| bris gzugs sogs spus ka shin tu legs| dkar chag mi 
+bzhugs| sde dge’i rnying rgyud la mtshon na| dang po gnyis med kyi rgyud
+sde a ti yo ga’i skor| de la’ang nang gses kyi yang ti’i skor dang| spyi ti’i 
+skor| man ngag gi sde’i skor| klong sde’i skor| sems sde’i skor| gnyis pa ma 
+rgyud a nu yo ga’i skor| de la’ang nang gses kyi rtsa ba’i mdo bzhi’i skor 
+dang | mtha’ drug gi rgyud kyi skor| gsum pa pha rgyud ma hā yo ga’i skor| 
+de la’ang nang gses kyi sgyu ’phrul gyi skor dang| tantra sde bco brgyad kyi 
+skor| sgrub pa bka’ brgyad kyi skor bcas kyi rab dbye gnang yod||. Compare 
+Mi nyag Thub bstan chos dar’s modern catalogue to the mTshams brag 
+edition from 2009 which provides the same passage in a slightly 
+paraphrased and shortened form. See the mTshams brag rnying rgyud dkar 
+chag (16.18–17.9).
+26 As I have already noted in a recent publication (Almogi 2015: 10, n. 26), 
+the Sangs rgyas gling edition is referred to by the TBRC (W1KG16449) as 
+mTshams brag dgon pa’i bris ma (under “Bibliographical Title”) and it is 
+only under “Other Title” that it is recorded as the “Sangs rgyas gling 
+manuscript of the rNying ma’i rgyud ’bum.” There I have suggested that the 
+(somewhat misleading) title mTshams brag dgon pa’i bris ma was 
+apparently given on the basis of a reference to mTshams brag in what seems 
+to be the colophon to the entire collection provided on the TBRC entry 
+under “Authorship Statement” (for the text see note 25). The source of the 
+passage is not indicated in the TBRC entry. Kelsang Lhamo from the TBRC 
+was not able to name its source either (email communication from 
+29.02.2016). It should be noted, however, that judging by some apparent 
+modern influences on the style of writing (e.g. providing the equivalent of 
+the Tibetan year in the Gregorian calendar), the passage seems to have come 
+from an external source rather than being the original colophon of the 
+collection. Moreover, the fact that it states that there is no dkar chag also 
+supports the assumption of an external, later source. Note also the fact, 
+likewise supportive, that it is included in Mi nyag Thub bstan chos dar’s 
+modern catalogue to the mTshams brag edition from 2009 in an almost 
+verbatim form (see note 25), that is, several years before the digitisation of 
+the Sangs rgyas gling set. In any case, the passage obviously reports on the 
+production of the mTshams brag set and not of the Sangs rgyas gling one. 
+Whether the Sangs rgyas gling set is a mTshams brag set that later on was 
+transported to Sangs rgyas gling, or whether it is a copy of the mTshams 
+brag set, with the passage in question reporting the production of its master 
+copy, is yet to be clarified.
+27 Cantwell 2002.
+28 See the gTing skyes ’khrungs rabs rnam thar (49.6–50.1). See also Martin 
+(unpublished).
+29 Almogi 2015: 3–7.30 Some of these glosses have been discussed in Almogi 2015: 3–9. 
+31 The designation of this group as “(Central Bhutanese)–Eastern Tibetan” is 
+tentative and is based on preliminary study of the edition.
+32 The TBRC also reports on a rNying ma rgyud ’bum set from gZhi chen 
+monastery (W2PD17382). However, this set is said to consist of 39 
+volumes. Since the TBRC has not released the scans yet I have not been able 
+to compare the two sets and to verify whether they are one and the same set 
+or different ones. Nonetheless, shortly before the publication of the present 
+paper I have been able to obtain the first three volumes of the gZhi chen 
+dgon set with the kind help of Kelsang Lhamo from the TBRC. A brief look 
+indeed confirmed my initial intuition that the two are in a way the same set, 
+as these first three volumes of the “gZhi chen dgon set” turned out to be 
+identical with folders 8, 10, and 23 of the “Khams set,” respectively. Since 
+according to Karma bde legs (personal communication on June, 5, 2016) the 
+original set indeed comprises only 34 volumes, it is possible that the 39-
+volume set reported in the TBRC consists of the 34-volume “Khams set” 
+and additional supplementary volumes resulting from, most probably recent,
+compilatory work by Tibetan scholars in and around gZhi chen dgon 
+(possibly merely scans of already published related material, as it is the case 
+with folder 34). This matter will be looked into in the coming months. 
+
