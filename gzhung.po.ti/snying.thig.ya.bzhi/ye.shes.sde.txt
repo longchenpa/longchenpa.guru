@@ -1,9 +1,9 @@
 title: snying thig ya bzhi/ (dar thang glog klad par ma/)
-author: ye shes sde 
+author: ye shes sde
 
-01) glegs bam dang po/ (1)
+01) glegs bam dang po/ (1) Перший том
 
-bla ma yang tig glegs bam e pa (sec)
+bla ma yang tig glegs bam e pa (sec) Лама Янгтік
 
 bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge
 kha byang nyi ma'i snying po
@@ -38,7 +38,7 @@ bde stong bdud rtsi'i sprin phung
 rlung sbyor ye shes sprin phung
 rtog med nam mkha'i sprin phung
 
-bla ma yang tig glegs bam waM pa (sec)
+bla ma yang tig glegs bam waM pa (sec) Лама Янгтік
 
 gzhi snang ye shes sgron me
 nyams len gnad kyi sgron me
@@ -54,9 +54,9 @@ rig pa sems kyi gegs sel ye shes dri med
 bla ma yid bzhin nor bu
 yi dam yid bzhin nor bu
 mkha' 'gro yid bzhin nor bu
-nges don byang chub snying po ~:[Остаточна сутність пробудження]
-mthar thug yid bzhin snying po ~:[Лама Янгтік Пхова: перенос сутності чистого світла]
-'pho ba 'od gsal snying po ~:[]
+nges don byang chub snying po ~:[Визначальна сутність пробудження]
+mthar thug yid bzhin snying po ~:[Остаточний нектар виконання бажань]
+'pho ba 'od gsal snying po ~:[Пхова: перенос сутності чистого світла]
 ngo sprod dran pa'i me long
 'chi ltas dran pa'i me long
 'chi bslu dran pa'i me long
@@ -69,9 +69,9 @@ gza' bdud kyi gsang sgrub me rlung 'khyil pa
 dam can gyi gsang sgrub snying gi dum bu
 kha byang 'od gsal snying po
 
-02) glegs bam gnyis pa/ (2)
+02) glegs bam gnyis pa/ (2) Другий том
 
-mkha' 'gro yang thig glegs bam oM pa/ rin chen shog skya'i skor (sec)
+mkha' 'gro yang thig glegs bam oM pa/ rin chen shog skya'i skor (sec) Кхандро Янгтік
 
 them byang rin chen ljon shing
 gter 'byung rin po che'i lo rgyus
@@ -91,13 +91,13 @@ nam mkha' dri med/ rin chen shog skya'i skor
 man ngag rin po che gser gyi sgrom bu/ rin chen shog skya'i skor
 tshig don rin po che'i bang mdzod/ shog skya'i skor
 
-mkha' 'gro yang thig glegs bam AHpa/ rin chen shog skya'i skor (sec)
+mkha' 'gro yang thig glegs bam AHpa/ rin chen shog skya'i skor (sec) Кхандро Янтік
 
 zab don rgya mtsho'i sprin zhes bya ba/ shog skya'i skor
 rin chen shog skya'i skor las/ mkha'a'agro snying tig gi man ngag zab don rgya mtsho'i khog dbub sa bcad bsdud don don gsal nyi ma'i 'od zer
 gsang spyod rdo rje lam bstan
 
-mkha' 'gro yang thig glegs bam hU~M pa/ rin chen shog ser skor (sec)
+mkha' 'gro yang thig glegs bam hU~M pa/ rin chen shog ser skor (sec) Кхандро Янгтік
 
 nges don snying po zhes bya ba/ rin chen shog ser skor
 shog ser skor las/ byin rlabs thugs sgrub
@@ -129,7 +129,7 @@ zhal chems mthar thug gcigs ma
 
 03) glegs bam gsum pa/ (3)
 
-mkha' 'gro yang tig glegs bam hUM pa/ rin chen shog 'dra'i skor (sec)
+mkha' 'gro yang tig glegs bam hUM pa/ rin chen shog 'dra'i skor (sec) Кхандро Янгтік
 
 bde gshegs rigs lnga'i sgrub thabs pad+ma stong ldan/ rin chen shog 'dra'i skor
 rigs lnga'i bcud len bdud rtsi'i thigs pa/ rin chen shog 'dra'i skor
@@ -148,7 +148,7 @@ shog 'dra'i skor/ gnod sbyin dmar nag gi sgrub pa me rlung 'khyil pa
 shog 'dra'i skor/ shan pa srog sgrub nag mo'i gsang sgrub
 mkha' 'gro yang tig gi them byang dpag bsam ljon shing
 
-mkha' 'gro snying thig glegs bam e pa (sec)
+mkha' 'gro snying thig glegs bam e pa (sec) Кхандро Нінгтік
 
 mkha' 'gro snying thig gi kha sbyang
 rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus
@@ -211,7 +211,7 @@ rnal 'byor bzhi las lta ba'i rnal 'byor
 thun bzhi'i rnal 'byor las/ sgom pa'i rnal 'byor
 rnal 'byor bzhi las/ spyod pa'i rnal 'byor dang / 'bras bu'i rnal 'byor gnyis
 
-mkha' 'gro snying tig glegs bam waM pa (sec)
+mkha' 'gro snying tig glegs bam waM pa (sec) Кхандро Нінгтік
 
 zhus len bdud rtsi gser phreng
 mkha' 'gro snying gi ti ka las/ zhal gdams gsang ba'i dum bu
@@ -281,7 +281,8 @@ mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba
 
 04) glegs bam bzhi pa/(4)
 
-bi ma snying thig
+bi ma snying thig (sec) Віма Нінгтік
+
 ka) rdzogs pa chen po gsang ba snying thig gi man ngag zab pa po ti bzhi'i kha byang nyi mas brgyan pa
 ka) shog tshad nges pa'i kha byang sgron ma rang gsal
 ka) bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/(gser yig can/ )
@@ -363,7 +364,7 @@ zha) chos kyi rje mtshungs med grags pa rgya mtsho'i rnam thar me tog gi phreng 
 
 05) glegs bam lnga pa/ (5)
 
-zab mo yang tig glegs bam e pa (sec)
+zab mo yang tig glegs bam e pa (sec) Забмо Янгтік
 
 lo rgyus rin po che 'od kyi phreng ba
 phyag 'tshal yid bzhin nor bu
@@ -400,7 +401,8 @@ zab mo yang tig las/ btags grol snying po
 zab mo yang tig las/ zab don snying po
 zab mo yang tig las/ tshig don snying po
 zab mo yang tig las/ gdams khrid don gyi mdo chings
-zab mo yang tig glegs bam waM pa (sec)
+
+zab mo yang tig glegs bam waM pa (sec) Забмо Янгтік
 
 snyan brgyud gnad kyi mdo chings
 gsang skor brgyud pa'i phyag 'tshal byin rlabs sprin phung
@@ -430,14 +432,14 @@ mkha' 'gro snying thig las 'chi med tshe'i bsgrub thabs/ mkha' 'gro snying thig 
 khrid kyi rgyab yig gnad 'gags bdun pa/ bka' rgya ma'o/ bi ma snying thig kha skong
 rdzogs pa chen po mkha' 'gro snying tig gi khrid yig zab lam gsal byed/ mkha' 'gro snying thig kha skong
 
-bi ma snying thig kha skong (sec)
+bi ma snying thig kha skong (sec) Віма Нінгтік
 
 rdzogs chen b+hi ma snying tig gi g.yu yig can las/ 'chi blu yi glud rabs dang lag len 'khor lo lnga yi dpe bris/ bi ma snying thig kha skong
 zhal chems gsang ba'i gnad 'dus 'gur dang bcas/ lce btsun seng ge dbang phyug gis
 man ngag mngon sum gyi gnad yig yod/ rgyab yig gsang ba/ bi ma snying thig kha skong
 rdzogs pa chen po bi ma snying tig ma bu'i sngon 'gro tshogs bsags kyi dmigs rim ngag 'don mdor bsdus pa gdod ma'i gsang lam
 
-mkha' 'gro snying thig kha skong (sec)
+mkha' 'gro snying thig kha skong (sec) Кхандро Нінгтік
 
 man ngag snying gi dgongs pa'i rgyud/ mkha' 'gro snying thig kha skong
 mkha' 'gro snying thig gi gsol 'debs/ mkha' 'gro snying thig kha skong
