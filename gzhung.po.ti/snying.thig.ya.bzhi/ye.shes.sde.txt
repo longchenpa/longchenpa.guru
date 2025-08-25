@@ -26,7 +26,7 @@ tshogs mchod kyi rim pa yid bzhin rgya mtsho
 bla ma'i rim pa dngos grub rgya mtsho
 sngon 'gro sems sbyong bdun gyi don khrid
 dngos gzhi 'od gsal snying po'i don khrid
-khregs chod ye babs sor bzhag gi don khrid
+khregs chod ye babs sor bzhag gi don khrid ~:[Інструкція з Трекчо]
 khregs chod kyi rgyab yig nam mkha' dri med
 thod rgal gyi rgyab yig nyi zla gza' skar
 btags grol gyi rgyab yig yid bzhin lhun grub
@@ -43,7 +43,7 @@ bla ma yang tig glegs bam waM pa (sec)
 gzhi snang ye shes sgron me
 nyams len gnad kyi sgron me
 bdud rtsi ljon shing 'od gsal gyi gnad yig
-bdud rtsi dri med
+bdud rtsi dri med ~:[Непорочний Нектар]
 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po
 gnad gsum chos nyid kyi 'khor lo
 nyin mtshan 'od gsal gyi 'khor lo
@@ -54,9 +54,9 @@ rig pa sems kyi gegs sel ye shes dri med
 bla ma yid bzhin nor bu
 yi dam yid bzhin nor bu
 mkha' 'gro yid bzhin nor bu
-nges don byang chub snying po
-mthar thug yid bzhin snying po
-'pho ba 'od gsal snying po
+nges don byang chub snying po ~:[Остаточна сутність пробудження]
+mthar thug yid bzhin snying po ~:[Лама Янгтік Пхова: перенос сутності чистого світла]
+'pho ba 'od gsal snying po ~:[]
 ngo sprod dran pa'i me long
 'chi ltas dran pa'i me long
 'chi bslu dran pa'i me long
