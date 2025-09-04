@@ -34,8 +34,8 @@ BA RI BA RI GING KA RA DZA CHE GE MO'I SHA LA BI BA  — повторюйте ц
 
 Якщо хтось хоче вбити ворога кров’ю, блювотою або хворобою:
 
-ЦАМУН РАГ МУН ТУ ПА ДХУ ЙІ РАГ — ця мантра вбиває зброєю.
-РАД ФХІ ГХА ДХА РІ СА ДХУШІГ — ця мантра вбиває бритвою.
+TSAMUN RAG MUN THU PA DHU YI RAG — ця мантра вбиває зброєю.
+RAD PHYI GHA DHA RI SA DHU SHIG — ця мантра вбиває бритвою.
 
 Запропонуйте рясні перші порції:
 
@@ -51,7 +51,7 @@ HUM: О великий лютий світський практикуючий б
 Кровавою блювотою та хворобами! Убийте зброєю, бритвами та методами слона!
 Убийте швидко прямо зараз!
 
-NA GE ZHA'U KYIN BU HŪṂ!
+NA GE ZHA'U KYIN BU HUM
 SHOD SHOD STI TA ZAD THU RI LI LI SA MA YA CAD  — цим люто розсічіть.
 
 Жінок вбивають за три чисті дні;
@@ -203,4 +203,3 @@ dkar po dpon la nag po g.yog sprel las mkhan dag yin no lha btsan ging gi cho 'p
 shin tu zab phyir gter du sbasaH las can cig dang 'phrad par shog:
 sa ma ya:_rgya rgya rgya:
 ldang lung khra mo brag nas sprul sku rin chen tshul rdor gyis chu mo glang gi lo la bton pa'o:
-
