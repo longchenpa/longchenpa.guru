@@ -1,6 +1,17 @@
 Тантри Семде
 ============
 
+Порівняльний аналіз набору тантр в різних виданнях Нінгма Г'юдбум:
+
+* Нубчен санг'є Єше (1)
+* Ронгзом Махапандіта (2)
+* Н'янграл Німа Озер (3)
+* Манускрипт lde'u jo sras (4)
+* Маска Вайрочана (5)
+* Лонгчена Рапджама grub mtha' mdzod (6)
+* lung bam po bco brgyad (7)
+* Цамдрак видання (8)
+
 ## Нубчен санг'є Єше
 
 1. The Cuckoo of Awareness (rig pa'i khu byug, khu byug)
@@ -213,5 +224,3 @@
 15. The Shining Relics Tantra (Tibetan: སྐུ་གདུང་འབར་བའི་རྒྱུད་, Wylie: sku gdung 'bar ba'i rgyud)
 16. The Union of the Sun and Moon Tantra (Tibetan: ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་, Wylie: nyi zla kha sbyor gyi rgyud)
 17. The Self-existing Perfection Tantra (Tibetan: རྫོགས་པ་རང་བྱུང་གི་རྒྱུད་, Wylie: rdzogs pa rang byung gi rgyud)
-
-

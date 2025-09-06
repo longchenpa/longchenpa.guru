@@ -581,7 +581,7 @@ prototype I assume to have served as the master copy for the
 Tibetan-Nepalese Borderlands editions, and which I suggest 
 represents an intermediate, or transitional, stage in the history 
 of the transmission of the collection, reflecting its state at a 
-particular point on the line of transmission between the SouthWestern Tibetan group, on the one hand, and the Central 
+particular point on the line of transmission between the South-Western Tibetan group, on the one hand, and the Central 
 Bhutanese group, on the other. To be kept in mind is that if the 
 master copy of the Tibetan-Nepalese Borderlands editions was 
 indeed a copy brought by Ngag dbang lhun grub grags pa from 
@@ -853,7 +853,7 @@ chen. rGyal kun brtse ba’i spyi gzugs sems dpa' chen po gsung
 dbang sprin dbyangs kyi rtogs pa brjod pa rig ’dzin kun tu dga’ 
 ba’i zlos gar. In Thub dbang gnyis pa rgyal ba shākya rin chen 
 gyi gsung ’bum. Reproduced from the unique MS. Prepared 
-after the author’s death and preserved at his monastery of Phajo-ldin Bya-rgod-phun-po. Thimphu: Kunzang Topgey, 
+after the author’s death and preserved at his monastery of Pha-jo-ldin Bya-rgod-phun-po. Thimphu: Kunzang Topgey, 
 1976, vol. 2, pp. 487–585. [Scans: TBRC: W8684-4366]. 
 
 rGyud ’bum dkar chag = Karma bde legs. sNga ’gyur rgyud ’bum rin 
@@ -936,7 +936,7 @@ rNying ma rgyud ’bum Tk = gTing skyes Plain Ms Edition. 33 vols.
 Facsimile Edition: Thimphu: Dingo Khyentse Rimpoche, 
 1973–1975. 33+3 vols. Scans: TBRC: W21598. Catalogues: (i) 
 Eiichi Kaneko 1982. Ko Tanotora zenshū kaidai mokuroku [A 
-catalogue of the Khyentse edition of the gTing-skyes dgon-pabyang rnying-ma-rgyud-’bum]. Tokyo: Kokusho Kankūkai; (ii) 
+catalogue of the Khyentse edition of the gTing-skyes dgon-pa-byang rnying-ma-rgyud-’bum]. Tokyo: Kokusho Kankūkai; (ii) 
 The Tibetan & Himalayan Library (THL), www. thlib.org.
 rNying ma rgyud ’bum Tn = Rig ’dzin Tshe dbang nor bu (=Waddell) 
 Illuminated Ms Edition. 33? vols. (incomplete). Stored at 
@@ -1033,7 +1033,7 @@ Thanks are also due to Kelsang Lhamo and Jeff Wallman, TBRC, for their
 help in obtaining access to some scanned material.
 2 Cantwell and Mayer name the illuminated set catalogued by them, together 
 with Michael Kowalewky and Jean-Luc Achard, “sGang steng-b” and the 
-other, plain set from sGang steng, which was digitised later, “sGang stenga,” justifying their decision as follows: “We adopt this nomenclature 
+other, plain set from sGang steng, which was digitised later, “sGang steng-a,” justifying their decision as follows: “We adopt this nomenclature 
 because, as we will explain below, we believe the finer and more expensive 
 manuscript we photographed first and which is presented here was made 
 later than the simpler more cheaply produced one we one (sic) discovered 
