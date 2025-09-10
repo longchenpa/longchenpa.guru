@@ -43,6 +43,7 @@
 Тіло, що ясно проявляє свідомість (rig pa mngon sum du snang byed kyi sku).
 
 157
+
 У природі, що не влаштована (ma bkod pa'i rang bzhin),
 З п’ятьма великими мудростями (ye shes chen po lnga),
 З усіма явищами, що є порожнечею (stong pa nyid),
@@ -60,7 +61,9 @@
 З богами і богинями, що тримають характеристики роду лотоса (pad ma'i rigs kyi mtshan nyid 'dzin pa'i lha dang lha mo),
 З богами і богинями, що тримають характеристики роду дії (las kyi rigs kyi mtshan nyid 'dzin pa'i lha dang lha mo),
 З діячем, що не діє (mi mdzad pa'i mdzad po),
+
 158
+
 З великим Вайрочаной, що має печатку (rnam par snang mdzad chen po'i phyag rgya dang bcas pa),
 З Ваджра-Акшобх’єю, що походить із роду ваджри, з печаткою (rdo rje mi bskyod pa rdo rje'i rigs las byung chen po sku phyag rgya dang bcas pa),
 З великим Ратнасамбхавой, що має печатку (rin chen 'byung ldan chen po'i sku phyag rgya dang bcas pa),
@@ -72,7 +75,9 @@
 З агрегатами тіл (sku'i phung po dum rnams),
 З невимірними аспектами великого шляху, що перевершує світ ('jig rten las 'das pa'i theg pa chen po'i yan lag),
 З дисципліною ('dul ba'i sde), з розділами сутр (stong mdo sde'i sde),
+
 159
+
 З розділами абхідхарми (mngon pa'i sde),
 З аспектами Великої Досконалості за природою (rang bzhin rdzogs pa chen po'i rnam grangs),
 З невимірними агрегатами мови (gsung gi phung po),
@@ -91,7 +96,9 @@
 З самовиниклими знаками без повторення (ma bzlas par rtags rnams rang byung ba),
 З самовиниклими великими здійсненнями без зусиль (ma bsgrubs par dngos grub chen po rang byung ba),
 З самодосягненими силами, не шуканими і не наданими (ma bskur ma btsal bzhag pa'i dbang rnams rang thob pa),
+
 160
+
 З самопізнанням сенсу всіх явищ без навчання (ma bslabs par chos thams cad kyi don rang shes pa),
 З самодосягненням просвітлення без медитації (ma bsgoms par sangs rgyas nyid rang gis rang thob pa),
 З незліченними якостями (yon tan dpag tu med pa),
@@ -108,6 +115,7 @@
 Висловив ваджрну пісню (rdo rje'i glu) такими словами:
 
 161
+
 e ma ke ri ka ri mas ta bha li bha li
 sa mi ta su ru su ru
 kun dha li ma su ma su
@@ -665,61 +673,27 @@ ra ra
 
 «Це всі дхарми, зібрані як нестворені (chos thams cad 'dus ma byas pa).»
 
-Знов запитав:
-«Що називається всіма дхармами, зібраними як нестворені?» (chos thams cad 'dus ma byas pa zhes bgyi ba de rang gang lags)
-
-Тоді Учитель відповів:
-«Це сприйняття всіх дхарм як єдиного (de ni chos thams cad nyag gcig tu 'du shes par zhes bya'o).»
-
-Знов запитав:
-«Що таке сприйняття як єдиного?» (gcig tu 'du shes pa de gang lags)
-
-Тоді Учитель відповів:
-«Це закриття воріт відчуттів виникнення (de ni byung tshor rnams kyi sgo 'gag pa'o).»
-
-Знов запитав:
-«Що таке закриття воріт відчуттів виникнення?» (byung tshor gyi sgo 'gag pa de gang lags)
-
-Тоді Учитель відповів:
-«Це ясність за своєю природою (de ni rang bzhin gyis 'od gsal ba'o).»
-
-Знов запитав:
-«Що таке ясність за своєю природою?» (rang bzhin gyis 'od gsal ba de gang lags)
-
-Тоді Учитель відповів:
-«Це повна чистота всіх об’єктів (de ni yul thams cad rnam par dag pa'o).»
-
-Знов запитав:
-«Що називається повною чистотою всіх об’єктів?» (yul thams cad rnam par dag pa zhes bgyi ba de gang lags)
-
-Тоді Учитель відповів:
-«Це знання характеристики вичерпання всіх дхарм (de ni chos thams cad kyis zad pa'i mtshan nyid shes pa'o).»
-
-Знов запитав:
-«О Переможний! Тож що таке перевершення погляду?» (kye kye bcom ldan 'das de lta bas na lta ba las 'das pa de gang lags)
-
-Тоді Учитель відповів:
-«Перевершення погляду — це те, що не можна виразити (lta ba las 'das pa ni brjod du med pa zhes bya'o).»
-
-Знов запитав:
-«Що це таке?» (de nyid gang lags)
-
-Тоді Учитель відповів:
-«Це перевершення всіх умов (de ni rkyen thams cad las 'das pa'o).»
-
-Знов запитав:
-«Що таке звільнення від усіх умов?» (rkyen thams cad las grol ba de nyid gang lags)
+Знов запитав: «Що називається всіма дхармами, зібраними як нестворені?» (chos thams cad 'dus ma byas pa zhes bgyi ba de rang gang lags)
+Тоді Учитель відповів: «Це сприйняття всіх дхарм як єдиного (de ni chos thams cad nyag gcig tu 'du shes par zhes bya'o).»
+Знов запитав: «Що таке сприйняття як єдиного?» (gcig tu 'du shes pa de gang lags)
+Тоді Учитель відповів: «Це закриття воріт відчуттів виникнення (de ni byung tshor rnams kyi sgo 'gag pa'o).»
+Знов запитав: «Що таке закриття воріт відчуттів виникнення?» (byung tshor gyi sgo 'gag pa de gang lags)
+Тоді Учитель відповів: «Це ясність за своєю природою (de ni rang bzhin gyis 'od gsal ba'o).»
+Знов запитав: «Що таке ясність за своєю природою?» (rang bzhin gyis 'od gsal ba de gang lags)
+Тоді Учитель відповів: «Це повна чистота всіх об’єктів (de ni yul thams cad rnam par dag pa'o).»
+Знов запитав: «Що називається повною чистотою всіх об’єктів?» (yul thams cad rnam par dag pa zhes bgyi ba de gang lags)
+Тоді Учитель відповів: «Це знання характеристики вичерпання всіх дхарм (de ni chos thams cad kyis zad pa'i mtshan nyid shes pa'o).»
+Знов запитав: «О Переможний! Тож що таке перевершення погляду?» (kye kye bcom ldan 'das de lta bas na lta ba las 'das pa de gang lags)
+Тоді Учитель відповів: «Перевершення погляду — це те, що не можна виразити (lta ba las 'das pa ni brjod du med pa zhes bya'o).»
+Знов запитав: «Що це таке?» (de nyid gang lags)
+Тоді Учитель відповів: «Це перевершення всіх умов (de ni rkyen thams cad las 'das pa'o).»
+Знов запитав: «Що таке звільнення від усіх умов?» (rkyen thams cad las grol ba de nyid gang lags)
 
 181
 
-Тоді Учитель відповів:
-«Це нестворення жодних меж (de ni mtha' gang du yang mi 'byed pa'o).»
-
-Знов запитав:
-«Що таке нестворення жодних меж?» (mtha' gang du yang mi 'byed pa de gang lags)
-
-Тоді Учитель відповів:
-«Це перевершення всіх підрахунків (de ni rtsis gdab thams cad las 'das pa nyid do),
+Тоді Учитель відповів: «Це нестворення жодних меж (de ni mtha' gang du yang mi 'byed pa'o).»
+Знов запитав: «Що таке нестворення жодних меж?» (mtha' gang du yang mi 'byed pa de gang lags)
+Тоді Учитель відповів: «Це перевершення всіх підрахунків (de ni rtsis gdab thams cad las 'das pa nyid do),
 Перевершення всіх зусиль і дій (bya byed 'bad rtsol las 'das pa nyid do),
 Перевершення всіх напрямків і сторін, самодосконале (phyogs ris thams cad las las 'das te lhun gyis rdzogs pa nyid do).»
 
@@ -732,9 +706,7 @@ ra ra
 Повідай мені, о Великий Співчутливий!» (bcom ldan 'das kyis gsung dang)
 
 Тоді Учитель відповів:
-«ЕМАХО!
-О Великий Безмисленнєздатний, слухай! (mi rtog pa'i thub pa chen po khyod nyon cig)
-
+«ЕМАХО! О Великий Безмисленнєздатний, слухай! (mi rtog pa'i thub pa chen po khyod nyon cig)
 Омани є шістьма:
 Невідання — це утримання аспекту основної омани (ma rig pa zhes bya ba ni gzhi'i 'khrul rtog gi cha 'dzin pa'o),
 Затьмарення — це омана з аспекту мудрості (gti mug ni shes rab kyi cha las 'khrul pa'o),
@@ -1896,7 +1868,7 @@ ra ra
 218
 
 Якщо людина відокремилася від дихання (dbugs dang bral ba),
-На місці агрегатів глечик (phung po'i gnas su bum pa),
+На місці агрегатів вази (phung po'i gnas su bum pa),
 Очисти потоком мудрості води (ye shes chu rgyun sbyangs),
 І це без сумнівів (the tshom mi za).
 
@@ -2100,6 +2072,7 @@ ra ra
 Ця крапля прикрашена п’ятьма природними краплями (de la yang rang bzhin gyi thig le lnga lngas brgyan pa'o).
 
 224
+
 На основі цього, на білій шовковій тканині виникає надзвичайно ясна крапля (thig le), подібна до сфери.
 На жовтій шовковій тканині
 також виникає крапля, подібна до сфери.
@@ -2147,6 +2120,7 @@ ra ra
 Пам’ятання погляду (blta ba), завдяки якому впізнаються раніше зустрінуті істоти лише при новій зустрічі.
 
 226
+
 У цей час у потоці свідомості природно виникають непохитні утримання (gzungs),
 і всі попередні вчення одночасно проявляються в потоці свідомості.
 Так само проявляються і раніше небачені вчення, тому це називається проміжним станом реальності (chos nyid kyi bar do).
@@ -2165,6 +2139,7 @@ ra ra
 і, спрямовуючись до полів еманаційного тіла, досягають просвітлення без проміжного стану.
 
 227
+
 Тоді Безмисленнєздатний (mi rtog thub pa) звернувся з такими словами:
 «О Переможний, який час і метод для цього? Прошу, повчай мене!»
 Учитель відповів:
@@ -2197,7 +2172,9 @@ ra ra
 Якщо проміжний стан реальності (chos nyid bar do) є таким,
 то яким є проміжний стан існування (srid pa'i bar do)?
 Будь ласка, поясни це мені ясно!»
+
 228
+
 Тоді Учитель відповів:
 «О Безмисленнєздатний, слухай уважно і добре тримай це в пам’яті!
 Цей стан без настанов (lung dang mi ldan pa)
@@ -2244,7 +2221,9 @@ ra ra
 У цей час ознаки свідомості такі:
 Ті, чиї дії чисті, мають ясну свідомість.
 Ті, чиї дії нечисті, мають неясну свідомість.
+
 230
+
 Усе це виникає з добрих і злих дій (dge sdig las).
 Ці явища мають різні назви, які слід знати:
 
@@ -2270,7 +2249,9 @@ ra ra
 Через добрі чи погані дії (las ni bzang ngan),
 добрі дії призводять до зустрічі з приємним і доброчесним,
 а погані дії змушують істот із відбитками входити в неприємне лоно (mngal).
+
 231
+
 У зв’язку з наступним тілом
 виникають причини гніву (zhe sdang) і власної сили (rang shugs).
 Так само через умови бажання ('dod chags)
@@ -2294,7 +2275,9 @@ ra ra
 або дакині через силу бажання
 утримують у пастці, подібній до ями в землі.
 Це несвідоме утримання через пристрасть (dbang med chags pa'i rnyis 'dzin).
+
 232
+
 Безмисленнєздатний знову звернувся:
 «О Учитель, Ваджрасаттва!
 Чи проявляються ці настанови для нижчих органів чуття в проміжному стані,
