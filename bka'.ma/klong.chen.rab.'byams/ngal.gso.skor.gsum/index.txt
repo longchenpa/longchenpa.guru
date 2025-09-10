@@ -1,7 +1,7 @@
 Adzom Drukpa organized Longchenpa's ngal gso skor gsum into three volumes (NYA, TA, THA).
 Based on the standard arrangement and the provided titles, the works are distributed as follows:
 
-Longchen Osal Index
+Longchen Osal Index:
 
 Volume NYA:
 
@@ -20,7 +20,7 @@ Volume THA:
 sgyu ma ngal gso (Root Text: Resting in Illusion)
 sgyu ma ngal gso'i 'grel pa shing rta bzang po (Commentary: The Excellent Chariot)
 
-For Accurate Citations
+Texts Titles for Accurate Citations:
 
 @#/_/rdzogs pa chen po bsam gtan ngal gso zhes bya ba bzhugs//_
 @#/_/rdzogs pa chen po bsam gtan ngal gso'i 'grel pa shing rta rnam par dag pa dge ba zhes bya ba bzhugs//
