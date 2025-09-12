@@ -1,1679 +1,862 @@
-
-COL
-gsung 'bum/ dri med 'od zer/ （dpal brtsegs/ mes po'i shul bzhag）
-
-sec
-snying thig ya bzhi
-
-sec
-bi ma snying thig
-
-vol
-01) deb dang po/ (1)
-cha
-mes po'i shul bzhag bsdu sgrig las mi'i mtshan tho
-cha
-kun bzang yab yum gyi snang brnyan
-cha
-dpe skrun gsal bshad
-cha
-sngon 'gro'i zhu tshig
-cha
-bsdu sgrig gsal bshad
-cha
-klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus
-toc
-dri med 'od zer gyi gsung 'bum deb dang po bi ma snying thig gi dkar chag
-toc
-bi ma snying thig gi dkar chag nyi mor byed pa
-txt
-rdzogs pa chen po gsang ba snying thig gi man ngag zab pa po ti bzhi'i kha byang nyi mas brgyan pa:
-txt
-shog tshad nges pa'i kha byang:
-txt
-bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed:
-txt
-btags pas grol bar bstan pa bstan pa bu gcig gi gsang 'grel slob dpon dga' rab rdo rjes mdzad pa/ (gser yig can)
-txt
-rdo rje 'chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa: (gser yig can)
-txt
-sangs rgyas kyi 'das rjes gsum:
-txt
-sangs rgyas kyi 'das rjes gsum: (gser yig can)
-txt
-rig 'dzin gyi 'das rjes bzhi zhar byung dang bcas pa: (gser yig can)
-txt
-'jam dpal gshes gnyen gyi sgom nyams drug pa:
-txt
-shrI sing ha'i gzer bu bdun pa:
-txt
-ye shes mdo'i bzhag thabs bzhi:
-txt
-mkhas pa bye ma la'i zhal chems:
-txt
-rdzogs pa chen po gsang ba snying thig gi man ngag rin po che zangs yig can:
-txt
-rin po che rlung gi pra khrid: (phra yig)
-txt
-gsang ba yi ge ma ru'i yang tig: (phra yig)
-txt
-man ngag mdo byang bsdus pa'i sgron ma: (phra yig)
-txt
-dmigs gtad gsal ba'i sgron me: (phra yig)
-txt
-gsang ba chen po rtags kyi yi ge: (phra yig)
-txt
-gsang ba chen po tshad kyi yi ge: (phra yig)
-txt
-mngon sum snying thig gsang ba'i yi ge dmar ru'i snying thig rgyab yig: (phra yig)
-txt
-zangs yig can gyi snang byed sgron ma: (phra yig)
-cha
-bka' drin rjes dran
-cha
-dge bsngo dang smon lam
-
-vol
-02) deb gnyis pa/ (2)
-cha
-rdo rje sems dpa'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb gnyis pa bi ma snying thig gi dkar chag
-txt
-gsang ba bla med sgron ma dgu skor gyi gdams pa: (phra yig)
-txt
-yang snying bcud kyi dum bu:
-txt
-yang snying 'phrul gyi dum bu:
-txt
-dung yig can rgyud kyi khong don bsdus pa sgron ma snang byed: (dung yig can)
-txt
-dung yig can gyi rgyab yig ste gnad kyi yi ge:
-txt
-dung yig can rgyud kyi khong snying bsdebs pa:
-txt
-g.yu yig can po ti smug chung skor rnams:
-txt
-bu yig rin po che gser gyi sgrom bu:
-txt
-man ngag nges pa'i kha byang ming rnam par bkod pa
-txt
-man ngag dum dum khrigs dum bu bdun cu rtsa bzhi pa:
-txt
-khyung chen kha lding:
-txt
-sems kyi dmigs drug gi rnam par bshad pa
-
-vol
-03) deb gsum pa/ (3)
-cha
-ston pa khye'u snang dam pa'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb gsum pa bi ma snying thig gi dkar chag
-txt
-spros med dbang gi ti ka:
-txt
-dbang bskur rim par 'jug pa'i dus bshad pa:
-txt
-shin tu spros med kyi dbang 'khor 'das ru shan dbye ba'i lag len pra khrid:
-txt
-shin tu spros pa med pa'i dbang gi phra tig:
-txt
-rab tu spros pa med pa'i dbang:
-txt
-zangs yig can gyi dbang bzhi'i rim pa ston pa'i gnad rnams:
-txt
-spros med kyi dbang chog:
-txt
-dam tshig rab 'byed
-txt
-rdzogs pa chen po snying tig gi lo rgyus chen mo:
-txt
-gnas 'byed bdun pa:
-txt
-sangs rgyas kyi 'das gsum gyi rgyud:
-txt
-rang gnas chen po rgya mtsho ar la gtad pa
-txt
-rgya mtsho ar la gtad pa'i man ngag snang ba 'dus pa'i gal mdo
-txt
-bdud rtsi snying gi thigs pa
-txt
-rig pa'i gnad don lta ba
-txt
-thod rgal gyi bogs 'don ar gtad kyi gdams pa snying gi yang zhun
-txt
-smug nag khros ma rag gdong ma'i dus gnad nges pa:
-txt
-zab pa pod bzhi'i ngo bo nyid kyi deb:
-txt
-man ngag brgya bcu dgu'i them byang:
-txt
-spros bcas dbang gi phyag bzhes dang po'i dpe las lag len khrigs su sdebs pa:
-txt
-spros pa med pa'i dbang bskur ba rin po che'i bkod pa:
-txt
-spros med dbang bskur rin chen bkod pa'i gnad kyi yi ge dam pa:
-txt
-spros med dbang gi bum thig dang dag par sbyar ba
-txt
-shin tu spros pa med pa'i skal ldan gyi dbang:
-txt
-spros med dbang gi ti ka:
-txt
-rdzogs pa chen po snying thig spros bcas kyi dbang lce btsun gyis mdzad pa
-txt
-rdzogs pa chen po'i dbang gsum
-txt
-shin tu spros med kyi dbang:
-txt
-rab tu spros med kyi dbang:
-
-vol
-04) deb bzhi pa/ (4)
-cha
-ston pa khye'u 'od mi 'khrugs pa'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bzhi pa bi ma snying thig gi dkar chag
-txt
-dbang bzhi'i dus dang mtshan ma bstan pa'i phra Tig
-txt
-nyams len lag khrigs ma'i khrid ngo mtshar can
-txt
-gcud phur gsum gyi rgyab yig gsang ba'i man ngag:
-txt
-gcud phur gsum gyi rgyab yig gnad bsdus sgron me bi mas mdzad pa
-txt
-bsam gtan mig gi sgron ma
-txt
-lce btsun gyi mgur:
-txt
-tshig don bcu gcig pa:
-txt
-bla ma'i rim pa tshig don bcu pa
-txt
-sngon 'gro tshogs bsags kyi dmigs rim ngag 'don mdor bsdus pa gdod ma'i gseng lam
-txt
-zhang ston bkra shis rdo rje'i rnam thar
-txt
-zhang nyi 'bum gyi rnam thar
-txt
-gu ru jo 'ber gyi rnam thar
-txt
-'khrul zhig seng+ge rgyab pa'i rnam thar
-txt
-me long rdo rje'i rnam thar dri log ma
-txt
-me long rdo rje'i rnam thar
-txt
-ku ma rA dza'i rnam thar lo rgyus dang bcas pa
-txt
-dri med 'od zer gyi rnam thar mthong ba don ldan
-txt
-'od gsal rang grol gyi rnam par thar pa
-txt
-'khrul zhig sangs rgyas dbon po'i rnam thar nyid kyi mdzad pa nor bu'i gsal byed
-txt
-grags pa rgya mtsho'i rnam thar me tog gi phreng ba
-
-sec
-mkha' 'gro snying thig
-
-vol
-01) deb lnga pa/ (5)
-cha
-ston pa 'jam dpal 'jigs skyob kyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb lnga pa mkha' 'gro snying thig gi dkar chag
-txt
-mkha' 'gro snying thig gi kha byang:
-txt
-mkha' 'gro snying thig gi bla ma brgyud pa'i lo rgyus:
-
-txt
-btags grol gyi rgyud drug:
-cha
-btags grol snying po'i rgyud:
-cha
-gcig shes kun grol gyi rgyud:
-cha
-yang tig gser gyi 'bru gcig pa'i rgyud:
-cha
-sras gcig sa bon gyi rgyud:
-cha
-rang byung rig pa'i rgyud:
-cha
-'bras bu yongs rdzogs chen po'i rgyud:
-
-txt
-btags grol gyi rgyud drug gi ti ka:
-cha
-btags grol snying po'i ti ka:
-cha
-gcig shes kun grol gyi ti ka:
-cha
-yang tig gser gyi 'bru gcig gi ti ka:
-cha
-sras gcig sa bon rgyud gcig gi gyi ti ka gsal byed nor bu'i phreng ba:
-cha
-rang byung rig pa'i ti ka gsal byed dung gi spar khab:
-cha
-'bras bu yongs rdzogs rgyud kyi ti ka gsal byed dri med snying po:
-txt
-mkha' 'gro snying thig gi lo rgyus:
-txt
-sangs rgyas kyi 'das rjes gsum:
-txt
-btags grol don khrid:
-
-txt
-bde gshegs rigs lnga sgrub thabs:
-cha
-bde gshegs rigs lnga'i phyi sgrub:
-cha
-bde gshegs rigs lnga'i nang sgrub:
-txt
-smin byed don gsal sgron me zhes bya ba spros bcas bum pa'i dbang:
-
-txt
-dbang khrid nor bu sgron gsal:
-cha
-gsang dbang:
-cha
-shes rab kyi dbang:
-cha
-tshig dbang rin po che:
-cha
-gsang dbang lus dkyil ngo sprod:
-cha
-shes rab yum gyi mkha' ngo sprod:
-cha
-dbang gi rgyab yig lag len:
-
-txt
-dbang gong ma gsang dbang shes dbang tshig dbang gsum gyi sa ma 'grel:
-cha
-dang po gsang dbang gi sa ma 'grel:
-cha
-shes rab ye shes kyi sa ma 'grel:
-cha
-tshig dbang gi sa ma 'grel:
-txt
-bde gshegs rigs lnga'i mchod 'bul:
-txt
-mkha' 'gro'i las byang tshogs mchod rtsar phreng:
-txt
-dbang sgrub dang bum pa sgrub thabs:
-txt
-snying thig gsang ba bla med kyi dbang don gsal ba'i rgyab yig gsang ba:
-txt
-dbang bzhi'i go rim tho yig:
-txt
-dbang gi rim pa khrid du bskur lugs:
-txt
-rtsal dbang ti ka rig pa'i sgron ma:
-txt
-thod rgal khyad par dbang lnga:
-txt
-DAk+ki'i gtor ma'i rim pa:
-txt
-DAk+ki'i tshogs mchod:
-txt
-dbang gi rgyab yig:
-txt
-dbang gi tho yig:
-txt
-mkha' 'gro snying thig gsang dbang gi lhan thabs:
-txt
-DAk+ki'i dus gnad: gnad 'bebs shi sa spyi gnad bla rdo:
-txt
-mkha' 'gro ma'i nor sgrub gter gyi bum pa:
-txt
-thod rgal gyi don khrid nor bu'i snying po:
-txt
-snying po gsal ba'i me long zhes bya'i khrid:
-txt
-khrid rgyab lung gi phreng ba:
-txt
-lag khrid gnad kyi man ngag pra khrid du bstan pa:
-txt
-mkha' 'gro snying tig gi rtags yig tshad yig:
-txt
-snying thig chen mo'i rgyab chos kyi rtsa ba:
-txt
-snying thig gsang ba'i yang bcud snying po gsal ba'i me long:
-txt
-rnal 'byor bzhi las lta ba'i rnal 'byor:
-txt
-thun bzhi'i rnal 'byor las sgom pa'i rnal 'byor:
-txt
-rnal 'byor bzhi las spyod pa'i rnal 'byor dang 'bras bu'i rnal 'byor gnyis:
-txt
-zhus len bdud rtsi gser 'phreng:
-txt
-zhal gdams gsang ba'i dum bu:
-txt
-gnad kyi gdams pa lnga pa:
-txt
-DAk+ki'i lam 'bras kyi skor:
-txt
-zhal gdams gnad kyi phreng ba:
-txt
-DAk+ki'i gnad thig:
-txt
-rdo rje chu 'thung:
-txt
-zhi ba bar do lam gyi mtshan nyid:
-txt
-khro ba bar do gnad kyi sgron ma:
-txt
-bar do'i gdams pa 'byung ba 'dus pa 'bral ba rtags kyi rim pa:
-txt
-'chi kha'i bar do'i gsal 'debs:
-txt
-chos nyid bar do'i yon tan:
-txt
-bar do'i ngo sprod:
-txt
-'od gsal:
-
-vol
-02) deb drug pa/ (6)
-cha
-ston pa gzhon nu rnam rol gyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb drug pa mkha' 'gro snying thig gi dkar chag
-txt
-mkha' 'gro'i gtum mo khyad par can:
-txt
-'byung ba rdo'i bcud len:
-txt
-DAk+ki snying tig gi bka' srung dpal srog sgrub nag mo'i srog len:
-txt
-srog sgrub nag mo'i sgrub thabs dang srog dbang:
-txt
-snying tig gi bla ma'i rnal 'byor:
-txt
-bla ma'i rnal 'byor gyi phyi nang gsang gsum:
-txt
-khregs chod ngo sprod mtha' grol klong yangs:
-txt
-rtsal dbang:
-
-txt
-thig le dangs snyigs 'byed pa dang rigs rgyud bzhag thabs kyi lag len:
-cha
-sprul sku bzhag thabs:
-txt
-bar do'i ngo sprod:
-txt
-bar do'i mtshan nyid bshad pa dang skye gnas rnams kyi rgyu bstan pa:
-txt
-btags grol phran drug gi ti ka:
-txt
-rta mgrin yab yum gyi lus dkyil:
-txt
-DAk+ki'i rkyang sgrub:
-txt
-mkha' 'gro sngags kyi lde mig:
-txt
-snying thig gi bdud rtsi phyag mchod:
-txt
-rtags yig dang tshad kyi yi ge:
-txt
-DAk+ki'i dril sgrub gsang ba snying gi dum bu:
-txt
-DAk+ki'i lus dkyil chen mo:
-txt
-pad+ma las 'brel rtsal gyi skyes rabs dang lung bstan:
-txt
-gter gyi kha byang:
-txt
-mkha' 'gro snying tig gi lag 'grig
-txt
-lo rgyus rgyal ba g.yung gis mdzad pa:
-txt
-g.yung ston pas gsungs pa'i phyag 'tshal:
-txt
-g.yung gi lo rgyus:
-txt
-'pho ba:
-txt
-gter srung ldang lha'i sgrub thabs:
-txt
-gsang zab mkha' 'gro snying thig gi gsol 'debs:
-txt
-brgyud 'dzin gi slob bu'i lung bstan:
-txt
-mkha' 'gro snying thig gi cha rkyen lha mo lnga'i tshe sgrub:
-txt
-sprul sku legs pa lung bstan pa:
-txt
-mkha' 'gro snying thig las srog sgrub nag mo'i gtor dbang:
-txt
-mkha' 'gro yang tig gi dbang bskur ba'i lag len mkha' 'gro snying thig gi dkyil 'khor bri tshul:
-txt
-mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba
-txt
-rdzogs pa chen po mkha' 'gro snying tig gi khrid yig:
-toc
-mkha' 'gro snying thig par du sgrub tshul gyi dkar chag:
-
-sec
-mkha' 'gro yang tig
-
-vol
-01) deb drug pa/ (6)
-toc
-zab chos mkha' 'gro yang tig gi pusta ka par du sgrub tshul gyi dkar chag:
-txt
-them byang rin chen ljon shing
-txt
-gter 'byung rin po che'i lo rgyus
-txt
-rin po che dbang gi phreng ba
-txt
-bdag 'jug pad+ma klong yangs
-
-vol
-02) deb bdun pa/ (7)
-cha
-rdo rje 'chang gi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bdun pa mkha' 'gro snying thig gi dkar chag
-txt
-tshogs mchod rgya mtsho'i sprin
-txt
-phyag 'tshal dri med zla rgyas
-txt
-gsol 'debs bdud rtsi'i chu rgyun
-txt
-khrid yig nor bu lugs
-txt
-khrid yig nyi zla gza' skar
-
-txt
-zab mo rab 'byed ces bya dang / tshogs bsags pa
-txt
-zab mo rab 'byed
-txt
-tshogs bsags pa
-txt
-khrid yig rin po che gser gyi phreng ba
-txt
-nam mkha' skor gsum las/ nam mkha' rab 'byams
-txt
-nam mkha' klong yangs
-txt
-nam mkha' dri med
-txt
-nam ngag rin chen gser gyi sgrom bu
-txt
-tshig don rin po che'i bang mdzod
-txt
-mkha' 'gro snying tig gi zab don rgya mtsho'i khog dbub don gsal nyi ma'i 'od zer
-txt
-zab don rgya mtsho'i sprin
-
-vol
-03) deb brgyad pa/ (8)
-cha
-ston pa gzhon nu dpa' bo stobs ldan gyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb brgyad pa mkha' 'gro snying thig gi dkar chag
-txt
-gsang spyod rdo rje'i lam bstan
-txt
-nges don snying po:
-txt
-byin rlabs thugs sgrub:
-txt
-rig 'dzin mchog sgrub:
-txt
-bskyed rim yid bzhin nor bu:
-txt
-rdzogs rim ye shes 'khor lo:
-txt
-rlung drug rdo rje'i chings:
-txt
-rlung sbyor ye shes dra ba:
-txt
-zab lam bde chen rgya mtsho:
-txt
-'od gsal 'khor lo:
-txt
-gzhi snang ngo sprod:
-txt
-'od gsal sbubs 'jug:
-txt
-sgron ma zhi skor:
-txt
-'khrul snang gzhi grol:
-txt
-rmi lam sbubs 'jug:
-txt
-dbyings snang ngo sprod:
-txt
-zab don gnad kyi lde mig:
-txt
-'od gsal pra khrid:
-txt
-gsang lam rin po che'i ngo sprod:
-txt
-zab don snying po:
-txt
-kun 'dus rin po che'i ngo sprod:
-txt
-bar do sbubs 'jug:
-txt
-bar do gnad kyi sgron me:
-txt
-gnad gsum sgron me:
-txt
-mthong snang rin po che 'od kyi dra ba
-txt
-zhal chems dri ma med pa'i 'od
-txt
-zhal chems mthar thug gcig ma
-txt
-zhal chems gnad kyi me long
-txt
-bde gshegs rigs lnga'i sgrub thabs pad+ma stong ldan
-txt
-rigs lnga'i bcud len bdud rtsi'i thigs pa
-txt
-bdud rtsi'i sprin phung
-txt
-'chi ba brtag bslu'i man ngag nyi zla gza' bral
-txt
-btags grol rgyud kyi man ngag rin chen snying po
-txt
-sreg sbyong 'od kyi snye ma
-txt
-gzhan phan 'od kyi 'khor lo
-txt
-phyag rgya bzhi mchod 'od kyi 'khor lo'i gnad yig
-txt
-mchod rten rab gnas rin chen dra ba
-txt
-rab tu gnas pa'i cho ga ye shes dri med
-txt
-mthong snang rin chen gser gyi dra ba
-txt
-rdo rje g.yu sgron ma'i sgrub thabs zla ba 'dod 'jo
-txt
-gza' bdud gsang sgrub
-txt
-drang srong gi bstod pa
-txt
-gnod sbyin dmar nag gi sgrub pa me rlung 'khyil ba
-txt
-bshan pa srog sgrub nag mo'i gsang sgrub
-txt
-mkha' 'gro yang tig gi them byang dpag bsam ljon shing
-
-sec
-bla ma yang tig
-
-vol
-01) deb dgu pa/ (9)
-cha
-ston pa drang srong khros pa'i rgyal po'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb dgu pa bla ma yang tig gi dkar chag
-txt
-kha byang nyi ma'i snying po
-txt
-lo rgyus rin po che'i phreng ba
-txt
-bla ma yang tig gi brgyud pa'i phyag 'tshal byin rlabs sprin tshogs
-txt
-bla yang tig gi gsol 'debs bdud rtsi'i sprin tshogs
-
-txt
-maN+Dal 'bul ba'i cho ga tshogs gnyis sprin tshogs
-cha
-sku gsung thugs kyi maN+Dal
-txt
-spros bcas kyi dbang chog tshangs pa'i drwa ba
-txt
-dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa
-txt
-spros med kyi dbang chog rin po che'i drwa ba
-txt
-gnad yig bum pa'i brda don
-txt
-byin rlabs sprin phung ye shes 'bebs pa
-txt
-shin tu spros med kyi dbang chog pad+ma'i drwa ba
-txt
-gling bzhi rgyan gyur gyi maN+Dal
-txt
-rab tu spros med kyi dbang chog 'od kyi drwa ba
-txt
-lnga tshan lnga'i maN+Dal 'bul ba'i cho ga yid bzhin drwa ba
-txt
-dam tshig gi rim pa rnam grol rgya mtsho
-txt
-tshogs mchod kyi rim pa yid bzhin rgya mtsho
-txt
-bla ma'i rim pa dngos grub rgya mtsho
-txt
-sngon 'gro sems sbyong bdun gyi don khrid
-txt
-dngos gzhi 'od gsal snying po'i don khrid
-txt
-khregs chod ye babs sor bzhag gi don khrid
-txt
-khregs chod kyi rgyab yig nam mkha' dri med
-txt
-thod rgal gyi rgyab yig nyi zla gza' skar
-txt
-btags grol rgyab yig yid bzhin lhun grub
-txt
-khregs chod kyi yang yig nam mkha' klong yangs
-
-vol
-02) deb bcu pa/ (10)
-cha
-ston pa gser 'od dam pa'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu pa bla ma yang tig gi dkar chag
-txt
-thod rgal gyi yang yig nam mkha' klong gsal
-txt
-khregs chod dang thod rgal gnyis ka'i yang yig nam mkha' klong chen
-txt
-nam mkha' klong chen gyi bsdus don 'od kyi phreng ba
-txt
-bde stong bdud rtsi'i sprin phung
-txt
-rlung sbyor ye shes sprin phung
-txt
-rtog med nam mkha'i sprin phung
-txt
-gzhi snang ye shes sgron me
-txt
-dpe don gsal byed sgron me
-txt
-nyams len gnad kyi sgron me
-txt
-bdud rtsi ljon shing 'od gsal gyi gnad yig
-txt
-bdud rtsi dri med
-txt
-'od gsal sbyong ba'i gnad yig bdud rtsi rgyal po
-txt
-nyin mtshan 'od gsal gyi 'khor lo
-txt
-gnad gsum chos nyid kyi 'khor lo
-txt
-yang zab ye shes 'khor lo
-txt
-rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing
-txt
-brten pa sgo'i gegs sel sgron ma snang byed
-txt
-rig pa sems kyi gegs sel ye shes dri med
-txt
-bla ma yid bzhin nor bu
-txt
-yi dam yid bzhin nor bu
-txt
-mkha' 'gro yid bzhin nor bu
-txt
-nges don byang chub snying po
-txt
-mthar thug yid bzhin snying po
-txt
-'pho ba 'od gsal snying po
-txt
-ngo sprod dran pa'i me long
-txt
-'chi ltas dran pa'i me long
-txt
-'chi bslu dran pa'i me long
-txt
-snyan brgyud chung ngu ye shes rang snang
-txt
-snyan brgyud 'bring po bar do 'od gsal rang snang
-txt
-snyan brgyud chen mo nges don mngon sum rang snang
-txt
-dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu
-txt
-gu ru'i gsol 'debs bsam pa myur 'grub
-txt
-rA hu la'i gsang sgrub snying gi dum bu
-txt
-gza bdud kyi gsang sgrub me rlung 'khyil ba
-txt
-dam can gyi gsang sgrub snying gi dum bu
-txt
-kha byang 'od gsal snying po
-toc
-bla ma yang tig yid bzhin nor bu'i chos skor par du bzhengs tshul gyi dkar chag mu tig phreng ba
-txt
-bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge
-
-sec
-zab mo yang tig
-
-vol
-01) deb bcu gcig pa/ (11)
-cha
-ston pa brtse ba'i rnam rol blo gros kyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu gcig pa zab mo yang tig gi dkar chag
-txt
-lo rgyus rin po che 'od kyi phreng ba
-txt
-phyag tshal yid bzhin nor bu
-txt
-gsol 'debs bdud rtsi'i chu rgyun
-txt
-maN+Dal 'bul ba'i cho ga gling bzhi'i rgyan gyur
-txt
-gu ru bi ma la sgrub pa'i rim pa
-txt
-snying po ye shes kyi bla ma sgrub pa
-txt
-spros bcas kyi dbang chog dngos grub chu bo
-txt
-dkyil 'khor spros bcas ming gi rim pa
-txt
-spros med dbang chog klong gsal chu bo
-txt
-bum pa'i brda don
-txt
-shin tu spros pa med pa'i dbang chog ye shes chu bo
-txt
-rab tu spros pa med pa'i dbang chog byin rlabs chu bo
-txt
-dam tshig gsum bkod
-txt
-thun mong gi sngon 'gro rin po che'i pra khrid
-txt
-khrid yig sangs rgyas mnyam sbyor
-txt
-gzhi ma bcos ji bzhin du ngo sprod pa'i rim pa
-txt
-rgya mtsho ar gtad kyi mun khrid 'od gsal 'khor lo
-txt
-khyung chen gshog rdzogs
-txt
-khyung chen gshog rdzogs kyi bsdus don
-txt
-gsang ba bla med spyi babs
-txt
-zab mo bcud bsdus
-txt
-'od gsal snying po
-txt
-snying po don bsdus
-txt
-nges don snying po
-txt
-mthar thug don gyi snying po
-txt
-gzhi lam 'bras bu'i gnas gsal ba
-txt
-rnal 'byor bzhi'i rim pa
-txt
-zab mo pra khrid
-txt
-snying po'i yang bcud
-txt
-rig pa brtul zhugs kyi spyod pa
-txt
-dus kyi gsal byed
-txt
-'da' kha don gyi man ngag
-txt
-btags grol snying po
-txt
-zab don snying po
-txt
-tshig don snying po
-txt
-gdams khrid don gyi mdo chings
-txt
-snyan brgyud gnad kyi mdo chings
-txt
-gsang skor brgyud pa'i phyag 'tshal byin rlabs sprin phung
-txt
-dgongs brgyud gsol 'debs
-txt
-gsang skor bla brgyud rim gyi gsol 'debs
-txt
-gsol 'debs dngos grub kun 'byung
-
-vol
-02) deb bcu gnyis pa/ (12)
-cha
-ston pa 'od srung bgres po'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu gnyis pa zab mo yang tig gi dkar chag
-txt
-gsang skor gyi dbang gi lag len gsal ba'i sgron me
-txt
-mchog gsang lam khrid chen mo
-txt
-ye grol sor bzhag
-txt
-snyan brgyud thugs kyi me long
-txt
-snyan brgyud don gyi me long
-txt
-lag khrid snying po
-txt
-snyan brgyud kyi rgyab chos chen mo zab don gnad kyi me long
-txt
-zab mo yang tig gi bka' srung drag po sum sgril
-txt
-bskang gso dngos grub char 'bebs
-toc
-zab mo yang tig gi dkar chag nyi zla gza' skar
-toc
-zab mo yang tig gi dkar chag dpag bsam ljon pa
-
-sec
-klong chen mdzod bdun
-
-sec
-yid bzhin mdzod dang gnas lugs mdzod
-
-vol
-01) deb bcu gsum pa/ yid bzhin mdzod stod cha/ (13)
-cha
-ston pa mngon rdzogs rgyal po'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu gsum pa yid bzhin mdzod stod cha'i dkar chag
-txt
-yid bzhin mdzod kyi rtsa ba
-
-txt
-yid bzhin mdzod kyi 'grel pa pad+ma dkar po stod cha
-cha
-dang po/ gzhi 'khor ba'i grub tshul bstan pa'i 'grel pa
-cha
-gnyis pa/ 'gro ba'i don du zhing khams rnam par bkod pa'i 'grel pa
-cha
-gsum pa/ snod chags tshul bstan pa'i 'grel pa
-cha
-bzhi pa/ bcud chags tshul bstan pa'i 'grel pa
-cha
-lnga pa/ gnas pa'i bskal pa bstan pa'i 'grel pa
-cha
-drug pa/ 'jig pa dang stongs pa bstan pa'i 'grel pa
-cha
-bdun pa/ snod bcud kyi bde sdug bstan pa'i 'grel pa
-cha
-brgyad pa/ dge ba'i bshes gnyen bsten pa'i 'grel pa
-cha
-dgu pa/ sdig grogs spang ba'i 'grel pa
-cha
-bcu pa/ 'chad pa po slob dpon gyi 'grel pa
-cha
-bcu gcig pa/ nyan pa po slob ma'i chos kyi 'grel pa
-cha
-bcu gnyis pa/ bshad bya chos kyi rnam grangs rgya cher spros pa'i 'grel pa las phyi rol pa'i grub mtha'i rnam par bshad pa
-txt
-yid bzhin mdzod kyi dpe bsdur gsal bshad
-txt
-yid bzhin mdzod kyi dpe bsdur zur mchan
-
-vol
-02) deb bcu bzhi pa/ yid bzhin mdzod smad cha dang / gnas lugs mdzod/(14)
-cha
-ston pa shAkya thub pa'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu gsum pa yid bzhin mdzod smad cha'i dkar chag
-
-txt
-yid bzhin mdzod kyi 'grel pa pad+ma dkar po'i smad cha
-cha
-bcu gnyis pa/ nang pa'i grub mtha'i rnam par bshad pa
-cha
-bcu gsum pa/ dal 'byor rnyed dka' bsam pa'i 'grel pa
-cha
-bcu bzhi pa/ tshe mi rtag par bsam pa'i 'grel pa
-cha
-bco lnga pa/ dad pa'i rang bzhin bsam pa'i 'grel pa
-cha
-bcu drug pa/ las rgyu 'bras bsam pa'i 'grel pa
-cha
-bcu bdun pa/ 'khor ba'i sdug bsngal rtogs shing myang 'das bde bar bsam pa'i 'grel pa
-cha
-bco brgyad pa/ gnas lugs gtan la dbab pa'i 'grel pa
-cha
-bcu dgu pa/ bsm gtan gyi sngon du 'gro ba'i 'grel pa
-cha
-nyi shu pa/ 'od gsal mchog gi bsgom pa bstan pa'i 'grel pa
-cha
-nyer gcig pa/ lam bgrod pa'i sa mtshams bstan pa'i 'grel pa
-cha
-nyer gnyis pa/ bsgom pa mthar phyin pa 'bras bu'i 'grel pa
-txt
-yid bzhin mdzod kyi don khrid rdo rje'i snying po
-
-txt
-gnas lugs mdzod kyi rtsa ba
-cha
-chos thams cad gang du'ang brjod du med par gtan la phab pa
-cha
-chos thams cad bar med phyal pa chen por gtan la phab pa
-cha
-chos thams cad ye nas lhun gyis grub par gtan la phab pa
-cha
-chos thams cad rtsa ba rig pa'i ye shes gcig pur gtan la phab pa
-cha
-bstan pa gang la gzhag pa'i gang zag gi snod gtan la phab pa
-
-txt
-gnas lugs mdzod kyi 'grel pa
-cha
-dang po/ chos thams cad gang du'ang brjod du med par gtan la phab pa
-cha
-gnyis pa/ chos thams cad bar med phyal ba chen por gtan la phab pa
-cha
-gsum pa/ chos thams cad ye nas lhun gyis grub par gtan la phab pa
-cha
-bzhi pa/ chos thams cad rtsa ba rig pa'i ye shes su gcig pur gtan la phab pa
-cha
-lnga pa/ gang la bzhag pa'i gang zag gi rim pa gtan la phab pa
-txt
-bstan bcos yongs su rdzogs pa'i mjug gi bya ba bstan pa
-txt
-yid bzhin mdzod smad cha dang don khrid zab don rdo rje snying po gnas lugs mdzod bcas kyi dpe bsdur gsal bshad
-txt
-yid bzhin mdzod smad cha dang gnas lugs mdzod gnyis kyi dpe bsdur zur mchan
-
-sec
-grub mtha' mdzod dang / man ngag mdzod
-
-vol
-01) deb bco lnga pa/ grub mtha' mdzod dang / man ngag mdzod/ (15)
-cha
-dga' rab rdo rje'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bco lnga pa grub mtha' mdzod dang / man ngag mdzod kyi dkar chag
-
-txt
-grub mtha' mdzod
-cha
-dang po/ ston pa'i lo rgyus rnam par gzhag pa
-cha
-gnyis pa/ dam pa'i chos kyi tshul bshad pa
-cha
-gsum pa/ theg pa so so'i 'dod gzhung bstan pa
-cha
-bzhi pa/ lam nyams su blang tshul bstan pa
-cha
-lnga pa/ gsang sngags don gyi 'brel dgod pa
-cha
-drug pa/ thugs rdo rje gsang ba bstan pa
-cha
-bdun pa/ chos thams cad rdzogs par gtan la phab pa
-cha
-brgyad pa/ yid bzhin drwa ba rdo rje snying po bstan pa
-txt
-man ngag mdzod
-txt
-grub mtha' mdzod dang man ngag mdzod kyi dpe bsdur gsal bshad
-txt
-grub mtha' mdzod dang man ngag mdzod kyi bsdur mchan
-
-sec
-chos dbyings mdzod
-
-vol
-01) deb bcu drug pa/ (16)
-cha
-'jam dpal bshes gnyen gyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu drug pa chos dbyings mdzod kyi dkar chag
-txt
-chos dbyings mdzod
-
-txt
-chos dbyings mdzod kyi 'grel pa
-cha
-bstan bcos rtsom pa la 'jug pa'i rgyu bstan pa
-cha
-dang po/ 'khor 'das dbyings las ma g.yos par bstan pa
-cha
-gnyis pa/ snang srid zhing khams su shar ba bstan pa
-cha
-gsum pa/ byang chub sems kyi mtshon dpe bstan pa
-cha
-bzhi pa/ byang chub sems kyi rang bzhin bstan pa
-cha
-lnga pa/ rtsol sgrub rgyu 'bras las 'das par bstan pa
-cha
-drug pa/ thams cad byang chub kyi sems su 'dus par bstan pa
-cha
-bdun pa/ thams cad byang chub kyi sems su ye nas lhun gyis grub par bstan pa
-cha
-brgyad pa/ byang chub kyi sems la gnyis su med par bstan pa
-cha
-dgu pa/ chos thams cad byang chub sems kyi klong du bzla bar bstan pa
-cha
-bcu pa/ dgongs pa chos nyid las mi g.yo bar bstan pa
-cha
-bcu gcig pa/ rkyen snang mkha' mnyam dag par bstan pa
-cha
-bcu gnyis pa/ chos thams cad byang chub kyi sems su ye nas grol ba'i rang bzhin bstan pa
-cha
-bcu gsum pa/ chos thams cad byang chub kyi sems su ye nas sangs rgyas pa la/ rtsol ba dang sgrub pa med par yang sangs rgyas par bstan pa
-cha
-bstan bcos yongs su rdzogs pa mjug gi don bstan pa
-txt
-chos dbyings mdzod kyi dpe bsdur gsal bshad
-txt
-chos dbyings rin po che'i mdzod kyi bsdur mchan
-
-sec
-theg mchog mdzod
-
-vol
-01) deb bcu bdun pa/ theg mchog mdzod stod cha/ (17)
-cha
-shrI sing+ha'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu bdun pa theg mchog mdzod stod cha'i dkar chag
-
-txt
-theg mchog mdzod stod cha
-cha
-dang po/ ston pa dang bstan pa'i byung tshul gtan la dbab pa
-cha
-gnyis pa/ snod dang bcud kyi 'jig rten bstan pa
-cha
-gsum pa/ 'khor ba'i chos rab dbye ba
-cha
-bzhi pa/ grub pa'i mtha' rab dbye ba
-cha
-lnga pa/ gsang chen nges pa'i don las dka' ba'i gnas bstan pa
-cha
-drug pa/ gzhi'i don smin par byed pa dbang gi rnam par gzhag pa
-cha
-bdun pa/ dam tshig rnam pa bkod pa
-cha
-brgyad pa/ gdod ma gzhi'i gnas lugs bstan pa
-cha
-dgu pa/ lhun grub snang tshul gyi sgo nas 'khor 'das kyi gyes mdo bstan pa
-cha
-bcu pa/ 'khrul lugs bzlog tshul dang bcas pas brdas mtshon pa
-cha
-bcu gcig pa/ bag chags lus kyi grub tshul bstan pa
-cha
-bcu gnyis pa/ gnad nges pa bye brag tu bshad pa
-cha
-bcu gsum pa/ sgron ma bzhi'i rnam grangs bstan pa
-cha
-bcu bzhi pa/ brten pa shes pa'i gnas rnam par gzhag pa
-txt
-theg mchog mdzod kyi dpe bsdur gsal bshad
-txt
-theg mchog rin po che'i mdzod kyi bsdur mchan
-
-vol
-02) deb bco brgyad pa/ theg mchog mdzod smad cha/ (18)
-cha
-ye shes mdo'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu bdun pa theg mchog mdzod smad cha'i dkar chag
-
-txt
-theg mchog mdzod smad cha
-cha
-bco lnga pa/ 'byung ba'i gnas bstan pa
-cha
-bcu drug pa/ dbyings dang ye shes lhun gyis grub pa'i gnas bstan pa
-cha
-bcu bdun pa/ dmigs pa yul gyi blo rim can 'jug pa'i lam zab rgya cher bshad pa
-cha
-bco brgyad pa/ 'od gsal rdo rje snying po'i lam gyi chings bstan pa
-cha
-bcu dgu pa/ yang rab rtogs pas grol ba'i man ngag gi chings bstan pa
-cha
-nyi shu pa/ lhun grub thod rgal gyi ye shes nyams su len pa'i gnad nges pa
-cha
-nyer gcig pa/ rdo rje'i gnas dka' ba ngo sprod la brten nas mtshon pa
-cha
-nyer gnyis pa/ dus gsum rtags kyi rnam grangs nges pa gtan la phab pa
-cha
-nyer gsum pa/ rang snang bar do'i 'char tshul bstan pa
-cha
-nyer bzhi pa/ dbang po tha ma rnams rang bzhin sprul pa'i sku'i zhing du dbugs dbyung ba
-cha
-nyer lnga pa/ lhun gyis grub pa 'bras bu'i rnam par gzhag pa
-txt
-theg mchog mdzod kyi mjug byang
-txt
-theg mchog mdzod kyi dpe bsdur gsal bshad
-txt
-theg pa'i mchog rin po che'i mdzod kyi bsdur mchan
-
-sec
-tshig don mdzod
-
-vol
-01) deb bcu dgu pa/ (19)
-cha
-bi ma la mi tra'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb bcu dgu pa tshig don mdzod kyi dkar chag
-
-txt
-tshig don mdzod
-cha
-dang po/ gzhi gtan la dbab pa'i rim pa
-cha
-gnyis pa/ srid par 'khrul tshul gyi rim pa
-cha
-gsum pa/ sangs rgyas kyi snying pos khyab tshul rim pa
-cha
-bzhi pa/ ye shes kyi gnas bstan pa'i rim pa
-cha
-lnga pa/ ye shes kyi lam bstan pa'i rim pa
-cha
-drug pa/ ye shes kyi sgo'i gnad bstan pa'i rim pa
-cha
-bdun pa/ yul gyi gnad bstan pa'i rim pa
-cha
-brgyad pa/ ji ltar nyams su blang ba'i rim pa
-cha
-dgu pa/ rtags tshad nges pa'i rim pa
-cha
-bcu pa/ nyams su len pa rgyal po'i khang bzang gi rim pa
-cha
-bcu gcig pa/ mthar phyin 'bras bu'i rim pa
-txt
-tshig don mdzod kyi dpe bsdur gsal bshad
-txt
-tshig don rin po che'i mdzod kyi bsdur mchan
-
-sec
-ngal gso skor gsum
-
-sec
-sems nyid ngal gso
-
-vol
-01) deb nyi shu pa/ (20)
-cha
-pad+ma 'byung gnas kyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb nyi shu pa sems nyid ngal gso stod cha'i dkar chag
-txt
-sems nyid ngal gso
-txt
-sems nyid ngal gso'i 'grel pa shing rta chen po'i bsdus don
-
-txt
-rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i stod cha
-cha
-dang po/ dal 'byor rnyed dka' ba'i le'u'i 'grel pa
-cha
-gnyis pa/ tshe mi rtag pa'i le'u'i 'grel pa
-cha
-gsum pa/ 'khor ba sdug bsngal gyi le'u'i 'grel pa
-cha
-bzhi pa/ las rgyu 'bras kyi le'u'i 'grel pa
-cha
-lnga pa/ dge ba'i bshes gnyen bsten pa'i le'u'i 'grel pa
-cha
-drug pa/ skyab su 'gro ba'i le'u'i 'grel pa
-cha
-bdun pa/ tshad med pa bzhi'i le'u'i 'grel pa
-
-vol
-02) deb nyer gcig pa/ (21)
-cha
-khri srong lde btsan gyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb nyer gcig pa sems nyid ngal gso smad cha'i dkar chag
-
-txt
-rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i smad cha
-cha
-brgyad pa/ byang chub mchog tu sems bskyed pa'i le'u'i 'grel pa
-cha
-dgu pa/ bskyed rdzogs zung du 'jug pa'i le'u'i 'grel pa
-cha
-bcu pa/ gzhi rtogs pa'i shes rab mtha' gnyis la mi gnas pa'i le'u'i 'grel pa
-cha
-bcu gcig pa/ lam bsam gtan dri ma med pa zhi lha zung du 'brel ba'i le'u'i 'grel pa
-cha
-bcu gnyis pa/ ting nge 'dzin sgrub pa'i yan lag thabs la mkhas pa'i le'u'i 'grel pa
-cha
-bcu gsum pa/ 'bras bu lhun grub chen po'i le'u'i 'grel pa
-cha
-sems nyid ngal gso'i mjug gi don
-txt
-sems nyid ngal gso'i don khrid
-
-sec
-sgyu ma ngal gso dang / bsam gtan ngal gso/ rang grol skor gsum
-
-vol
-01) deb nyer gnyis pa/ sgyu ma ngal gso dang / bsam gtan ngal gso/ rang grol skor gsum/ (22)
-cha
-bai ro tsa na'i snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb nyer gnyis pa'i dkar chag
-
-txt
-sgyu ma ngal gso
-txt
-rdzogs pa chen po sgyu ma ngal gso'i rtsa ba
-txt
-sgyu ma ngal gso'i bsdus don
-txt
-sgyu ma ngal gso'i 'grel pa
-txt
-sgyu ma ngal gso'i don khrid
-
-sec
-bsam gtan ngal gso
-
-vol
-01) deb nyer gnyis pa/ (22)
-
-txt
-bsam gtan ngal gso
-txt
-bsam gtan ngal gso'i rtsa ba
-txt
-bsam gtan ngal gso'i bsdus don
-txt
-bsam gtan ngal gso'i 'grel pa
-txt
-bsam gtan ngal gso'i don khrid
-
-txt
-ngal gso skor gsum gyi skor
-txt
-ngal gso skor gsum gyi spyi don
-toc
-ngal gso skor gsum gyi dkar chag
-
-sec
-rang grol skor gsum dang kun byed rgyal po'i don khrid
-
-vol
-01) deb nyer gnyis pa/ (22)
-
-txt
-rang grol skor gsum
-txt
-sems nyid rang grol gyi rtsa ba
-txt
-sems nyid rang grol gyi lam rim
-txt
-sems nyid rang grol gyi gsol 'debs
-
-txt
-chos nyid rang grol
-txt
-dang po/ gzhi rtogs pas grol ba'i le'u bshad pa
-txt
-gnyis pa/ lam bsgoms pa'i grol ba'i le'u bshad pa
-txt
-gsum pa/ 'bras bu mchog gi grol ba'i le'u bshad pa
-txt
-chos nyid rang grol gyi khrid yig
-txt
-mnyam nyid rang grol gyi rtsa ba
-txt
-mnyam nyid rang grol gyi don khrid
-txt
-byang chub kyi sems kun byed rgyal po'i don khrid
-
-sec
-gsang snying gi rtsa 'grel
-
-vol
-01) deb nyer gsum pa/ (23)
-cha
-grogs mkha' 'gro ye shes mtsho rgyal gyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb nyer gsum pa rgyud gsang ba snying po'i dkar chag
-txt
-rgyud gsang ba snying po'i rtsa ba
-
-txt
-rgyud gsang ba snying po'i 'grel pa
-cha
-dang po/ gleng gzhi'i rnam par bshad pa
-cha
-gnyis pa/ don dam pa dang kun rdzob kyi byang chub sems ye shes su bskyed pa'i rnam par bshad pa
-cha
-gsum pa/ chos thams cad gtan la phab pa'i rnam par bshad pa
-cha
-bzhi pa/ yi ge phreng ba'i 'khor lo bkod pa'i rnam par bshad pa
-cha
-lnga pa/ sgyu 'phrul drwa ba sgrub pa'i ting nge 'dzin gyi rnam par bshad pa
-cha
-drug pa/ dkyil 'khor spros pa'i rnam par bshad pa
-cha
-bdun pa/ dkyil 'khor 'dus pa dang gsang sngags kyi rnam par bshad pa
-cha
-brgyad pa/ yan lag thams cad dkyil 'khor du byin gyis brlabs nas phyag rgya spros pa'i rnam par bshad pa
-cha
-dgu pa/ rdo rje bkod pa'i gsang ba'i dam tshig gi rnam par bshad pa
-cha
-bcu pa/ dbang sbyin pa'i rnam par bshad pa
-cha
-bcu gcig pa/ tshogs kyi dkyil 'khor gyi rnam par bshad pa
-cha
-bcu gnyis pa/ tshogs sgrub pa'i rnam par bshad pa
-cha
-bcu gsum pa/ shin tu gsang ba man ngag gi snying po'i rnam par bshad pa
-cha
-bcu bzhi pa/ mnyes pa'i mchod pa'i rnam par bshad pa
-cha
-bco lnga pa/ khro bo rang bzhin gyi dkyil 'khor gyi sprin rnam par spros pa'i rnam par bshad pa
-cha
-bcu drug pa/ khro bo'i tshogs chen po'i gsung gi dkyil 'khor spros pa'i rnam par bshad pa
-cha
-bcu bdun pa/ khro bo'i dkyil 'khor bstan pa'i rnam par bshad pa
-cha
-bco brgyad pa/ mchod sbyin dam pa bstan pa'i rnam par bshad pa
-cha
-bcu dgu pa/ dam tshig gi rnam par bshad pa
-cha
-nyi shu pa/ lhun gyis grub pa'i phrin las byin gyis rlob pa zhes bya ba'i rnam par bshad pa
-cha
-nyer gcig pa/ khro bo la bstod pa'i rnam par bshad pa
-cha
-nyer gnyis pa/ mnyes pa dang yongs su bzung ba'i rnam par bshad pa
-cha
-rgyud gsang ba snying po'i 'grel pa'i mjug gi don
-
-sec
-klong chen rab 'byams pa dri med 'od zer gyi gsung thor bu
-
-sec
-bstod tshogs
-
-vol
-01) deb nyer bzhi pa/ (24)
-cha
-klong chen rab 'byams kyi snang brnyan
-toc
-dri med 'od zer gyi gsung 'bum deb nyer bzhi pa gsung thor bu'i dkar chag
-txt
-bde bar gshegs pa la bstod pa
-txt
-'jam dpal la bstod pa
-txt
-'jam dpal gzhon nu la bstod pa
-txt
-dbyangs can ma la bstod pa
-txt
-tshogs bdag gi bstod pa
-txt
-yer pa'i gnas bstod
-txt
-zhwa pad+ma dbang chen gyi bstod pa
-txt
-bum thang lha'i sbas yul gyi bkod pa me tog skyed tshal
-toc
-zhwa pad+ma dbang chen gyi dkar chag gtsigs kyi yi ge zhi mo
-
-sec
-gtam tshogs
-
-vol
-01) deb nyer bzhi pa/ (24)
-txt
-blo gsal ri bong gi rtogs pa brjod pa'i dris lan
-txt
-po ta la kun tu dga' ba'i gtam
-txt
-nags tshal kun tu dga' ba'i gtam
-txt
-chos kyi sdom po bzhi ston pa dri ma med pa'i gtam
-
-sec
-gsung mgur skor
-
-vol
-01) deb nyer bzhi pa/ (24)
-toc
-rdo rje'i glu'i dkar chag chen mo
-
-txt
-snying po'i don gyi mgur bcu
-txt
-yan lag bdun pa'i mgur
-txt
-gnas lugs don gyi maN+Dal gyi mgur
-txt
-bka' drin dran pa ma
-txt
-phan pa'i snying gtam
-txt
-dpe don nges don rdo rje'i mgur
-txt
-gnyug ma rdo rje'i mgur
-txt
-khyung chen rdo rje'i mgur
-txt
-rtsa rlung rdo rje'i mgur
-txt
-dgos med don gyi rdo rje'i mgur
-txt
-rdzogs pa chen po yang gsang bla na med pa gnad 'dus rdo rje'i mgur
-txt
-ri khrod dgon pa ma'i mgur
-txt
-mya ngan gzhi grol rdo rje'i mgur
-txt
-na dga' shi skyid rdo rje'i mgur
-txt
-na ba lam khyer rdo rje'i mgur
-txt
-zhen pa bzhi bral rdo rje'i mgur
-txt
-'khor ba dong sprugs ma rdo rje'i mgur
-
-txt
-kun mkhyen dri med 'od zer gyi rdo rje'i glu sum cu
-txt
-phun sum tshogs lnga ma
-txt
-bde skyid mtsho chen ma
-txt
-legs pa dam pa ma
-txt
-nor bu nyi ma ma
-txt
-'dun ma rtse mo ma
-txt
-gzhi lam 'bras bu ma
-txt
-theg pa rim dgu ma
-txt
-o rgyan byin rlabs ma
-txt
-bdud rtsi zil mngar ma
-txt
-gtad med yongs grol ma
-txt
-mkh' 'gro 'dus pa ma
-txt
-bde skyid ri khrod ma
-txt
-mya ngan gzhi grol ma
-txt
-bar do 'phrang sgrol ma
-txt
-sbas yul rin chen ma
-txt
-'khor ba dong sprugs ma
-txt
-bkra shis dpal 'bar ma
-txt
-ku mA rA dza la rtogs pa phul ba
-
-sec
-zhal gdams dang dris lan skor
-
-vol
-01) deb nyer bzhi pa/ (24)
-txt
-chos bzhi rin po che'i phreng ba
-txt
-rgyu la khams 'dus pa me tog gi phreng ldan
-txt
-rkyen la khams la 'dus pa ka kha sum cu zhes bya ba
-txt
-dus la mngon par skyo ba'i rabs bi dza ha raM
-txt
-rang la gros su gdams pa rdo rje'i mgur
-txt
-thar pa la bskul ba'i rabs
-txt
-ngang pa'i dris lan sprin gyi snying po
-txt
-snying gtam sum cu pa
-txt
-zhu yig rin po che gser gyi mchod sdong
-txt
-rgyal ba rang byung rdo rje la dri tshig le'ur byas pa
-txt
-sems dang ye shes kyi dris lan
-txt
-dri med 'od zer gyi gsung thor bu'i bzhugs byang
-
-sec
-gsang snying gi spyi don bsdus don sogs kyi skor
-
-vol
-01) deb nyer lnga pa/ (25)
-cha
-klong chen rab 'byams pa dri med 'od zer dang 'brel yod kyi gnas chen khag 'ga'i snang brnyan
-toc
-deb nyer lnga pa'i dkar chag
-txt
-sngags kyi spyi don tshangs dbyangs 'brug sgra
-txt
-dpal gsang ba snying po'i spyi don yid kyi mun sel
-txt
-dpal gsang ba snying po'i bsdus don ma rig mun sel
-
-sec
-chos srung skor
-
-vol
-01) deb nyer lnga pa/ (25)
-txt
-sde bdun gyi dbang chog lag len dang bcas pa
-txt
-dpal sngags kyi srung ma'i rjes gnang
-txt
-rA hu la'i bskang gso
-txt
-drang srong gza'i bcos thabs kyi gdams pa
-txt
-gnod sbyin dmar nag gi bskang gso
-txt
-shan pa srog sgrub nag mo'i bskang gso
-
-sec
-chos spyod kyi skor
-
-vol
-01) deb nyer lnga pa/ (25)
-txt
-chos spyod lam gyi rim pa
-
-sec
-sgrub thabs sna tshogs kyi skor
-
-vol
-01) deb nyer lnga pa/ (25)
-txt
-rgyal ba zhi khro'i sgrub dkyil
-txt
-'phags pa 'jam dpal gyi sgrub thabs
-txt
-dbyangs can ma'i sgrub thabs
-txt
-tshogs kyi bdag po'i sgrub thabs
-
-sec
-bla ma'i rnal 'byor dang gsol 'debs kyi skor
-
-vol
-01) deb nyer lnga pa/ (25)
-txt
-bla ma'i rnal 'byor
-txt
-rdzogs chen don gyi gsol 'debs
-txt
-gsol 'debs smon lam
-txt
-bar do'i gdams pa
-txt
-bar do'i smon lam ngo sprod
-txt
-bsngo ba rin chen phreng ba
-
-sec
-gcod kyi skor
-
-vol
-01) deb nyer drug pa/ (26)
-cha
-klong chen rab 'byams pa dri med 'od zer dang 'brel yod kyi gnas chen khag 'ga'i snang brnyan
-cha
-gcod kyi gsal bshad nyung bsdus
-toc
-dri med 'od zer gyi gsung 'bum deb nyer drug pa gcod kyi skor gyi dkar chag
-txt
-gcod kyi zhal gdams
-txt
-ngo sprod nam mkha' sgo 'byed
-txt
-sgrub thabs byin rlabs sgo 'byed
-txt
-zab don thugs kyi snying po'i sgrub thabs
-txt
-mkha' 'gro'i dur khrod kyi rgyud
-txt
-rmi lam nyi zla sgo 'byed
-txt
-'pho ba thar pa'i sgo 'byed
-txt
-bar do 'od zer sgo 'byed
-txt
-gegs sel rten 'brel sgo 'byed
-txt
-gcod kyi bogs 'don yon tan sgo 'byed
-txt
-gzhan don phrin las sgo 'byed dang drag las
-txt
-grub mtha' khyad 'phags sgo 'byed
-txt
-nyams khrid zhag bdun ma
-txt
-gcod kyi gdams pa thugs kyi snying po'i lo rgyus
-txt
-zab don gyi gzhung
-txt
-gcod kyi spyi khrid chen mo
-txt
-snyan brgyud gsal ba'i me long
-txt
-gcod kyi nyams len bsdus pa
-txt
-gtor 'bul dang sde brgyad 'bum bskul
-txt
-nag sbyor ha la nag po'i dmigs pa bco lnga pa
-txt
-ma gcig gi bka' tshoms
+gsung 'bum/ dri med 'od zer/ （dpal brtsegs/ mes po'i shul bzhag） (Зібрання творів Лонгчен Рабджама / Безплямне сяйво （Палцег / Спадщина предків）) [col] MW1KG4884
+
+snying thig ya bzhi (Нінгтік Ябжі) [sec]
+
+bi ma snying thig (Віма Нінгтік) [sec]
+01) deb dang po/ (1) (Книга перша / (1)) [vol]
+mes po'i shul bzhag bsdu sgrig las mi'i mtshan tho (Список імен людей зі збірки спадщини предків) [cha]
+kun bzang yab yum gyi snang brnyan (Зображення батьків Кунзанга) [cha]
+dpe skrun gsal bshad (Пояснення до публікації) [cha]
+sngon 'gro'i zhu tshig (Попередня заява) [cha]
+bsdu sgrig gsal bshad (Пояснення до збірки) [cha]
+klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus (Коротка біографія Лонгчен Рабджама Безплямного сяйва) [cha]
+dri med 'od zer gyi gsung 'bum deb dang po bi ma snying thig gi dkar chag (Каталог першої книги зібрання творів Безплямного сяйва: Віма Нінгтік) [toc]
+bi ma snying thig gi dkar chag nyi mor byed pa (Каталог Віма Нінгтік, що освітлює як сонце) [toc]
+rdzogs pa chen po gsang ba snying thig gi man ngag zab pa po ti bzhi'i kha byang nyi mas brgyan pa (Опис чотирьох глибоких томів таємних настанов Великої Досконалості: Таємне Нінгтік, прикрашене сонцем) [txt]
+shog tshad nges pa'i kha byang (Визначений опис сторінок) [txt]
+bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed (Золоте серце єдиної спадкоємної лінії вчення: Сонце, що яскраво освітлює) [txt]
+btags pas grol bar bstan pa bstan pa bu gcig gi gsang 'grel slob dpon dga' rab rdo rjes mdzad pa/ (gser yig can) (Таємний коментар до єдиної спадкоємної лінії вчення, що показує звільнення через прикріплення, складений учителем Ґараб Дордже (золоті літери)) [txt]
+rdo rje 'chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa (gser yig can) (Слова, сказані Ваджрадгарою: Визначені ключові моменти часу природи гідної поклоніння (золоті літери)) [txt]
+sangs rgyas kyi 'das rjes gsum: (Три спадки Будди) [txt]
+sangs rgyas kyi 'das rjes gsum: (gser yig can) (Три спадки Будди (золоті літери)) [txt]
+rig 'dzin gyi 'das rjes bzhi zhar byung dang bcas pa: (gser yig can) (Чотири спадки утримувача усвідомлення з додатками (золоті літери)) [txt]
+'jam dpal gshes gnyen gyi sgom nyams drug pa (Шість досвідів медитації Манджушрі Мітри) [txt]
+shrI sing ha'i gzer bu bdun pa (Сім цвяхів Шрі Сінгхи) [txt]
+ye shes mdo'i bzhag thabs bzhi (Чотири методи розміщення з Сутри Прімордіальної Мудрості) [txt]
+mkhas pa bye ma la'i zhal chems (Заповіт ученого Вімали) [txt]
+rdzogs pa chen po gsang ba snying thig gi man ngag rin po che zangs yig can (Дорогоцінні настанови Великої Досконалості: Таємне Нінгтік (мідні літери)) [txt]
+rin po che rlung gi pra khrid: (phra yig) (Тонкі настанови дорогоцінного вітру (тонкі літери)) [txt]
+gsang ba yi ge ma ru'i yang tig: (phra yig) (Таємні суттєві літери червоної суті (тонкі літери)) [txt]
+man ngag mdo byang bsdus pa'i sgron ma: (phra yig) (Лампа, що підсумовує сутру настанов (тонкі літери)) [txt]
+dmigs gtad gsal ba'i sgron me: (phra yig) (Лампа, що освітлює фокус уваги (тонкі літери)) [txt]
+gsang ba chen po rtags kyi yi ge: (phra yig) (Велика таємниця: Літери знаків (тонкі літери)) [txt]
+gsang ba chen po tshad kyi yi ge: (phra yig) (Велика таємниця: Літери мір (тонкі літери)) [txt]
+mngon sum snying thig gsang ba'i yi ge dmar ru'i snying thig rgyab yig: (phra yig) (Безпосереднє Нінгтік: Таємні літери, червона сутність Нінгтік, задній текст (тонкі літери)) [txt]
+zangs yig can gyi snang byed sgron ma: (phra yig) (Лампа, що освітлює мідні літери (тонкі літери)) [txt]
+bka' drin rjes dran (Спогад про доброту) [cha]
+dge bsngo dang smon lam (Присвята заслуг та молитви) [cha]
+
+02) deb gnyis pa/ (2) (Книга друга / (2)) [vol]
+rdo rje sems dpa'i snang brnyan (Зображення Ваджрасаттви) [cha]
+dri med 'od zer gyi gsung 'bum deb gnyis pa bi ma snying thig gi dkar chag (Каталог другої книги зібрання творів Безплямного сяйва: Віма Нінгтік) [toc]
+gsang ba bla med sgron ma dgu skor gyi gdams pa (Настанови дев'яти ламп найвищої таємниці (тонкі літери)) [txt]
+yang snying bcud kyi dum bu (Суттєвий фрагмент суттєвої суті) [txt]
+yang snying 'phrul gyi dum bu (Магічний фрагмент суттєвої суті) [txt]
+dung yig can rgyud kyi khong don bsdus pa sgron ma snang byed: (dung yig can) (Лампа, що освітлює підсумовану внутрішню суть раковинних літер тантри (раковинні літери)) [txt]
+dung yig can gyi rgyab yig ste gnad kyi yi ge (Задній текст раковинних літер: Літери ключових моментів) [txt]
+dung yig can rgyud kyi khong snying bsdebs pa (Зібрана внутрішня сутність раковинних літер тантри) [txt]
+g.yu yig can po ti smug chung skor rnams (Різні маленькі коричневі томи бірюзових літер) [txt]
+bu yig rin po che gser gyi sgrom bu (Дорогоцінний золотий ящик дитячих літер) [txt]
+man ngag nges pa'i kha byang ming rnam par bkod pa (Визначений опис настанов: Розташовані імена) [txt]
+man ngag dum dum khrigs dum bu bdun cu rtsa bzhi pa (Сімдесят чотири фрагменти настанов, зібрані разом) [txt]
+khyung chen kha lding (Великий Ґаруда, що ширяє в небі) [txt]
+sems kyi dmigs drug gi rnam par bshad pa (Пояснення шести фокусів розуму) [txt]
+
+03) deb gsum pa/ (3) (Книга третя / (3)) [vol]
+ston pa khye'u snang dam pa'i snang brnyan (Зображення вчителя – юнака священного видіння) [cha]
+dri med 'od zer gyi gsung 'bum deb gsum pa bi ma snying thig gi dkar chag (Каталог третьої книги зібрання творів Безплямного сяйва: Віма Нінгтік) [toc]
+spros med dbang gi ti ka (Тіка до безрозробленої посвяти) [txt]
+dbang bskur rim par 'jug pa'i dus bshad pa (Пояснення часу поступового входження в посвяти) [txt]
+shin tu spros med kyi dbang 'khor 'das ru shan dbye ba'i lag len pra khrid (Тонкі настанови практики ру шан для розрізнення сансари та нірвани в найвищій безрозробленій посвяті) [txt]
+shin tu spros pa med pa'i dbang gi phra tig (Тонка сутність безрозробленої посвяти) [txt]
+rab tu spros pa med pa'i dbang (Посвята середньої безрозробленості) [txt]
+zangs yig can gyi dbang bzhi'i rim pa ston pa'i gnad rnams (Ключові моменти, що показують етапи чотирьох посвят мідних літер) [txt]
+spros med kyi dbang chog (Ритуал безрозробленої посвяти) [txt]
+dam tshig rab 'byed (Найвище розрізнення самай) [txt]
+rdzogs pa chen po snying tig gi lo rgyus chen mo (Велика історія Великої Досконалості Нінгтік) [txt]
+gnas 'byed bdun pa (Сім утримань) [txt]
+sangs rgyas kyi 'das gsum gyi rgyud (Тантра трьох спадків Будди) [txt]
+rang gnas chen po rgya mtsho ar la gtad pa (Велике самосуще океан, спрямований на ар) [txt]
+rgya mtsho ar la gtad pa'i man ngag snang ba 'dus pa'i gal mdo (Важлива сутра настанов, спрямованих на океан ар: Зібране видіння) [txt]
+bdud rtsi snying gi thigs pa (Крапля нектару серця) [txt]
+rig pa'i gnad don lta ba (Перегляд ключової сутності усвідомлення) [txt]
+thod rgal gyi bogs 'don ar gtad kyi gdams pa snying gi yang zhun (Настанови видобування тодґалу, спрямовані на ар: Суттєвий еліксир серця) [txt]
+smug nag khros ma rag gdong ma'i dus gnad nges pa (Визначені ключові моменти часу темно-червоної лютої жінки з обличчям ведмедя) [txt]
+zab pa pod bzhi'i ngo bo nyid kyi deb (Саме сутність чотирьох глибоких томів) [txt]
+man ngag brgya bcu dgu'i them byang (Список ста дев'ятнадцяти настанов) [txt]
+spros bcas dbang gi phyag bzhes dang po'i dpe las lag len khrigs su sdebs pa (Зібрана практика з першого зразка ритуалу розробленої посвяти) [txt]
+spros pa med pa'i dbang bskur ba rin po che'i bkod pa (Дорогоцінне розташування надання безрозробленої посвяти) [txt]
+spros med dbang bskur rin chen bkod pa'i gnad kyi yi ge dam pa (Священні літери ключових моментів дорогоцінного розташування надання безрозробленої посвяти) [txt]
+spros med dbang gi bum thig dang dag par sbyar ba (Чисто поєднана крапля вази безрозробленої посвяти) [txt]
+shin tu spros pa med pa'i skal ldan gyi dbang (Посвята для обдарованих у найвищій безрозробленості) [txt]
+spros med dbang gi ti ka (Тіка до безрозробленої посвяти) [txt]
+rdzogs pa chen po snying thig spros bcas kyi dbang lce btsun gyis mdzad pa (Розроблена посвята Великої Досконалості Нінгтік, складена Лце Цун) [txt]
+rdzogs pa chen po'i dbang gsum (Три посвяти Великої Досконалості) [txt]
+shin tu spros med kyi dbang (Найвища безрозроблена посвята) [txt]
+rab tu spros med kyi dbang (Середня безрозроблена посвята) [txt]
+
+04) deb bzhi pa/ (4) (Книга четверта / (4)) [vol]
+ston pa khye'u 'od mi 'khrugs pa'i snang brnyan (Зображення вчителя – юнака незворушного світла) [cha]
+dri med 'od zer gyi gsung 'bum deb bzhi pa bi ma snying thig gi dkar chag (Каталог четвертої книги зібрання творів Безплямного сяйва: Віма Нінгтік) [toc]
+dbang bzhi'i dus dang mtshan ma bstan pa'i phra Tig (Тонка сутність, що показує час і ознаки чотирьох посвят) [txt]
+nyams len lag khrigs ma'i khrid ngo mtshar can (Чудові настанови практики, зібраної вручну) [txt]
+gcud phur gsum gyi rgyab yig gsang ba'i man ngag (Таємні настанови заднього тексту трьох кинджалів суті) [txt]
+gcud phur gsum gyi rgyab yig gnad bsdus sgron me bi mas mdzad pa (Лампа підсумованих ключових моментів заднього тексту трьох кинджалів суті, складена Вімою) [txt]
+bsam gtan mig gi sgron ma (Лампа ока медитації) [txt]
+lce btsun gyi mgur (Пісня Лце Цун) [txt]
+tshig don bcu gcig pa (Одинадцять слів і значень) [txt]
+bla ma'i rim pa tshig don bcu pa (Десять слів і значень етапів гуру) [txt]
+sngon 'gro tshogs bsags kyi dmigs rim ngag 'don mdor bsdus pa gdod ma'i gseng lam (Коротко підсумована декламація візуалізації накопичення акумуляцій попередніх: Шлях первісного голосу) [txt]
+zhang ston bkra shis rdo rje'i rnam thar (Біографія Жангтона Краші Дордже) [txt]
+zhang nyi 'bum gyi rnam thar (Біографія Жанг Н'їбума) [txt]
+gu ru jo 'ber gyi rnam thar (Біографія Ґуру Джобера) [txt]
+'khrul zhig seng+ge rgyab pa'i rnam thar (Біографія Кхрул Жіґ Сенґе Ґ'ябпа) [txt]
+me long rdo rje'i rnam thar dri log ma (Біографія Мелонг Дордже: Ароматична) [txt]
+me long rdo rje'i rnam thar (Біографія Мелонг Дордже) [txt]
+ku ma rA dza'i rnam thar lo rgyus dang bcas pa (Біографія Кумарадзи з історією) [txt]
+dri med 'od zer gyi rnam thar mthong ba don ldan (Біографія Безплямного сяйва: Значуща для бачення) [txt]
+'od gsal rang grol gyi rnam par thar pa (Біографія самозвільнення ясного світла) [txt]
+'khrul zhig sangs rgyas dbon po'i rnam thar nyid kyi mdzad pa nor bu'i gsal byed (Біографія Кхрул Жіґ Санг'є Бонпо, складена ним самим: Дорогоцінне освітлення) [txt]
+grags pa rgya mtsho'i rnam thar me tog gi phreng ba (Біографія Ґракпа Ґ'ямцо: Гірлянда квітів) [txt]
+
+mkha' 'gro snying thig (Кхаґро Нінгтік) [sec]
+01) deb lnga pa/ (5) (Книга п'ята / (5)) [vol]
+ston pa 'jam dpal 'jigs skyob kyi snang brnyan (Зображення вчителя Манджушрі Захисника від страху) [cha]
+dri med 'od zer gyi gsung 'bum deb lnga pa mkha' 'gro snying thig gi dkar chag (Каталог п'ятої книги зібрання творів Безплямного сяйва: Кхаґро Нінгтік) [toc]
+mkha' 'gro snying thig gi kha byang (Опис Кхаґро Нінгтік) [txt]
+mkha' 'gro snying thig gi bla ma brgyud pa'i lo rgyus (Історія лінії гуру Кхаґро Нінгтік) [txt]
+btags grol gyi rgyud drug (Шість тантр звільнення через прикріплення) [txt]
+btags grol snying po'i rgyud (Тантра суті звільнення через прикріплення) [cha]
+gcig shes kun grol gyi rgyud (Тантра одного знання, що звільняє все) [cha]
+yang tig gser gyi 'bru gcig pa'i rgyud (Тантра однієї золотої суттєвої краплі) [cha]
+sras gcig sa bon gyi rgyud (Тантра єдиного сина – насіння) [cha]
+rang byung rig pa'i rgyud (Тантра самовиниклого усвідомлення) [cha]
+'bras bu yongs rdzogs chen po'i rgyud (Тантра великої повної досконалості плоду) [cha]
+btags grol gyi rgyud drug gi ti ka (Тіки до шести тантр звільнення через прикріплення) [txt]
+btags grol snying po'i ti ka (Тіка до суті звільнення через прикріплення) [cha]
+gcig shes kun grol gyi ti ka (Тіка до одного знання, що звільняє все) [cha]
+yang tig gser gyi 'bru gcig gi ti ka (Тіка до однієї золотої суттєвої краплі) [cha]
+sras gcig sa bon rgyud gcig gi gyi ti ka gsal byed nor bu'i phreng ba (Тіка до тантри єдиного сина – насіння: Освітлююча гірлянда дорогоцінностей) [cha]
+rang byung rig pa'i ti ka gsal byed dung gi spar khab (Тіка до самовиниклого усвідомлення: Освітлюючий раковинний цвях) [cha]
+'bras bu yongs rdzogs rgyud kyi ti ka gsal byed dri med snying po (Тіка до тантри повної досконалості плоду: Освітлююча безплямна сутність) [cha]
+mkha' 'gro snying thig gi lo rgyus (Історія Кхаґро Нінгтік) [txt]
+sangs rgyas kyi 'das rjes gsum (Три спадки Будди) [txt]
+btags grol don khrid (Настанови значення звільнення через прикріплення) [txt]
+bde gshegs rigs lnga sgrub thabs (Методи досягнення п'яти сімей просвітлених) [txt]
+bde gshegs rigs lnga'i phyi sgrub (Зовнішнє досягнення п'яти сімей просвітлених) [cha]
+bde gshegs rigs lnga'i nang sgrub (Внутрішнє досягнення п'яти сімей просвітлених) [cha]
+smin byed don gsal sgron me zhes bya ba spros bcas bum pa'i dbang (Лампа, що освітлює значення дозрівання: Розроблена ваза посвяти) [txt]
+dbang khrid nor bu sgron gsal (Настанови посвяти: Дорогоцінна лампа, що освітлює) [txt]
+gsang dbang (Таємна посвята) [cha]
+shes rab kyi dbang (Посвята мудрості) [cha]
+tshig dbang rin po che (Дорогоцінна посвята слова) [cha]
+gsang dbang lus dkyil ngo sprod (Вступ до мандали тіла таємної посвяти) [cha]
+shes rab yum gyi mkha' ngo sprod (Вступ до неба матері мудрості) [cha]
+dbang gi rgyab yig lag len (Задній текст посвяти: Практика) [cha]
+dbang gong ma gsang dbang shes dbang tshig dbang gsum gyi sa ma 'grel (Коментар до самай трьох вищих посвят: таємної, мудрості та слова) [txt]
+dang po gsang dbang gi sa ma 'grel (Коментар до самай першої таємної посвяти) [cha]
+shes rab ye shes kyi sa ma 'grel (Коментар до самай мудрості примордіальної мудрості) [cha]
+tshig dbang gi sa ma 'grel (Коментар до самай посвяти слова) [cha]
+bde gshegs rigs lnga'i mchod 'bul (Підношення п'яти сімей просвітлених) [txt]
+mkha' 'gro'i las byang tshogs mchod rtsar phreng (Ритуал дій дакині: Гірлянда накопичення підношень) [txt]
+dbang sgrub dang bum pa sgrub thabs (Методи досягнення посвяти та вази) [txt]
+snying thig gsang ba bla med kyi dbang don gsal ba'i rgyab yig gsang ba (Таємний задній текст, що освітлює значення найвищої таємної посвяти Нінгтік) [txt]
+dbang bzhi'i go rim tho yig (Список порядку чотирьох посвят) [txt]
+dbang gi rim pa khrid du bskur lugs (Стиль надання настанов етапів посвяти) [txt]
+rtsal dbang ti ka rig pa'i sgron ma (Тіка до посвяти сили: Лампа усвідомлення) [txt]
+thod rgal gyi khyad par dbang lnga (П'ять посвят особливого тодґалу) [txt]
+DAk+ki'i gtor ma'i rim pa (Етапи торми дакині) [txt]
+DAk+ki'i tshogs mchod (Підношення накопичення дакині) [txt]
+dbang gi rgyab yig (Задній текст посвяти) [txt]
+dbang gi tho yig (Список посвяти) [txt]
+mkha' 'gro snying thig gsang dbang gi lhan thabs (Допоміжна практика таємної посвяти Кхаґро Нінгтік) [txt]
+DAk+ki'i dus gnad: gnad 'bebs shi sa spyi gnad bla rdo (Ключові моменти часу дакині: Ключові удари, мирні, загальні ключі, лама ваджра) [txt]
+mkha' 'gro ma'i nor sgrub gter gyi bum pa (Ваза скарбу досягнення багатства дакині) [txt]
+thod rgal gyi don khrid nor bu'i snying po (Настанови значення тодґалу: Дорогоцінна сутність) [txt]
+snying po gsal ba'i me long zhes bya'i khrid (Настанови дзеркала, що освітлює сутність) [txt]
+khrid rgyab lung gi phreng ba (Гірлянда пророцтв задніх настанов) [txt]
+lag khrid gnad kyi man ngag pra khrid du bstan pa (Настанови вручну: Ключові настанови, показані як тонкі настанови) [txt]
+mkha' 'gro snying tig gi rtags yig tshad yig (Літери знаків і мір Кхаґро Нінгтік) [txt]
+snying thig chen mo'i rgyab chos kyi rtsa ba (Корінь заднього вчення великого Нінгтік) [txt]
+snying thig gsang ba'i yang bcud snying po gsal ba'i me long (Дзеркало, що освітлює суттєву сутність таємної суті Нінгтік) [txt]
+rnal 'byor bzhi las lta ba'i rnal 'byor (Йога перегляду з чотирьох йог) [txt]
+thun bzhi'i rnal 'byor las sgom pa'i rnal 'byor (Йога медитації з чотирьох сесій) [txt]
+rnal 'byor bzhi las spyod pa'i rnal 'byor dang 'bras bu'i rnal 'byor gnyis (Йога поведінки та йога плоду з чотирьох йог) [txt]
+zhus len bdud rtsi gser 'phreng (Золотий ланцюг нектару запитів і відповідей) [txt]
+zhal gdams gsang ba'i dum bu (Фрагмент таємних усних настанов) [txt]
+gnad kyi gdams pa lnga pa (П'ять ключових настанов) [txt]
+DAk+ki'i lam 'bras kyi skor (Цикл шляху та плоду дакині) [txt]
+zhal gdams gnad kyi phreng ba (Гірлянда ключових усних настанов) [txt]
+DAk+ki'i gnad thig (Крапля ключів дакині) [txt]
+rdo rje chu 'thung (Ваджрне пиття води) [txt]
+zhi ba bar do lam gyi mtshan nyid (Ознаки мирного бардо шляху) [txt]
+khro ba bar do gnad kyi sgron ma (Лампа ключів лютої бардо) [txt]
+bar do'i gdams pa 'byung ba 'dus pa 'bral ba rtags kyi rim pa (Настанови бардо: Етапи знаків роз'єднання зібраних елементів) [txt]
+'chi kha'i bar do'i gsal 'debs (Ясна декламація бардо смерті) [txt]
+chos nyid bar do'i yon tan (Якості бардо дгарми) [txt]
+bar do'i ngo sprod (Вступ до бардо) [txt]
+'od gsal (Ясне світло) [txt]
+
+02) deb drug pa/ (6) (Книга шоста / (6)) [vol]
+ston pa gzhon nu rnam rol gyi snang brnyan (Зображення вчителя – юнака прояву) [cha]
+dri med 'od zer gyi gsung 'bum deb drug pa mkha' 'gro snying thig gi dkar chag (Каталог шостої книги зібрання творів Безплямного сяйва: Кхаґро Нінгтік) [toc]
+mkha' 'gro'i gtum mo khyad par can (Особлива чандаї дакині) [txt]
+'byung ba rdo'i bcud len (Екстракція суті елементів з каменю) [txt]
+DAk+ki snying tig gi bka' srung dpal srog sgrub nag mo'i srog len (Екстракція життя славної чорної досягнення життя захисниці Кхаґро Нінгтік) [txt]
+srog sgrub nag mo'i sgrub thabs dang srog dbang (Метод досягнення та посвята життя чорної досягнення життя) [txt]
+snying tig gi bla ma'i rnal 'byor (Йога гуру Нінгтік) [txt]
+bla ma'i rnal 'byor gyi phyi nang gsang gsum (Зовнішня, внутрішня та таємна йога гуру) [txt]
+khregs chod ngo sprod mtha' grol klong yangs (Вступ до трегчод: Звільнення кінця, просторий простір) [txt]
+rtsal dbang (Посвята сили) [txt]
+thig le dangs snyigs 'byed pa dang rigs rgyud bzhag thabs kyi lag len (Практика розрізнення чистої та нечистої краплі та метод розміщення сімейної лінії) [txt]
+sprul sku bzhag thabs (Метод розміщення тулку) [cha]
+bar do'i ngo sprod (Вступ до бардо) [txt]
+bar do'i mtshan nyid bshad pa dang skye gnas rnams kyi rgyu bstan pa (Пояснення ознак бардо та причин місць народження) [txt]
+btags grol phran drug gi ti ka (Тіки до шести дрібних звільнень через прикріплення) [txt]
+rta mgrin yab yum gyi lus dkyil (Мандала тіла батьків Хаяґріви) [txt]
+DAk+ki'i rkyang sgrub (Одиночне досягнення дакині) [txt]
+mkha' 'gro sngags kyi lde mig (Ключ мантри дакині) [txt]
+snying thig gi bdud rtsi phyag mchod (Ручне підношення нектару Нінгтік) [txt]
+rtags yig dang tshad kyi yi ge (Літери знаків і мір) [txt]
+DAk+ki'i dril sgrub gsang ba snying gi dum bu (Згорнуте досягнення дакині: Таємний фрагмент серця) [txt]
+DAk+ki'i lus dkyil chen mo (Велика мандала тіла дакині) [txt]
+pad+ma las 'brel rtsal gyi skyes rabs dang lung bstan (Історія народження та пророцтво Падми Ласдрел Цал) [txt]
+gter gyi kha byang (Опис скарбу) [txt]
+mkha' 'gro snying tig gi lag 'grig (Практичне розташування Кхаґро Нінгтік) [txt]
+lo rgyus rgyal ba g.yung gis mdzad pa (Історія, складена переможцем Ґ'юнґ) [txt]
+g.yung ston pas gsungs pa'i phyag 'tshal (Поклон, сказаний Ґ'юнґ Стонпою) [txt]
+g.yung gi lo rgyus (Історія Ґ'юнґа) [txt]
+'pho ba (Пхо ва) [txt]
+gter srung ldang lha'i sgrub thabs (Метод досягнення захисника скарбу Лданг Лха) [txt]
+gsang zab mkha' 'gro snying thig gi gsol 'debs (Таємна глибока молитва Кхаґро Нінгтік) [txt]
+brgyud 'dzin gi slob bu'i lung bstan (Пророцтво учня лінії) [txt]
+mkha' 'gro snying thig gi cha rkyen lha mo lnga'i tshe sgrub (Досягнення життя п'яти богинь умов Кхаґро Нінгтік) [txt]
+sprul sku legs pa lung bstan pa (Пророцтво тулку Легпа) [txt]
+mkha' 'gro snying thig las srog sgrub nag mo'i gtor dbang (Торма посвяти чорної досягнення життя з Кхаґро Нінгтік) [txt]
+mkha' 'gro yang tig gi dbang bskur ba'i lag len mkha' 'gro snying thig gi dkyil 'khor bri tshul (Практика надання посвяти Кхаґро Янгтік: Стиль малювання мандали Кхаґро Нінгтік) [txt]
+mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba (Дорогоцінна гірлянда історії Кхаґро Нінгтік) [txt]
+rdzogs pa chen po mkha' 'gro snying tig gi khrid yig (Настановний текст Великої Досконалості Кхаґро Нінгтік) [txt]
+mkha' 'gro snying thig par du sgrub tshul gyi dkar chag (Каталог стилю друку Кхаґро Нінгтік) [toc]
+
+mkha' 'gro yang tig (Кхаґро Янгтік) [sec]
+01) deb drug pa/ (6) (Книга шоста / (6)) [vol]
+zab chos mkha' 'gro yang tig gi pusta ka par du sgrub tshul gyi dkar chag (Каталог стилю друку томів глибокого вчення Кхаґро Янгтік) [toc]
+them byang rin chen ljon shing (Список дорогоцінного дерева бажань) [txt]
+gter 'byung rin po che'i lo rgyus (Дорогоцінна історія видобуття скарбу) [txt]
+rin po che dbang gi phreng ba (Гірлянда дорогоцінної посвяти) [txt]
+bdag 'jug pad+ma klong yangs (Самовхід до Падми просторого простору) [txt]
+
+02) deb bdun pa/ (7) (Книга сьома / (7)) [vol]
+rdo rje 'chang gi snang brnyan (Зображення Ваджрадгари) [cha]
+dri med 'od zer gyi gsung 'bum deb bdun pa mkha' 'gro snying thig gi dkar chag (Каталог сьомої книги зібрання творів Безплямного сяйва: Кхаґро Нінгтік) [toc]
+tshogs mchod rgya mtsho'i sprin (Хмара океану підношення накопичення) [txt]
+phyag 'tshal dri med zla rgyas (Поклон безплямному повному місяцю) [txt]
+gsol 'debs bdud rtsi'i chu rgyun (Молитва потоку нектару) [txt]
+khrid yig nor bu lugs (Настановний текст стилю дорогоцінності) [txt]
+khrid yig nyi zla gza' skar (Настановний текст сонця, місяця та зірок) [txt]
+zab mo rab 'byed ces bya dang / tshogs bsags pa (Найглибше розрізнення та накопичення) [txt]
+zab mo rab 'byed (Найглибше розрізнення) [txt]
+tshogs bsags pa (Накопичення) [txt]
+khrid yig rin po che gser gyi phreng ba (Настановний текст золотої гірлянди дорогоцінності) [txt]
+nam mkha' skor gsum las/ nam mkha' rab 'byams (З трьох циклів неба: Небо найширше) [txt]
+nam mkha' klong yangs (Небо просторий простір) [txt]
+nam mkha' dri med (Безплямне небо) [txt]
+nam ngag rin chen gser gyi sgrom bu (Золотий ящик дорогоцінних слів) [txt]
+tshig don rin po che'i bang mdzod (Скарбниця дорогоцінних слів і значень) [txt]
+mkha' 'gro snying tig gi zab don rgya mtsho'i khog dbub don gsal nyi ma'i 'od zer (Внутрішній зміст океану глибокого значення Кхаґро Нінгтік: Сонячне світло, що освітлює значення) [txt]
+zab don rgya mtsho'i sprin (Хмара океану глибокого значення) [txt]
+
+03) deb brgyad pa/ (8) (Книга восьма / (8)) [vol]
+ston pa gzhon nu dpa' bo stobs ldan gyi snang brnyan (Зображення вчителя – юнака героя сильної сили) [cha]
+dri med 'od zer gyi gsung 'bum deb brgyad pa mkha' 'gro snying thig gi dkar chag (Каталог восьмої книги зібрання творів Безплямного сяйва: Кхаґро Нінгтік) [toc]
+gsang spyod rdo rje'i lam bstan (Показ таємної поведінки ваджрного шляху) [txt]
+nges don snying po (Визначена сутність значення) [txt]
+byin rlabs thugs sgrub (Досягнення розуму благословення) [txt]
+rig 'dzin mchog sgrub (Найвище досягнення утримувача усвідомлення) [txt]
+bskyed rim yid bzhin nor bu (Етап генерації: Дорогоцінність бажання) [txt]
+rdzogs rim ye shes 'khor lo (Етап завершення: Колесо примордіальної мудрості) [txt]
+rlung drug rdo rje'i chings (Ваджрні пута шести вітрів) [txt]
+rlung sbyor ye shes dra ba (Сітка примордіальної мудрості поєднання вітрів) [txt]
+zab lam bde chen rgya mtsho (Глибокий шлях океану великого блаженства) [txt]
+'od gsal 'khor lo (Колесо ясного світла) [txt]
+gzhi snang ngo sprod (Вступ до базового прояву) [txt]
+'od gsal sbubs 'jug (Вхід у оболонку ясного світла) [txt]
+sgron ma zhi skor (Цикл чотирьох ламп) [txt]
+'khrul snang gzhi grol (Звільнення бази ілюзорних проявів) [txt]
+rmi lam sbubs 'jug (Вхід у оболонку снів) [txt]
+dbyings snang ngo sprod (Вступ до прояву простору) [txt]
+zab don gnad kyi lde mig (Ключ глибокого значення ключів) [txt]
+'od gsal pra khrid (Тонкі настанови ясного світла) [txt]
+gsang lam rin po che'i ngo sprod (Вступ до дорогоцінного таємного шляху) [txt]
+zab don snying po (Сутність глибокого значення) [txt]
+kun 'dus rin po che'i ngo sprod (Вступ до дорогоцінного всезібрання) [txt]
+bar do sbubs 'jug (Вхід у оболонку бардо) [txt]
+bar do gnad kyi sgron me (Лампа ключів бардо) [txt]
+gnad gsum sgron me (Лампа трьох ключів) [txt]
+mthong snang rin po che 'od kyi dra ba (Сітка дорогоцінного світла баченого прояву) [txt]
+zhal chems dri ma med pa'i 'od (Заповіт безплямного світла) [txt]
+
+03) deb brgyad pa/ (8) (Книга восьма / (8)) [vol]
+ston pa gzhon nu dpa' bo stobs ldan gyi snang brnyan (Зображення вчителя – юнака героя сильної сили) [cha]
+dri med 'od zer gyi gsung 'bum deb brgyad pa mkha' 'gro snying thig gi dkar chag (Каталог восьмої книги зібрання творів Безплямного сяйва: Кхаґро Нінгтік) [toc]
+gsang spyod rdo rje'i lam bstan (Показ таємної поведінки ваджрного шляху) [txt]
+nges don snying po (Визначена сутність значення) [txt]
+byin rlabs thugs sgrub (Досягнення розуму благословення) [txt]
+rig 'dzin mchog sgrub (Найвище досягнення утримувача усвідомлення) [txt]
+bskyed rim yid bzhin nor bu (Етап генерації: Дорогоцінність бажання) [txt]
+rdzogs rim ye shes 'khor lo (Етап завершення: Колесо примордіальної мудрості) [txt]
+rlung drug rdo rje'i chings (Ваджрні пута шести вітрів) [txt]
+rlung sbyor ye shes dra ba (Сітка примордіальної мудрості поєднання вітрів) [txt]
+zab lam bde chen rgya mtsho (Глибокий шлях океану великого блаженства) [txt]
+'od gsal 'khor lo (Колесо ясного світла) [txt]
+gzhi snang ngo sprod (Вступ до базового прояву) [txt]
+'od gsal sbubs 'jug (Вхід у оболонку ясного світла) [txt]
+sgron ma zhi skor (Цикл чотирьох ламп) [txt]
+'khrul snang gzhi grol (Звільнення бази ілюзорних проявів) [txt]
+rmi lam sbubs 'jug (Вхід у оболонку снів) [txt]
+dbyings snang ngo sprod (Вступ до прояву простору) [txt]
+zab don gnad kyi lde mig (Ключ глибокого значення ключів) [txt]
+'od gsal pra khrid (Тонкі настанови ясного світла) [txt]
+gsang lam rin po che'i ngo sprod (Вступ до дорогоцінного таємного шляху) [txt]
+zab don snying po (Сутність глибокого значення) [txt]
+kun 'dus rin po che'i ngo sprod (Вступ до дорогоцінного всезібрання) [txt]
+bar do sbubs 'jug (Вхід у оболонку бардо) [txt]
+bar do gnad kyi sgron me (Лампа ключів бардо) [txt]
+gnad gsum sgron me (Лампа трьох ключів) [txt]
+mthong snang rin po che 'od kyi dra ba (Сітка дорогоцінного світла баченого прояву) [txt]
+zhal chems dri ma med pa'i 'od (Заповіт безплямного світла) [txt]
+zhal chems mthar thug gcig ma (Заповіт єдиної остаточної мети) [txt]
+zhal chems gnad kyi me long (Заповіт дзеркала ключів) [txt]
+bde gshegs rigs lnga'i sgrub thabs pad+ma stong ldan (Методи досягнення п'яти сімей просвітлених: Лотос тисячопелюстковий) [txt]
+rigs lnga'i bcud len bdud rtsi'i thigs pa (Екстракція нектару п'яти сімей: Крапля нектару) [txt]
+bdud rtsi'i sprin phung (Хмара нектару) [txt]
+'chi ba brtag bslu'i man ngag nyi zla gza' bral (Настанови подолання смерті: Сонце і місяць без зірок) [txt]
+btags grol rgyud kyi man ngag rin chen snying po (Дорогоцінна сутність настанов тантри звільнення через прикріплення) [txt]
+sreg sbyong 'od kyi snye ma (Очищення спалюванням: Сноп світла) [txt]
+gzhan phan 'od kyi 'khor lo (Колесо світла користі для інших) [txt]
+phyag rgya bzhi mchod 'od kyi 'khor lo'i gnad yig (Літери ключів чотирьох печаток підношення: Колесо світла) [txt]
+mchod rten rab gnas rin chen dra ba (Дорогоцінна сітка найвищого освячення ступи) [txt]
+rab tu gnas pa'i cho ga ye shes dri med (Ритуал найвищого освячення: Безплямна примордіальна мудрість) [txt]
+mthong snang rin chen gser gyi dra ba (Золота сітка дорогоцінного баченого прояву) [txt]
+rdo rje g.yu sgron ma'i sgrub thabs zla ba 'dod 'jo (Метод досягнення ваджрної бірюзової лампи: Місяць, що виконує бажання) [txt]
+gza' bdud gsang sgrub (Таємне досягнення планетарного демона) [txt]
+drang srong gi bstod pa (Хвала мудреця) [txt]
+gnod sbyin dmar nag gi sgrub pa me rlung 'khyil ba (Досягнення червоно-чорного шкідника: Вихор вогню і вітру) [txt]
+bshan pa srog sgrub nag mo'i gsang sgrub (Таємне досягнення життя чорного м'ясника) [txt]
+mkha' 'gro yang tig gi them byang dpag bsam ljon shing (Список Кхаґро Янгтік: Дерево бажань, що виконує все) [txt]
+
+bla ma yang tig (Лама Янгтік) [sec]
+01) deb dgu pa/ (9) (Книга дев'ята / (9)) [vol]
+ston pa drang srong khros pa'i rgyal po'i snang brnyan (Зображення вчителя – мудреця, гнівного царя) [cha]
+dri med 'od zer gyi gsung 'bum deb dgu pa bla ma yang tig gi dkar chag (Каталог дев'ятої книги зібрання творів Безплямного сяйва: Лама Янгтік) [toc]
+kha byang nyi ma'i snying po (Опис: Сутність сонця) [txt]
+lo rgyus rin po che'i phreng ba (Дорогоцінна гірлянда історії) [txt]
+bla ma yang tig gi brgyud pa'i phyag 'tshal byin rlabs sprin tshogs (Поклон лінії Лама Янгтік: Хмара благословень) [txt]
+bla yang tig gi gsol 'debs bdud rtsi'i sprin tshogs (Молитва Лама Янгтік: Хмара нектару) [txt]
+maN+Dal 'bul ba'i cho ga tshogs gnyis sprin tshogs (Ритуал підношення мандали: Хмара двох накопичень) [txt]
+sku gsung thugs kyi maN+Dal (Мандала тіла, мови та розуму) [cha]
+spros bcas kyi dbang chog tshangs pa'i drwa ba (Ритуал розробленої посвяти: Сітка Брахми) [txt]
+dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa (Освітлення етапів імен розробленої мандали) [txt]
+spros med kyi dbang chog rin po che'i drwa ba (Ритуал безрозробленої посвяти: Дорогоцінна сітка) [txt]
+gnad yig bum pa'i brda don (Літери ключів значення знаків вази) [txt]
+byin rlabs sprin phung ye shes 'bebs pa (Хмара благословень, що викликає примордіальну мудрість) [txt]
+shin tu spros med kyi dbang chog pad+ma'i drwa ba (Ритуал найвищої безрозробленої посвяти: Сітка лотоса) [txt]
+gling bzhi rgyan gyur gyi maN+Dal (Мандала прикраси чотирьох континентів) [txt]
+rab tu spros med kyi dbang chog 'od kyi drwa ba (Ритуал середньої безрозробленої посвяти: Сітка світла) [txt]
+lnga tshan lnga'i maN+Dal 'bul ba'i cho ga yid bzhin drwa ba (Ритуал підношення мандали п'яти груп по п'ять: Сітка бажання) [txt]
+dam tshig gi rim pa rnam grol rgya mtsho (Океан повного звільнення етапів самай) [txt]
+tshogs mchod kyi rim pa yid bzhin rgya mtsho (Океан бажання етапів підношення накопичення) [txt]
+bla ma'i rim pa dngos grub rgya mtsho (Океан реалізації етапів гуру) [txt]
+sngon 'gro sems sbyong bdun gyi don khrid (Настанови значення семи попередніх очищень розуму) [txt]
+dngos gzhi 'od gsal snying po'i don khrid (Настанови значення сутності ясного світла основи) [txt]
+khregs chod ye babs sor bzhag gi don khrid (Настанови значення природного розміщення трегчод) [txt]
+khregs chod kyi rgyab yig nam mkha' dri med (Задній текст трегчод: Безплямне небо) [txt]
+thod rgal gyi rgyab yig nyi zla gza' skar (Задній текст тодґалу: Сонце, місяць і зірки) [txt]
+btags grol rgyab yig yid bzhin lhun grub (Задній текст звільнення через прикріплення: Спонтанне виконання бажань) [txt]
+khregs chod kyi yang yig nam mkha' klong yangs (Суттєвий текст трегчод: Просторий простір неба) [txt]
+
+02) deb bcu pa/ (10) (Книга десята / (10)) [vol]
+ston pa gser 'od dam pa'i snang brnyan (Зображення вчителя – священного золотого світла) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu pa bla ma yang tig gi dkar chag (Каталог десятої книги зібрання творів Безплямного сяйва: Лама Янгтік) [toc]
+thod rgal gyi yang yig nam mkha' klong gsal (Суттєвий текст тодґалу: Ясний простір неба) [txt]
+khregs chod dang thod rgal gnyis ka'i yang yig nam mkha' klong chen (Суттєвий текст трегчод і тодґалу: Великий простір неба) [txt]
+nam mkha' klong chen gyi bsdus don 'od kyi phreng ba (Підсумований зміст великого простору неба: Гірлянда світла) [txt]
+bde stong bdud rtsi'i sprin phung (Хмара нектару блаженства і порожнечі) [txt]
+rlung sbyor ye shes sprin phung (Хмара примордіальної мудрості поєднання вітрів) [txt]
+rtog med nam mkha'i sprin phung (Хмара неба без думок) [txt]
+gzhi snang ye shes sgron me (Лампа примордіальної мудрості базового прояву) [txt]
+dpe don gsal byed sgron me (Лампа, що освітлює значення прикладів) [txt]
+nyams len gnad kyi sgron me (Лампа ключів практики) [txt]
+bdud rtsi ljon shing 'od gsal gyi gnad yig (Літери ключів ясного світла дерева нектару) [txt]
+bdud rtsi dri med (Безплямний нектар) [txt]
+'od gsal sbyong ba'i gnad yig bdud rtsi rgyal po (Літери ключів очищення ясного світла: Цар нектару) [txt]
+nyin mtshan 'od gsal gyi 'khor lo (Колесо ясного світла дня і ночі) [txt]
+gnad gsum chos nyid kyi 'khor lo (Колесо дгарми трьох ключів) [txt]
+yang zab ye shes 'khor lo (Суттєве колесо глибокої примордіальної мудрості) [txt]
+rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing (Дерево нектару усунення перешкод базового тіла) [txt]
+brten pa sgo'i gegs sel sgron ma snang byed (Лампа, що освітлює усунення перешкод брами опори) [txt]
+rig pa sems kyi gegs sel ye shes dri med (Безплямна примордіальна мудрість усунення перешкод розуму усвідомлення) [txt]
+bla ma yid bzhin nor bu (Гуру – дорогоцінність бажання) [txt]
+yi dam yid bzhin nor bu (Їдам – дорогоцінність бажання) [txt]
+mkha' 'gro yid bzhin nor bu (Дакині – дорогоцінність бажання) [txt]
+nges don byang chub snying po (Визначена сутність пробудження) [txt]
+mthar thug yid bzhin snying po (Остаточна сутність бажання) [txt]
+'pho ba 'od gsal snying po (Пхо ва: Сутність ясного світла) [txt]
+ngo sprod dran pa'i me long (Вступ: Дзеркало спогаду) [txt]
+'chi ltas dran pa'i me long (Дзеркало спогаду знаків смерті) [txt]
+'chi bslu dran pa'i me long (Дзеркало спогаду подолання смерті) [txt]
+snyan brgyud chung ngu ye shes rang snang (Малий усний переказ: Самопроявлена примордіальна мудрість) [txt]
+snyan brgyud 'bring po bar do 'od gsal rang snang (Середній усний переказ: Самопроявлене ясне світло бардо) [txt]
+snyan brgyud chen mo nges don mngon sum rang snang (Великий усний переказ: Безпосередній самопроявлений визначений зміст) [txt]
+dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu (Метод досягнення господині славної мантри: Фрагмент серця) [txt]
+gu ru'i gsol 'debs bsam pa myur 'grub (Молитва гуру: Швидке виконання думок) [txt]
+rA hu la'i gsang sgrub snying gi dum bu (Таємне досягнення Рахули: Фрагмент серця) [txt]
+gza bdud kyi gsang sgrub me rlung 'khyil ba (Таємне досягнення планетарного демона: Вихор вогню і вітру) [txt]
+dam can gyi gsang sgrub snying gi dum bu (Таємне досягнення захисника клятви: Фрагмент серця) [txt]
+kha byang 'od gsal snying po (Опис: Сутність ясного світла) [txt]
+bla ma yang tig yid bzhin nor bu'i chos skor par du bzhengs tshul gyi dkar chag mu tig phreng ba (Каталог стилю створення циклу вчень Лама Янгтік – дорогоцінності бажання: Гірлянда перлів) [toc]
+bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge (Запис надання посвяти Лама Янгтік – дорогоцінності бажання: Прикраса шиї радісної долі, літери, що спираються на значення) [txt]
+
+zab mo yang tig (Глибокий Янгтік) [sec]
+01) deb bcu gcig pa/ (11) (Книга одинадцята / (11)) [vol]
+ston pa brtse ba'i rnam rol blo gros kyi snang brnyan (Зображення вчителя – прояву співчуття мудрості) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu gcig pa zab mo yang tig gi dkar chag (Каталог одинадцятої книги зібрання творів Безплямного сяйва: Глибокий Янгтік) [toc]
+lo rgyus rin po che 'od kyi phreng ba (Дорогоцінна гірлянда історії світла) [txt]
+phyag tshal yid bzhin nor bu (Поклон дорогоцінності бажання) [txt]
+gsol 'debs bdud rtsi'i chu rgyun (Молитва потоку нектару) [txt]
+maN+Dal 'bul ba'i cho ga gling bzhi'i rgyan gyur (Ритуал підношення мандали: Прикраса чотирьох континентів) [txt]
+gu ru bi ma la sgrub pa'i rim pa (Етапи досягнення гуру Вімали) [txt]
+snying po ye shes kyi bla ma sgrub pa (Досягнення гуру сутності примордіальної мудрості) [txt]
+spros bcas kyi dbang chog dngos grub chu bo (Ритуал розробленої посвяти: Потік реалізації) [txt]
+dkyil 'khor spros bcas ming gi rim pa (Етапи імен розробленої мандали) [txt]
+spros med dbang chog klong gsal chu bo (Ритуал безрозробленої посвяти: Потік ясного простору) [txt]
+bum pa'i brda don (Значення знаків вази) [txt]
+shin tu spros pa med pa'i dbang chog ye shes chu bo (Ритуал найвищої безрозробленої посвяти: Потік примордіальної мудрості) [txt]
+rab tu spros pa med pa'i dbang chog byin rlabs chu bo (Ритуал середньої безрозробленої посвяти: Потік благословень) [txt]
+dam tshig gsum bkod (Розташування трьох самай) [txt]
+thun mong gi sngon 'gro rin po che'i pra khrid (Тонкі настанови дорогоцінного попереднього загального) [txt]
+khrid yig sangs rgyas mnyam sbyor (Настановний текст рівного поєднання з Буддою) [txt]
+gzhi ma bcos ji bzhin du ngo sprod pa'i rim pa (Етапи вступу до природного незміненого стану) [txt]
+rgya mtsho ar gtad kyi mun khrid 'od gsal 'khor lo (Настанови темряви, спрямовані на океан ар: Колесо ясного світла) [txt]
+khyung chen gshog rdzogs (Великий Ґаруда, що завершує політ) [txt]
+khyung chen gshog rdzogs kyi bsdus don (Підсумований зміст завершення польоту великого Ґаруди) [txt]
+gsang ba bla med spyi babs (Найвища таємна загальна основа) [txt]
+zab mo bcud bsdus (Підсумована глибока сутність) [txt]
+'od gsal snying po (Сутність ясного світла) [txt]
+snying po don bsdus (Підсумована сутність значення) [txt]
+nges don snying po (Визначена сутність значення) [txt]
+mthar thug don gyi snying po (Сутність остаточного значення) [txt]
+gzhi lam 'bras bu'i gnas gsal ba (Ясне місце основи, шляху та плоду) [txt]
+rnal 'byor bzhi'i rim pa (Етапи чотирьох йог) [txt]
+zab mo pra khrid (Глибокі тонкі настанови) [txt]
+snying po'i yang bcud (Суттєва сутність) [txt]
+rig pa brtul zhugs kyi spyod pa (Поведінка дисциплінованого усвідомлення) [txt]
+dus kyi gsal byed (Освітлювач часу) [txt]
+'da' kha don gyi man ngag (Настанови значення теперішнього моменту) [txt]
+btags grol snying po (Сутність звільнення через прикріплення) [txt]
+zab don snying po (Сутність глибокого значення) [txt]
+tshig don snying po (Сутність слів і значень) [txt]
+gdams khrid don gyi mdo chings (Сутра настанов значення) [txt]
+snyan brgyud gnad kyi mdo chings (Сутра ключів усного переказу) [txt]
+gsang skor brgyud pa'i phyag 'tshal byin rlabs sprin phung (Поклон таємного циклу лінії: Хмара благословень) [txt]
+dgongs brgyud gsol 'debs (Молитва лінії наміру) [txt]
+gsang skor bla brgyud rim gyi gsol 'debs (Молитва етапів таємної лінії гуру) [txt]
+gsol 'debs dngos grub kun 'byung (Молитва: Джерело всіх реалізацій) [txt]
+02) deb bcu gnyis pa/ (12) (Книга дванадцята / (12)) [vol]
+ston pa 'od srung bgres po'i snang brnyan (Зображення вчителя – літнього захисника світла) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu gnyis pa zab mo yang tig gi dkar chag (Каталог дванадцятої книги зібрання творів Безплямного сяйва: Глибокий Янгтік) [toc]
+gsang skor gyi dbang gi lag len gsal ba'i sgron me (Лампа, що освітлює практику таємного циклу посвяти) [txt]
+mchog gsang lam khrid chen mo (Великі настанови найвищого таємного шляху) [txt]
+ye grol sor bzhag (Природне розміщення примордіального звільнення) [txt]
+snyan brgyud thugs kyi me long (Дзеркало розуму усного переказу) [txt]
+snyan brgyud don gyi me long (Дзеркало значення усного переказу) [txt]
+lag khrid snying po (Сутність настанов вручну) [txt]
+snyan brgyud kyi rgyab chos chen mo zab don gnad kyi me long (Велике заднє вчення усного переказу: Дзеркало ключів глибокого значення) [txt]
+zab mo yang tig gi bka' srung drag po sum sgril (Гнівний захисник Глибокого Янгтік: Згорнута трійка) [txt]
+bskang gso dngos grub char 'bebs (Виправлення та відновлення: Викликання дощу реалізації) [txt]
+zab mo yang tig gi dkar chag nyi zla gza' skar (Каталог Глибокого Янгтік: Сонце, місяць і зірки) [toc]
+zab mo yang tig gi dkar chag dpag bsam ljon pa (Каталог Глибокого Янгтік: Дерево, що виконує бажання) [toc]
+
+klong chen mdzod bdun (Сім скарбів Лонгчена) [sec]
+
+yid bzhin mdzod dang gnas lugs mdzod (Скарб бажання та Скарб природного стану) [sec]
+01) deb bcu gsum pa/ yid bzhin mdzod stod cha/ (13) (Книга тринадцята / Скарб бажання, верхня частина / (13)) [vol]
+ston pa mngon rdzogs rgyal po'i snang brnyan (Зображення вчителя – царя повного прояву) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu gsum pa yid bzhin mdzod stod cha'i dkar chag (Каталог тринадцятої книги зібрання творів Безплямного сяйва: Скарб бажання, верхня частина) [toc]
+yid bzhin mdzod kyi rtsa ba (Корінь Скарбу бажання) [txt]
+yid bzhin mdzod kyi 'grel pa pad+ma dkar po stod cha (Коментар до Скарбу бажання: Білий лотос, верхня частина) [txt]
+dang po/ gzhi 'khor ba'i grub tshul bstan pa'i 'grel pa (Перший: Коментар, що показує спосіб досягнення основи сансари) [cha]
+gnyis pa/ 'gro ba'i don du zhing khams rnam par bkod pa'i 'grel pa (Другий: Коментар, що розподіляє сфери існування заради істот) [cha]
+gsum pa/ snod chags tshul bstan pa'i 'grel pa (Третій: Коментар, що показує спосіб виникнення посудинного світу) [cha]
+bzhi pa/ bcud chags tshul bstan pa'i 'grel pa (Четвертий: Коментар, що показує спосіб виникнення вмісту) [cha]
+lnga pa/ gnas pa'i bskal pa bstan pa'i 'grel pa (П'ятий: Коментар, що показує еони перебування) [cha]
+drug pa/ 'jig pa dang stongs pa bstan pa'i 'grel pa (Шостий: Коментар, що показує руйнування та порожнечу) [cha]
+bdun pa/ snod bcud kyi bde sdug bstan pa'i 'grel pa (Сьомий: Коментар, що показує щастя та страждання посудини та вмісту) [cha]
+brgyad pa/ dge ba'i bshes gnyen bsten pa'i 'grel pa (Восьмий: Коментар, що показує слідування за доброчесним другом) [cha]
+dgu pa/ sdig grogs spang ba'i 'grel pa (Дев'ятий: Коментар, що показує відкидання гріховних супутників) [cha]
+bcu pa/ 'chad pa po slob dpon gyi 'grel pa (Десятий: Коментар, що пояснює вчителя) [cha]
+bcu gcig pa/ nyan pa po slob ma'i chos kyi 'grel pa (Одинадцятий: Коментар, що пояснює дгарму учня) [cha]
+bcu gnyis pa/ bshad bya chos kyi rnam grangs rgya cher spros pa'i 'grel pa las phyi rol pa'i grub mtha'i rnam par bshad pa (Дванадцятий: Коментар, що детально пояснює численні аспекти дгарми, що пояснюється, щодо зовнішніх філософських систем) [cha]
+yid bzhin mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу бажання) [txt]
+yid bzhin mdzod kyi dpe bsdur zur mchan (Примітки до зібраного видання Скарбу бажання) [txt]
+
+deb bcu bzhi pa/ yid bzhin mdzod smad cha dang / gnas lugs mdzod/ (Книга чотирнадцята / Скарб бажання, нижня частина та Скарб природного стану) [vol]
+ston pa shAkya thub pa'i snang brnyan (Зображення вчителя – Шак’ямуні) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu gsum pa yid bzhin mdzod smad cha'i dkar chag (Каталог тринадцятої книги зібрання творів Безплямного сяйва: Скарб бажання, нижня частина) [toc]
+yid bzhin mdzod kyi 'grel pa pad+ma dkar po'i smad cha (Коментар до Скарбу бажання: Білий лотос, нижня частина) [txt]
+bcu gnyis pa/ nang pa'i grub mtha'i rnam par bshad pa (Дванадцятий: Пояснення внутрішніх філософських систем) [cha]
+bcu gsum pa/ dal 'byor rnyed dka' bsam pa'i 'grel pa (Тринадцятий: Коментар, що розглядає рідкісність людського життя) [cha]
+bcu bzhi pa/ tshe mi rtag par bsam pa'i 'grel pa (Чотирнадцятий: Коментар, що розглядає непостійність життя) [cha]
+bco lnga pa/ dad pa'i rang bzhin bsam pa'i 'grel pa (П’ятнадцятий: Коментар, що розглядає природу віри) [cha]
+bcu drug pa/ las rgyu 'bras bsam pa'i 'grel pa (Шістнадцятий: Коментар, що розглядає причину та наслідок карми) [cha]
+bcu bdun pa/ 'khor ba'i sdug bsngal rtogs shing myang 'das bde bar bsam pa'i 'grel pa (Сімнадцятий: Коментар, що розглядає усвідомлення страждань сансари та блаженство нірвани) [cha]
+bco brgyad pa/ gnas lugs gtan la dbab pa'i 'grel pa (Вісімнадцятий: Коментар, що встановлює природний стан) [cha]
+bcu dgu pa/ bsm gtan gyi sngon du 'gro ba'i 'grel pa (Дев’ятнадцятий: Коментар, що пояснює попередні медитації) [cha]
+nyi shu pa/ 'od gsal mchog gi bsgom pa bstan pa'i 'grel pa (Двадцятий: Коментар, що показує найвищу медитацію ясного світла) [cha]
+nyer gcig pa/ lam bgrod pa'i sa mtshams bstan pa'i 'grel pa (Двадцять перший: Коментар, що показує межі етапів шляху) [cha]
+nyer gnyis pa/ bsgom pa mthar phyin pa 'bras bu'i 'grel pa (Двадцять другий: Коментар, що пояснює плоди завершення медитації) [cha]
+yid bzhin mdzod kyi don khrid rdo rje'i snying po (Настанови значення Скарбу бажання: Ваджрна сутність) [txt]
+gnas lugs mdzod kyi rtsa ba (Корінь Скарбу природного стану) [txt]
+chos thams cad gang du'ang brjod du med par gtan la phab pa (Усі дгарми встановлені як невимовні в будь-якому вигляді) [cha]
+chos thams cad bar med phyal pa chen por gtan la phab pa (Усі дгарми встановлені як великий відкритий простір без меж) [cha]
+chos thams cad ye nas lhun gyis grub par gtan la phab pa (Усі дгарми встановлені як спонтанно досконалі від початку) [cha]
+chos thams cad rtsa ba rig pa'i ye shes gcig pur gtan la phab pa (Усі дгарми встановлені як єдина примордіальна мудрість усвідомлення кореня) [cha]
+bstan pa gang la gzhag pa'i gang zag gi snod gtan la phab pa (Встановлення істоти, в якій розміщується вчення) [cha]
+gnas lugs mdzod kyi 'grel pa (Коментар до Скарбу природного стану) [txt]
+dang po/ chos thams cad gang du'ang brjod du med par gtan la phab pa (Перший: Усі дгарми встановлені як невимовні в будь-якому вигляді) [cha]
+gnyis pa/ chos thams cad bar med phyal pa chen por gtan la phab pa (Другий: Усі дгарми встановлені як великий відкритий простір без меж) [cha]
+gsum pa/ chos thams cad ye nas lhun gyis grub par gtan la phab pa (Третій: Усі дгарми встановлені як спонтанно досконалі від початку) [cha]
+bzhi pa/ chos thams cad rtsa ba rig pa'i ye shes su gcig pur gtan la phab pa (Четвертий: Усі дгарми встановлені як єдина примордіальна мудрість усвідомлення кореня) [cha]
+lnga pa/ gang la bzhag pa'i gang zag gi rim pa gtan la phab pa (П’ятий: Етапи істоти, в якій розміщується вчення) [cha]
+bstan bcos yongs su rdzogs pa'i mjug gi bya ba bstan pa (Показ завершення діяльності трактату) [txt]
+yid bzhin mdzod smad cha dang don khrid zab don rdo rje snying po gnas lugs mdzod bcas kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу бажання, нижньої частини, настанов глибокого значення ваджрної сутності та Скарбу природного стану) [txt]
+yid bzhin mdzod smad cha dang gnas lugs mdzod gnyis kyi dpe bsdur zur mchan (Примітки до зібраного видання Скарбу бажання, нижньої частини, та Скарбу природного стану) [txt]
+
+grub mtha' mdzod dang / man ngag mdzod (Скарб філософських систем та Скарб настанов) [sec]
+deb bco lnga pa/ grub mtha' mdzod dang / man ngag mdzod/ (Книга п’ятнадцята / Скарб філософських систем та Скарб настанов) [vol]
+dga' rab rdo rje'i snang brnyan (Зображення Ґараб Дордже) [cha]
+dri med 'od zer gyi gsung 'bum deb bco lnga pa grub mtha' mdzod dang / man ngag mdzod kyi dkar chag (Каталог п’ятнадцятої книги зібрання творів Безплямного сяйва: Скарб філософських систем та Скарб настанов) [toc]
+grub mtha' mdzod (Скарб філософських систем) [txt]
+dang po/ ston pa'i lo rgyus rnam par gzhag pa (Перший: Розташування історії вчителя) [cha]
+gnyis pa/ dam pa'i chos kyi tshul bshad pa (Другий: Пояснення способу священної дгарми) [cha]
+gsum pa/ theg pa so so'i 'dod gzhung bstan pa (Третій: Показ окремих систем прагнень вчень) [cha]
+bzhi pa/ lam nyams su blang tshul bstan pa (Четвертий: Показ способу практичного застосування шляху) [cha]
+lnga pa/ gsang sngags don gyi 'brel dgod pa (П’ятий: Встановлення зв’язку значення таємної мантри) [cha]
+drug pa/ thugs rdo rje gsang ba bstan pa (Шостий: Показ таємного ваджрного розуму) [cha]
+bdun pa/ chos thams cad rdzogs par gtan la phab pa (Сьомий: Установлення всіх дгарм як завершених) [cha]
+brgyad pa/ yid bzhin drwa ba rdo rje snying po bstan pa (Восьмий: Показ ваджрної сутності дорогоцінної сітки бажання) [cha]
+man ngag mdzod (Скарб настанов) [txt]
+grub mtha' mdzod dang man ngag mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу філософських систем та Скарбу настанов) [txt]
+grub mtha' mdzod dang man ngag mdzod kyi bsdur mchan (Примітки до зібраного видання Скарбу філософських систем та Скарбу настанов) [txt]
+
+chos dbyings mdzod (Скарб простору дгарми) [sec]
+deb bcu drug pa/ (Книга шістнадцята) [vol]
+'jam dpal bshes gnyen gyi snang brnyan (Зображення Манджушрі, друга мудрості) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu drug pa chos dbyings mdzod kyi dkar chag (Каталог шістнадцятої книги зібрання творів Безплямного сяйва: Скарб простору дгарми) [toc]
+chos dbyings mdzod (Скарб простору дгарми) [txt]
+chos dbyings mdzod kyi 'grel pa (Коментар до Скарбу простору дгарми) [txt]
+bstan bcos rtsom pa la 'jug pa'i rgyu bstan pa (Показ причини для написання трактату) [cha]
+dang po/ 'khor 'das dbyings las ma g.yos par bstan pa (Перший: Показ незмінності від простору сансари та нірвани) [cha]
+gnyis pa/ snang srid zhing khams su shar ba bstan pa (Другий: Показ виникнення проявленого існування у сферах) [cha]
+gsum pa/ byang chub sems kyi mtshon dpe bstan pa (Третій: Показ прикладів розуму пробудження) [cha]
+bzhi pa/ byang chub sems kyi rang bzhin bstan pa (Четвертий: Показ природи розуму пробудження) [cha]
+lnga pa/ rtsol sgrub rgyu 'bras las 'das par bstan pa (П’ятий: Показ трансцендентності зусиль і досягнень причини та плоду) [cha]
+drug pa/ thams cad byang chub kyi sems su 'dus par bstan pa (Шостий: Показ зведення всіх дгарм до розуму пробудження) [cha]
+bdun pa/ thams cad byang chub kyi sems su ye nas lhun gyis grub par bstan pa (Сьомий: Показ спонтанної досконалості всіх дгарм у розумі пробудження від початку) [cha]
+brgyad pa/ byang chub kyi sems la gnyis su med par bstan pa (Восьмий: Показ неподільності розуму пробудження) [cha]
+dgu pa/ chos thams cad byang chub sems kyi klong du bzla bar bstan pa (Дев’ятий: Показ розчинення всіх дгарм у просторі розуму пробудження) [cha]
+bcu pa/ dgongs pa chos nyid las mi g.yo bar bstan pa (Десятий: Показ незмінності наміру від природи дгарми) [cha]
+bcu gcig pa/ rkyen snang mkha' mnyam dag par bstan pa (Одинадцятий: Показ чистої рівності проявів умов у небі) [cha]
+bcu gnyis pa/ chos thams cad byang chub kyi sems su ye nas grol ba'i rang bzhin bstan pa (Дванадцятий: Показ природи всіх дгарм як спонтанно звільнених у розумі пробудження) [cha]
+bcu gsum pa/ chos thams cad byang chub kyi sems su ye nas sangs rgyas pa la/ rtsol ba dang sgrub pa med par yang sangs rgyas par bstan pa (Тринадцятий: Показ, що всі дгарми, будучи спонтанно пробудженими в розумі пробудження, є пробудженими без зусиль і досягнень) [cha]
+bstan bcos yongs su rdzogs pa mjug gi don bstan pa (Показ завершення значення трактату) [cha]
+chos dbyings mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу простору дгарми) [txt]
+chos dbyings rin po che'i mdzod kyi bsdur mchan (Примітки до зібраного видання дорогоцінного Скарбу простору дгарми) [txt]
+
+theg mchog mdzod (Скарб найвищого шляху) [sec]
+deb bcu bdun pa/ theg mchog mdzod stod cha/ (Книга сімнадцята / Скарб найвищого шляху, верхня частина) [vol]
+shrI sing+ha'i snang brnyan (Зображення Шрі Сінгхи) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu bdun pa theg mchog mdzod stod cha'i dkar chag (Каталог сімнадцятої книги зібрання творів Безплямного сяйва: Скарб найвищого шляху, верхня частина) [toc]
+theg mchog mdzod stod cha (Скарб найвищого шляху, верхня частина) [txt]
+dang po/ ston pa dang bstan pa'i byung tshul gtan la dbab pa (Перший: Встановлення походження вчителя та вчення) [cha]
+gnyis pa/ snod dang bcud kyi 'jig rten bstan pa (Другий: Показ посудинного світу та його вмісту) [cha]
+gsum pa/ 'khor ba'i chos rab dbye ba (Третій: Детальне розрізнення дгарм сансари) [cha]
+bzhi pa/ grub pa'i mtha' rab dbye ba (Четвертий: Детальне розрізнення філософських систем) [cha]
+lnga pa/ gsang chen nges pa'i don las dka' ba'i gnas bstan pa (П’ятий: Показ складних пунктів визначеного значення великої таємниці) [cha]
+drug pa/ gzhi'i don smin par byed pa dbang gi rnam par gzhag pa (Шостий: Розташування посвят, що дозрівають значення основи) [cha]
+bdun pa/ dam tshig rnam pa bkod pa (Сьомий: Розташування форм самай) [cha]
+brgyad pa/ gdod ma gzhi'i gnas lugs bstan pa (Восьмий: Показ природного стану первісної основи) [cha]
+dgu pa/ lhun grub snang tshul gyi sgo nas 'khor 'das kyi gyes mdo bstan pa (Дев’ятий: Показ сутри розмежування сансари та нірвани через спонтанні прояви) [cha]
+bcu pa/ 'khrul lugs bzlog tshul dang bcas pas brdas mtshon pa (Десятий: Показ символів через спосіб усунення помилкових уявлень) [cha]
+bcu gcig pa/ bag chags lus kyi grub tshul bstan pa (Одинадцятий: Показ способу досягнення тіла через звички) [cha]
+bcu gsum pa/ gnad nges pa bye brag tu bshad pa (Дванадцятий: Детальне пояснення визначених ключів) [cha]
+bcu bzhi pa/ sgron ma bzhi'i rnam grangs bstan pa (Чотирнадцятий: Показ чисельних аспектів чотирьох ламп) [cha]
+brten pa shes pa'i gnas rnam par gzhag pa (П’ятнадцятий: Розташування стану свідомості опори) [cha]
+theg mchog mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу найвищого шляху) [txt]
+theg mchog rin po che'i mdzod kyi bsdur mchan (Примітки до зібраного видання дорогоцінного Скарбу найвищого шляху) [txt]
+
+deb bco brgyad pa/ theg mchog mdzod smad cha/ (Книга вісімнадцята / Скарб найвищого шляху, нижня частина) [vol]
+ye shes mdo'i snang brnyan (Зображення Сутри Прімордіальної Мудрості) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu bdun pa theg mchog mdzod smad cha'i dkar chag (Каталог сімнадцятої книги зібрання творів Безплямного сяйва: Скарб найвищого шляху, нижня частина) [toc]
+theg mchog mdzod smad cha (Скарб найвищого шляху, нижня частина) [txt]
+bco lnga pa/ 'byung ba'i gnas bstan pa (П’ятнадцятий: Показ стану виникнення) [cha]
+bcu drug pa/ dbyings dang ye shes lhun gyis grub pa'i gnas bstan pa (Шістнадцятий: Показ стану спонтанної досконалості простору та примордіальної мудрості) [cha]
+bcu bdun pa/ dmigs pa yul gyi blo rim can 'jug pa'i lam zab rgya cher bshad pa (Сімнадцятий: Детальне пояснення глибокого шляху входження розуму через об’єкти сприйняття) [cha]
+bco brgyad pa/ 'od gsal rdo rje snying po'i lam gyi chings bstan pa (Вісімнадцятий: Показ пут ваджрної сутності ясного світла) [cha]
+bcu dgu pa/ yang rab rtogs pas grol ba'i man ngag gi chings bstan pa (Дев’ятнадцятий: Показ пут настанов звільнення через найвище усвідомлення) [cha]
+nyi shu pa/ lhun grub thod rgal gyi ye shes nyams su len pa'i gnad nges pa (Двадцятий: Визначені ключі практичного застосування примордіальної мудрості спонтанного тодґалу) [cha]
+nyer gcig pa/ rdo rje'i gnas dka' ba ngo sprod la brten nas mtshon pa (Двадцять перший: Показ через вступ до складних ваджрних станів) [cha]
+nyer gnyis pa/ dus gsum rtags kyi rnam grangs nges pa gtan la phab pa (Двадцять другий: Встановлення визначених чисельних аспектів знаків трьох часів) [cha]
+nyer gsum pa/ rang snang bar do'i 'char tshul bstan pa (Двадцять третій: Показ способу виникнення самопроявленого бардо) [cha]
+nyer bzhi pa/ dbang po tha ma rnams rang bzhin sprul pa'i sku'i zhing du dbugs dbyung ba (Двадцять четвертий: Виведення нижчих здібностей до поля природного тулку) [cha]
+nyer lnga pa/ lhun gyis grub pa 'bras bu'i rnam par gzhag pa (Двадцять п’ятий: Розташування спонтанно досконалих плодів) [cha]
+theg mchog mdzod kyi mjug byang (Завершальний список Скарбу найвищого шляху) [txt]
+theg mchog mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу найвищого шляху) [txt]
+theg pa'i mchog rin po che'i mdzod kyi bsdur mchan (Примітки до зібраного видання дорогоцінного Скарбу найвищого шляху) [txt]
+
+tshig don mdzod (Скарб слів і значень) [sec]
+deb bcu dgu pa/ (Книга дев’ятнадцята) [vol]
+bi ma la mi tra'i snang brnyan (Зображення Вімаламітри) [cha]
+dri med 'od zer gyi gsung 'bum deb bcu dgu pa tshig don mdzod kyi dkar chag (Каталог дев’ятнадцятої книги зібрання творів Безплямного сяйва: Скарб слів і значень) [toc]
+tshig don mdzod (Скарб слів і значень) [txt]
+dang po/ gzhi gtan la dbab pa'i rim pa (Перший: Етапи встановлення основи) [cha]
+gnyis pa/ srid par 'khrul tshul gyi rim pa (Другий: Етапи способу помилкового існування) [cha]
+gsum pa/ sangs rgyas kyi snying pos khyab tshul rim pa (Третій: Етапи пронизування сутністю пробудження) [cha]
+bzhi pa/ ye shes kyi gnas bstan pa'i rim pa (Четвертий: Етапи показу стану примордіальної мудрості) [cha]
+lnga pa/ ye shes kyi lam bstan pa'i rim pa (П’ятий: Етапи показу шляху примордіальної мудрості) [cha]
+drug pa/ ye shes kyi sgo'i gnad bstan pa'i rim pa (Шостий: Етапи показу ключів брами примордіальної мудрості) [cha]
+bdun pa/ yul gyi gnad bstan pa'i rim pa (Сьомий: Етапи показу ключів об’єктів) [cha]
+brgyad pa/ ji ltar nyams su blang ba'i rim pa (Восьмий: Етапи практичного застосування) [cha]
+dgu pa/ rtags tshad nges pa'i rim pa (Дев’ятий: Етапи визначених знаків і мір) [cha]
+bcu pa/ nyams su len pa rgyal po'i khang bzang gi rim pa (Десятий: Етапи практичного застосування палацу царя) [cha]
+bcu gcig pa/ mthar phyin 'bras bu'i rim pa (Одинадцятий: Етапи плодів завершення) [cha]
+tshig don mdzod kyi dpe bsdur gsal bshad (Пояснення зібраного видання Скарбу слів і значень) [txt]
+tshig don rin po che'i mdzod kyi bsdur mchan (Примітки до зібраного видання дорогоцінного Скарбу слів і значень) [txt]
+
+ngal gso skor gsum (Три цикли відпочинку) [sec]
+
+sems nyid ngal gso (Відпочинок у природі розуму) [sec]
+deb nyi shu pa/ (Книга двадцята) [vol]
+pad+ma 'byung gnas kyi snang brnyan (Зображення Падмасамбгави) [cha]
+dri med 'od zer gyi gsung 'bum deb nyi shu pa sems nyid ngal gso stod cha'i dkar chag (Каталог двадцятої книги зібрання творів Безплямного сяйва: Відпочинок у природі розуму, верхня частина) [toc]
+sems nyid ngal gso (Відпочинок у природі розуму) [txt]
+sems nyid ngal gso'i 'grel pa shing rta chen po'i bsdus don (Коментар до Відпочинку в природі розуму: Підсумований зміст великого воза) [txt]
+rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i stod cha (Коментар до Великої Досконалості Відпочинку в природі розуму: Великий віз, верхня частина) [txt]
+dang po/ dal 'byor rnyed dka' ba'i le'u'i 'grel pa (Перший: Коментар до розділу про рідкісність людського життя) [cha]
+gnyis pa/ tshe mi rtag pa'i le'u'i 'grel pa (Другий: Коментар до розділу про непостійність життя) [cha]
+gsum pa/ 'khor ba sdug bsngal gyi le'u'i 'grel pa (Третій: Коментар до розділу про страждання сансари) [cha]
+bzhi pa/ las rgyu 'bras kyi le'u'i 'grel pa (Четвертий: Коментар до розділу про причину та наслідок карми) [cha]
+lnga pa/ dge ba'i bshes gnyen bsten pa'i le'u'i 'grel pa (П’ятий: Коментар до розділу про слідування за доброчесним другом) [cha]
+drug pa/ skyab su 'gro ba'i le'u'i 'grel pa (Шостий: Коментар до розділу про прийняття притулку) [cha]
+bdun pa/ tshad med pa bzhi'i le'u'i 'grel pa (Сьомий: Коментар до розділу про чотири безмірні) [cha]
+
+deb nyer gcig pa/ (Книга двадцять перша) [vol]
+khri srong lde btsan gyi snang brnyan (Зображення Трісонга Децена) [cha]
+dri med 'od zer gyi gsung 'bum deb nyer gcig pa sems nyid ngal gso smad cha'i dkar chag (Каталог двадцять першої книги зібрання творів Безплямного сяйва: Відпочинок у природі розуму, нижня частина) [toc]
+rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i smad cha (Коментар до Великої Досконалості Відпочинку в природі розуму: Великий віз, нижня частина) [txt]
+brgyad pa/ byang chub mchog tu sems bskyed pa'i le'u'i 'grel pa (Восьмий: Коментар до розділу про породження найвищого розуму пробудження) [cha]
+dgu pa/ bskyed rdzogs zung du 'jug pa'i le'u'i 'grel pa (Дев’ятий: Коментар до розділу про поєднання створення та завершення) [cha]
+bcu pa/ gzhi rtogs pa'i shes rab mtha' gnyis la mi gnas pa'i le'u'i 'grel pa (Десятий: Коментар до розділу про мудрість усвідомлення основи, що не перебуває в двох крайнощах) [cha]
+bcu gcig pa/ lam bsam gtan dri ma med pa zhi lha zung du 'brel ba'i le'u'i 'grel pa (Одинадцятий: Коментар до розділу про шлях безплямної медитації, поєднаної з мирним божеством) [cha]
+bcu gnyis pa/ ting nge 'dzin sgrub pa'i yan lag thabs la mkhas pa'i le'u'i 'grel pa (Дванадцятий: Коментар до розділу про майстерність засобів у досягненні самадгі) [cha]
+bcu gsum pa/ 'bras bu lhun grub chen po'i le'u'i 'grel pa (Тринадцятий: Коментар до розділу про великий спонтанний плід) [cha]
+sems nyid ngal gso'i mjug gi don (Завершальне значення Відпочинку в природі розуму) [cha]
+sems nyid ngal gso'i don khrid (Настанови значення Відпочинку в природі розуму) [txt]
+
+sgyu ma ngal gso dang / bsam gtan ngal gso/ rang grol skor gsum (Відпочинок у ілюзії, Відпочинок у медитації, Три цикли самозвільнення) [sec]
+deb nyer gnyis pa/ sgyu ma ngal gso dang / bsam gtan ngal gso/ rang grol skor gsum/ (Книга двадцять друга) [vol]
+bai ro tsa na'i snang brnyan (Зображення Вайрочани) [cha]
+dri med 'od zer gyi gsung 'bum deb nyer gnyis pa'i dkar chag (Каталог двадцять другої книги зібрання творів Безплямного сяйва) [toc]
+sgyu ma ngal gso (Відпочинок у ілюзії) [txt]
+rdzogs pa chen po sgyu ma ngal gso'i rtsa ba (Корінь Великої Досконалості Відпочинку в ілюзії) [txt]
+sgyu ma ngal gso'i bsdus don (Підсумований зміст Відпочинку в ілюзії) [txt]
+sgyu ma ngal gso'i 'grel pa (Коментар до Відпочинку в ілюзії) [txt]
+sgyu ma ngal gso'i don khrid (Настанови значення Відпочинку в ілюзії) [txt]
+
+bsam gtan ngal gso (Відпочинок у медитації) [sec]
+deb nyer gnyis pa/ (Книга двадцять друга) [vol]
+bsam gtan ngal gso (Відпочинок у медитації) [txt]
+bsam gtan ngal gso'i rtsa ba (Корінь Відпочинку в медитації) [txt]
+bsam gtan ngal gso'i bsdus don (Підсумований зміст Відпочинку в медитації) [txt]
+bsam gtan ngal gso'i 'grel pa (Коментар до Відпочинку в медитації) [txt]
+bsam gtan ngal gso'i don khrid (Настанови значення Відпочинку в медитації) [txt]
+ngal gso skor gsum gyi skor (Цикл трьох відпочинків) [txt]
+ngal gso skor gsum gyi spyi don (Загальне значення трьох циклів відпочинку) [txt]
+ngal gso skor gsum gyi dkar chag (Каталог трьох циклів відпочинку) [toc]
+
+rang grol skor gsum dang kun byed rgyal po'i don khrid (Три цикли самозвільнення та Настанови значення Всестворюючого Царя) [sec]
+deb nyer gnyis pa/ (Книга двадцять друга) [vol]
+rang grol skor gsum (Три цикли самозвільнення) [txt]
+sems nyid rang grol gyi rtsa ba (Корінь самозвільнення природи розуму) [txt]
+sems nyid rang grol gyi lam rim (Етапи шляху самозвільнення природи розуму) [txt]
+sems nyid rang grol gyi gsol 'debs (Молитва самозвільнення природи розуму) [txt]
+chos nyid rang grol (Самозвільнення природи дгарми) [txt]
+dang po/ gzhi rtogs pas grol ba'i le'u bshad pa (Перший: Пояснення розділу про звільнення через усвідомлення основи) [txt]
+gnyis pa/ lam bsgoms pa'i grol ba'i le'u bshad pa (Другий: Пояснення розділу про звільнення через медитацію на шляху) [txt]
+gsum pa/ 'bras bu mchog gi grol ba'i le'u bshad pa (Третій: Пояснення розділу про найвище звільнення плоду) [txt]
+chos nyid rang grol gyi khrid yig (Настановний текст самозвільнення природи дгарми) [txt]
+mnyam nyid rang grol gyi rtsa ba (Корінь самозвільнення рівності) [txt]
+mnyam nyid rang grol gyi don khrid (Настанови значення самозвільнення рівності) [txt]
+byang chub kyi sems kun byed rgyal po'i don khrid (Настанови значення Всестворюючого Царя розуму пробудження) [txt]
+
+gsang snying gi rtsa 'grel (Корінь і коментар до Таємної Сутності) [sec]
+deb nyer gsum pa/ (Книга двадцять третя) [vol]
+grogs mkha' 'gro ye shes mtsho rgyal gyi snang brnyan (Зображення супутниці дакині Єше Цог’ял) [cha]
+dri med 'od zer gyi gsung 'bum deb nyer gsum pa rgyud gsang ba snying po'i dkar chag (Каталог двадцять третьої книги зібрання творів Безплямного сяйва: Тантра Таємної Сутності) [toc]
+rgyud gsang ba snying po'i rtsa ba (Корінь Тантри Таємної Сутності) [txt]
+rgyud gsang ba snying po'i 'grel pa (Коментар до Тантри Таємної Сутності) [txt]
+dang po/ gleng gzhi'i rnam par bshad pa (Перший: Пояснення основи розмови) [cha]
+gnyis pa/ don dam pa dang kun rdzob kyi byang chub sems ye shes su bskyed pa'i rnam par bshad pa (Другий: Пояснення породження розуму пробудження як абсолютної та умовної примордіальної мудрості) [cha]
+gsum pa/ chos thams cad gtan la phab pa'i rnam par bshad pa (Третій: Пояснення встановлення всіх дгарм) [cha]
+bzhi pa/ yi ge phreng ba'i 'khor lo bkod pa'i rnam par bshad pa (Четвертий: Пояснення розташування колеса гірлянди літер) [cha]
+lnga pa/ sgyu 'phrul drwa ba sgrub pa'i ting nge 'dzin gyi rnam par bshad pa (П’ятий: Пояснення самадгі досягнення магічної сітки) [cha]
+drug pa/ dkyil 'khor spros pa'i rnam par bshad pa (Шостий: Пояснення розробленої мандали) [cha]
+bdun pa/ dkyil 'khor 'dus pa dang gsang sngags kyi rnam par bshad pa (Сьомий: Пояснення зібраної мандали та таємної мантри) [cha]
+brgyad pa/ yan lag thams cad dkyil 'khor du byin gyis brlabs nas phyag rgya spros pa'i rnam par bshad pa (Восьмий: Пояснення благословення всіх аспектів у мандалу та розробки печаток) [cha]
+dgu pa/ rdo rje bkod pa'i gsang ba'i dam tshig gi rnam par bshad pa (Дев’ятий: Пояснення таємної самайи розташування ваджри) [cha]
+bcu pa/ dbang sbyin pa'i rnam par bshad pa (Десятий: Пояснення надання посвяти) [cha]
+bcu gcig pa/ tshogs kyi dkyil 'khor gyi rnam par bshad pa (Одинадцятий: Пояснення мандали накопичення) [cha]
+bcu gnyis pa/ tshogs sgrub pa'i rnam par bshad pa (Дванадцятий: Пояснення досягнення накопичення) [cha]
+bcu gsum pa/ shin tu gsang ba man ngag gi snying po'i rnam par bshad pa (Тринадцятий: Пояснення сутності надзвичайно таємних настанов) [cha]
+bcu bzhi pa/ mnyes pa'i mchod pa'i rnam par bshad pa (Чотирнадцятий: Пояснення приємного підношення) [cha]
+bco lnga pa/ khro bo rang bzhin gyi dkyil 'khor gyi sprin rnam par spros pa'i rnam par bshad pa (П’ятнадцятий: Пояснення розробки хмари мандали природи гнівного божества) [cha]
+bcu drug pa/ khro bo'i tshogs chen po'i gsung gi dkyil 'khor spros pa'i rnam par bshad pa (Шістнадцятий: Пояснення розробки мандали мови великого накопичення гнівного божества) [cha]
+bcu bdun pa/ khro bo'i dkyil 'khor bstan pa'i rnam par bshad pa (Сімнадцятий: Пояснення показу мандали гнівного божества) [cha]
+bco brgyad pa/ mchod sbyin dam pa'i rnam par bshad pa (Вісімнадцятий: Пояснення священного підношення) [cha]
+bcu dgu pa/ dam tshig gi rnam par bshad pa (Дев’ятнадцятий: Пояснення самайи) [cha]
+nyi shu pa/ lhun gyis grub pa'i phrin las byin gyis rlob pa zhes bya ba'i rnam par bshad pa (Двадцятий: Пояснення благословення спонтанної діяльності) [cha]
+nyer gcig pa/ khro bo la bstod pa'i rnam par bshad pa (Двадцять перший: Пояснення хвали гнівному божеству) [cha]
+nyer gnyis pa/ mnyes pa dang yongs su bzung ba'i rnam par bshad pa (Двадцять другий: Пояснення приємного та повного прийняття) [cha]
+rgyud gsang ba snying po'i 'grel pa'i mjug gi don (Завершальне значення коментаря до Тантри Таємної Сутності) [cha]
+
+klong chen rab 'byams pa dri med 'od zer gyi gsung thor bu (Різні твори Лонгчена Рабджама Безплямного Сяйва) [sec]
+
+bstod tshogs (Збірка хвал) [sec]
+deb nyer bzhi pa/ (Книга двадцять четверта) [vol]
+klong chen rab 'byams kyi snang brnyan (Зображення Лонгчена Рабджама) [cha]
+dri med 'od zer gyi gsung 'bum deb nyer bzhi pa gsung thor bu'i dkar chag (Каталог двадцять четвертої книги зібрання творів Безплямного сяйва: Різні твори) [toc]
+bde bar gshegs pa la bstod pa (Хвала просвітленим) [txt]
+'jam dpal la bstod pa (Хвала Манджушрі) [txt]
+'jam dpal gzhon nu la bstod pa (Хвала юному Манджушрі) [txt]
+dbyangs can ma la bstod pa (Хвала Сарасваті) [txt]
+tshogs bdag gi bstod pa (Хвала Володарю накопичення) [txt]
+yer pa'i gnas bstod (Хвала священним місцям Єрпа) [txt]
+zhwa pad+ma dbang chen gyi bstod pa (Хвала Падма Вангчену) [txt]
+bum thang lha'i sbas yul gyi bkod pa me tog skyed tshal (Розташування прихованого священного місця Бумтанг: Сад квітів) [txt]
+zhwa pad+ma dbang chen gyi dkar chag gtsigs kyi yi ge zhi mo (Каталог Падма Вангчена: Мирні літери зв’язку) [toc]
+
+gtam tshogs (Збірка розповідей) [sec]
+deb nyer bzhi pa/ (Книга двадцять четверта) [vol]
+blo gsal ri bong gi rtogs pa brjod pa'i dris lan (Відповідь на запитання про вираження усвідомлення зайця) [txt]
+po ta la kun tu dga' ba'i gtam (Розповідь про радість Потали) [txt]
+nags tshal kun tu dga' ba'i gtam (Розповідь про радість лісової хащі) [txt]
+chos kyi sdom po bzhi ston pa dri ma med pa'i gtam (Безплямна розповідь про показ чотирьох зведень дгарми) [txt]
+
+gsung mgur skor (Цикл пісень) [sec]
+deb nyer bzhi pa/ (Книга двадцять четверта) [vol]
+rdo rje'i glu'i dkar chag chen mo (Великий каталог ваджрних пісень) [toc]
+snying po'i don gyi mgur bcu (Десять пісень про значення сутності) [txt]
+yan lag bdun pa'i mgur (Пісня семи аспектів) [txt]
+gnas lugs don gyi maN+Dal gyi mgur (Пісня мандали значення природного стану) [txt]
+bka' drin dran pa ma (Пісня згадки про доброту вчителя) [txt]
+phan pa'i snying gtam (Розповідь серця про користь) [txt]
+dpe don nges don rdo rje'i mgur (Ваджрна пісня прикладів і визначеного значення) [txt]
+gnyug ma rdo rje'i mgur (Ваджрна пісня природного стану) [txt]
+khyung chen rdo rje'i mgur (Ваджрна пісня великого Гаруди) [txt]
+rtsa rlung rdo rje'i mgur (Ваджрна пісня каналів і вітрів) [txt]
+dgos med don gyi rdo rje'i mgur (Ваджрна пісня значення без потреби) [txt]
+rdzogs pa chen po yang gsang bla na med pa gnad 'dus rdo rje'i mgur (Ваджрна пісня зібраних ключів надзвичайно таємної Великої Досконалості) [txt]
+ri khrod dgon pa ma'i mgur (Пісня відлюдного монастиря в горах) [txt]
+mya ngan gzhi grol rdo rje'i mgur (Ваджрна пісня звільнення основи від страждань) [txt]
+na dga' shi skyid rdo rje'i mgur (Ваджрна пісня радості та спокою хвороби й смерті) [txt]
+na ba lam khyer rdo rje'i mgur (Ваджрна пісня перенесення хвороби на шлях) [txt]
+zhen pa bzhi bral rdo rje'i mgur (Ваджрна пісня свободи від чотирьох прив’язаностей) [txt]
+'khor ba dong sprugs ma rdo rje'i mgur (Ваджрна пісня перевертання сансари) [txt]
+kun mkhyen dri med 'od zer gyi rdo rje'i glu sum cu (Тридцять ваджрних пісень всезнаючого Безплямного Сяйва) [txt]
+phun sum tshogs lnga ma (Пісня п’яти досконалих якостей) [txt]
+bde skyid mtsho chen ma (Пісня великого океану блаженства і радості) [txt]
+legs pa dam pa ma (Пісня священної досконалості) [txt]
+nor bu nyi ma ma (Пісня сонячної перлини) [txt]
+'dun ma rtse mo ma (Пісня вершини прагнень) [txt]
+gzhi lam 'bras bu ma (Пісня основи, шляху та плоду) [txt]
+theg pa rim dgu ma (Пісня дев’яти етапів шляху) [txt]
+o rgyan byin rlabs ma (Пісня благословень Орг’єна) [txt]
+bdud rtsi zil mngar ma (Пісня солодкого нектару роси) [txt]
+gtad med yongs grol ma (Пісня повного звільнення без прив’язки) [txt]
+mkh' 'gro 'dus pa ma (Пісня зібрання дакині) [txt]
+bde skyid ri khrod ma (Пісня блаженства і радості відлюддя) [txt]
+mya ngan gzhi grol ma (Пісня звільнення основи від страждань) [txt]
+bar do 'phrang sgrol ma (Пісня звільнення від тіснин бардо) [txt]
+sbas yul rin chen ma (Пісня дорогоцінного прихованого місця) [txt]
+'khor ba dong sprugs ma (Пісня перевертання сансари) [txt]
+bkra shis dpal 'bar ma (Пісня сяючого благословенного величчя) [txt]
+ku mA rA dza la rtogs pa phul ba (Присвячення усвідомлення Кумарадзі) [txt]
+
+zhal gdams dang dris lan skor (Цикл настанов і відповідей на запитання) [sec]
+deb nyer bzhi pa/ (Книга двадцять четверта) [vol]
+chos bzhi rin po che'i phreng ba (Дорогоцінна гірлянда чотирьох дгарм) [txt]
+rgyu la khams 'dus pa me tog gi phreng ldan (Гірлянда квітів, що об’єднує елементи в причині) [txt]
+rkyen la khams la 'dus pa ka kha sum cu zhes bya ba (Тридцять літер об’єднання елементів в умовах) [txt]
+dus la mngon par skyo ba'i rabs bi dza ha raM (Покоління явного розчарування в часі: Віджаяхарам) [txt]
+rang la gros su gdams pa rdo rje'i mgur (Ваджрна пісня настанов собі) [txt]
+thar pa la bskul ba'i rabs (Покоління спонукання до звільнення) [txt]
+ngang pa'i dris lan sprin gyi snying po (Сутність хмари відповідей на запитання про природний стан) [txt]
+snying gtam sum cu pa (Тридцять розповідей серця) [txt]
+zhu yig rin po che gser gyi mchod sdong (Дорогоцінний золотий ступовий лист із запитаннями) [txt]
+rgyal ba rang byung rdo rje la dri tshig le'ur byas pa (Запитання до Самовиниклого Ваджрного Переможця, складені у розділах) [txt]
+sems dang ye shes kyi dris lan (Відповіді на запитання про розум і примордіальну мудрість) [txt]
+dri med 'od zer gyi gsung thor bu'i bzhugs byang (Список вмісту різних творів Безплямного Сяйва) [txt]
+
+gsang snying gi spyi don bsdus don sogs kyi skor (Цикл загального значення та підсумованого змісту Таємної Сутності) [sec]
+deb nyer lnga pa/ (Книга двадцять п’ята) [vol]
+klong chen rab 'byams pa dri med 'od zer dang 'brel yod kyi gnas chen khag 'ga'i snang brnyan (Зображення кількох великих священних місць, пов’язаних із Лонгченом Рабджамом Безплямним Сяйвом) [cha]
+deb nyer lnga pa'i dkar chag (Каталог двадцять п’ятої книги) [toc]
+sngags kyi spyi don tshangs dbyangs 'brug sgra (Загальне значення мантри: Грім голосу Брахми) [txt]
+dpal gsang ba snying po'i spyi don yid kyi mun sel (Загальне значення славної Таємної Сутності: Усунення темряви розуму) [txt]
+dpal gsang ba snying po'i bsdus don ma rig mun sel (Підсумований зміст славної Таємної Сутності: Усунення темряви невідання) [txt]
+
+chos srung skor (Цикл захисників дгарми) [sec]
+deb nyer lnga pa/ (Книга двадцять п’ята) [vol]
+sde bdun gyi dbang chog lag len dang bcas pa (Ритуал посвяти семи класів із практикою) [txt]
+dpal sngags kyi srung ma'i rjes gnang (Дозвіл для захисниці славної мантри) [txt]
+rA hu la'i bskang gso (Виправлення та відновлення для Рахули) [txt]
+drang srong gza'i bcos thabs kyi gdams pa (Настанови щодо методів зцілення планетарного мудреця) [txt]
+gnod sbyin dmar nag gi bskang gso (Виправлення та відновлення для червоно-чорного шкідника) [txt]
+shan pa srog sgrub nag mo'i bskang gso (Виправлення та відновлення для чорного м’ясника, що досягає життя) [txt]
+
+chos spyod kyi skor (Цикл практики дгарми) [sec]
+deb nyer lnga pa/ (Книга двадцять п’ята) [vol]
+chos spyod lam gyi rim pa (Етапи шляху практики дгарми) [txt]
+
+sgrub thabs sna tshogs kyi skor (Цикл різноманітних методів досягнення) [sec]
+deb nyer lnga pa/ (Книга двадцять п’ята) [vol]
+rgyal ba zhi khro'i sgrub dkyil (Мандала досягнення мирних і гнівних переможців) [txt]
+'phags pa 'jam dpal gyi sgrub thabs (Метод досягнення благородного Манджушрі) [txt]
+dbyangs can ma'i sgrub thabs (Метод досягнення Сарасваті) [txt]
+tshogs kyi bdag po'i sgrub thabs (Метод досягнення Володаря накопичення) [txt]
+
+bla ma'i rnal 'byor dang gsol 'debs kyi skor (Цикл йоги гуру та молитов) [sec]
+deb nyer lnga pa/ (Книга двадцять п’ята) [vol]
+bla ma'i rnal 'byor (Йога гуру) [txt]
+rdzogs chen don gyi gsol 'debs (Молитва значення Великої Досконалості) [txt]
+gsol 'debs smon lam (Молитва-присвята) [txt]
+bar do'i gdams pa (Настанови щодо бардо) [txt]
+bar do'i smon lam ngo sprod (Вступ до молитви-присвяти бардо) [txt]
+bsngo ba rin chen phreng ba (Дорогоцінна гірлянда присвяти) [txt]
+
+gcod kyi skor (Цикл Чоду) [sec]
+deb nyer drug pa/ (Книга двадцять шоста) [vol]
+klong chen rab 'byams pa dri med 'od zer dang 'brel yod kyi gnas chen khag 'ga'i snang brnyan (Зображення кількох великих священних місць, пов’язаних із Лонгченом Рабджамом Безплямним Сяйвом) [cha]
+gcod kyi gsal bshad nyung bsdus (Коротке пояснення Чоду) [cha]
+dri med 'od zer gyi gsung 'bum deb nyer drug pa gcod kyi skor gyi dkar chag (Каталог двадцять шостої книги зібрання творів Безплямного сяйва: Цикл Чоду) [toc]
+gcod kyi zhal gdams (Настанови Чоду) [txt]
+ngo sprod nam mkha' sgo 'byed (Вступ: Відкриття брами неба) [txt]
+sgrub thabs byin rlabs sgo 'byed (Метод досягнення: Відкриття брами благословень) [txt]
+zab don thugs kyi snying po'i sgrub thabs (Метод досягнення глибокого значення сутності розуму) [txt]
+mkha' 'gro'i dur khrod kyi rgyud (Тантра цвинтаря дакині) [txt]
+rmi lam nyi zla sgo 'byed (Сон: Відкриття брами сонця та місяця) [txt]
+'pho ba thar pa'i sgo 'byed (Пхо ва: Відкриття брами звільнення) [txt]
+bar do 'od zer sgo 'byed (Бардо: Відкриття брами ясного світла) [txt]
+gegs sel rten 'brel sgo 'byed (Усунення перешкод: Відкриття брами взаємозалежності) [txt]
+gcod kyi bogs 'don yon tan sgo 'byed (Чод: Відкриття брами якостей виправлення) [txt]
+gzhan don phrin las sgo 'byed dang drag las (Користь для інших: Відкриття брами діяльності та гнівних дій) [txt]
+grub mtha' khyad 'phags sgo 'byed (Відкриття брами виняткових філософських систем) [txt]
+nyams khrid zhag bdun ma (Семиденна практична настанова) [txt]
+gcod kyi gdams pa thugs kyi snying po'i lo rgyus (Історія настанов Чоду: Сутність розуму) [txt]
+zab don gyi gzhung (Текст глибокого значення) [txt]
+gcod kyi spyi khrid chen mo (Велика загальна настанова Чоду) [txt]
+snyan brgyud gsal ba'i me long (Дзеркало ясності усного переказу) [txt]
+gcod kyi nyams len bsdus pa (Підсумована практика Чоду) [txt]
+gtor 'bul dang sde brgyad 'bum bskul (Підношення торми та закликання восьми класів) [txt]
+nag sbyor ha la nag po'i dmigs pa bco lnga pa (П’ятнадцять споглядань чорного Хали в чорному поєднанні) [txt]
+ma gcig gi bka' tshoms (Повчання Мачіг) [txt]
