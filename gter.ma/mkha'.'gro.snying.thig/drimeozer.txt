@@ -11,12 +11,14 @@ mkha' 'gro snying thig [sec] Кхандро Нінгтік
 003 mkha' 'gro snying thig gi kha byang [txt] Опис Кхандро Нінгтік
 004 mkha' 'gro snying thig gi bla ma brgyud pa'i lo rgyus [txt] Історія лінії гуру Кхандро Нінгтік
 005 btags grol gyi rgyud drug [txt] Шість тантр звільнення через носіння
+
 006 btags grol snying po'i rgyud [cha] Тантра суті звільнення через носіння
 007 gcig shes kun grol gyi rgyud [cha] Тантра одного знання, що звільняє все
 008 yang tig gser gyi 'bru gcig pa'i rgyud [cha] Тантра існування золотого складу Янгті
 009 sras gcig sa bon gyi rgyud [cha] Тантра єдиного насіння спадкоємця
 010 rang byung rig pa'i rgyud [cha] Тантра самовиниклого усвідомлення
 012 'bras bu yongs rdzogs chen po'i rgyud [cha] Тантра великої повної досконалості плоду
+
 013 btags grol gyi rgyud drug gi ti ka [txt] Тіки до шести тантр звільнення через прикріплення
 014 btags grol snying po'i ti ka [cha] Тіка до суті звільнення через прикріплення (носіння)
 015 gcig shes kun grol gyi ti ka [cha] Тіка до одного знання, що звільняє все
