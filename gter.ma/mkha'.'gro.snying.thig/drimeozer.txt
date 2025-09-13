@@ -86,7 +86,7 @@ mkha' 'gro snying thig [sec] Кхандро Нінгтік
 
 077 ston pa gzhon nu rnam rol gyi snang brnyan [cha] Зображення вчителя – юнака прояву
 078 dri med 'od zer gyi gsung 'bum deb drug pa mkha' 'gro snying thig gi dkar chag (Каталог шостої книги зібрання творів Безплямного сяйва: Кхандро Нінгтік) [toc]
-079 mkha' 'gro'i gtum mo khyad par can [txt] Особлива чандаї дакині
+079 mkha' 'gro'i gtum mo khyad par can [txt] Практика туммо
 080 'byung ba rdo'i bcud len [txt] Екстракція суті елементів з каменю
 081 DAk+ki snying tig gi bka' srung dpal srog sgrub nag mo'i srog len [txt] Екстракція життя славної чорної досягнення життя захисниці Кхандро Нінгтік
 082 srog sgrub nag mo'i sgrub thabs dang srog dbang [txt] Метод досягнення та посвята життя чорної досягнення життя
