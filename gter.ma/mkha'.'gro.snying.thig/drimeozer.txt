@@ -91,7 +91,7 @@ mkha' 'gro snying thig [sec] Кхандро Нінгтік
 079 mkha' 'gro'i gtum mo khyad par can [txt] Практика туммо
 080 'byung ba rdo'i bcud len [txt] Екстракція суті елементів з каменю
 081 DAk+ki snying tig gi bka' srung dpal srog sgrub nag mo'i srog len [txt] Екстракція життя славної чорної досягнення життя захисниці Кхандро Нінгтік
-082 srog sgrub nag mo'i sgrub thabs dang srog dbang [txt] Метод досягнення та посвята життя чорної досягнення життя
+082 srog sgrub nag mo'i sgrub thabs dang srog dbang [txt] Метод досягнення та посвята життя чорної
 083 snying tig gi bla ma'i rnal 'byor [txt] Гуру-Йога Нінгтік
 084 bla ma'i rnal 'byor gyi phyi nang gsang gsum [txt] Зовнішня, внутрішня та таємна йога гуру
 085 khregs chod ngo sprod mtha' grol klong yangs [txt] Вступ до трегчод: Звільнення кінця, просторий простір
