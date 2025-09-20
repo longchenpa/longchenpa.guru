@@ -3,11 +3,10 @@
 sa bcad (структура) тощо є коментарями чи додатковими текстами,
 які не потрібні для основного набору.
 
-
-yid.bzhin.mdzod.txt Скарбниця виконання бажань
-drub.mtha'.mdzod.txt Скарбниця філософських систем
-man.ngag.mdzod.txt Скарбниця таємних настанов
-chos.dbying.mdzod.txt Скарбниця Дхармадхату
-gnas.lugs.mdzod.txt Скарбниця природньої довершеності
-tshig.don.mdzod.txt Скарбниця слова і суті
-theg.mchog.mdzod.txt Скарбниця вищої колісниці
+1 yid.bzhin.mdzod.txt Скарбниця виконання бажань
+2 drub.mtha'.mdzod.txt Скарбниця філософських систем
+3 man.ngag.mdzod.txt Скарбниця таємних настанов
+4 chos.dbying.mdzod.txt Скарбниця Дхармадхату
+5 gnas.lugs.mdzod.txt Скарбниця природньої довершеності
+6 tshig.don.mdzod.txt Скарбниця слова і суті
+7 theg.mchog.mdzod.txt Скарбниця вищої колісниці
