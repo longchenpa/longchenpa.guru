@@ -275,50 +275,59 @@ rdo rje'i slob dpon bdag la dgongs/
 /ye shes dbab cing gnyis med bstim/
 /de nas bum pa spyi bor bskur/
 
-hrIH_ka dag gzhon nu bum sku'i grong khyer du/
+hrIH/ ka dag gzhon nu bum sku'i grong khyer du/
 /lhun grub snang stong bla ma'i dkyil 'khor shar/
 /zung 'jug bdud rtsi'i rgyun gyis dbang bskur bas/
 /phung khams skye mched lha skur dag par shog/
+
 rtsa sngags dang/
 
-nirma kA ya a b+hi Shiny+tsa oM/
+/nirma kA ya a b+hi Shiny+tsa oM/
 
 rjes 'brel bskyed pa'i rim pa dang/
 /bzhugs stangs rnam pa gsum la bslab/
 /bla ma'i snang brnyan spyi bor bzhag/
-oM/_rig gdangs chos nyid mngon sum gzhal yas su/
+
+oM/ rig gdangs chos nyid mngon sum gzhal yas su/
 /nyams snang gong 'phel 'ja' zer thig le'i klong/
 /rig pa tshad phebs don gyi bla ma'i skus/
 chos zad blo 'das chen por dbang bskur ro/
 
 /badz+ra kA ya a b+hi Shiny+tsa mi/
+
 myong grol bdud rtsi mgrin par sbyin/
-/hrIH_phyi snod rtsa gsum 'khor lo'i b+han+d+ha ru/
+
+/hrIH phyi snod rtsa gsum 'khor lo'i b+han+d+ha ru/
 /nang bcud bde chen byang sems bdud rtsir bskyil/
 /deng 'dir skal ldan khyod la sbyin pa yis/
 /srog rtsol dbu ma'i dbyings su rdzogs par shog/
 
-saM b+ho kA ya a b+hi Shiny+tsa AH
+/saM b+ho kA ya a b+hi Shiny+tsa AH/
+
 rjes 'brel gzigs stangs rnam gsum dang/
 /rlung gi gnad la bslab pa'i rjes/
 /thun mong bzlas pa'i lung sbyin zhing/
 khyad par rig 'dzin srog 'khor ni/
 /tshar gcig bklags la spyi bor bzhag/
-AH_sras bcas rgyal ba kun gyi rdo rje'i gsung/
+
+AH sras bcas rgyal ba kun gyi rdo rje'i gsung/
 /yi ge'i 'khor lor shar bas dbang bskur bas/
 /las rlung ye shes khams su rnam dag pa'i/
 /chos kyi rgyal srid mchog la dbang bsgyur shog/
 
-badz+ra wA ka a b+hi Shiny+tsa mi/
+/badz+ra wA ka a b+hi Shiny+tsa mi/
+
 shes rab gzung ma byin brlabs sbyin/
-/hrIH_bcu drug dga' ba stong pa'i pho nya mo/
+
+/hrIH bcu drug dga' ba stong pa'i pho nya mo/
 /yid 'ong sna tshogs gzugs can 'di gtad cing/
 /lhan skyes thar pa bsten pa'i dbang bskur bas/
 /rtog tshogs bde stong chen por smin par shog/
 
-d+harma kA ya a b+hi Shiny+tsa hU~M/
+/d+harma kA ya a b+hi Shiny+tsa hU~M/
 
 rdor sems yab yum nga rgyal gyis/
+
 /snyoms 'jug bde chen ye shes bskyed/
 /rjes 'brel bde stong don ngo sprod/
 /DA ma ru dang kha T+wAM sogs/
@@ -329,7 +338,7 @@ rdor sems yab yum nga rgyal gyis/
 /dpa' bo DA ki'i phyag rgyas dbang bskur bas/
 /nye rgyu'i spyod pas 'bras bu mthar phyin shog/
 
-badz+ra tsit+ta a b+hi Shiny+tsa mi/
+/badz+ra tsit+ta a b+hi Shiny+tsa mi/
 
 rdo rje sems dpa'i me long bstan/
 /hrIH_gzhi dbyings ka dag gnyug ma'i dwangs shel las/
@@ -345,9 +354,9 @@ dz+nyA na kA ya a b+hi Shiny+tsa hrIH_rjes 'brel gnyis kas mnyam gzhag ngang/
 /snang bzhi'i 'char tshul ngo sprad cing/
 /snying tig glegs bam spyi bor bzhag/
 
-oM AHhU~M/
+/oM AHhU~M/
 
-_kun bzang rdo rje sems dpa' dga' rab rje/
+kun bzang rdo rje sems dpa' dga' rab rje/
 /'jam dpal bshes gnyen shrI siM ha dang/
 /dz+nyA na sU tra 'chi med pad+ma 'byung/
 /'od gsal snying po'i shing rta bi ma la/
@@ -360,7 +369,7 @@ _kun bzang rdo rje sems dpa' dga' rab rje/
 /lhun grub snang ba rnam bzhi'i rtsal rdzogs nas/
 /tshe gcig 'ja' lus rdo rje'i srog 'grub shog/
 
-badz+ra kA ya wA ka tsit+ta gu Na karma sarba sid+d+hi a b+hi Shiny+tsa mi/
+/badz+ra kA ya wA ka tsit+ta gu Na karma sarba sid+d+hi a b+hi Shiny+tsa mi/
 
 rjes su shis brjod me tog 'thor/
 /dam tshig khas blang gtang rag phul/
@@ -396,7 +405,7 @@ grub pa'i bdud rtsis skal bzang la/
 phabs gta'i tshul du legs btab ste/
 /gur gum chu yis ril bu bya/
 
-b+han+d+ha dum bu gsum par blugs/
+/b+han+d+ha dum bu gsum par blugs/
 
 /de steng rig 'dzin srog 'khor dang/
 kha gcod mkhar ba'i maN+Da lar/
