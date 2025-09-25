@@ -7,7 +7,7 @@ klong.chen.'od.gsal.snying.thig/
 05 nang.gsang.rnal.byor.txt: Secret Guru Yoga
 06 rdo.rje'i.glu.txt: Varja Song
 07 sngags.kyi.mchod.pa.txt: Syllables
-08 sngon.'gro.txt: Preliminary Structure
+08 sngon.'gro.txt: Preliminaries Structure
 09 tshe.sgrub.txt: Long Life Dakini Practices
 10 tshogs.txt: Feast Offerings
 11 zhi.khro.txt: Namcho Shitro Mandala
