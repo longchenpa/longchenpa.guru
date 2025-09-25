@@ -2,12 +2,12 @@ klong chen 'od gsal snying thig/ sngon 'gro/
 
 A A A
 
-01 sngags.kyi.mchod.pa.txt: Syllables
-02 rdo.rje.sems.dpa'.txt: Purification
-03 bla.ma.rnal.'byor.txt: Guru Yoga
-04 nang.gsang.rnal.byor.txt: Secret Guru Yoga
-05 rdo.rje'i.glu.txt: Varja Song
-06 dge.bsngo.txt: Dedications of Merits
+1) sngags kyi mchod pa: Syllables
+2) rdo rje sems dpa' txt: Purification
+3) bla ma rnal 'byor: Guru Yoga
+4) nang gsang rnal byor: Secret Guru Yoga
+5) rdo rje'i glu: Varja Song
+6) dge bsngo: Dedications of Merits
 
 A A A
 
