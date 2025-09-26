@@ -6,18 +6,20 @@ klong chen 'od gsal snying thig/ dkar chag/
 1) dkar chag: індекс
 2) sngon 'gro: структура
 3) sngags kyi mchod pa: склади
-4) dkyil 'khor: офіри
-5) bla ma rnal'byor: гуру-йога
-6) nang gsang rnal byor: секретна гуру-йога
-7) tshogs: бенкети
-8) rdo rje'i glu: пісні
-9) zhi khro: шитро
-10) tshe sgrub: довге життя
-11) dge bsngo: посвяти
+4) rdo rje gsung: мовлення
+5) dkyil 'khor: офіри
+6) bla ma rnal'byor: гуру-йога
+7) nang gsang rnal byor: секретна гуру-йога
+8) tshogs: бенкети
+9) rdo rje'i glu: пісні
+10) rdo rje sems dpa': очищення
+11) zhi khro: шитро
+12) tshe sgrub: довге життя
+13) dge bsngo: посвяти
 ________________________________________________________
 [1] А саме: Віма Дзокчен Сангва Нінгтік, Кхандро Нінгтік,
-    Лонгчен Нінгтік, Лонсал Ніньгпо Затер, Набесна Дхарма,
-    Лонгчен Осал Кхандро Нінгтік.
+    Лонсал Ніньгпо Затер, Набесна Дхарма,
+    Лонгчен Нінгтік, Лонгчен Осал Кхандро Нінгтік.
 
 Всі тексти передали мені мої вчителі.
 Так я, Лонгчен Осал, чув особисто.
@@ -34,6 +36,7 @@ klong chen snying thig/ dge bsngo/
 klong chen snying thig/ dkyil 'khor/
 klong chen snying thig/ nang gsang rnal 'byor/
 klong chen snying thig/ rig 'dzin 'dus pa/
+klong chen snying thig/ rdo rje sems dpa'/
 klong chen snying thig/ tshogs/
 
 І аж до наших днів:
