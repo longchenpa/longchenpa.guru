@@ -21,10 +21,10 @@ MA     SMI    SA     GU     LI     :      TA     YA     RA     :      :      :  
 GU     RA     GU     :      RA     :      SA     GA     KA     RNA    LAM    :      :
 NA     RA     NA     :      RA     :      I      ТА     PA     TA     LAM    :      :
 СІ     РНА    СІ     :      RNA    :      BE     SA     RA     SPA    LAM    :      :
-БХУ    НДА    БХУ    :      NDA    :      CHI    SHA    SA     KYE    LAM    :      :
+BHU    NDA    BHU    :      NDA    :      CHI    SHA    SA     KYE    LAM    :      :
 СА     СА     :      :      :      :      :      :      :      :      :      :      :
 РІ     РІ     :      :      :      :      :      :      :      :      :      :      :
-ЛІ     ЛІ     :      :      :      :      :      :      :      :      :      :      :
+LI     LI     :      :      :      :      :      :      :      :      :      :      :
 I      I      :      :      :      :      :      :      :      :      :      :      :
 MI     :      MI     :      :      :      :      :      :      :      :      :      :
 RA     :      :      :      RA     :      RA     :      :      :      :      :      :
