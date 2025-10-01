@@ -1,0 +1,12 @@
+drwxr-xr-x  4 tonpa tonpa  4096 Aug 15 17:20 01-'dul.ba
+drwxr-xr-x 14 tonpa tonpa  4096 Aug 15 17:40 02-'bum
+drwxr-xr-x  5 tonpa tonpa  4096 Aug 15 17:36 03-nyi.khri
+drwxr-xr-x  3 tonpa tonpa  4096 Aug 15 17:38 04-brgyad.stong
+drwxr-xr-x  5 tonpa tonpa  4096 Aug 15 17:36 05-khri.brgyad
+drwxr-xr-x  4 tonpa tonpa  4096 Aug 15 17:30 06-sher.khri
+drwxr-xr-x  3 tonpa tonpa  4096 Aug 15 17:41 07-sna.tshogs
+drwxr-xr-x  8 tonpa tonpa  4096 Aug 15 17:26 08-dkon.brtsegs
+drwxr-xr-x  8 tonpa tonpa  4096 Aug 15 17:20 09-phal.chen
+drwxr-xr-x 32 tonpa tonpa  4096 Aug 15 17:20 10-mdo.de
+drwxr-xr-x  4 tonpa tonpa  4096 Aug 15 17:20 11-myang.'das
+drwxr-xr-x 20 tonpa tonpa  4096 Aug 15 17:20 12-rgyud
