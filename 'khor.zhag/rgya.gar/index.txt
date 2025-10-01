@@ -1,11 +1,11 @@
 rgya gar
 ├── abo (unchanged, non-Tibetan or unclear)
 ├── mchog gling
-├── clementown sangs rgyas lha khang
-├── ’bri gung
-├── ’bri gung dpe mdzod
-├── gu ru pad+ma’i phug
-├── gu ru pad+ma’i sku
+├── sangs rgyas lha khang
+├── 'bri gung
+├── 'bri gung dpe mdzod
+├── gu ru pad+ma'i phug
+├── gu ru pad+ma'i sku
 ├── rgyud stod dgon pa
 ├── ma na li dge lugs dgon pa
 ├── ma na li rnying ma dgon pa
