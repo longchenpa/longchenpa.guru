@@ -1,20 +1,30 @@
 klong chen 'od gsal snying thig/ dkar chag/
 
-Тут представлений Лонгчен Осал Нінгтік, нінгтік нінгтіків [1], розділений по класам текстів:
+Тут представлений Лонгчен Осал, нінгтік нінгтіків [1], розділений по класам текстів:
 
-1) dkar chag: індекс
-2) sngon 'gro: структура
-3) sngags kyi mchod pa: склади
-4) rdo rje gsung: мовлення
-5) dkyil 'khor: офіри
-6) bla ma rnal'byor: гуру-йога
-7) nang gsang rnal byor: секретна гуру-йога
-8) tshogs: бенкети
-9) rdo rje'i glu: пісні
-10) rdo rje sems dpa': очищення
-11) zhi khro: шитро
-12) tshe sgrub: довге життя
-13) dge bsngo: посвяти
+01) dkar chag: індекс
+02) sngon 'gro: структура
+03) sngags kyi mchod pa: склади
+04) rdo rje gsung: мовлення
+05) rdo rje sems dpa': очищення
+06) mchod pa: офіри
+07) dkyil 'khor: мандали
+08) bla ma rnal'byor: гуру-йога
+09) nang gsang rnal byor: секретна гуру-йога
+10) tshogs: бенкети
+11) rdo rje'i glu: пісні
+12) smon lam: молитви
+13) zhi khro: шитро
+14) tshe sgrub: довге життя
+15) sgrub thabs: садхани
+16) bka' brgyad: Каг'є
+17) dge bsngo: посвяти
+18) rgyud: тантри
+19) dbu ma: Мадх'яміка
+20) chos mngon pa: Абхідхарма
+21) rnal 'byor spyod pa: Йогачара
+22) rnam thar: історії життя
+23) lo rgyud: історії
 ________________________________________________________
 [1] А саме: Віма Дзокчен Сангва Нінгтік, Кхандро Нінгтік, Лонгсал Нінгпо, Намчо,
     Лонгчен Нінгтік, Лонгчен Осал Кхандро Нінгтік.
@@ -39,13 +49,13 @@ klong chen snying thig/ tshogs/
 і аж до наших днів Норбупа:
 
 klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/
-klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma'i mchod pa/
+klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/
 klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/
 klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/
-klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa'i mchod pa/
-klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma'i mchod pa/
-klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud kyi mchod pa/
-klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po'i mchod pa/
+klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/
+klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/
+klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/
+klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/
 klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/
 klong chen 'od gsal mkha' 'gri snying thig/ tshe sgrub rdo rje sogs thig gya/
 klong chen 'od gsal mkha' 'gro snying thig/ tshogs/
