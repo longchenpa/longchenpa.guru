@@ -6,14 +6,12 @@ mkha' 'gro snying thig glegs bam e pa [sec] Кхандро Нінгтік
 
 001 mkha' 'gro snying thig gi kha sbyang
 002 rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus
-
 003 btags grol rgyud drug (btags grol snying po'i rgyud/)
 004 gcig shes kun grol gyi rgyud
 005 yang ti gser gyi 'bru gcig pa'i rgyud
 006 sras gcig sa bon gyi rgyud
 007 rang byung rig pa'i rgyud
 008 'bras bu yongs rjogs chen po'i rgyud
-
 009 btags grol snying po'i ti ka
 010 gcig shes kun grol gyi ti ka
 011 yang ti gser gyi 'bru gcig ti ka
