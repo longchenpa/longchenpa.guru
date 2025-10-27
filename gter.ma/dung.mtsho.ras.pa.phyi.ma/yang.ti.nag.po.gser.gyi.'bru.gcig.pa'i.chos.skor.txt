@@ -1,0 +1,88 @@
+@#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/
+
+01) pod dang po [vol] Перший том
+
+001 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i dkar chag ka pa [toc] Зміст Янгті Наґпо Серґі Дручіґпа, частина Ка
+002 rdzogs pa chen po yang ti nag po'i gser gyi 'bru gcig pa'i lo rgyus [txt] Історія Янгті Наґпо Дручіґпа
+003 yang ti gnad kyi dkar chag [toc] Зміст сутнісних настанов Янгті
+004 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po [txt] Сутнісні настанови Янгті Наґпо Серґі Дручіґпа: серцевина тантри
+005 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i grub mtha' dang snyan rgyud [txt] Вчення та усна традиція Янгті Наґпо Серґі Дручіґпа
+006 rdzogs pa chen po yang ti nag po'i zab gnad dmigs skor gyi shog ril dang po [txt] Перший сувій глибоких сутностей Янгті Наґпо
+007 rdzogs pa chen po yang tig nag po'i dmigs skor gyi zab gnad shog ril tha ma [txt] Останній сувій глибоких сутностей Янгті Наґпо
+008 yang ti nag po gser gyi 'bru gcig pa'i man ngag: snying po'i yang bcud yang zab yid bzhin nor bu las: gegs sel bdud rtsi bum pa [txt] Настанови Янгті Наґпо Серґі Дручіґпа: нектарна ваза усунення перешкод
+009 rdzogs pa chen po yang ti nag po'i bsam gtan khang bu'i cha tshad [txt] Структура медитаційної келії Янгті Наґпо
+010 bka' rdzogs pa chen po gser gyi 'bru gcig pa'i snyan rgyud gdams pa yang zab [txt] Глибокі настанови усної традиції Янгті Серґі Дручіґпа
+011 gsang bdud kyi spar kheb [txt] Таємне покриття нектару
+012 'byung ba thim lugs kyi gdams ngag [txt] Настанови про розчинення елементів
+013 yang dag snying po [txt] Справжня серцевина
+014 gnyis med spros bral rang grol khregs chod 'gyur med bzer chen [txt] Бездуальна, вільна від ускладнень, самозвільнена практика тхреґчод
+015 gnyis med zhi khro yongs rdzogs kyi skor [txt] Цикл бездуальних мирних і гнівних божеств
+016 'bras bu rang grol gyi skor [txt] Цикл самозвільного плоду
+017 lha zhal gang mjal rtags bstan [txt] Знаки зустрічі з божеством лицем до лиця
+018 khrid rgyab lung gi sgron mdangs gsal sgron [txt] Сяючий світильник настанов і пророцтв
+019 rig pa'i khu byug [txt] Зозуля усвідомлення
+020 mun khrid yang gces kyi bogs 'don gnad kyi yig chung [txt] Короткий текст сутнісних настанов для практики в темряві
+021 spyi don gnyis pa nyin mo'i rnal 'byor mchog tu gsang ba [txt] Другий загальний зміст: таємна йога дня
+022 shog dril bar ma'i dmigs skor [txt] Середній сувій циклу споглядання
+023 mun khrid yang gces kyi bogs 'don gnad kyi yig chung [txt] Короткий текст сутнісних настанов для практики в темряві (повтор)
+024 snyan brgyud zhal gdams skor [txt] Цикл усних настанов
+025 yang ti zab lam nor bu skor gsum las/ snyan brgyud dang po bla ma'i rol rtsal [txt] Перший цикл усної традиції: прояв учителя
+026 rje 'khrul zhig chen po'i 'khrungs rabs gsol 'debs 'phags pa'i bden mthong [txt] Молитва про народження великого Кхрул Жиґа
+027 bde gshegs kun 'dus sku gsum thugs thig gi sngon 'gro [txt] Попередні практики серцевини трьох тіл блаженних
+028 bde gshegs kun 'dus sku gsum thugs thig las: badz.ra gu ru'i 'bru ' Commentary dmigs [txt] Коментар до Ваджра Ґуру з серцевини трьох тіл
+029 sbyor dngos thams cad kyi thun 'gor bar chad zhi zhing byin rlabs rtsol med du 'jug pa'i phyir bla ma'i rnal 'byor [txt] Йога вчителя для усунення перешкод і беззусильного входження
+030 bsod nams can gyi las can gsar slob 'gar/ /tho rangs ldang dang 'od gsal rnal 'byor dang/ /bza' btung yo gar 'jug sogs rnal 'byor [txt] Йога для новачків: світанкова, ясного світла, їжі та пиття
+031 yang tig gser 'bru'i thugs thig skor bzhi las sngon 'gro ngag 'don chu bo chig sgril thar pa'i lam skas [txt] Попередні практики: зведення в єдиний потік для шляху звільнення
+032 yang ti phyi sgrub bla ma kun 'dus snying: bde gshegs kun 'dus sku gsum thugs thig [txt] З-Orphaned line: зовнішня практика: серцевина всіх вчителів
+033 bde gshegs kun 'dus sku gsum thugs thig gi dbang chog yid bzhin nor bu bsam 'phel las sgo drug du bya ba'i cho ga [txt] Ритуал посвячення серцевини трьох тіл
+034 bde gshegs kun 'dus sku gsum thugs thig las: dbang chog yid bzhin nor bu bsam 'phel (bla dbang) [txt] Посвячення вчителя коштовності бажань
+035 yang ti nag po kun bzang thugs thig las: zab bral tshogs mchod ye shes 'khor lo [txt] Пропонування накопичення мудрості Янгті Наґпо
+036 yang ti'i yang gsang srog thig kun 'dus snying: lhag med zang thal kun bzang thugs thig [txt] Надтаємна серцевина Янгті: повне проникнення
+037 yang ti nag po gser gyi 'bru gcig las: yi dam kun srog zhi khro'i thugs thig [txt] Серцевина всіх їдамів мирних і гнівних
+
+02) pod gnyis pa [vol] Другий том
+
+038 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i dkar chag kha pa [toc] Зміст Янгті Наґпо Серґі Дручіґпа, частина Кха
+039 yang ti nag po gser gyi 'bru gcig las zhi khro'i phyi nang gsang ba'i dbang chog ye shes dngos ston [txt] Посвячення зовнішніх, внутрішніх і таємних мирних і гнівних
+040 mtsho rgyal gsang sgrub kyi brgyud pa'i gsol 'debs 'ja' lus chos bskul [txt] Молитва таємної практики Цоґ’ял
+041 yang ti'i gsang sgrub mkha' 'gro kun 'dus snying: DA k+ki kun srog mtsho rgyal thugs thig [txt] Таємна практика всіх дакіні: серцевина Цоґ’ял
+042 gnas lngar DA k+ki yum chen sde lnga [txt] П’ять великих богинь дакіні
+043 yang ti gser'bru las: gsang sgrub mtsho rgyal thugs thig gi dbang chog ye shes 'phrul gyi me long [txt] Посвячення таємної практики Цоґ’ял: дзеркало мудрості
+044 yang ti gser 'bru'i mkha' 'gro ku gsum las/ gtum mo bde chen ye shes me dpung [txt] Туммо великого блаженства: полум’я мудрості
+045 mtsho rgyal thugs thig las sher yum dgongs bcud gcod kyi don nges pa gsal byed [txt] Пояснення практики чод Цоґ’ял
+046 rdzogs chen che chos lnga yi man ngag bcud: thugs thig bskor bzhi'i gter srung mchod sprin [txt] Настанови п’яти великих вчень: хмара підношень
+047 yang ti gser 'bru las: rtsa gsum lha yi 'khrid yig shin tu zab nyung rdo rje gsum gyi dgongs 'grel [txt] Настанови трьох коренів: коментар до Ваджри
+
+03) pod gsum pa [vol] Третій том
+
+048 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i dkar chag ga pa [toc] Зміст Янгті Наґпо Серґі Дручіґпа, частина Ґа
+049 yang ti nag po gser gyi 'bru gcig las: snyan brgyud man ngag zhal shes gab sbas gsal bye'i rim pa [txt] Усні настанови: таємні етапи просвітлення
+050 shog dril gnyis pa [txt] Другий сувій
+051 shog dril mtha' ma [txt] Останній сувій
+052 shog dril gab sbas sprug gsum nyer gcig gi zhal shes bka' rgya ma [txt] Таємний сувій двадцяти трьох етапів
+053 zhal shes shog dril gnyis pa [txt] Усні настанови другого сувою
+054 zhal shes shog dril gsum pa [txt] Усні настанови третього сувою
+055 snang bzhi'i tshig 'brel zhal shes [txt] Усні настанови чотирьох видінь
+056 rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po las: sgrub pa'i man ngag dmigs pa'i rim pa [txt] Настанови практики: етапи споглядання
+057 zhag bdun snyan brgyud gnyis pa [txt] Другий семиденний цикл усної традиції
+058 zhag bdun snyan brgyud gsum pa [txt] Третій семиденний цикл усної традиції
+059 zhag bdun snyan brgyud bzhi pa [txt] Четвертий семиденний цикл усної традиції
+060 zhag bdun snyan brgyud lnga pa [txt] П’ятий семиденний цикл усної традиції
+061 zhag bdun snyan brgyud drug pa [txt] Шостий семиденний цикл усної традиції
+062 zhag bdun snyan brgyud bdun pa [txt] Сьомий семиденний цикл усної традиції
+063 brgyud gsum bla ma'i dgongs rgyud snying la 'phos [txt] Традиція трьох вчителів: передача серцевини
+064 rdzogs pa chen po yang ti'i nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po las: sgrub pa'i man ngag dmigs pa'i rim pa [txt] Настанови практики: етапи споглядання (повтор)
+065 yang ti nag po gser gyi 'bru gcig pa'i khrid rim don gsal sgron me [txt] Світильник ясного значення настанов Янгті
+066 snyan brgyud gsang ba sgrogs chen yang ti nag po'i shog dril skor gsum [txt] Таємний цикл трьох сувоїв Янгті Наґпо
+067 shog dril bar pa [txt] Середній сувій
+068 shog dril tha ma [txt] Останній сувій
+069 yang ti nag po gser gyi 'bru gcig pa'i mun khrid kyi dmigs rim shog dril gsum gyi yang snying [txt] Серцевина трьох сувоїв практики в темряві
+070 yang ti gser gyi 'bru las: sngon 'gro'i khrid yig zab nyung ma rig mun sel [txt] Попередні настанови: розсіювання темряви невідання
+071 yang ti nag po gser gyi 'bru gcig las zab mo yo ga rin po che bdun dang bcas pa'i 'khor 'das ru shan dbye ba'i man ngag zab mo'i rim pa [txt] Сім дорогоцінних йог: розрізнення самсари та нірвани
+072 ngo sprod bogs 'don snying po [txt] Сутність введення в практику
+073 yang ti nag po gser gyi 'bru gcig las: shin tu yang zab dngos gzhi lhag mthong [txt] Надглибока основа вищого бачення
+074 shog dril bar pa [txt] Середній сувій (повтор)
+075 shog dril mtha' ma [txt] Останній сувій (повтор)
+076 sgyu 'phrul gsol 'debs [txt] Молитва магічної ілюзії
+077 'phags mchog jo bo thugs rje chen po'i brgyud 'debs byin rlabs char rgyun [txt] Молитва великого співчуття: потік благословень
+
