@@ -1,0 +1,727 @@
+@#/_/nyi ma grags pa/ dkar chag/ Збірка праць Ньїма Дракпа
+
+pod 1 [vol] Перший том
+
+001 dkar chag [toc] Зміст
+002 'pho lung pa'i sku skye rig 'dzin rnam par rgyal ba'i rnam thar drang srong ma [txt] Життєпис Ньїма Дракпа, переможного втілення з Пхо Лунг, мудрець
+003 khams pa nyi ma grags pa'i rnam thar mdor bsdus bdud rtsi'i rgya mtsho [txt] Короткий життєпис Ньїма Дракпа з Кхаму, океан нектару
+004 dus lnga brgya yang mtha'i sprang ban khams pa nyi ma grags pa'i dag snang rin chen gser gyi rgya gram rdo rje'i snying po [txt] Чисте бачення Ньїма Дракпа, жебрака з Кхаму в останні п’ятсот років, золотий розчерк коштовного ваджрного серця
+005 chos bro zangs mdog dpal ri ma [txt] Танець релігії, славна мідна гора
+006 rnga yab gling pa'i chos bro phran bu [txt] Малий релігійний танець Рнга Яб Лінг Па
+007 sbrang ban rig 'dzin ming can 'pho lung pas chos med chos par rlom pa'i mgur ma yod [txt] Пісня ілюзії релігії без релігії, складена Ньїма Дракпа, втіленням з Пхо Лунг
+008 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 2 [vol] Другий том
+
+009 dkar chag [toc] Зміст
+010 dam chos bdud rtsi'i thigs pa las chos kyi lo rgyus [txt] Історія релігії з крапель нектару священного вчення
+011 bde gshegs brgyad kyi phyi sgrub yid bzhin nor bu [txt] Зовнішня практика восьми сугат, коштовність бажань
+012 bde gshegs brgyad kyi nang sgrub dgos 'dod kun 'byung [txt] Внутрішня практика восьми сугат, джерело всіх бажань
+013 bde gshegs brgyad kyi gsang sgrub mchog gi nor bu gzhung dang 'brel ba [txt] Таємна практика восьми сугат, найвища коштовність, пов’язана з основним текстом
+014 sangs rgyal sman bla'i gsol 'debs [txt] Молитва до Будди медицини
+015 bde gshegs sman pa'i rgyal po mchod pa'i rim pa [txt] Ритуал підношення царя восьми сугат-цілителів
+016 'phags pa de bzhin gshegs pa sman rgyal gyi sgo nas slob ma smin pa'i gdams pa [txt] Настанови для дозрівання учнів через ворота царя медицини Татхагати
+017 man ngag lam rim gyi khrid yig de bzhin gshegs pa [txt] Настанови послідовного шляху Татхагати
+018 'phags pa de bzhin gshegs pa bdun gyi sngon gyi smon lam gyi khyad par rgyas pa zhes bya ba theg pa chen po'i mdo [txt] Сутра великого шляху про особливості попередніх молитов семи Татхагат
+019 sangs rgyas sman bla'i bka' srung gnod sbyin mchod thabs shog dril [txt] Ритуал підношення захисникам Будди медицини, шкідливим духам
+020 sangs rgyas sman bla'i gter srung khol po kha mchod thabs shog dril [txt] Ритуал підношення головним захисникам скарбів Будди медицини
+021 dam chos bdud rtsi'i thigs pa las dbang gi lo rgyus [txt] Історія ініціацій з крапель нектару священного вчення
+022 mchod bstod dang rtags brgyad sna bdun 'bul thabs [txt] Спосіб підношення похвал і семи видів символів
+023 dam chos bdud rtsi'i thigs pa'i smin byed dbang chog khrigs su btab pa byin rlabs dpal ster [txt] Ритуал дозрівання ініціацій крапель нектару священного вчення, що дарує славу благословення
+024 dam chos bdud rtsi'i thigs pa yi dbang chog chig dril nag 'gros su bkod pa [txt] Ритуал ініціацій крапель нектару священного вчення, складений для зручності
+025 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 3 [vol] Третій том
+
+026 dkar chag [toc] Зміст
+027 sprang ban nyi ma grags pa'i gter 'byung dang po [txt] Перший опис відкриття скарбів Ньїма Дракпа, жебрака
+028 bka' rdzogs pa chen po rtsa gsum gsang ba snying thigs las lo rgyus gsal ba'i sgron me [txt] Історія ясного світильника з таємного серця трьох коренів великої досконалості
+029 rtsa gsum sgrub thabs snying gi nor bu [txt] Практика трьох коренів, коштовність серця
+030 dbang bzhi ye shes snying po [txt] Чотири ініціації, серце мудрості
+031 sngon 'gro'i rgyug byang yid bzhin nor bu [txt] Попередній ритуал, коштовність бажань
+032 gsol 'debs yid bzhin nor bu [txt] Молитва коштовності бажань
+033 rtsa gsum las byang yid bzhin nor bu don gyi phrin las [txt] Діяльність коштовності бажань трьох коренів
+034 tshe sgrub bar chad kun sel [txt] Практика довголіття, що усуває всі перешкоди
+035 sngon 'gro'i khrid yig bde gshegs spyi lam [txt] Настанови попереднього шляху восьми сугат
+036 khregs chod thugs khrid yid bzhin nor bu [txt] Настанови про пряме розсічення, коштовність бажань
+037 thod rgal thugs khrid chos sku mdzub btsugs [txt] Настанови про пряме проникнення, вказівка на дгармакаю
+038 bar do'i thugs khrid 'khrul snang rang grol [txt] Настанови про бардо, самозвільнення ілюзорних явищ
+039 mun khrid ye shes rang snang [txt] Настанови про темряву, самовиявлення мудрості
+040 rlung khrid bde stong zag med [txt] Настанови про дихання, незаплямоване блаженство-порожнеча
+041 bde stong bogs 'don zag med rdo rje [txt] Незаплямована ваджра блаженства-порожнечі
+042 gegs sel lam gyi sgron me [txt] Світильник шляху, що усуває перешкоди
+043 zhal gdams rin chen phreng ba [txt] Коштовна гірлянда настанов
+044 rtags kyi yig sna zag med lam mchog [txt] Найвищий шлях незаплямованих символів
+045 tshad kyi yi ge ye shes snying po [txt] Літерні розміри, серце мудрості
+046 btags grol sangs rgyas lag bcang [txt] Звільнення через носіння, зв’язок із Буддою
+047 bka' srung drang srong chen po'i mchod thabs [txt] Ритуал підношення великому мудрецеві-захиснику
+048 gter srung chen po'i mchod thabs [txt] Ритуал підношення великому захиснику скарбів
+049 bka' rdzogs pa chen po'i lo rgyus nyer mkho rig 'dzin nyi ma grags pas sbyar ba [txt] Необхідна історія великої досконалості, складена Ньїма Дракпа
+050 bka' rdzogs pa chen po'i rgyud kyi 'gyur byang khol du phyungs pa [txt] Опис перекладу тантри великої досконалості
+051 rdzogs chen ston pa bcu gnyis kyi brgyud rim cha lugs [txt] Послідовність дванадцяти вчителів великої досконалості
+052 skyabs sems mchod pa byin rlabs bdud rtsi lag mchod las bzhi'i sham bu bskang ba bsgral bstab bstan ma bsngo smon [txt] Підношення притулку, нектар благословення, ритуал чотирьох дій
+053 bka' rdzogs pa chen po rtsa gsum gsang ba snying thig gi khrid 'chad pa'i dmigs rkang zin bris rig 'dzin pas sbyar ba [txt] Настанови та пояснення таємного серця трьох коренів великої досконалості, складені Ньїма Дракпа
+054 bka' rdzogs pa chen po rtsa gsum gsang ba snying thig gi zhi ba'i sbyin bsreg [txt] Мирне вогняне підношення таємного серця трьох коренів великої досконалості
+055 bla ma gsang ba 'dus pa'i las byang 'don 'grigs [txt] Ритуал дій таємного зібрання гуру
+056 rdzogs chen rtsa gsum gsang ba snying thigs kyi dbang bzhi'i rim pa shin tu 'jug bder spel ba nges don lam bzang [txt] Ритуал чотирьох ініціацій таємного серця трьох коренів великої досконалості, що веде до певного блага
+057 gnyan chen rgyal ba thod dkar gyi mchod bstod rgyas pa [txt] Розширена похвала великому Гьялва Тходкар
+058 rgyal thod la gtor ma 'bul ba'i bskyed chog nyung bsdus [txt] Короткий ритуал підношення торма Гьял Тход
+059 zhing skyong rgyal ba thod dkar gyi mnga' gsol 'phrin las dpal 'bar [txt] Ритуал посвячення захиснику поля Гьялва Тходкар, сяюча діяльність
+060 bla ma gsang ba 'dus pa'i bsnyen yig bde chen lam bzang [txt] Текст наближення таємного зібрання гуру, шлях великого блаженства
+061 gnas mchog sring mo rdzong gnas kyi lo rgyus gsang ba'i snying po [txt] Історія священного місця Срингмо Дзонг, таємне серце
+062 gnas kyi lam yig gsang ba'i snying po las chags ru phug dkar lha'i gzhal yas kyi lam yig khol bur phyung ba [txt] Путівник священного місця Чаг Ру Пхуг, білий храм
+063 spu chen gu ru'i gsang ba'i phug pa'i lam yig [txt] Таємний путівник великої печери гуру
+064 rdzong rdo rje shel phug gi lam yig khol bur phyung ba [txt] Путівник ваджрної кришталевої печери Дзонг
+065 seng+ge gnam 'chongs phug pa'i lam yig khol bur phyung ba [txt] Путівник до печери небесного рикання лева
+066 ci mda' rta mgrin brag gi lam yig [txt] Путівник до скелі кінської шиї Ці Мда
+067 khams shag gi lo rgyus gnas yig [txt] Історія та путівник Кхам Шаг
+068 khams sring mo rdzong gi gnas kyi lam yig nor bu'i phreng ba [txt] Путівник священного місця Срингмо Дзонг, коштовна гірлянда
+069 gnas mchog sring mo rdzong gi gsol 'debs mthong ba don ldan [txt] Молитва до священного місця Срингмо Дзонг, що має значення при баченні
+070 sring rdzong gsol 'debs bsdus pa [txt] Коротка молитва до Срингмо Дзонг
+071 mtha' skor skor lugs [txt] Традиція обходу кордонів
+072 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 4 [vol] Четвертий том
+
+073 dkar chag [toc] Зміст
+074 thugs rje chen po ma rig mun sel las lo rgyus gsal ba'i 'od zer [txt] Історія ясного світла великого співчуття, що розсіює темряву невігластва
+075 thugs rje chen po ma rig mun sel las ma rig pa'i mun pa thams cad rab tu sel ba rin po che 'dus pa'i rgyud [txt] Тантра коштовного зібрання, що повністю розсіює темряву невігластва
+076 thugs rje chen po ma rig mun sel las rgyu 'bras bstan pa las kyi me long [txt] Дзеркало дій, що показує причину та наслідок
+077 thugs rje chen po ma rig mun sel las sgrub thabs yid bzhin nor bu [txt] Практика великого співчуття, коштовність бажань
+078 thugs rje chen po ma rig mun sel las phyag rgya chen po'i khrid yig ma rig mun sel zhes bya ba [txt] Настанови великої печатки, що розсіює темряву невігластва
+079 thugs rje chen po ma rig mun sel las sgo gsum sku gsung thugs kyi lam 'khyer [txt] Шлях трьох воріт: тіла, мови та розуму
+080 thugs rje chen po ma rig mun sel las dbang chog skal ldan myur grol [txt] Ритуал ініціації для швидкого звільнення обраних
+081 thugs rje chen po ma rig mun sel las don dbang mthar thug dbang gi snying po [txt] Сутність остаточної ініціації
+082 thugs rje chen po ma rig mun sel las las byang kun 'dus nor bu'i phreng ba [txt] Ритуал дій, коштовна гірлянда, що охоплює все
+083 thugs rje chen po ma rig mun sel las bskang bshags nyams chag rang dag [txt] Виправлення порушень та очищення самості
+084 thugs rje chen po ma rig mun sel las 'dzab dgongs don gyi snying po [txt] Сутність мантричних роздумів
+085 thugs rje chen po ma rig mun sel las sgrub pa'i khog dbub dngos grub sgrom bu [txt] Внутрішня практика, скриня досягнень
+086 thugs rje chen po ma rig mun sel las bum sgrub myong grol chen mo [txt] Велика практика посудини, що звільняє через досвід
+087 thugs rje chen po ma rig mun sel las mthong grol 'gro ba kun grol [txt] Звільнення через бачення, звільнення всіх істот
+088 thugs rje chen po ma rig mun sel las thos grol tshor ba rang grol [txt] Звільнення через слухання, самозвільнення відчуттів
+089 thugs rje chen po ma rig mun sel las reg pas grol ba'i gdams pa sangs rgyas lhun grub [txt] Настанови звільнення через дотик, спонтанне досягнення Будди
+090 thugs rje chen po ma rig mun sel las rab gnas ye shes nyi ma [txt] Освячення, сонце мудрості
+091 thugs rje chen po ma rig mun sel las 'pho ba thar pa'i lde mig [txt] Перенесення свідомості, ключ до звільнення
+092 thugs rje chen po ma rig mun sel las tshe sgrub snying gi nor bu [txt] Практика довголіття, коштовність серця
+093 thugs rje chen po ma rig mun sel las rlung gi khrid yig bde stong lhan skyes [txt] Настанови про дихання, природжене блаженство-порожнеча
+094 thugs rje chen po ma rig mun sel las sbyin sreg las bzhi lhun grub [txt] Вогняне підношення чотирьох дій, спонтанне здійснення
+095 thugs rje chen po ma rig mun sel las gshin gyi cho go thugs rje'i lcags kyu [txt] Ритуал для померлих, ваджрний гачок великого співчуття
+096 thugs rje chen po ma rig mun sel las sAts+tsha'i cho ga rnam smin sbyong byed [txt] Ритуал спалювання, що очищає та дозріває
+097 chu gtor bdud rtsi'i bum pa [txt] Підношення води, посудина нектару
+098 chos spyod thar pa'i them skas [txt] Практика дгарми, сходи до звільнення
+099 sgyu lus mchod sbyin tshogs gnyis sprin phung [txt] Підношення ілюзорного тіла, хмари двох накопичень
+100 lung bstan gsal ba [txt] Ясне пророцтво
+101 mchod 'bul dus su sna bdun gyi zur rgyan [txt] Орнамент семи видів підношень
+102 bdud rtsi khA hi [txt] Нектар Кхахі
+103 thugs rje chen po ma rig mun sel gyi phyag rgya'i rtsa tshig [txt] Корінні слова печатки великого співчуття
+104 thugs rje chen po ma rig mun sel gyi dbang gi lag len [txt] Практика ініціації великого співчуття
+105 thugs rje chen po ma rig mun sel gyi sgrub pa'i zin bris [txt] Записки практики великого співчуття
+106 thugs rje chen po ma rig mun sel gyi bum sgrub kyi rgyug byang lag len gyi rim pa [txt] Ритуал практики посудини великого співчуття
+107 thugs rje chen po ma rig mun sel gyi mgyogs dbang gi lo rgyus [txt] Історія швидкої ініціації великого співчуття
+108 thugs rje chen po'i bum dbang gi mtshams sbyor o rgyan 'phrin las rgya mtshos mkhas mkhas byas nas sbyar ba [txt] Міжрядкові пояснення до ініціації посудини великого співчуття, складені Орґ’єн Трінле Г’яцо
+109 zab lam 'pho ba'i gsol 'debs [txt] Молитва глибокого шляху перенесення свідомості
+110 zab lam 'pho ba'i sngon 'gro sangs rgyas stong gi mtshan mdo thos pas grol lam chen mo zhes bya ba [txt] Попередня практика глибокого шляху перенесення, звільнення через слухання імен тисячі будд
+111 byang chog gi mtshams sbyor [txt] Міжрядкові пояснення до ритуалу очищення
+112 dkyil 'khor gyi rdul tshon dbang chen gyi chu bo la skyel ba'i ngag 'don [txt] Молитва для перенесення пороху мандали до великої річки
+113 thugs rje chen po la brten pa'i bdud bzlog [txt] Відвернення демонів через велике співчуття
+114 thugs rje chen po ma rig mun sel las rab gnas ye shes nyi ma zur gsal gyis brgyan pa [txt] Освячення, сонце мудрості, прикрашене ясними поясненнями
+115 thugs rje chen po ma rig mun sel gyi zhi ba'i sbyin sreg phan bde'i nyin byed ces bya ba [txt] Мирне вогняне підношення великого співчуття, сонце користі та блаженства
+116 thugs rje chen po ma rig mun sel gyi dbang chog 'jug bder bsgrigs pa bklag pas grub pa zhes bya ba [txt] Ритуал ініціації великого співчуття, складений для легкого входження
+117 thugs rje chen po ma rig mun sel gyi don dbang mthar thug dbang gi snying po bklags chog khrigs su sdebs pa [txt] Сутність остаточної ініціації великого співчуття, складена для зручного читання
+118 thugs rje chen po'i rgyun 'khyer nyung ngu [txt] Коротка щоденна практика великого співчуття
+119 thugs rje chen po ma rig mun sel gyi sgo nas tshe 'das rjes su 'dzin pa gnas lung gi cho ga bde chen zhing du 'dren pa'i shing rta zhes bya ba [txt] Ритуал для померлих через велике співчуття, що веде до поля великого блаженства
+120 sgyu lus mchod sbyin tshogs gnyis sprin phung gi dmigs rim lha rigs nyi grags sprul pa'i skus sbyar ba [txt] Візуалізація підношення ілюзорного тіла, складена втіленням Ньїма Дракпа
+121 'phags pa thugs rje chen po ma rig mun sel gyi sngon 'gro'i nyams len zin bris [txt] Записки попередньої практики великого співчуття
+122 thugs rje chen po ma rig mun sel las bka' srung mgon po phyag bzhi pa'i dbang [txt] Ініціація захисника з чотирма руками
+123 thugs rje chen po ma rig mun sel las bka' srung ye shes mgon po phyag bzhi pa'i sgrub thabs [txt] Практика захисника мудрості з чотирма руками
+124 thugs rje chen po ma rig mun sel las bka' srung ma hA kA la'i bla rdo [txt] Ваджра душі захисника Махакали
+125 thugs rje chen po ma rig mun sel las dpal ye shes mgon po'i sgrub thabs dgos 'dod kun 'byung mchog gi nor bu [txt] Практика славного захисника мудрості, найвища коштовність, що виконує всі бажання
+126 thugs rje chen po ma rig mun sel las ye shes mgon po'i 'phrin las [txt] Діяльність захисника мудрості
+127 thugs rje chen po ma rig mun sel las bka' srung ma hA kA la'i bskang ba [txt] Виправлення захисника Махакали
+128 thugs rje chen po ma rig mun sel las ye shes mgon po'i mnga' gsol [txt] Посвячення захисника мудрості
+129 thugs rje chen po ma rig mun sel las ye shes mgon po'i sgo nas dgra bgegs sgrol ba'i las mtha' [txt] Ритуал знищення ворогів і перешкод через захисника мудрості
+130 thugs rje chen po ma rig mun sel las ye shes mgon po'i gtor bzlog [txt] Торма для відвернення через захисника мудрості
+131 thugs rje chen po ma rig mun sel las mgon po'i sbyin sreg [txt] Вогняне підношення захисника
+132 thugs rje chen po ma rig mun sel las gter srung bya rog gdong gi sgrub thabs gsol mchod kyi rim pa [txt] Практика захисника скарбів з обличчям гаруди, ритуал підношення
+133 thugs rje chen po ma rig mun sel las gter bsrung bya rog gdong gi yig chung gud du sbas pa [txt] Малий текст захисника скарбів з обличчям гаруди, прихований
+134 thugs rje chen po ma rig mun sel las gter srung las mgon nag pos dgra bo la cho 'phrul gtong thabs [txt] Спосіб створення магічних дій проти ворогів через захисни�
+135 thugs rje chen po ma rig mun sel gyis bka' srung ye shes mgon po phyag bzhi ba'i bsgral las dgra dpung 'joms byed zhes bya ba [txt] Ритуал знищення ворожих сил через захисника мудрості з чотирма руками
+136 dpal ye shes kyi mgon po'i srog dbang bya tshul gsal bar bkod pa phrin las myur 'grub zhes bya ba [txt] Чіткий ритуал ініціації душі славного захисника мудрості, швидке здійсненн
+137 dpal ye shes mgon po'i sngags 'khor [txt] Мантричний цикл славного захисника мудрості
+138 ye shes mgon por gtor ma 'bul ba'i rim pa [txt] Ритуал підношення торма захиснику мудрості
+139 las mgon bya rog gdong gi mnga' gsol [txt] Посвячення захисника діяльності з обличчям гаруди
+140 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 5 [vol] П’ятий том
+
+1r chag [toc] Зміст
+142 bskal bzang sangs rgyas stong gi lo rgyus skabs gsum pa tha shal nyi ma grags pas sbyar ba [txt] Історія тисячі будд щасливої ери, третя частина, складена Ньїма Дракпа
+143 bskal bzang sangs rgyas stong gi byin rlabs dbang gi rim pa mchog lam myur bgrod mi nub bstan pa'i rgyal mtshan [txt] Ритуал благословення тисячі будд щасливої ери, швидкий шлях до непохитно�e gshegs sangs rgyas stong rtsa'i byin rlabs dbang gi mtshams sbyor mtha' rgyas smon lam gyi rim pa [txt] Міжрядкові пояснення до благословення тисячі сугат, розширений ритуал молитви
+145 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 6 [vol] Шостий том
+
+146 dkar chag [toc] Зміст
+147 gter ston nyi ma grags pas gter gyi kha byang rnyed tshul gsal ba'i me long [txt] Ясне дзеркало опис�иття скарбів Ньїма Дракпа
+148 gter 'byung yid bzhin nor bu [txt] Коштовність бажань, що виникає зі скарбів
+149 them byang gsang ba'i rim pa [txt] Таємний ритуал списків
+150 lo rgyus [txt] Історія
+151 rig 'dzin 'dus pa'i rtsa rgyud [txt] Корінна тантра зібрання ваджрних тримачів
+152 sgrub chen gyi khog dbub chen [txt] Велика внутрішня практика
+153 kun gyi kha skonglas byang [txt] Загальний ритуал доповнення дій
+154 spros bcas bum pa'i lha dbang [txt] Ініціація божества посудини з деталями
+155 spros med nang gi gsang dbang [txt] Таємна внутрішня ініціація без деталей
+156 shin tu spros med kyi dbang mchog [txt] Найвища ініціація, повністю без деталей
+157 phyi sgrub zab pa'i mthar thug [txt] Глибока зовнішня практика, �межі
+158 nang sgrub gsang ba bla med [txt] Таємна внутрішня практика, неперевершена
+159 gsang sgrub snang srid zil gnon [txt] Таємна практика, що перемагає феноменальний світ
+160 yi dam sgrub pa bka' brgyad kyi sgrub thabs [txt] Практика їдамів восьми наказів
+161 dpa' bo mkha' 'gro'i sgrub thabs [txt] Практика героїв і дакіні
+162 drag rtsal he ru ka'i thugs sgrub srog gi thigs p[txt] Практика серця Херуки, крапля душі
+163 khregs chod kyi khrid [txt] Настанови про пряме розсічення
+164 thod rgal gyi khrid [txt] Настанови про пряме проникнення
+165 rlung sbyor gyi nyams len [txt] Практика поєднання дихання
+166 da la'i rna dag [txt] Очищення слуху
+167 dkyil 'khor gyi rnam dag mtsho rgyal gyis mdzad pa [txt] Очищення мандали
+168 byin rlabs sku yi bla rdo [txt] Ваджра благословення тіла
+169 man ngag gsung gi bla rdo [txt] Ваджра настанов мови
+170 yang dag thugs kyi bla rdo [txt] Ваджра справжнього серця
+171 bskang ba [txt] Виправлення
+172 gsang ba'i sman sgrub khrol bu'i rim pa [txt] Ритуал таємної практики ліків
+173 bdud rtsi'i sgrub phye ma'i rim pa [txt] Ритуал практики нектару пороху
+174 bdud rtsi sman  kyi man ngag lag len [txt] Практика таємної практики ліків нектару
+175 bdud rtsi sman sgrub kyi yig chung [txt] Малий текст практики ліків нектару
+176 baM sgrub mi ro'i las sbyor [txt] Практика посудини, дія для трупів
+177 me yi 'phrin las [txt] Вогняна діяльність
+178 'phrin las rlung gi 'khor lo [txt] Колесо діяльності дихання
+179 las tshogs nyer gnyis pa [txt] Двадця�180 bdud rtsi'i las tshogs gso dpyad [txt] Дія нектару, лікувальний аналіз
+181 chos bdag skal ldan lung bstan [txt] Пророцтво для обраних володарів вчення
+182 go cha rgyan gyi lha dbang [txt] Ініціація божества обладунків і прикрас
+183 don dbang yid bzhin nor bu [txt] Ініціація мети, коштовність бажань
+184 rten gsum rab tu gnas pa'i rim pa bkra shis dpal 'bar [txt] Ритуал ося трьох основ, сяюча слава благословення
+185 lo tsA ba 'khon klu yi dbang po'i zhus lan [txt] Відповіді перекладача Кхон Клуї Вангпо
+186 lo tsA ba klu yi dbang po'i skye phreng dang lung bstan [txt] Ланцюг народжень і пророцтво перекладача Клуї Вангпо
+187 lung bstan gsal ba'i me long [txt] Ясне дзеркало пророцтва
+188 dpe bskrun gsal bshad [txt] Чітке пояснення 
+
+pod 7 [vol] Сьомий том
+
+189 dkar chag [toc] Зміст
+190 gtor ma'i 'phrin las bzlog pa'i rim pa [txt] Ритуал відвернення діяльності торма
+191 thugs dam bskul chog [txt] Ритуал закликання обітниць серця
+192 dmod byang [txt] Прокляття очищення
+193 sdig can grol lam 'pho ba'i gdams pa [txt] Настанови перенесення для грішників
+194 sku gdung sAts+tsha'i rim pa [txt] Ритуал спалювишків тіла
+195 sgrub gnas yul dgon sa yi mdo chings [txt] Прив’язка місця практики до пустельних монастирів
+196 dngos grub 'byung gnas thod pa'i brtag pa [txt] Дослідження джерела досягнень, черепа
+197 sgrub pa'i zin bris mtsho rgyal gyis mdzad pa [txt] Записки практики, складені Цоґ’ял
+198 gtor ma'i yig chung zin bris [txt] Малі записки торма
+199 dam tshig spangs blang gi zin mtsho rgyal gyis mdzad pa [txt] Записки про прийняття та відкидання обітниць, складені Цоґ’ял
+200 bka' srung chen po'i sgrub thabs [txt] Практика великого захисника наказів
+201 skyes bu chen po'i bla rdo bcang thabs [txt] Спосіб зв’язку з ваджрою великої істоти
+202 skyes bu chen po'i bskang ba [txt] Виправлення великої істоти
+203 skyes bu chen po'i mnga' gsol [txt Посвячення великої істоти
+204 skyes bu chen po'i bskul ba shin tu gnyen pa [txt] Дуже суворе закликання великої істоти
+205 skyes bu chen po'i bskul ba bsdus pa [txt] Коротке закликання великої істоти
+206 skyes bu chen po'i dgra la rbad pa'i man ngag gi yig chung [txt] Малий текст настанов для знищення ворогів великої істоти
+207 skyes bu chen po'i rlung 'khor [txt] Коле�ликої істоти
+208 gter srung lha btsan sgrub thabs [txt] Практика захисника скарбів Лха Цен
+209 bka' rdzogs pa chen po bla ma bde mchog 'khor lo'i gsol 'debs [txt] Молитва до гуру великої досконалості, колеса найвищого блаженства
+210 bde mchog bum dbang gi mtshams sbyor [txt] Міжрядкові пояснення до ініціації посудини найвищого блаженства
+211 rig 'dzin rer lnga'i byin rlabs dbang gi rim pa yod [txt] Ритуал благословення двадцяти п’яти ваджрних тримачів і слуг
+212 rig 'dzin rje 'bangs nyer lnga'i gsol 'debs kyi rim pa [txt] Ритуал молитви до двадцяти п’яти ваджрних тримачів і слуг
+213 bla ma bde mchog gi dbang bshad shin tu nyung ngu zhig bla ma dbang rgyal bas dgos gsungs pa ltar bris [txt] Дуже коротке пояснення ініціації гйвищого блаженства, складене на прохання Ванг Г’яла
+214 bsgral las bsdus pa zhig yod [txt] Короткий ритуал знищення
+215 bde mchog 'khor lo'i gtor bzlog gi 'phyong [txt] Торма для відвернення колеса найвищого блаженства
+216 bka' brgyad khro bo rol pa'i rtsang bzlog [txt] Відвернення гнівного прояву восьми наказів
+217 srin mo za lam ma [txt] Демонеса За' rdzogs pa chen po bla ma bde mchog 'khor lo'i zhi ba'i sbyin sreg [txt] Мирне вогняне підношення гуру великої досконалості, колеса найвищого блаженства
+219 bka' rdzogs pa chen po bla ma bde mchog 'khor lo'i rgyas pa'i sbyin sreg [txt] Розширене вогняне підношення гуру великої досконалості, колеса найвищого блаженства
+220 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las dbang gi sbyin sreg khams gsum 'gugs byed glog gi lcags kyu zhes bya ba [txt] Вогняне підношення ініціації, що притягує три світи, ваджрний гачок блискавки
+221 bka' rdzogs pa chen po bla ma bde mchog 'khor lo'i drag po'i sbyin sreg [txt] Гнівне вогняне підношення гуру великої досконалості, колеса найвищого блаженства
+222 bla ma bde mchog 'khor lo'i don dbang bskuhrigs su bkod pa yid bzhin 'dod 'jo zhes bya ba [txt] Ритуал надання ініціації мети колеса найвищого блаженства, джерело бажань
+223 bla ma bde macog dbang gi 'khor lo'i las gzhung chog bsgrigs su bkod pa yongs 'du'i snye ma [txt] Ритуал дій колеса ініціації найвищого блаженства, повне зібрання
+224 zangs mdog dpal rir skye ba'i smon lam [txt] Молитва про народження на горі
+225 bla ma bde mchog dbang gi 'khor lo'i sgo nas rten gsum rab tu gnas pa'i rim pa bkra shis dpal 'bar ngag 'don du bsdebs pa [txt] Ритуал освячення трьох основ через колесо ініціації найвищого блаженства, сяюча слава благословення
+226 bla ma bde mchog dbang gi 'khor lo'i bsnyen yig dngos grub kyi gter mdzod ces bya ba [txt] Текст наближення колеса ініціації найвищого блаженства, скарбниця досягнень
+227 dam can skyes bu chen po'i bskang mdos byin rlabs rig 'dzin pas sbyar ba [txt] Виправлення обітниць великої істоти, складене Ньїма Дракпа
+228 dam can la gtor ma 'bul thabs [txt] Спосіб підношення торма обітницям
+229 skyes bu chen po'i sngags dmigs [txt] Візуалізація мантри великої істоти
+230 lha btsan chen po la gtor ma 'bul ba'i lhan thabs [txt] Дієвий спосіб підношення торма великому Лха Цен
+231 dkyil 'khor gyi rdul tshon chu bor gshegs tshul ngag 'don [txt] Молитва для перенесення пороху мандали до річки
+232 gtor ma bsngo ba'i cho ga yid bzhin nor bu 'dod yon mchod sprin rgya mtsho zhes bya ba [txt] Ритуал посвячення торма, океан хмар підношень коштовності бажань
+233 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 8 [vol] Восьмий том
+
+234 dkar chag [toc] Зміст
+235 zab lam thugs rje chen po'i lo rgyus [txt] Історія глибокого шляху великого співчуття
+236 zab lam thugs rje chen po'i dbang chog [txt] Ритуал ініціації глибокого шляху великого співчуття
+237 zab lam thugs rje chen po'i sgrub thabs las byang gi rim pa [txt] Ритуал практики глибокого шляху великого сп�уття
+238 zab lam thugs rje chen po'i bum sgrub [txt] Практика посудини глибокого шляху великого співчуття
+239 zab lam thugs rje chen po'i gsang ba'i tshe sgrub [txt] Таємна практика довголіття глибокого шляху великого співчуття
+240 zab lam thugs rje chen po'i rlung sbyor [txt] Поєднання дихання глибокого шляху великого співчуття
+241 zab lam thugs rje chengs 'gro don btags grol [txt] Накопичення заслуг і звільнення через носіння глибокого шляху великого співчуття
+242 zab lam thugs rje chen po'i mo khrid kyi zhal gdams snying gi dum bu mtsho rgyal gyis mdzad pa [txt] Настанови ворожіння глибокого шляху великого співчуття, серцевий фрагмент, складений Цоґ’ял
+243 zab lam thugs rje chen po'i dpa' mo yum gyi thabst] Шлях методу героїчної матері глибокого шляху великого співчуття
+244 zab lam thugs rje chen po'i bla rdo zab mo [txt] Глибока ваджра душі глибокого шляху великого співчуття
+245 zab lam thugs rje chen po'i las tshogs [txt] Збірка дій глибокого шляху великого співчуття
+246 zab lam thugs rje chen po'i sgo nas gshin po rjes 'dzin [txt] Проведення померлого й шлях великого співчуття
+247 byang chog gi mtshams sbyor [txt] Міжрядкові пояснення до ритуалу очищення
+248 zab lam thugs rje chen po'i brgyud 'debs [txt] Молитва до лінії передачі глибокого шляху великого співчуття
+249 zab lam thugs rje chen po'i sgo nas dbang gi sbyin sreg gi cho ga khams gsum myur 'gugs [txt] Вогняне підношення ініціації через глибокий �кого співчуття, швидке притягнення трьох світів
+250 zab lam thugs rje chen po'i sgo nas gsang ba'i tshe sgrub kyi ngag 'don rgyun 'khyer mi shig tshe yi g.yung drung 'khyil pa [txt] Щоденна молитва таємної практики довголіття через глибокий шлях великого співчуття, вічний вихор життя
+251 'phags mchog thugs rje chen po zab lam gsang ba'i sgrub pa las byang gi rim pa 'chi med bde chen po'i zhing du 'gro ba'i lam bzang zhes bya ba [txt] Ритуал таємної практики найвищого великого співчуття, шлях до поля великого блаженства
+252 zab lam thugs rje chen po'i sgo nas gshin po rjes 'dzin zur gsal kha skong dang bcas pa [txt] Проведення померлих через глибокий шлях великого співчуття з ясними доповненнями
+253 zab lam thugs rje chen po'i smin byed ang bzhi'i cho ga khrigs su sdebs pa zab don gsal ba'i sgron me [txt] Ритуал чотирьох дозріваючих ініціацій глибокого шляху великого співчуття, ясний світильник глибокого значення
+254 tshe dpag med kyi sgrub thabs las byang dang 'brel ba [txt] Практика безсмертного життя, пов’язана з ритуалом дій
+255 tshe sgrub kyi dbang chog [txt] Ритуал ініціації практики довголіття
+256 bdud rtsi dgu'i lo rgyus dang nye shing bcud len [txt] Історія та поглинання сутності дев’яти нектарів
+257 tshe sgrub las mtha' ra mo shag gi bcud len [txt] Поглинання сутності рамо шак для практики довголіття
+258 tshe sgrub las mtha' dbang lag bcud len [txt] Поглинання сутності ініціації для практики довголіття
+259 tshe sgrub las mtchen bdud rtsi bzhi'i bcud len [txt] Поглинання сутності чотирьох нектарів великого дерева для практики довголіття
+260 zab lam tshe dpag med kyi brgyud pa'i gsol 'debs [txt] Молитва до лінії передачі глибокого шляху безсмертного життя
+261 bla ma bde mchog gi chos sde las byung ba'i tshe sgrub zab mo [txt] Глибока практика довголіття, що походить із вчення гуру найвищого блаженства
+262 bde mchog 'khor lo'i cha lag tshe sgrub kyi dbang bshad [txt] Пояснення ініціації практики довголіття, частини колеса найвищого блаженства
+263 tshe dpag med dkar po'i dbang chog skal bzang dga' ston [txt] Ритуал ініціації білого безсмертного життя, свято обраних
+264 zab lam tshe dpag med kyi bsnyen yig 'chi med grub pa'i lam bza [txt] Текст наближення глибокого шляху безсмертного життя, шлях досягнення безсмертя
+265 rigs bdag bla ma rdo rje sems dpa'i skor rdor sems mchod bstod cho ga [txt] Ритуал похвали та підношення ваджрасаттві, володарю роду
+266 rdo rje sems dpa'i dbang chog [txt] Ритуал ініціації Ваджрасаттви
+267 rdo rje sems dpa'i gsang sgrub [txt] Таємна практика Ваджрасаттви
+268 rdo rje sems dpa'i sgrub pa'i lag len dang las sbyor dmigs pa'i gab thig [txt] Практика та візуалізація дій ваджрасаттви
+269 rdo rje sems dpa'i las mtha' mthong grol 'khor lo [txt] Завершення дій ваджрасаттви, колесо звільнення через бачення
+270 rdo rje sems dpa'i las mtha' 'gro don nyi ma mthong grol [txt] Завершення дій Ваджрасаттви, сонце звільнення через баченння
+271 rdo rje sems dpa'i las mtha' 'gro don zla ba mthong grol [txt] Завершення дій Ваджрасаттви, місяць звільнення через бачення
+272 rdo rje sems dpa'i las mtha' 'gro don chu bo myong grol [txt] Завершення дій Ваджрасаттви, річка звільнення через досвід
+273 rdor sems las mtha' ro sreg cho ga [txt] Ритуал спалювання трупів Ваджрасаттви
+274 rdo rje sems dpa'i dbang bshad [txня ініціації Ваджрасаттви
+275 rdor sems brgyud 'debs thugs rje'i gru chen [txt] Молитва до лінії передачі ваджрасаттви, великий корабель співчуття
+276 bla ma rdo rje sems dpa'i dbang chog khrigs su sdebs pa phan bde'i lam bzang [txt] Ритуал ініціації гуру ваджрасаттви, шлях користі та блаженства
+277 rdor sems las mtha' ro sreg nyes kun dag byed [txt] Ритуал спалю�я трупів ваджрасаттви, що очищає всі провини
+278 rdo rje sems dpa'i gson byang gi cho ga gtan bde'i lam rim [txt] Ритуал живих дій ваджрасаттви, шлях до вічного блаженства
+279 bla ma rdo rje sems dpa'i sgo nas tshe 'das sgrib sbyong skal bzang myur lam [txt] Швидкий шлях очищення перешкод для померлих через гуру ваджрасаттву
+280 bka' sgo [txt] Ворота накam dbyangs dkar po'i skor 'jam dbyangs dkar po'i sgrub thabs [txt] Практика білого Манджушрі
+282 'jam dbyangs dkar po'i dbang chog [txt] Ритуал ініціації білого Манджушрі
+283 'jam dbyangs dkar po sgrub pa'i lag len dmar khrid [txt] Практика та червоні настанови білого Манджушрі
+284 'jam dpal las mtha' gsang sgrub man ngag [txt] Таємні настанови завершення дій Манджушрі
+285 'jam angs las mtha' gsang ba'i 'khor lo [txt] Таємне колесо завершення дій Манджушрі
+286 'jam dpal las mtha' thor bu [txt] Малі завершення дій Манджушрі
+287 'jam dbyangs dkar po'i dbang bshad [txt] Пояснення ініціації білого Манджушрі
+288 'jam dbyangs dkar po'i brgyud 'debs byin rlabs myur 'jug [txt] Молитва до лінії передачі білого Манджушрі, швидке входження благословення
+289 'jam dbyangs dkar po'i zhi ba'i sbyin sreg shes rab snang ba rgyas byed [txt] Мирне вогняне підношення білого Манджушрі, що розширює сяйво мудрості
+290 bla ma bde mchog dbang gi 'khor lo las 'jam dbyangs dkar po'i rgyun 'khyer shes rab 'khor lo [txt] Щоденна практика білого Манджушрі з колеса ініціації найвищого блаженства, колесо мудрості
+291 'jam dbyangs dkahog khrigs su sdebs pa blo gsal mgul rgyan [txt] Ритуал ініціації білого Манджушрі, прикраса ясного розуму
+292 skyabs sems [txt] Прийняття притулку
+293 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 9 [vol] Дев'ятий том
+
+294 dkar chag [toc] Зміст
+295 bla ma bde mchog 'khor lo'i yan lag chos tshan smad cha mkha' spyod bdud 'dul ma'i sgrub thabs [txt] Практика підкорювачки демонів нижньої частини вчення колеса найвищого блаженства
+296 bdud 'dul mkha' 'gro'i las byang gi rim pa [txt] Ритуал дій дакіні, що підкорює демонів
+297 bdud 'dul nag mo'i bskul ba shin tu gnyan pa [txt] Дуже суворе закликання чорної дакіні, що підкорює демонів
+298 bdud 'dul mkha' 'gro'i bskang ba [txt] Виправлення дакіні, що підкорює демонів
+299 bdud 'dul mgdong ma'i dbang chog gi rim pa [txt] Ритуал ініціації дакіні з обличчям левиці, що підкорює демонів
+300 mkha' spyod dkar mo'i tshe sgrub [txt] Практика довголіття білої Кхачод
+301 mkha' spyod bdud 'dul ma'i rdzas srung yod [txt] Захист речовин підкорювачки демонів Кхачод
+302 bdud 'dul mkha' 'gro nag mo'i rab tu gsang ba bzlog pa'i 'phrin las [txt] Надзвичайно таємна дія. Звернення чорної дакіні, що підкорює демонів
+303 bdud 'dul mkha' 'gro'i las sbyor dang po [txt] Перша дія дакіні, що підкорює демонів
+304 bdud 'dul mkha' 'gro'i las sbyor gnyis pa [txt] Друга дія дакіні, що підкорює демонів
+305 bdud 'dul mkha' 'gro'i las sbyor gsum pa [txt] Третя дія дакіні, що підкорює демонів
+306 bdud 'dul mkha' 'gro'i zin bris mtsho rgyal gyis mdzad pa shin tu ang bar bya'o [txt] Записки практики дакіні, що підкорює демонів, складені Цоґ’ял, надзвичайно таємні
+307 bdud 'dul nag mo'i 'phung shig bsgrub pa [txt] Практика знищення форми чорної дакіні, що підкорює демонів
+308 bdud 'dul nag mo'i phung gtad nag po [txt] Чорне передавання форми чорної дакіні, що підкорює демонів
+309 bdud 'dul mkha' 'groshig gsang ba'i 'khor lo 'bri thabs [txt] Спосіб створення таємного колеса знищення форми дакіні, що підкорює демонів
+310 bdud 'dul nag mo'i shin tu gsang ba'i las mtha' rnam gsum [txt] Надзвичайно таємне завершення трьох дій чорної дакіні, що підкорює демонів
+311 bdud 'dul seng gdong nag mo'i shin tu gsang ba'i man ngag dug mda' nag po [txt] Надзвичайно таємні нанови чорної дакіні з обличчям левиці, чорна отруйна стріла
+312 bdud 'dul seng gdong nag mo'i dgra bo'i ngag mnan pa'i las sbyor [txt] Дія придушення мови ворогів чорної дакіні з обличчям левиці
+313 bdud 'dul seng gdong ma'i nye dbye zab mo [txt] Глибоке розрізнення дакіні з обличчям левиці, що підкорює демонів
+314 bdud 'dul mkha' 'gro'i cho 'phrul gyi t] Завершення магічної дії дакіні, що підкорює демонів
+315 bdud 'dul mkha' 'gro'i chu 'khyag gi las mtha' [txt] Завершення дії водяного льоду дакіні, що підкорює демонів
+316 bdud 'dul mkha' 'gro'i shin tu zab pa'i bsrung ba rnam gsum [txt] Надзвичайно глибокий захист трьох видів дакіні, що підкорює демонів
+317 bdud 'dul seng gdong ma'i ngag mnan bkrol thabs [txt] Спосіб придушення та розкриття мови дакіні з обличчям левиці
+318 bdud 'dul seng gdong nag mo'i gsol 'debs [txt] Молитва до чорної дакіні з обличчям левиці
+319 bdud 'dul dpal gyi mkha' 'gro'i bsrung zlog gi ngag 'don [txt] Молитва захисту та відвернення славної дакіні, що підкорює демонів
+320 bdud 'dul dpal gyi mkha' 'gro'i srung ba'i dmigs rim ngag 'don gyi rim pa sdo [txt] Візуалізація захисту славної дакіні, ваджрні обладунки
+321 rig 'dzin chen po nyi ma grags pa'i zhal gdams las bdud 'dul mkha' 'gro'i sgrub pa'i zin bris [txt] Записки практики дакіні, що підкорює демонів, з настанов Ньїма Дракпа
+322 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las bdud 'dul mkha' 'gro'i bsgral las gnam lcags ral gri [txt] Ритуал знищення дакіні, що підює демонів, небесний ваджрний меч
+323 bsgral sngags dang bzlog sngags [txt] Мантри знищення та відвернення
+324 bdud 'dul ye shes kyi mkha' 'gro ma'i rgyun 'khyer dang srung bzlog gi ngag 'don dkyus su bkod pa gnam lcags rdo rje 'bar ba'i gur khang [txt] Щоденна практика та молитва захисту й відвернення дакіні мудрості, палаючий ваджрний небесний намет
+325 bka' rdzogs p ma bde mchog 'khor lo las bdud 'dul seng gdong nag mo'i bzlog pa'i 'phyong [txt] Торма відвернення чорної дакіні з обличчям левиці
+326 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las bdud 'dul mkha' 'gro'i rtsang gyer mtshon cha'i 'phrul 'khor [txt] Магічне колесо зброї дакіні, що підкорює демонів
+327 bdud 'dul mkha' 'gro'i zab chos kyi gser skyems bdud rtsi'i rol mtsho [txt] Золоте підношення нект� глибокого вчення дакіні, що підкорює демонів
+328 bdud 'dul mkha' 'gro'i bdud rtsi mchod pa'i lhan thabs [txt] Додаткове підношення нектару дакіні, що підкорює демонів
+329 bdud 'dul seng gdong mkha' 'gro'i dbang chog khrigs su bkod pa byin rlabs myur 'jug ces bya ba [txt] Ритуал ініціації дакіні з обличчям левиці, швидке входження благословення
+330 bsnyen bng bsrung bzlog gi mjug dang rgyun gyi gtor bsngo sogs kyi skabs su gtor ma 'bul 'dod na [txt] Підношення торма для завершення практики, захисту, відвернення та щоденного посвячення
+331 bdud 'dul nag mo'i las sbyor gsum pa'i zhal gdams gter chen chos kyi rgyal po nyi ma grags pas mdzad pa [txt] Настанови третьої дії чорної дакіні, складені великим відкривачем скарбів Н�2 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las lha chen las kyi he ru ka'i sgrub thabs [txt] Практика великого Херуки діяльності з колеса найвищого блаженства
+333 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las lha chen dbang phyug chen po'i bsnyen sgrub las gsum gyi kha skong mchod bstod kyi cho ga [txt] Ритуал доповнення трьох дій наближення великого володаря могутності
+334 bzogs pa chen po bla ma bde mchog 'khor lo las lha chen po'i sgo nas slob bu rjes 'dzin grol byed dbang gi rim pa [txt] Ритуал ініціації для звільнення учнів через великого бога
+335 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las lha chen dbang phyug chen po'i snying byang bla rdo rab tu gsang ba [txt] Надзвичайно таємна ваджра серця великого володаря могутності
+336 bka' rdzogs pa chen po bla ma bde mor lo las las kyi he ru ka'i snying byang zhal khrid shin tu gsang ba [txt] Надзвичайно таємні настанови серця Херуки діяльності
+337 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las las mdzad he ru ka'i tsit+ta snying gi tsakra la brten nas pho rgyud dbang du bsdu ba'i las sbyor [txt] Дія підкорення чоловічої лінії через серце Херуки діяльності
+338 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las rdo i tsakra la brten nas mo rgyud dbang du bsdu ba'i las sbyor [txt] Дія підкорення жіночої лінії через ваджрне колесо
+339 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las las kyi he ru ka'i yid bzhin nor bu'i tsakra la brten nas nor sgrub pa'i las sbyor [txt] Дія досягнення багатства через колесо коштовності бажань Херуки діяльності
+340 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las lha chen as bdud rtsi dkar po'i las sbyor bcu bdun pa [txt] Сімнадцята дія білого нектару великого бога
+341 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las lha chen po'i las tshogs thor bu [txt] Малі дії великого бога
+342 lha chen po'i brgyud pa'i gsol 'debs [txt] Молитва до лінії передачі великого бога
+343 lha chen la gtor ma 'bul thabs [txt] Спосіб підношення торма великому богу
+344 lha u'i bskang ba [txt] Виправлення юного великого бога
+345 bsnyen sgrub kyi 'dzab bzlas dmigs pa'i 'khrul 'khor shin tu gsang ba'i ngag 'don pad+ma theg mchog bstan pa'i rgyal mtshan gyi ljags bsgrigs [txt] Надзвичайно таємна молитва мантричної візуалізації практики наближення, прапор вчення Падми
+346 lha chen dbang phyug chen po'i kha skong sbyin sreg gi cho ga 'dod pa'i re skong [txt] Ритуал в�го підношення доповнення великого володаря могутності, виконання бажань
+347 lha chen sgrub pa'i rnal 'byor la mkho ba'i yig chung rang 'dod du bris pa yod [txt] Малий текст, необхідний для йоги практики великого бога, написаний за власним бажанням
+348 dbang mdzad lha chen las kyi he ru ka la brten nas phywa g.yang thogs pa med par 'gugs pa'i lcags kyu [txt] Ваджрний гачок притягнення багатства без перешкод через Херуку діяльності великого бога
+349 lha chen dbang gi smin byed khrigs su bgyis pa blo gsal kun nas dga' ba'i dga' ston zhes bya ba [txt] Ритуал дозрівання ініціації великого бога, свято ясного розуму
+350 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las dzam lha dmar po'i sgrub thabs [txt] Практика червоного Дзам Лха з колеса найвищого блаженства
+351 dzam b+ha lha'i sgrub rten bca' thabs [txt] Спосіб встановлення опори практики Дзам Бха Лха
+352 bka' rdzogs pa chen po bla ma bde mchog 'khor lo las dzam lha'i chu sbyin gtong thabs [txt] Спосіб підношення води Дзам Лха
+353 bla ma bde mchog 'khaur lo'i cha lag las byung ba dzam dmar gyi las byang kha skong [txt] Доповнення дій червоного Дзам з чаайвищого блаженства
+354 dzam dmar gyi gsol 'dabs bdud rtsi khA hi bskang ba dang bcas [txt] Молитва до червоного Дзам з нектаром Кхахі та виправленням
+355 dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar [txt] Ясне підношення води Дзам Бха Лха, складене Сгомдепа
+356 bla ma bde mchog las byung ba dzam dmar gyi dbang bskur zab mo dam med la [txt] Глибока ініціація червоно Дзам. Вчення найвищого блаженства, без обітниць
+357 bla ma bde mchog las dzam dmar gyi sbyin sreg [txt] Вогняне підношення червоного Дзам з вчення найвищого блаженства
+358 dzam dmar gyi gtor 'bul [txt] Підношення торма червоному Дзам
+359 dzam dmar dbang bskur bya tshul la nyer 'kho'i zur 'debs lhan thabs su sbyar ba blo gsal yid 'phrog zhes pa yod [txt] Додаткове пояснення іціації червоного Дзам, що зачаровує ясний розум
+360 mgon po dzam b+ha la dmar po'i sgrub thabs la brten nas phywa g.yang 'gugs pa'i 'phrin las dngos grub rgya mtsho'i 'byung gnas [txt] Дія притягнення багатства через практику червоного захисника Дзам Бха Лха, джерело океану досягнень
+361 dbang mdzad lha gsum gyi bskang bsdus dngos grub char 'beb [txt] Коротке виправ�ів ініціації, що викликає дощ досягнень
+362 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 10 [vol] Десятий том
+
+363 dkar chag [toc] Зміст
+364 tshe sgrub bdud bzhi'i g.yul las rnam rgyal skor thems byang [txt] Список практики довголіття, перемога над чотирма демонами
+365 lo rgyus [txt] Історія
+366 tshe sgrub kyi lo rgyus zur gsal mtsho rgyal gyis mdzad pa [txt] Ясна іс� практики довголіття, складена Цоґ’ял
+367 tshe'i sgrub chen gyi khog dbub chen mo [txt] Велика внутрішня практика довголіття
+368 dbang gi cho ga [txt] Ритуал ініціації
+369 tshe'i dbang chog bsdus pa yid bzhin dbang gi rgyal po [txt] Короткий ритуал ініціації довголіття, цар коштовності бажань
+370 dbang gi zur gsal mtha' rten [txt] Ясне пояснення меж ініцhregs chod khrid kyi rim pa [txt] Ритуал настанов про пряме розсічення
+372 thod rgal khrid yig [txt] Настанови про пряме проникнення
+373 sgrub thabs [txt] Практика
+374 tshe ril bum sgrub kyi rim pa [txt] Ритуал практики посудини пігулок довголіття
+375 srung 'khor tsakra'i rim pa [txt] Ритуал захисного колеса
+376 phung po'i bdud bcom rang lus kyi rlung sbyor [txt] Поєднаннявласного тіла для подолання демона агрегатів
+377 nyon mongs pa'i bdud bcom pa gzhan lus kyi rlung sbyor [txt] Поєднання дихання іншого тіла для подолання демона пристрастей
+378 dbang lag gi bcud len lha bu'i bdud bcom [txt] Поглинання сутності ініціації для подолання демона божественного сина
+379 bdud rtsi rtag ngu'i bcud len [txt] Поглинання вічного нектару
+380 bdud rtsi cong zhi'i bcud len [txt] Поглинання сутності нектару Конг Жі
+381 sman mchog a ru ra'i bcud len [txt] Поглинання сутності найвищого ліку Арура
+382 bdud rtsi nye shing bcud len [txt] Поглинання сутності близького нектару
+383 ra mo shag gi bcud len [txt] Поглинання сутності Рамо Шаг
+384 rin chen bye ma'i bcud len [txt] Пог
+385 bdud rtsi chu'i bcud len [txt] Поглинання сутності нектару води
+386 bdud rtsi rdo'i bcud len [txt] Поглинання сутності нектару каменю
+387 cho ga'i rim pa [txt] Ритуал ритуалів
+388 ye shes byin 'bebs [txt] Наділення мудрістю
+389 'dzab dgongs [txt] Мантричні роздуми
+390 thugs dam bskul chog tshe 'gugs [txt] Ритуал закликання обітниць серця для притягнення життя
+391 sbyin sreg [txt] Вогняне підношення
+392 gter srung klu sman mchod thabs [txt] Ритуал підношення захисникам скарбів, нага-цілителям
+393 tshe sgrub bdud bzhi'i g.yul las rnam rgyal gyi gsol 'debs [txt] Молитва практики довголіття, перемога над чотирма демонами
+394 tshe sgrub kyi bskang ba bdud rtsi lag mchod bsnyen bstod chad tho'i mtshams sbyor sgrub khog nas byung ba'i lta bro rnams [txt] Виправлення практики довголіття, нектар підношення, наближення, похвала, покарання, міжрядкові пояснення з практики
+395 tshe sgrub bdud bzhi'i g.yul las rnam rgyal gyi kha bskang zhi ba'i sbyin sreg kun+da'i 'dod 'jo [txt] Мирне вогняне підношення доповнення перемоги над чотирма демонами, джерело бажань Кунда
+396 tshe sgrub bdud bzhi'i g.yul las rnam rgyal gyi rgyas pa'i sbyin sreg rdzogs ldan sprin gyi khang bzang zhes bya ba [txt] Розширене вогняне підношення перемоги над чотирма демонами, прекрасний палац хмар досконалої ери
+397 tshe yi dbang chog bsdus pa yid bzhin dbang rgyal 'jug bder bkod pa [txt] Короткий ритуал ініціації життя, цар коштовності бажань, складений для легкого входження
+398 tshe sgrub bdud bzhi'i g.yul las rnam par rgyal ba'i bsnyen pa byed tshul [txt] Спосіб наближення перемоги над чотирма демонами практики довголіття
+399 tshe sgrub bdud bzhi'i g.yul las rnam rgyal gyi rgyug byang mun sel sgron me yod [txt] Ритуал перемоги над чотирма демонами, світильник, що розсіює темряву
+400 nyi ma grags pa'i gter byin tshe sgrub kyi gzhung la brten pa'i bla ma sogs la brtan bzhugs 'bul ba'i rim pa 'gyur med rdo rje pha lam [txt] Ритуал підношення стабільності гуру через текст благословення скарбів Ньїма Дракпа, незмінний ваджрний шлях
+401 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 11 [vol] Одинадцятий том
+
+402 dkar chag [toc] Зміст
+403 drag po chen po khros pa dregs pa can thams cad kyi snying 'byin pa'i rgyud [txt] Тантра витягування серця всіх великих гнівних гордих істот
+404 zab chos pad+ma drag khros las drag sgrub me'i 'khor lo [txt] Гнівна практика з глибокого вчення Падма, вогняне колесо
+405 zab chos pad+ma drag khros las tshe sgrub 'chi med rdo rje [txt] Практика довголіття з глибокого вчення Падма, безсмертна ваджра
+406 zab chos pad+ma drag khros las 'jam dpal sku'i sgrub thabs gser gyi rdo rje [txt] Практика тіла Манджушрі з глибокого вчення Падма, золота ваджра
+407 zab chos pad+ma drag khros las rta mgrin gsung gi sgrub thabs ye shes me dpung [txt] Практика мови Хаягріви з глибокого вчення Падма, вогняна купа мудрості
+408 zab chos pad+ma drag khros las phyag rdor thugs kyi sgrub thabs rdo rje'i go khrab [txt] Практика серця Ваджрапані з глибокого вчення Падма, ваджрні обладунки
+409 zab chos pad+ma drag khros las mkha' 'gro'i sgrub thabs yid bzhin nor bu [txt] Практика дакіні з глибокого вчення Падма, коштовність бажань
+410 zab chos pad+ma drag khros las me dbal sgrub thabs me'i spu gri [txt] Практика вогняного полум'я з глибокого вчення Падма, вогняний меч
+411 zab chos pad+ma drag khros las bya khyung sgrub thabs spu gri 'bar ba [txt] Практика гаруди з глибокого вчення Падма, палаючий меч
+412 zab chos pad+ma drag khros las lcags sdig sgrub thabs gdon bgegs kun 'joms [txt] Практика залізного скорпіона з глибокого вчення Падма, знищення всіх демонів і перешкод
+413 zab chos pad+ma drag khros las dbang chog smin grol nor bu [txt] Ритуал ініціації з глибокого вчення Падма, коштовність дозрівання та звільнення
+414 zab chos pad+ma drag khros las dbang chog bar chad kun sel [txt] Ритуал ініціації з глибокого вчення Падма, усунення всіх перешкод
+415 zab chos pad+ma drag khros las las byang 'phrin las lhun grub [txt] Ритуал дій з глибокого вчення Падма, спонтанне здійснення діяльності
+416 zab chos pad+ma drag khros las bskang ba bde legs kun stsol [txt] Виправлення з глибокого вчення Падма, надання всіх благ
+417 zab chos pad+ma drag khros las gtor bzlog gnam lcags 'khor lo [txt] Торма відвернення з глибокого вчення Падма, небесне ваджрне колесо
+418 zab chos pad+ma drag khros las bsgral las dgra bgegs kun 'joms [txt] Ритуал знищення з глибокого вчення Падма, знищення всіх ворогів і перешкод
+419 zab chos pad+ma drag khros las rtsang bzlog spu gri 'bar ba [txt] Відвернення коріння з глибокого вчення Падма, палаючий меч
+420 zab chos pad+ma drag khros las gser skyems bdud rtsi'i sprin phung [txt] Золоте підношення з глибокого вчення Падма, хмари нектару
+421 zab chos pad+ma drag khros las thugs dam bskul chog dgra bgegs kun 'dul [txt] Ритуал закликання обітниць серця з глибокого вчення Падма, підкорення всіх ворогів і перешкод
+422 zab chos pad+ma drag khros las bya khyung bstod bskul dregs pa snying 'byin [txt] Похвала та закликання гаруди з глибокого вчення Падма, витягування серця гордих
+423 zab chos pad+ma drag khros las lcags sdig bstod bskul dug mda' nag po [txt] Похвала та закликання залізного скорпіона з глибокого вчення Падма, чорна отруйна стріла
+424 zab chos pad+ma drag khros las pu tra gso thabs yid bzhin nor bu [txt] Спосіб лікування сина з глибокого вчення Падма, коштовність бажань
+425 zab chos pad+ma drag khros las char 'bebs rgya mtsho kha 'byed [txt] Викликання дощу з глибокого вчення Падма, розкриття рота океану
+426 zab chos pad+ma drag khros las las tshogs char ba 'bebs thabs [txt] Спосіб виклику дощу дій з глибокого вчення Падма
+427 zab chos pad+ma drag khros las char gcod bskal pa'i me 'bar [txt] Знищення дощу з глибокого вчення Падма, палаючий вогонь ери
+428 zab chos pad+ma drag khros las ser srung 'jigs med go cha [txt] Захист від граду з глибокого вчення Падма, безстрашні обладунки
+429 zab chos pad+ma drag khros las ser 'bebs sde brgyad drag sngags [txt] Викликання граду з глибокого вчення Падма, гнівні мантри восьми класів
+430 zab chos pad+ma drag khros las me dbal 'phrin las sde brgyad spyi gshed [txt] Діяльність вогняного полум'я з глибокого вчення Падма, загальний знищувач восьми класів
+431 zab chos pad+ma drag khros las khyung gi bzlog pa ltas ngan kun 'joms [txt] Відвернення гаруди з глибокого вчення Падма, знищення всіх поганих знаків
+432 zab chos pad+ma drag khros las khyung gi las mtha' klu 'dul nag po [txt] Завершення дій гаруди з глибокого вчення Падма, чорне підкорення наг
+433 zab chos pad+ma drag khros las zhi ba'i sbyin sreg nyes ltung kun dag [txt] Мирне вогняне підношення з глибокого вчення Падма, очищення всіх провин
+434 zab chos pad+ma drag khros las rgyas pa'i sbyin sreg tshe bsod dpal 'bar [txt] Розширене вогняне підношення з глибокого вчення Падма, сяюча слава життя та заслуг
+435 zab chos pad+ma drag khros las dbang gi sbyin sreg 'gugs pa'i lcags kyu [txt] Вогняне підношення ініціації з глибокого вчення Падма, ваджрний гачок притягнення
+436 zab chos pad+ma drag khros las drag po'i sbyin sreg dgra bgegs kun 'joms [txt] Гнівне вогняне підношення з глибокого вчення Падма, знищення всіх ворогів і перешкод
+437 zab chos pad+ma drag khros las phran bu'i las tshogs [txt] Малі дії з глибокого вчення Падма
+438 zab chos pad+ma drag khros las klu nad gdug pa kun 'joms [txt] Знищення шкідливих хвороб наг з глибокого вчення Падма
+439 zab chos pad+ma drag khros las byab chog nad gdon kun sbyong [txt] Ритуал очищення хвороб і демонів з глибокого вчення Падма
+440 zab chos pad+ma drag khros las glud kyi cho ga rkyen ngan kun sel [txt] Ритуал заміни з глибокого вчення Падма, усунення всіх поганих умов
+441 zab chos pad+ma drag khros las bka' srung 'bar ba lcam dral gyi mchod thabs [txt] Ритуал підношення палаючим захисникам наказів, братам і сестрам
+442 zab chos pad+ma drag khros las thems byang gsang ba'i snying zhun [txt] Таємний список з глибокого вчення Падма, сутність серця
+443 pad+ma drag po'i bla ma brgyud pa'i gsol 'debs [txt] Молитва до лінії передачі гнівного Падми
+444 drag po khros pa'i hom skyed rig 'dzin pas sbyar ba [txt] Створення гом для гнівного гнівного, складене Ньїма Дракпа
+445 zab chos pad+ma drag khros kyi bzlog pa'i 'phyongs [txt] Торма відвернення з глибокого вчення гнівного Падми
+446 zab chos pad+ma drag khros kyi byab chog gi las byang ngam lag len [txt] Ритуал очищення та практика дій з глибокого вчення гнівного Падми
+447 zab chos pad+ma drag khros las glud bsngo ba'i rim pa sogs kyi 'don cha zur du phyung ba [txt] Ритуал посвячення заміни з глибокого вчення гнівного Падми, витягнуті пояснення
+448 drag khros l+sa glud mdos kyi lhan thabs gong 'og [txt] Додаткові верхні та нижні способи заміни та мдос гнівного гнівного
+449 zab chos pad+ma drag khros las zhi ba'i sbyin sreg [txt] Мирне вогняне підношення з глибокого вчення гнівного Падми
+450 zab chos pad+ma drag khros las rgyas pa'i sbyin sreg [txt] Розширене вогняне підношення з глибокого вчення гнівного Падми
+451 zab chos pad+ma drag khros las dbang gi sbyin sreg [txt] Вогняне підношення ініціації з глибокого вчення гнівного Падми
+452 zab chos pad+ma drag khros kyi drag po'i sbyin sreg bdud dpung bsreg pa bskal pa'i me chen [txt] Гнівне вогняне підношення гнівного Падми, спалення армії демонів, великий вогонь ери
+453 zab chos pad+ma drag khros kyi sgo dbye bzhengs gsol drag med dmar nag [txt] Відкриття дверей, встановлення, молитва гнівного Падми, червоний і чорний без гніву
+454 zab chos pad+ma drag khros kyi gzu dpang [txt] Свідчення гнівного Падми
+455 zab chos pad+ma drag khros kyi byin dbab dngos grub char 'bebs [txt] Наділення благословенням гнівного Падми, викликання дощу досягнень
+456 zab chos pad+ma drag khros bsnyen sgrub kyi zin bris [txt] Записки практики наближення гнівного Падми
+457 zab chos pad+ma drag khros las sri gnon pa'i 'don cha [txt] Молитва придушення срі з глибокого вчення гнівного Падми
+458 gdon bgegs 'byung po'i tshogs la bka' bsgo rdo rje'i lhun po [txt] Наказ демонам і духам, ваджрна гора
+459 drag po khros pa'i dbang chog bar chad kun sel 'jug bder phyag len ltar bkod pa [txt] Ритуал ініціації гнівного гнівного, усунення всіх перешкод, складений для легкого входження
+460 zab chos pad+ma drag khros kyi bsnyen pa'i yi ge nam mkha'i nor bu zhes bya ba [txt] Текст наближення гнівного Падми, небесна коштовність
+461 legs rtsal mched gsum gyi mnga' gsol [txt] Посвячення трьох братів Лег Цал
+462 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 12 [vol] Дванадцятий том
+
+463 dkar chag [toc] Зміст
+464 klu bdud sgrub thabs gnam lcags thog rgod sur+ya kirti'i gter ma lags so [txt] Практика підкорення наг-демонів, небесний ваджрний грім, скарб Сурья Кірті
+465 klu bdud nag po'i gdams pa las shin tu gsang ba'i gab yig [txt] Надзвичайно таємний прихований текст настанов чорного нага-демона
+466 klu bdud nag po'i gdams pa las dbang chog gnam lcags drag me [txt] Ритуал ініціації чорного нага-демона, небесний ваджрний гнівний вогонь
+467 klu bdud nag po'i gdams pa las las byang gnam lcags go khrab [txt] Ритуал дій чорного нага-демона, небесні ваджрні обладунки
+468 klu bdud nag po'i gdams pa las las tshogs 'khor lo [txt] Колесо дій чорного нага-демона
+469 rgya mtsho dug ri kha'i lam yig lo rgyus gnam lcags ral gri [txt] Путівник рота отруйної гори океану, історія небесного ваджрного меча
+470 klu bdud nA ga rak+sha'i brgyud pa'i gsol 'debs [txt] Молитва до лінії передачі нага-ракші-демона наг
+471 klu bdud nA ga rak+sha'i las byang gnam lcags go khrab kha skong gis brgyan te 'grigs chags su bkod pa [txt] Ритуал дій нага-ракші, прикрашений доповненням небесних ваджрних обладунків
+472 nA ga rak+sha'i bsnyen sgrub dmigs rim ngag 'don du bya ba [txt] Візуалізація практики наближення нага-ракші, молитва
+473 klu bdud nA ga rak+sha'i dbang chog khrigs su sdebs pa phan bde'i nyin byed ces bya ba [txt] Ритуал ініціації нага-ракші, сонце користі та блаженства
+474 rta mgrin dregs pa zil gnon las lo rgyus lung byang gi shog dril [txt] Історія та пророцтво Хаягріви, що перемагає гордих
+475 dpal chen po rta gdong khros pa dregs pa zil gnon gyi rgyud [txt] Тантра великого славного гнівного Хаягріви з обличчям коня, що перемагає гордих
+476 rta mgrin dregs pa zil gnon las dbang chen sgrub thabs dregs pa zil gnon [txt] Велика ініціація практики Хаягріви, що перемагає гордих
+477 rta mgrin dregs pa zil gnon las bskyed rim las byang zab mo [txt] Глибокий ритуал дій генерації Хаягріви, що перемагає гордих
+478 rta mgrin dregs pa zil gnon las byin dbab pa'i rim pa [txt] Ритуал наділення благословенням Хаягріви, що перемагає гордих
+479 rta mgrin dregs pa zil gnon las bskang ba'i las rim [txt] Ритуал виправлення дій Хаягріви, що перемагає гордих
+480 rta mgrin dregs pa zil gnon las smin byed dbang gi rim pa [txt] Ритуал дозрівання ініціації Хаягріви, що перемагає гордих
+481 rta mgrin dregs pa zil gnon las dregs pa'i srog dbang dam tshig rdo rje'i bka' rgya can [txt] Ініціація душі гордих Хаягріви, ваджрна печатка обітниць наказів
+482 rta mgrin dregs pa zil gnon las sangs rgyas snang ba mtha' yas kyi lta khrid [txt] Настанови про бачення безмежних будд Хаягріви, що перемагає гордих
+483 rta mgrin dregs pa zil gnon las bsad pa thun gyi las mtha' [txt] Завершення дій знищення Хаягріви, що перемагає гордих
+484 rta mgrin dregs pa zil gnon las sreg pa me yi las mtha'i sham bu [txt] Ритуал завершення вогняного спалення Хаягріви, що перемагає гордих
+485 rta mgrin dregs pa zil gnon las dmigs pa'i mde'u thung [txt] Короткі візуалізації Хаягріви, що перемагає гордих
+486 rta mgrin dregs pa zil gnon las gtor sgrub bzlog pa'i rim pa [txt] Ритуал практики торма відвернення Хаягріви, що перемагає гордих
+487 rta mgrin dregs pa zil gnon las khyung gi bzlog pa'i sham bu [txt] Ритуал відвернення гаруди Хаягріви, що перемагає гордих
+488 rta mgrin dregs pa zil gnon las bzlog pa rtsang gi sham bu [txt] Ритуал відвернення коріння Хаягріви, що перемагає гордих
+489 rta mgrin dregs pa zil gnon las zor bskul gyi las rim [txt] Ритуал закликання зброї Хаягріви, що перемагає гордих
+490 rta mgrin dregs pa zil gnon las gab yig dug mda' nag po'i shog dril [txt] Прихований текст чорної отруйної стріли Хаягріви, що перемагає гордих
+491 rta mgrin dregs pa zil gnon las bsad las kyi bca' bzhi'i shog dril [txt] Чотири встановлення дій знищення Хаягріви, що перемагає гордих
+492 rta mgrin dregs pa zil gnon las sngags kyi mde'u shin tu gsang ba'i gab yig [txt] Надзвичайно таємний прихований текст мантричних кульок Хаягріви, що перемагає гордих
+493 rta mgrin dregs pa zil gnon las ma 'ongs lung bstan gyi shog dril [txt] Майбутнє пророцтво Хаягріви, що перемагає гордих
+494 rta mgrin dregs pa zil gnon las dam tshig bsgrags pa'i chad tho [txt] Покарання проголошення обітниць Хаягріви, що перемагає гордих
+495 rta mgrin dregs pa zil gnon las bka' srung chen po'i gsol mchod mnga' gsol dang bcas pa [txt] Ритуал підношення та посвячення великому захиснику наказів Хаягріви, що перемагає гордих
+496 rta mgrin dregs pa zil gnon las bka' srung bskul ba'i las mtha' [txt] Завершення дій закликання захисника наказів Хаягріви, що перемагає гордих
+497 rta mgrin dregs pa zil gnon las bka' srung li byin ha ra sku lnga'i than gyi las mtha' [txt] Завершення дій захисника наказів Лібін Хара з п’ятьма тілами Хаягріви, що перемагає гордих
+498 rta mgrin dregs pa zil gnon las gter gyi srung ma dam tshig can mchod pa'i rim pa [txt] Ритуал підношення захисникам скарбів з обітницями Хаягріви, що перемагає гордих
+499 rta mgrin dregs pa zil gnon las gter srung bsang gsur gyis mchod thabs [txt] Спосіб підношення захисникам скарбів через дим і залишки Хаягріви, що перемагає гордих
+500 rta mgrin dregs pa zil gnon gyi brgyud rim gsol 'debs [txt] Молитва до послідовності лінії Хаягріви, що перемагає гордих
+501 dbang chen dregs pa zil gnon gyi sgrub thabs kyi rim pa gsum pa'i zin bris phran bu lu la'ang ma ston shin tu gsang [txt] Малі записки третього ритуалу практики великої ініціації, що перемагає гордих, надзвичайно таємні
+502 rta mgrin dregs pa zil gnon gyi dbang bshad [txt] Пояснення ініціації Хаягріви, що перемагає гордих
+503 rta mgrin dregs pa zil gnon gyi zhi ba'i sbyin sreg [txt] Мирне вогняне підношення Хаягріви, що перемагає гордих
+504 rta mgrin dregs pa zil gnon gyi rgyas pa'i sbyin sreg [txt] Розширене вогняне підношення Хаягріви, що перемагає гордих
+505 rta mgrin dregs pa zil gnon gyi dbang gi sbyin sreg [txt] Вогняне підношення ініціації Хаягріви, що перемагає гордих
+506 dbang chen dregs pa zil gnon gyi drag po'i sbyin sreg [txt] Гнівне вогняне підношення великої ініціації, що перемагає гордих
+507 rta mgrin dregs pa zil gnon gyi bden brjod gzhung la brten nas nyi ma grags pas sbyar ba [txt] Істина, складена Ньїма Дракпа на основі тексту Хаягріви, що перемагає гордих
+508 rta mgrin dregs pa zil gnon gyi gter zlog gi 'phyong [txt] Торма відвернення скарбів Хаягріви, що перемагає гордих
+509 dregs pa zil gnon gyi yi ge su la'ang ma ston skungs shig bsad ling gi zin bris [txt] Текст, що перемагає гордих, прихований, записки знищення
+510 dbang chen dregs pa zil gnon gyi yig chung phran bu yod bsad bzlog dri ling spyi'i zin bris chen mo [txt] Малий текст великої ініціації, що перемагає гордих, великі записки загального знищення та відвернення мечем
+511 dregs pa zil gnon gyi chad tho'i zur brgyan [txt] Орнамент покарання, що перемагає гордих
+512 rta mgrin las chos skyong la gtor ma 'bul thabs kyi rim pa [txt] Ритуал підношення торма захисникам вчення Хаягріви
+513 rta mgrin dregs pa zil gnod las sgo dbye bzhengs gsol 'phrin las myur mgyogs zhes bya ba [txt] Швидка діяльність відкриття дверей, встановлення, молитви Хаягріви, що перемагає гордих
+514 gter gsar spyi 'gros kyi zor bskul rig 'dzin pas sbyar ba [txt] Закликання зброї загального нового скарбу, складене Ньїма Дракпа
+515 gser skyems mchod pa 'dod don ltun grub kun bzang theg mchog rgya mtshos mdzad pa [txt] Підношення золотого підношення, здійснення бажань, складене Кунзанг Тегчог Г’яцо
+516 dbang chen dregs pa zil gnon gyi bsnyen sgrub la mkho ba'i yi ge sgron ma'i snang ba zhes bya ba [txt] Необхідний текст практики наближення великої ініціації, що перемагає гордих, сяйво світильника
+517 rta mgrin dregs pa zil gnon gyi sgrub thabs rim pa gsum gyi zin bris yid bzhin dbang gi rgyal po zhes bya ba [txt] Записки трьох ритуалів практики Хаягріви, що перемагає гордих, цар коштовності бажань
+518 dgra chos mthong ba don gsal zhes bya ba [txt] Ясне значення бачення вчення ворогів
+519 hom skyed dang 'gugs pa [txt] Створення гом і притягнення
+520 'gugs bsad bzlog pa'i sngags byang [txt] Мантри притягнення, знищення, відвернення
+521 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 13 [vol] Тринадцятий том
+
+522 dkar chag [toc] Зміст
+523 zab thig phag mo nag mo'i gter 'byung [txt] Відкриття скарбів глибокої краплі чорної Варахі
+524 phag mo nag mo'i zab thig las sgrub thabs dngos grub gter mdzod [txt] Практика з глибокої краплі чорної Варахі, скарбниця досягнень
+525 phag mo nag mo'i zab thig las mkha' 'gro sgrub pa'i mtshan rtags [txt] Знаки практики дакіні з глибокої краплі чорної Варахі
+526 phag mo nag mo'i zab thig las dbang bzhi mchog gi snying po [txt] Сутність чотирьох найвищих ініціацій з глибокої краплі чорної Варахі
+527 phag mo nag mo'i zab thig las bla rdo snying gi dum bu [txt] Ваджра душі, серцевий фрагмент з глибокої краплі чорної Варахі
+528 phag mo nag mo'i zab thig las srung bzlog bsad pa'i las mtha' [txt] Завершення дій захисту, відвернення, знищення з глибокої краплі чорної Варахі
+529 phag mo nag mo'i zab thig las srung bzlog zab mo sbas pa [txt] Глибоке приховане захист і відвернення з глибокої краплі чорної Варахі
+530 phag mo nag mo'i zab thig las las byang dngos grub kun 'byung [txt] Ритуал дій з глибокої краплі чорної Варахі, джерело всіх досягнень
+531 phag mo nag mo'i zab thig las bskang ba don gnyis lhun grub [txt] Виправлення з глибокої краплі чорної Варахі, спонтанне здійснення двох цілей
+532 phag mo nag mo'i zab thig las thugs dam bskul chog rngam pa sgra sgrogs [txt] Ритуал закликання обітниць серця з глибокої краплі чорної Варахі, грізне ревіння
+533 phag mo nag mo'i zab thig las bsgral las spu gri reg gcod [txt] Ритуал знищення з глибокої краплі чорної Варахі, меч, що розсікає дотик
+534 phag mo nag mo'i zab thig las gtor bzlog spu gri 'bar ba [txt] Торма відвернення з глибокої краплі чорної Варахі, палаючий меч
+535 phag mo nag mo'i zab thig las rtsang bzlog me'i spu gri [txt] Відвернення коріння з глибокої краплі чорної Варахі, вогняний меч
+536 phag mo nag mo'i zab thig las gser skyems zor lam gdams pa [txt] Настанови шляху золотого підношення з глибокої краплі чорної Варахі
+537 phag mo nag mo'i zab thig las d+hak+ki'i mtshan rtags dngos grub 'byung gnas [txt] Знаки дакіні з глибокої краплі чорної Варахі, джерело досягнень
+538 phag mo nag mo'i zab thig las mtsho rgyal gyis zhus len [txt] Запити та відповіді Цоґ’ял з глибокої краплі чорної Варахі
+539 phag mo nag mo'i zab thig las las byed srung ma khrag ral ma'i sgrub thabs srog rtsa dmar len [txt] Практика захисниці дій з кривавими косами з глибокої краплі чорної Варахі, витягування червоної життєвої артерії
+540 phag mo nag mo'i zab thig las las kyi mkha' 'gro'i bzlas pa sngags kyi yang zhun [txt] Мантричне повторення дакіні дій з глибокої краплі чорної Варахі, сутність сутності
+541 phag mo nag mo'i zab thig las gter srung mchod thabs [txt] Ритуал підношення захисникам скарбів з глибокої краплі чорної Варахі
+542 phag mo nag mo'i zab thig gi zur rgyan yid bzhin nor bu nyams su len nges ma gtogs dred po thob chog mkhan dang bla ma gla ba chos la gla rtsi rang la rngon par sems pa rnams la sbas rgya [txt] Орнамент пояснень глибокої краплі чорної Варахі, коштовність бажань, прихована печатка для тих, хто не практикує
+543 phag mo nag mo'i zab thig gi dbang bshad [txt] Пояснення ініціації глибокої краплі чорної Варахі
+544 zab thig mkha' 'gro'i gsang sgrub zin bris [txt] Записки таємної практики дакіні глибокої краплі
+545 phag mo nag mo'i zab thig las gtor bzlog gi 'phyong [txt] Торма відвернення з глибокої краплі чорної Варахі
+546 zab thig gi bla rdo'i kha bskang mkha' 'gro 'bum gyi mtshan sngags [txt] Доповнення ваджри душі глибокої краплі, мантричні імена ста тисяч дакіні
+547 zab thig brgyud pa'i gsol 'debs mchog thun ma [txt] Молитва до лінії передачі глибокої краплі, найвища звичайна
+548 bdud rtsi lag mchod [txt] Підношення нектару
+549 phag mo nag mo'i zab thig las 'gugs gzhug yod [txt] Притягнення та утримання з глибокої краплі чорної Варахі
+550 phag mo rigs lnga'i bsnyen yig mchog thun dngos grub 'gugs pa'i lcags kyu [txt] Текст наближення п’яти родин Варахі, найвища звичайна, ваджрний гачок притягнення досягнень
+551 mkha' 'gro'i me mchod dngos grub dpal ster [txt] Вогняне підношення дакіні, що дарує славу досягнень
+552 gter srung mnga' gsol [txt] Посвячення захисників скарбів
+553 phag mo dkar mo'i zab thig las sgrub thabs tshe'i bang mdzod [txt] Практика з глибокої краплі білої Варахі, скарбниця життя
+554 phag mo dkar mo'i zab thig las tshe 'gugs nor bu'i lung thag [txt] Притягнення життя з глибокої краплі білої Варахі, мотузка коштовності
+555 phag mo dkar mo'i zab thig las tshe'i dbang chog dngos grub sgrom bu'i dpal zhes bya ba [txt] Ритуал ініціації життя з глибокої краплі білої Варахі, слава скрині досягнень
+556 phag mo dkar mo'i zab thig las bla rdo mkha' 'gro'i thugs thig bka' rgya ma [txt] Ваджра душі дакіні серця з глибокої краплі білої Варахі, печатка наказів
+557 phag mo dkar mo'i zab thig las zhi ba'i sbyin sreg nad gdon kun sbyong [txt] Мирне вогняне підношення з глибокої краплі білої Варахі, очищення всіх хвороб і демонів
+558 phag mo dkar mo'i zab thig las bde chen dkar mo'i las byang [txt] Ритуал дій великого блаженства білої з глибокої краплі білої Варахі
+559 zab thig las phag mo rigs bzhi'i dbang bshad nyer mkho [txt] Необхідне пояснення ініціації чотирьох родин Варахі з глибокої краплі
+560 phag mo dkar mo'i zab thig las zhi ba'i sbyin sreg [txt] Мирне вогняне підношення з глибокої краплі білої Варахі
+561 phag mo bde chen dkar mo'i dbang chog 'chi med 'dod 'jo [txt] Ритуал ініціації великого блаженства білої Варахі, безсмертне джерело бажань
+562 phag mo ser mo'i zab thig las sgrub thabs mchog gi nor bu [txt] Практика з глибокої краплі жовтої Варахі, найвища коштовність
+563 phag mo ser mo'i zab thig las dbang chog yid bzhin nor bu [txt] Ритуал ініціації з глибокої краплі жовтої Варахі, коштовність бажань
+564 phag mo ser mo'i zab thig las d+hak+ki'i bla rdo zab mo bka' rgya ma [txt] Глибока ваджра душі дакіні з глибокої краплі жовтої Варахі, печатка наказів
+565 phag mo ser mo'i zab thig las zab don gcod kyi sa'i ngos 'dzin thabs dang tshar slongs kyi skabs [txt] Спосіб розпізнавання землі глибокого значення чод з глибокої краплі жовтої Варахі та завершення
+566 phag mo ser mo'i zab thig las zab don dmigs pa dang lag len gyi yang thig [txt] Сутність візуалізації та практики глибокого значення з глибокої краплі жовтої Варахі
+567 phag mo ser mo'i zab thig las skyabs sems dang gsol 'debs [txt] Притулок і молитва з глибокої краплі жовтої Варахі
+568 phag mo ser mo'i zab thig las zab mo gcod kyi 'phrin las [txt] Діяльність глибокого чод з глибокої краплі жовтої Варахі
+569 phag mo ser mo'i zab thig las sha chen baM gyi tshogs 'khor [txt] Колесо накопичення великого м’яса посудини з глибокої краплі жовтої Варахі
+570 phag mo ser mo'i zab thig las bdud rtsi bzhi'i bcud len [txt] Поглинання сутності чотирьох нектарів з глибокої краплі жовтої Варахі
+571 phag mo ser mo'i zab thig las rgyas pa'i sbyin sreg yid bzhin nor bu [txt] Розширене вогняне підношення з глибокої краплі жовтої Варахі, коштовність бажань
+572 phag mo ser mo'i zab thig las don grub ser mo'i las byang [txt] Ритуал дій досягнення жовтої з глибокої краплі жовтої Варахі
+573 phag mo ser mo'i zab thig las rgyas pa'i sbyin sreg [txt] Розширене вогняне підношення з глибокої краплі жовтої Варахі
+574 don grub ser mo'i gcod kyi dmigs rkang gi zin bris [txt] Записки візуалізації чод досягнення жовтої
+575 phag mo dmar mo'i zab thig las sgrub thabs dbang gi 'dod 'byung [txt] Практика з глибокої краплі червоної Варахі, джерело бажань ініціації
+576 phag mo dmar mo'i zab thig las dbang bzhi'i gdams pa mkha' 'gro'i snying khrag bka' rgya ma [txt] Настанови чотирьох ініціацій з глибокої краплі червоної Варахі, серцева кров дакіні, печатка наказів
+577 phag mo dmar mo'i zab thig las bla rdo yid bzhin nor bu [txt] Ваджра душі з глибокої краплі червоної Варахі, коштовність бажань
+578 phag mo dmar mo'i zab thig las nyams len bde stong 'khor lo [txt] Практика досвіду з глибокої краплі червоної Варахі, колесо блаженства-порожнечі
+579 phag mo dmar mo'i zab thig las chags pa'i lam zab bde ba chen po [txt] Глибокий шлях пристрасті з глибокої краплі червоної Варахі, велике блаженство
+580 phag mo dmar mo'i zab thig las bde chen 'khrul 'khor bde stong rang 'bar [txt] Магічне колесо великого блаженства з глибокої краплі червоної Варахі, самопалаюче блаженство-порожнеча
+581 phag mo dmar mo'i zab thig las zhal gdams lam gyi sgron me [txt] Настанови шляху з глибокої краплі червоної Варахі, світильник шляху
+582 phag mo dmar mo'i zab thig las bde stong ngo sprod sbas bshad chos nyid 'khor lo [txt] Вступ до блаженства-порожнечі з глибокої краплі червоної Варахі, приховане пояснення колеса дгарми
+583 phag mo dmar mo'i zab thig las khye'u chung sprul sku'i gdams pa yid bzhin nor bu [txt] Настанови малого втілення з глибокої краплі червоної Варахі, коштовність бажань
+584 phag mo dmar mo'i zab thig las dbang gi sbyin sreg dbang gi me 'bar [txt] Вогняне підношення ініціації з глибокої краплі червоної Варахі, палаючий вогонь ініціації
+585 phag mo dmar mo'i zab thig las dmar mo sgra sgrog gi las byang [txt] Ритуал дій червоної ревучої з глибокої краплі червоної Варахі
+586 phag mo dmar mo'i zab thig las dbang gi sbyin sreg [txt] Вогняне підношення ініціації з глибокої краплі червоної Варахі
+587 phag mo dmar mo sgra sgrogs kyi dbang chog sgrigs mar bgyis pa gsang chen myur lam zhes bya ba [txt] Ритуал ініціації ревучої червоної Варахі, швидкий шлях великої таємниці
+588 phag mo sngon mo'i zab thig las sgrub thabs dngos grub 'byung gnas [txt] Практика з глибокої краплі синьої Варахі, джерело досягнень
+589 phag mo sngon mo'i zab thig las dbang chog dregs pa tshar gcod [txt] Ритуал ініціації з глибокої краплі синьої Варахі, розсічення гордих
+590 phag mo sngon mo'i zab thig las 'phrin las mkha' 'gro'i bla rdo [txt] Діяльність дакіні ваджри душі з глибокої краплі синьої Варахі
+591 phag mo sngon mo'i zab thig las bzlog pa'i las mtha' [txt] Завершення дій відвернення з глибокої краплі синьої Варахі
+592 phag mo sngon mo'i zab thig las zor gyi shog dril [txt] Зброя з глибокої краплі синьої Варахі
+593 phag mo sngon mo'i zab thig las las tshogs kyi shog dril [txt] Дії з глибокої краплі синьої Варахі
+594 phag mo sngon mo'i zab thig las 'gro la phan byed las tshogs [txt] Дії користі істот з глибокої краплі синьої Варахі
+595 phag mo sngon mo'i zab thig las las tshogs [txt] Збірка дій з глибокої краплі синьої Варахі
+596 phag mo sngon mo'i zab thig las drag po'i sbyin sreg dgra bgegs tshar gcod [txt] Гнівне вогняне підношення з глибокої краплі синьої Варахі, розсічення ворогів і перешкод
+597 phag mo sngon mo'i zab thig las sna tshogs mthar phyin gyi las byang [txt] Ритуал дій різноманітного завершення з глибокої краплі синьої Варахі
+598 phag mo sngon mo'i zab thig las drag po'i sbyin sreg [txt] Гнівне вогняне підношення з глибокої краплі синьої Варахі
+599 phag mo ljang mo sna tshogs mthar phyin ma'i dbang bskur chog sgrigs phrin las sgo 'byed ces bya ba [txt] Ритуал надання ініціації різноманітного завершення зеленої Варахі, відкриття дверей діяльності
+600 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 14 [vol] Чотирнадцятий том
+
+601 dkar chag [toc] Зміст
+602 sngags bdag 'bar ba'i thugs thig las lo rgyus kyi yi ge [txt] Історія серця палаючого володаря мантр
+603 sngags bdag 'bar ma'i thugs thig las rten gyi kha byang [txt] Опис опори серця палаючої володарки мантр
+604 sngags bdag 'bar ma'i thugs thig las sgrub thabs ma mo'i snying zhun [txt] Практика матері сутності серця палаючої володарки мантр
+605 sngags bdag 'bar ma'i thugs thig las bsngags sdeb snying zhun [txt] Поєднання мантр сутності серця палаючої володарки мантр
+606 sngags bdag 'bar ma'i thugs thig las sgrub pa'i mtshan rtags kyi rim pa [txt] Ритуал знаків практики серця палаючої володарки мантр
+607 sngags bdag 'bar ma'i thugs thig las thun skabs gtor ma 'bul thabs [txt] Спосіб підношення торма під час сесій серця палаючої володарки мантр
+608 sngags bdag 'bar ma'i thugs thig las dngos grub len thabs bdud rtsi'i rgya mtsho [txt] Спосіб отримання досягнень нектарного океану серця палаючої володарки мантр
+609 sngags bdag 'bar ma'i thugs thig las shi sa bstan pa bka'i tha ram [txt] Вчення про мирне м’ясо, остання межа наказів серця палаючої володарки мантр
+610 sngags bdag 'bar ma'i thugs thig las rten gtor bla rdo'i shog dril [txt] Опора торма ваджри душі серця палаючої володарки мантр
+611 sngags bdag 'bar ma'i thugs thig las ma mo dregs pa'i srog dbang bka' rgya can [txt] Ініціація душі матері гордих серця палаючої володарки мантр, печатка наказів
+612 sngags bdag 'bar ma'i thugs thig las las byang gnam lcags ral gri [txt] Ритуал дій небесного ваджрного меча серця палаючої володарки мантр
+613 sngags bdag 'bar ma'i thugs thig las ga na tsa kra'i las mtha' yod [txt] Завершення дій Ганачакри серця палаючої володарки мантр
+614 sngags bdag 'bar ma'i thugs thig las bskang mdos rkyen ngan kun sel [txt] Виправлення мдос усунення всіх поганих умов серця палаючої володарки мантр
+615 sngags bdag 'bar ma'i thugs thig las mnga' gsol yid bzhin nor bu [txt] Посвячення коштовності бажань серця палаючої володарки мантр
+616 sngags srung ma la gtor ma 'bul thabs [txt] Спосіб підношення торма захисниці мантр
+617 sngags bdag 'bar ma'i thugs thig las bsrung ba'i las mtha' shin tu zab pa [txt] Надзвичайно глибоке завершення дій захисту серця палаючої володарки мантр
+618 sngags bdag 'bar ma'i thugs thig las rbod gtong bzlog pa'i las mtha' [txt] Завершення дій виклику та відвернення серця палаючої володарки мантр
+619 sngags bdag 'bar ma'i thugs thig las rbad pa lcags kyu dmar po [txt] Знищення червоним ваджрним гачком серця палаючої володарки мантр
+620 sngags bdag 'bar ma'i thugs thig las bsad pa hur thum nag po [txt] Чорне бурхливе знищення серця палаючої володарки мантр
+621 sngags bdag 'bar ma'i thugs thig las shin tu zab pa'i las sbyor [txt] Надзвичайно глибока дія серця палаючої володарки мантр
+622 sngags bdag 'bar ma'i thugs thig las sngags kyi mde'u thung [txt] Короткі мантричні кулі серця палаючої володарки мантр
+623 sngags bdag 'bar ma'i thugs thig las rbad cing bskul ba'i las mtha' [txt] Завершення дій знищення та закликання серця палаючої володарки мантр
+624 sngags bdag 'bar ma'i thugs thig las bskul zhing rbad pa'i las mtha' [txt] Завершення дій закликання та знищення серця палаючої володарки мантр
+625 sngags bdag 'bar ma'i thugs thig las bsgral las srog gi spu gri [txt] Ритуал знищення меча душі серця палаючої володарки мантр
+626 sngags bdag 'bar ma'i thugs thig las khrag zor nad gdon kun 'joms [txt] Кривава зброя, що знищує всі хвороби та демонів серця палаючої володарки мантр
+627 sngags bdag 'bar ma'i thugs thig las zor lam [txt] Шлях зброї серця палаючої володарки мантр
+628 sngags bdag 'bar ma'i thugs thig las 'phen pa zor gyi las mtha' [txt] Завершення дій метання зброї серця палаючої володарки мантр
+629 sngags bdag 'bar ma'i thugs thig las dam sri sgab 'dre gnon pa'i shog dril [txt] Придушення прихованих срі та привидів обітниць серця палаючої володарки мантр
+630 sngags bdag 'bar ma'i thugs thig las 'bar ma'i 'phrin las bar chad kun sel [txt] Діяльність палаючої усунення всіх перешкод серця палаючої володарки мантр
+631 sngags bdag 'bar ma'i thugs thig las bka' yi srung ma mchod thabs [txt] Ритуал підношення захисниці наказів серця палаючої володарки мантр
+632 sngags bdag 'bar ma'i thugs thig gi brgyud 'debs sogs [txt] Молитва до лінії передачі серця палаючої володарки мантр тощо
+633 sngags bdag 'bar ma'i lhan thabs gong 'og [txt] Верхні та нижні додаткові способи палаючої володарки мантр
+634 sngags bdag 'bar ma'i srung zlog gi 'don sgom zab mo [txt] Глибока візуалізація та молитва захисту та відвернення палаючої володарки мантр
+635 dpal ldan lha mo'i bsdang ba bsdus pa bar chad kun sel [txt] Коротке вирівнювання славної богині, усунення всіх перешкод
+636 dpal ldan lha mo'i 'khrug bskang rin chen phreng ba zhes bya ba [txt] Виправлення збудження славної богині, коштовна гірлянда
+637 dpal sngags kyi bdag mo'i bsgral las khrigs su sdebs pa 'jigs rung spu gri 'bar ba'i 'khrul 'khor zhes bya ba [txt] Ритуал знищення славної володарки мантр, страшне палаюче магічне колесо меча
+638 gzu dpang ma mo khros pa'i gad rgyangs bdud dpung snying rtsa 'dar ba'i nga ro zhes bya ba [txt] Свідчення гнівної матері, ревіння, що трясе серцевину армії демонів
+639 dpal ldan sngags kyi srung ma'i srog dbang bya tshul khrigs su bkod pa ma gcig dgyes pa'i dga' ston zhes bya ba [txt] Ритуал ініціації душі славної захисниці мантр, свято радості єдиної матері
+640 bstan ma bcu gnyis kyi dbang [txt] Ініціація дванадцяти тенма
+641 lha mo'i bsnyen sgrub las sbyor gsal bar byed pa'i yi ge [txt] Текст, що пояснює практику наближення богині
+642 khrag gtor gyi bca' gzhi zin bris [txt] Записки основи встановлення кривавої торма
+643 nor bdag yid bzhin nor bu las khro bo phyag na rdo rje'i sgrub thabs [txt] Практика гнівного Ваджрапані володаря багатства, коштовність бажань
+644 nor bdag yid bzhin nor bu las phyi sgrub yid bzhin nor bu [txt] Зовнішня практика володаря багатства, коштовність бажань
+645 nor bdag yid bzhin nor bu las nang dang gsang ba'i gdams pa [txt] Внутрішні та таємні настанови володаря багатства, коштовність бажань
+646 nor bdag yid bzhin nor bu las sgrub pa'i gab yig bka' rgya can [txt] Прихований текст практики володаря багатства, печатка наказів
+647 nor bdag yid bzhin nor bu las dbang chog dgos 'dod kun 'byung [txt] Ритуал ініціації володаря багатства, джерело всіх бажань
+648 nor bdag yid bzhin nor bu las las byang mchod bstod kyi cho ga [txt] Ритуал дій підношення похвал володаря багатства
+649 nor bdag yid bzhin nor bu las bskang ba'i las rim [txt] Ритуал виправлення дій володаря багатства
+650 nor bdag yid bzhin nor bu las phywa g.yang 'gugs pa'i 'phrin las [txt] Діяльність притягнення багатства володаря багатства
+651 nor bdag yid bzhin nor bu las bum pa'i gter sba thabs [txt] Спосіб приховування скарбів посудини володаря багатства
+652 nor bdag yid bzhin nor bu las bse rags bkar thabs [txt] Спосіб кип’ятіння шкіряної сумки володаря багатства
+653 nor bdag yid bzhin nor bu las yang gsang bla rdo srog 'khor gyi gdams pa gud du bkod pa [txt] Надзвичайно таємні настанови колеса душі ваджри володаря багатства, приховані
+654 'dzab zlas kyi dmigs pa dang sngags byang [txt] Візуалізація та мантричні рядки мантричного повторення
+655 nor bdag yid bzhin nor bu las bka' srung e ka tsa ti'i 'phrin las [txt] Діяльність захисника наказів Екацаті володаря багатства
+656 nor bdag gi brgyud 'debs [txt] Молитва до лінії передачі володаря багатства
+657 nor bdag yid bzhin nor bu'i tshogs [txt] Накопичення володаря багатства, коштовність бажань
+658 nor bdag yid bzhin nor bu'i bum gter sba ba'i zur gsal [txt] Ясне пояснення приховування посудини скарбів володаря багатства
+659 nor bdag yid bzhin nor bu las dkor mdzod kyi g.yang rten du bum gter sba ba'i lhan thabs [txt] Додатковий спосіб приховування посудини скарбів як опори багатства володаря багатства
+660 nor bdag gi bum gter cha lag klu la gsas mkhar brtsegs thabs kyi kha skong [txt] Доповнення способу побудови замку наг для частини посудини скарбів володаря багатства
+661 nor bdag yid bzhin nor bu'i kha skong sbyin sreg [txt] Вогняне підношення доповнення володаря багатства, коштовність бажань
+662 nor bdag yid bzhin nor bu'i zur gsal g.yang 'gugs kyi lhan thabs gong ma [txt] Верхній додатковий спосіб ясного притягнення багатства володаря багатства
+663 nor bdag gi rten bzhugs dang g.yang phur srung 'dzugs g.yang sgo bsdams pa'i lhan thabs bcas phyogs gcig tu bris pa [txt] Ритуал встановлення опори володаря багатства, встановлення захисту кинджала багатства, запечатування дверей багатства, написане в одному місці
+664 nor bdag la gtor ma 'bul thabs [txt] Спосіб підношення торма володарю багатства
+665 nor bdag yid bzhin nor bu'i dbang bshad nyung ngu smra bar 'dod pa'i kha rgyan zhes bya ba [txt] Коротке пояснення ініціації володаря багатства, прикраса мови бажаного
+666 nor bdag yid bzhin nor bu'i dbang chog khrigs su sdebs pa 'dod 'jo'i bum bzang zhes bya ba [txt] Ритуал ініціації володаря багатства, добра посудина джерела бажань
+667 g.yang 'gugs kyi lhan thabs dngos grub bum bzang zhes bya ba [txt] Додатковий спосіб притягнення багатства, добра посудина досягнень
+668 bsang gi cho ga bkra shis dpal 'bar zhes bya ba [txt] Ритуал диму, сяюча слава благословення
+669 bsang mchod bkra shis dpal 'bar gyi lhan thabs bkra shis myu gu zhes bya ba [txt] Додаткове підношення диму сяючої слави благословення, паросток благословення
+670 slob dpon pad+mas mdzad pa'i rgyag brngan [txt] Передавання товстого кишечника, складене майстром Падмою
+671 gnyan zhi ba dkar mo'i bsang mchod ces bya ba [txt] Підношення диму білої мирної Гнян
+672 rta thug dkar po la brten nas dgra lha gsol ba [txt] Молитва до богів ворогів через білого Рта Туг
+673 dgra lha dpang bstod [txt] Похвала свідчення богів ворогів
+674 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
+pod 15 [vol] П’ятнадцятий том
+
+675 dkar chag [toc] Зміст
+676 gsang ba snying thigs kyi sngon 'gro'i skabs kyi nyer mkho'i ngag 'don rnams [txt] Необхідні молитви попереднього етапу таємного серця
+677 bka' rdzogs pa chen po rtsa gsum gsang ba snying thigs kyi sngon 'gro'i khrid yig bde gshegs spyi lam rab tu gsal bar byed pa phan bde'i nyi ma zhes bya ba [txt] Настанови попереднього шляху трьох коренів таємного серця великої досконалості, сонце користі та блаженства, що повністю пояснює загальний шлях сугат
+678 rdzogs chen rtsa gsum gsang ba snying thigs kyi khrid yig bde gshegs spyi lam la zhabs tog gi tshul du bris pa [txt] Настанови трьох коренів таємного серця великої досконалості, написані як служіння загальному шляху сугат
+679 skyabs 'gro'i tshogs zhing gsal tshul [txt] Ясний спосіб поля накопичення притулку
+680 gter chen nyi ma grags pa'i gter chos skor gyi bsnyen yig gcig shes kun gsal [txt] Текст наближення кола скарбів великого відкривача Ньїма Дракпа, всепояснюючий одним знанням
+681 rtsa gsum gsang ba snying thigs kyis mtshon pa'i lhag pa'i lha rab 'byams gang la'ang sbyar chog pa'i bsnyen pa'i gsal byed gnad kyi lde mig ces bya ba [txt] Текст наближення, що пояснює ключові точки найвищого божества, показаного таємним серцем трьох коренів, що можна застосовувати до будь-чого
+682 dbang chen dregs zil gnon gyi bsnyen bsgrub la mkho ba'i yi ge sgron me'i snang ba [txt] Необхідний текст практики наближення великої ініціації, що перемагає гордих, сяйво світильника
+683 rta mgrin dregs pa zil gnon gyi sgrub thabs rim pa gsum gyi zin bris yid bzhin dbang gi rgyal bo zhes bya ba [txt] Записки трьох ритуалів практики Хаягріви, що перемагає гордих, цар коштовності бажань
+684 rta mgrin dregs pa zil gnon gyi las byang rnam bshad mdor bsdus rta mchog rol ba'i dgongs rgyan zhes bya ba [txt] Коротке пояснення ритуалу дій Хаягріви, що перемагає гордих, орнамент думки найвищого кінського прояву
+685 gsang sngags spyi 'gro'i reg zig blun po'i gdung sel [txt] Дотик загального попереднього таємних мантр, усунення страждань дурнів
+686 dpe bskrun gsal bshad [txt] Чітке пояснення друку
+
