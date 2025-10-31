@@ -1,5 +1,5 @@
 rgya gar
-├── abo (unchanged, non-Tibetan or unclear)
+├── abo
 ├── mchog gling
 ├── sangs rgyas lha khang
 ├── 'bri gung
