@@ -1,3 +1,5 @@
+@#/_/klong chen snying thig rtsa pod/ bla brgyud gsol 'debs gsung rgyun/ Устна молитва лінії передачі Лонгчен Нінгтік
+
 % HEVEA \input{synrc.hva}
 % HEVEA \begin{document}
 % nyingma_author =Maxim Sokhatsky=
