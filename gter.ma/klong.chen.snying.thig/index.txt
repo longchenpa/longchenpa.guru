@@ -1,114 +1,374 @@
-                Longchen Nyinthig Tsa Pod 3 Volumes Collected by Adzom Drukpa
-                -------------------------------------------------------------
+@#/_/klong chen snying gi thig le'i rtsa pod/ dkar chag/ Зміст корінного тому 'Серцевина величезного простору'
 
-Volume I
+pust'i ka dang po [vol] Том 1
+oM can gyi tshan la [sec] Тексти про OM
 
- 1. ka.   klong chen snying gi thig le'i rtogs pa brjod pa da kki'i gsang gtam chen mo/ (da kki'i gsang gtam) (4-16)
- 2. kha.  gsang ba chen po nyams snang gi rtogs brjod chu zla i gar mikhan/ (rtogs briod) 17-68
- 3. ga.    gnad byang thugs kyi sgrom bu/ (gnad byang) (69-78)
- 4. nga.    rig 'dzin rtsa rgyud thod pa'i dum bu/ (rtsa rgyud) (79-85)
- 5. ca.    rtsa dbang rgyal thabs spyi blugs/ (rtsa dbang) (86-91)
- 6. cha.  dbang gi spyi don snying po don gsal/ (dbang spyi) (92-128)
- 7. ja,    phyi sgrub bla ma'i rnal 'byor yid bzhin nor bu/ (bla ma'i rnal 'byor) (129-138)
- 8. nya.  dkyil 'khor thams cad kyi ngo bo bla ma mchod pa'i cho ga dngos grub rgya mtsho/ (bla ma mchod chog) (139-207)
- 9. ta.   zangs mdog dpal ri'i smon gsang lam/ (dpal ri'i smon lam) (208-215)
-10. tha. brgyud 'debs byin rlabs char rgyun/ (brgyud 'debs) (216-218)
-11. da.    nang sgrub rig 'dzin 'dus pa/ (rig 'dzin 'dus pa) (219-236)
-12. na.     rig 'dzin gyi gab byang gnad kyi mig tshangs/ (gab byang) (237-241)
-13. pa.     rig 'dzin bznyen yig dngos grub kyi za ma tog/ (rig 'dzin bsnyen yig) (242-253)
-14. pha.    rig 'dzin tshe sgrub bdud rtsi bum bcud/ (tshe sgrub) (254-263)
-15. ba.     rig 'dzin tshe sgrub dmigs gnad gal mdo/ (tshe sgrub dmigs gnad) (264-266)
-16. ma.    tshe sgrub bdud rtsi bum bcud kyi dbang bshad lhan thabs su byas pa/ (tshe sgrub dbang bshad) (267-277)
-17. tsa.    yum ka bde chen rgyal mo'i lo rgyus/ (lo rgyus) (278-279)
-18. tsha.   yum ka'i byin rlabs dbang gi cho ga/ (dbang chog) (280-283)
-19. dza.    yum ka mtsho rgyal bde chen rgyal mo'i rtsa ba'i sgrub pa bde chen dpal phreng/ (bde chendpal phreng) (284-303)
-20. wa.   klong chen snying thig gi yum ka bde chen rgyal mo'i rtsa ba'i bsnyen yig (bsnyen yig) (304-310)
-21. zha.    yum ka bde chen rgyal mo'i bsnyen yig yang gsallus dkyil mngon brjod/ (lus dkyil) (311-321)
-22. za      yum ka mkha gro'i bdag 'jug dbang don rab gsal/ (dbang don) (322-328)
-23. 'a.     rig 'dzin yum ka'i me mchod las bzhi'i bang mdzod (me mchod)/ (329-337)
-24. ya.    mkha gro bde chen rgyal mo las: sku gsum bdud rtsi'i bcud len/ (bcud len) (338-341)
-25. ra.     yum ka mkha' 'gro'i nang sgrub bde chen snying po'i gter bum/ (yum kai nang sgrub)/ (342-366)
-26. la.   sgrol ma mandal bzhi pa'i cho ga klu dbang dgongs rgyan/ (klu dbang) (367-399)
-27. sha.    yum ka mkha' 'gro bde chen rgyal mo las: mkha' 'gro'i bsun zlog ngo mtshar snang ba/ (bsun zlog) (400-418)
-28. sa.  grangs gsog nyer bsdu dang skong bshags kyi 'dzud/ (glud gtor dang tshogs bsdus) (419-421)
-29. ha.     yum ka bde chen rgyal mo las: dpa' bo dpa' mo'i bsun bzlog (bsun bzlog) (422-424)
-30. a.      yum ka mkha' 'gro'i las tshogs bzhi pa dang 'brel bar: tshe dbang gi mtshams sbyor/ (mtshams sbyor) (425-440)
-31. ki.     yum ka mkha' 'gro'i las tshogs las: gter bum sgrub pai lhan thabs/ (bum sgrub/bse rags) (441-456)
+001 DAk+ki'i gsang gtam chen mo [txt] Велика таємна бесіда Дакіні: Висловлювання моїх усвідомлень
+002 gsang ba nyams snang gi rtogs brjod chu zla'i gar mkhan [txt] Велика таємниця: Висловлювання усвідомлень щодо видінь, що танцюють як місяць у воді
+003 gnad byang thugs kyi sgrom bu [txt] Скриня просвітленого розуму, посібник з ключових настанов
+004 rig 'dzin rtsa rgyud thod pa'i dum bu [txt] Уламки черепа: Корінний тантра Відьмодержателів
+005 rtsa dbang rgyal thabs spyi blugs [txt] Корінне втілення могутності, загальне втілення
+006 dbang gi spyi don snying po [txt] Прояснення суттєвого значення: Основні принципи втілення
+007 phyi+i sgrub bla ma'i rnal 'byor [txt] Йога гуру практики зовнішнього
+008 bla ma mchod mchog dngos grub rgya mtsho [txt] Океан сіддхі: Практика поклоніння вчителям, втіленням усіх мандал
+009 dpal ri'i smon lam dus mthar gdab smon bcas [txt] Молитва про Гору Слави та молитва про останню епоху
+010 brgyud 'debs [txt] Молитва лінійки передачі
+011 nang sgrub rig 'dzin 'dus pa [txt] Збори Відьмодержателів, внутрішня практика
+012 gab byang gnad kyi mig tshag [txt] Огляд ключових точок: Посібник прихованих настанов Відьмодержателя
+013 bsnyen yig [txt] Текст повторення
+014 tshe sgrub bdud rtsi bum bcud [txt] Ваза безсмертного життя: Практика довголіття Відьмодержателів
+015 de'i dmigs gnad gal mdo [txt] Ключові точки візуалізації для практики довголіття Відьмодержателів
+016 tshe sgrub dbang bshad lhan thabs [txt] Втілення та пояснення практики довголіття
+017 yum ka'i lo rgyus [txt] Історія практики Королеви Великого Блаженства
+018 yum ka'i dbang chog [txt] Ритуал благословення та втілення для практики Королеви Великого Блаженства
+019 rtsa sgrub bde chen dpal phreng [txt] Славний Ланцюг Великого Блаженства: Основна практика Цогял, Королеви Великого Блаженства
+020 de'i rtsa ba'i bsnyen yig [txt] Основний текст повторення для практики Королеви Великого Блаженства
+021 de'i dogs sel lus dkyil [txt] Усунення сумнівів: Центральне тіло
+022 yum ka'i bdag 'jug dbang don rab gsal [txt] Прояснення значення самопосвячення для практики Королеви Великого Блаженства
+023 me mchod las bzhi'i bang mdzod [txt] Внутрішній скарб чотирьох дій вогняного поклоніння
+024 sku gsum bdud rtsi'i bcud len [txt] Вживання есенції амріти трьох тіл
+025 nang sgrubs bde chen gter bum [txt] Скарбниця Великого Блаженства: Внутрішні практики
+026 sgrol ma maN+Dal bzhi chog glu dbang dgongs rgyun [txt] Ритуал чотирьох мандал Тари з піснями, втіленням та безперервним наміром
+027 mkha' 'gro'i bsun bzlog ngo mtshar snang ba [txt] Чудове видіння: Зворотне вбивство для дакіні
+028 de'i grangs gsog nyer bsdu dang [txt] Збірка повторень для зворотного вбивства дакіні
+029 skong bshags kyi 'dzud [txt] Виправлення та сповідь
+030 dpa' bo dpa' mo bsun bzlog [txt] Зворотне вбивство героїв та героїнь
+031 tshe dbang gi mtshams sbyor [txt] Підготовка для втілення довголіття
+032 g.yang chog gter bum sgrub pa'i lhan thabs dang [txt] Методи практики скарбниці благ та бсе рагс рдзонг
+033 rigs bdag gi sgrub thabs bde ba can gyi cho ga gzhan phan gyi phrin las dang bcas pa [txt] Практика родинного божества: Ритуал Рая в Блаженстві з діями на користь інших
+034 bde ba can gyi bkod smon [txt] Молитва розгортання Рая в Блаженстві
+035 sgrib sbyong gnas lung gi cho ga dag byed gter bum [txt] Ритуал очищення скарбниці: Очищення перешкод
+036 dug dbyung byabs bkrus lhan thabs [txt] Методи очищення отрути та захисників
+037 bla bslu srog 'tsho'i ljon pa [txt] Дерево життя, що обманює блa
+038 seng gdong dbang chog byin brlabs chun po [txt] Ритуал втілення Сінгдон з повним благословенням
+039 gsol 'debs byin rlabs char 'bebs [txt] Молитва, що сипле дощем благословень
+040 gsang sgrub seng gdong ma'i sgrub thabs las byang [txt] Посібник дій для практики Сінгдон ма
+041 de'i bsnyen yig [txt] Текст повторення для практики Сінгдон ма
+042 srung bzlog byad ma stobs 'joms [txt] Зворотний захист: Подолання сили Бхадри ма
+043 byad 'grol gnam lcags 'khor lo [txt] Звільнення від злоби: Колесо блискавок неба
+044 gtor bzlog byad gdon g.yul 'joms [txt] Зворотне торма: Подолання цілей злоби та демонів
+045 bca' gzhi gnad kyi yig chung [txt] Малий лист ключових точок основи обітниці
+046 phrin las gzhan phan 'khor lo [txt] Колесо дій на користь інших
+047 spyi chings dpal chen zhal lung [txt] Загальні обітниці: Поради Великої Слави
+048 dpal chen brgyud pa'i gsol 'debs [txt] Молитва лінійки Великої Слави
+049 thugs sgrub drag po dpal chen 'dus pa [txt] Сердечна практика: Збори Суворої Великої Слави
+050 de'i bsnyen yig [txt] Текст повторення для Зборів Суворої Великої Слави
+051 gshin rje 'chi bdag zil gnon [txt] Пригнічення Яма, Лорда Смерті
+052 rta mgrin khams gsum rol pa [txt] Хаягріва: Розгортання трьох сфер
+053 yang dag sangs rgyas mnyam sbyor [txt] Рівне сполучення істинних будд
+054 phur pa bdud dpung zil gnon [txt] Кілака: Пригнічення демонів
+055 dpal chen phyag rgya rgyas pa bcas [txt] Розширена мудра Великої Слави
 
-them-byang: ki pa g.yang chog gter bum sgrub pa'i lhan thabs dang/ bse rags rdzong thabs
+chos sde lnga gcu nga bzhi la 'bor ldeb grangs 371 [sec] П'ятьсот вісімдесят чотири дхарма-збірки, загальна кількість сторінок 371
+bzhugs pa dge legs 'phel//__//snga 'gyur bstan pa'i rgyal mtshan 'khor los sgyur//
+/'gro la theg chen sgra sgrogs rdzogs chen pa// /don kun grub pa 'jigs med gling pa yi//
+/bstan pa 'phel rgyas yun ring gnas gyur cig// /kun mkhyen bka' 'bum las so// //_//
 
-32. ku.     bde ba can du bgrod pa'i cho ga dpag med myur lam/ (cho ga) (457-490)
-33. ke.     bde can zhing bkod smon lam/ (bde smon) (491-495)
+pust'i ka gnyis pa [vol] Том 2
+AH can gyi tshan grangs [sec] Тексти про ĀḤ
 
-Volume 2
+056 khrag 'thung rigs bzhi'i sgos dbang [txt] Втілення ролей чотирьох родів кровопивць
+057 sgrubs khog rin chen za tog [txt] Скриня коштовностей: Внутрішня практика
+058 rigs bzhi'i bsnyen byang [txt] Посібник повторення для чотирьох родів
+059 bdag 'jug dbang don rgya mtsho [txt] Океан значення самопосвячення
+060 rol pa chen po'i gtor bzlog [txt] Велике розгортання: Зворотне торма
+061 gzer kha zab mo gud du sbas pa [txt] Глибока основа, прихована в серці
+062 srung bzlog 'khor lo'i zhal shes [txt] Вступ до колеса зворотного захисту
+063 che mchog bdud 'khyil 'dus 'khor [txt] Великий верховний: Збори демонів у вихорі
+064 sman sgrub lag len zin tho [txt] Практика зцілення: Посібник
+065 bskyed rim 'og min bgrod pa'i them skas [txt] Сходи для подорожі до Нижньої межі в етапі генерації
+066 zhi drag sbyin sreg [txt] Спокійне та суворе спалення дарувань
+067 las bzhi mchog lnga'i sbyin sreg [txt] Спалення дарувань для п'яти верховних дій
+068 skong bshags rdo rje'i thol glu [txt] Виправлення та сповідь: Проста пісня Ваджри
+069 gsang sgrub sdug bsngal rang grol [txt] Таємна практика: Природне звільнення від страждань
+070 de'i dka' 'grel dbyar rnga [txt] Важкий коментар: Літній барабан
+071 bdag 'jug dbang don gsal ba [txt] Прояснення значення самопосвячення
+072 pra khrid dmar byang [txt] Червонуватий посібник: Вступ до пра
+073 gsol 'debs zhal mthong ma [txt] Молитва: Обличчя, що бачить
+074 de nying khro sgrub rta mgrin 'dus pa [txt] Збори Хаягріви для практики серця та гніву
+075 yang gsang bla sgrub thog mtha' chog bsgrigs can [txt] Найтаємніша гуру практика: Зібрана від початку до кінця
+076 bla ma drag po rta khyung 'bar ba [txt] Сувора гуру: Палаюча коняча грива
+077 de'i dbang dang bsnyen yig [txt] Втілення та текст повторення для суворої гуру
+078 klu'i gdon 'grol [txt] Звільнення демонів наг
+079 gzhi lam 'bras smon lam [txt] Основи, шлях, плід: Молитва
+080 sku gsum zhing sbyong smon lam [txt] Тренирування полів трьох тіл: Молитва
+081 bar do'i smon lam [txt] Молитва бардо
+082 bden tshig grub pa'i pra Ni d+han [txt] Прані дхан: Обітниця встановлення істини
+083 srog 'khor dpal gyi gdu bu [txt] Частина слави: Колесо життя
+084 zhi khro chog bsgrigs khrom dkrug gsal rgyan [txt] Збірка спокійного та гнівного: Прикраса, що розбурхує натовп
+085 de'i zhib dpyod lhan thabs [txt] Детальний аналіз: Методи
+086 yang yig dka' gnad rgya 'grol [txt] Додатковий лист: Звільнення важких ключових точок
+087 lha dbang gi bkol byang dang [txt] Поклик божественної влади та настанови для видінь та виправлень
+088 nyams chag skong ba'i man ngag [txt] Настанови для виправлення видінь та перерв
+089 mchod phreng dri za'i rgyud mangs [txt] Багато ланцюгів поклонінь: Ароматний ланцюг
+090 tshe 'das phan gdags cho ga gzhan phan thugs dra [txt] Ритуал на користь померлих: Сердечна дія на користь інших
+091 bsreg sbyong sgrib gnyis rnam grol [txt] Спалення очищення: Звільнення двох перешкод
+092 bka' srung ma mgon lcam dral [txt] Захисниця вчення: Махакала Лам Драл
+093 lcam dral gsum gyi srog gtad [txt] Встановлення життя для трьох Лам Драл
+094 lcam dral sgrub pa'i gnad yig [txt] Ключові листи для практики Лам Драл
+095 mdos skong srid bzhi bzhengs [txt] Виправлення мод: Створення чотирьох світів
+096 mkha' 'gro'i 'khrugs skong [txt] Бурхливе виправлення дакіні
+097 g.yul mdos bdud dpung zil gnon [txt] Мод цілі: Пригнічення демонів
+098 de'i sogs kyi yig chung [txt] Малі листи для цього та подібних
+099 gza' rgod srog gi spu gri dang [txt] Співпричинний спис: Дикий зірка життя
+100 bskul byang dug rlangs 'tshubs ma [txt] Посібник виклику: Отруйний вихор
+101 tshe ring ma'i srog gtad [txt] Встановлення життя для Церен ма
+102 mchod phrin dpag bsam yongs 'du [txt] Поклоніння та дія: Повне збирання уяв
+103 gab yig don yod zhags pa [txt] Огляд листа: Значущі жертовники
+104 de'i yang yig chig brgyud ma [txt] Додатковий лист: Неперервна лінія
+105 g.yang 'gugs [txt] Введення благ
+106 gtal dkar ma'i phyugs gta' [txt] Біла стріла: Жертва для Гтал Кар ма
+107 brgyud mgon legs ldan tshogs bdag skong ba [txt] Виправлення для божества зборища Легден
+108 mgon po legs ldan gyi bskang ba rgyun khyer [txt] Постійне вшанування Махакали Легден
 
- 1. ji.   thugs sgrub dpal chen 'dus pa las: khrag 'thung rigs bzhi'i sgos dbang (khrag 'thung sgos dbang) (3-17)
- 2. ju.    dpal chen bka' 'dus rgya mtsho las: sgrubs pa?i khog ?bubs rin po che 'i za ma tog (sgrub khog) (18-43)
- 3. je.   thugs sgrub dpal chen 'dus pa las he ru ka rigs bzhl'i scos sgrub bsnyen pa'l dmar byang (rigs bzhl?i bsnyen yig)) (44-48)
- 4. jo.   klong snying bka' 'dus rgya mtsho las: bdag 'jug dbang don rgya mtsho (bdag 'jug) (49-70) 
- 5. nyi.  thugs sgrub dpal chen 'dus pa las: rol pa chen po'i gtor bzlog (gtor bzlog) (71-157)
- 6. nyu.  thugs sgrub dpal chen 'dus pa las: rol pa chen po'i gtor zlog gi gzer kha zab mo gud du byung (i.e. sbas) ba (gzer kha) (158-170)
- 7. nye.   dpal chen srung bzlog 'khor lo yi//zhal shes gnad don gsal byed bzhugs (zhal shes)) (171-177)
- 8. nyo.  klong chen snying gi thig le las: che mchog bdud rtsi 'khyil pa yon tan 'dus pa'l dkyil 'khor (bdud rtsi yon tan) (178-201)
- 9. ti.    sman sgrub lag len zin tho (sman sgrub lag len) (202-209)
-10. tu.  bskyed rim lha'i khrid kyi rnam par gzhag pa 'og min bgrod pa' i them skas (bskyed rim) (210-260)
-11. te.     rig 'dzin zhi drag gi sgo nas/ zhi ba'i sbyin sreg ye shes me lce (zhi sbyin) (261-274)
-12. to.    dpal chen bka' 'dus rgya mtsho las/las bzhi mchog dang lnga'i sbyin sreg dngos grub rgya mtsho'i za ma tog (sbyin sreg) (275-332)
-13. tam.  klong chen snying gi thig le las: skong bshags rdo rje'i thol glu (skong bshags) (333-348)
-14. thi.  klong chen snying gi thig le las: gsang sgrub thugs rje chen po sdug bsngal rang grol (thugs chen) (349-358)
-15. thu.  thugs rje chen po sdug bsngal rang grol gyi cho ga 'i dka' 'grel dbyar gyi rnga gsang (dka' 'grel) (359-375)
-16. the.  thugs rje chen po sdug bsngal rang grol las: dbang don bdag 'jug gsal ba (dbang don)) (376-380)
-17. tho.  thugs rje chen po sdug bsngal rang grol las/ pra khrid dmar byang gnad yig (pra khrid) (381-394)
-18. di.  'phags pa'i gsol 'debs zhal mthong ma) (395-399)
-19. du.   klong chen snying gi thig le las: rta mgrin 'dus pa'i sgrub thabs (rta mgrin 'dus pa)) (400-402)
-20. de.    yang gsang bla ma'i sgrub pa thig le'i rgya can gyi brgyud 'debs byin rlabs char 'bebs (snying tig yang gsang bla sgrub las byang) (403-421) 
+bzhugs pa 'bor ldeb grangs 397 yod pa dge legs phel//_//
 
-dkar chag: yang gsang bla sgrub thog mtha' chog bsgrigs can
+pust'i ka gsum pa [vol] Том 3
+hU~M can gyi tshan grangs [sec] Тексти про HŪṂ
+gsang dbang gi lam khyer skor [sec] Коло носіння таємного втілення
 
-21. do.   klong chen snying gi thig le las: bla ma drag po rta khyung 'bar ba (rta khyung) (422-426)
-22. ni.     bla ma drag po rta khyung 'bar ba las: dbang dang bsnyen pa'i gnad yig (bsnyen yig) (427-429)
-23. nu.     bla ma drag po rta khyung 'bar ba las: klu'i gdon 'grol 'og gdon mthar byed (gdon 'grol) (430-444)
-24. ne.   klong chen snying gi thig le las: gzhi lam 'bras bu'i smon lam (rdzogs chen smon lam) (445-447)
-26. no.     sku gsum zhing khams sbyong ba'i gsol 'debs smon lam (zhing sbyong smon lam) (448-453)
-27. pi.     bar do'i smon lam dgongs gcig rgya mtsho (bar do'i smon lam) (454-464)
-28. pu.    bden tshig 'grub pa'i pra ni dha na rnam mkhyen grong jug (pra ni dha) (465-468)
-           bden tshig 'grub pa'i pra Ni d+ha rnam mkhyen grong 'jug ces bya ba ni/
-29. pe.   klong chen snying gi thig le las: rgyal ba rig 'dzin gyi srog 'khor dpal gyi gdu bu bzhugs: btags grol (srog 'khor) (469-479)
-30. po.     zhi khro ngang song sbyong ba'i chog sgrigs khrom dkrugs gsal ba'i rgyan zhes bya ba bklags chog mar bkod pa (zhi khro chog sgrigs) (480-540)
+109 'pho ba ma sgoms sangs rgyas [txt] Перенесення свідомості без практики: Пробудження будди
+110 'pho ba'i ngo sprod nyung ngu [txt] Коротке введення в сутність перенесення
+111 bde stong rlung gi rdzogs rim dang [txt] Етап завершення з вітром блаженства-порожнечі та
+112 de'i zhal shes [txt] Вступ до цього
+113 gtum mo'i 'bar 'dzag yig chung [txt] Малий лист спалахів чандалі
+114 thabs lam ma bsgom sangs rgyas 'khrul 'khor [txt] Йога без практики шляху методів: Пробудження будди
+115 'khrul 'khor lag khrid [txt] Ведення рук для йоги
+116 gtum mo'i gsol 'debs rdo rje'i tshig rkang [txt] Молитва чандалі: Ваджряні вірші
+117 gcod yul mkha' 'gro'i gad rgyangs [txt] Розтин цілі: Гучний крик дакіні
+118 de'i yig chung phyin drug lang tsho [txt] Малий лист для цього: Шість трансцендентних мов
+119 kun tu bzang po ye shes klong rgyud le'u lnga pa [txt] Глава п'ята: Тантра океану премудрості Самантабхадри
+120 de'i man ngag gi rgyud phyi ma [txt] Зовнішня тантра настанов для цього
+121 lung kun tu bzang po'i dgongs nyams [txt] Видіння наміру Самантабхадри з пророцтв
+122 man ngag gi ye shes gnad gsum shan 'byed [txt] Розрізнення трьох ключових премудростей настанов
+123 blo sbyong gi khrid yig thar pa'i them skas [txt] Посібник тренування розуму: Сходи звільнення
+124 thun mong sngon khrid lag len 'debs lugs [txt] Звичайні попередні практики: Метод застосування
+125 thun min khrid rig dran pa nyer bzhag [txt] Неперервне ведення: Згадування усвідомлення двадцяти
+126 khyad par khrid yig ye shes bla ma [txt] Особливе ведення: Йога премудрості гуру
+127 rgyab chos skor la dbang gi nges 'byed dang rnal 'byor gyi rim pa ston pa pad+madakar po [txt] Лотосовий вчення: Визначення втілення та етапи йоги
+128 rtsa ba rdo rje'i tshig rkang [txt] Корінь: Ваджряні вірші
+129 de'i don 'grel kun mkhyen zhal lung [txt] Коментар до значення: Поради Всемогутнього
+130 gol shor tshar gcod seng ge'i nga ro [txt] Різке розтин помилок: Рев лева
+131 rdzogs chen gnas lugs cer mthong [txt] Повне бачення природи Дзогчен
+132 ri chos zhal gdams ngo mtshar rgya mtsho [txt] Чудовий океан порад: Вчення гір
+133 gtor ma'i zin bris bcas rtsa ba'i chos skor dang [txt] Основний дхарма-коло з нотатками торма
+134 de'i rjes 'brangs nyer mkho thor bu'i skor la [txt] Коло важливих наслідків для цього
+135 thang stong rgyal po'i zhal gdams ko gru'i 'jigs skyob [txt] Поради королів Тангтон: Захист від Когру
+136 mdo sngags zung 'jug spyod yul lam khyer [txt] З'єднання сутр та тантр: Шлях практики
+137 bdag nyid chen po bai ro'i sgrub thabs [txt] Практика великого я: Вайрочана
 
-Volume 3
+rig 'dzin 'jigs med gling pa la brten bla ma'i rnal 'byor [sec] Йога гуру, що спирається на Відьмодержателя Джігме Лінгпу
+rgyal gdon zhi ba'i sgom bzlas [sec] Медитація заспокоєння царських демонів
+bsnyen gnas kyi cho ga bya rgyud bde lam rnams te sogs le tshan bzhi [sec] Ритуали відступництва: Приємні шляхи втілення та інші чотири розділи
 
-gsang dbang gi lam khyer skor
+138 tshes bcu'i gsol 'debs [txt] Молитви десятого дня
 
- 1. dze.  klong chen snying gi thig le las: 'pho ba ma bsgoms sangs rgyas (3-6) 
- 2. dzo.   'pho ba'i ngo sprod nyung ngu: gshin 'pho (7-12) 
- 3. wi.   klong chen snying gi thig le las: bde stong rlung gi rdzogs rim snyan rgyud shog dril yid bzhin nor bu (bde stong rlung rdzogs zhal shes dang bcas pa) (13-22) 
- 4. wu.   klong chen snying gi thig le las: gtum mo'i 'bar 'dzag yig chung (23-26) 
- 5. we.   snyan brgyud shog dril yid bzhin nor bu'i sbas don thabs lam ma bsgoms sangs rgyas ('khrul 'khor) (27ñ35) 
- 6. wo.   klong chen snying gi thig le las: rig 'dzin 'khrul 'khor sbas don gsal ba ('khrul 'khor lag khrid) (36-51) 
- 7. zhi.  klong chen snying gi thig le las: gtum mo'i gsol 'debs rdo rje'i tshig rkang) 52 
- 8. zhu.  klong chen snying gi thig le las: gcod yul mkha' gro'i gad rgyangs (53-67) 
- 9. zhe.   gcod mkhan rnams kyi nye bar spyad pa'i rnam bshad phyin drug lang tsho) (68-72) 
-10. zho.  klong chen snying gi thig le las: rdzogs pa chen po kun tu bzang po ye shes klong gi rgyud (le'u lnga pa) (73-95)
-11. zi.   klong chen snying gi thig le las: man ngag rdzogs pa chen po'i rgyud phyi ma (96-105) 
-12. zu.   klong chen snying gi thig le las: kun tu bzang po'i dgongs nyams (106-115)
-13. ze.   klong chen snying gi thig le las: rdzogs pa chen po'i gnad gsum shan 'byed: ye shes gnad gsum shan 'byed (116-120)
-14. zo.    thun mong gi sngon 'gro sems sbyong rnam bdun gyi don khrid thar pa'i them skas (blo sbyong gi khrid yig thar pa'i them skas) (121-226)
-15. 'i.  rdzogs pa chen po klong chen snying tig gi thun mong gi sngon 'gro khrid kyi lag len la 'debs lugs (227-263)
-16. 'u.  rdzogs pa chen po klong chen snying thig gi thun mong ma yin pa'i sngon 'gro'i khrid yig dran pa nyer gzhag (264-297)
-17. 'e.  rdzogs pa chen po klong chen snying tig gi gdod ma'i mgon po'i lam gyi rim pa'i khrid yig ye shes bla ma (298-462)
+gu ru'i gsol 'debs [sec] Молитви Гуру
 
-rgya b chos skor
+139 thun mong dang thun min ngag 'don skor [txt] Звичайні та неперервні читання
 
-18. 'o.   klong chen snying gi thig le las: rdo rje theg pa'i smin grol lam gyi rim pa las 'phros pa'i man ngag gi rgyab brten padma dkar po (463-516)
-19. yi.    gnas lugs rdo rje'i tshig rkang (517-519)
-20. yu.     rig 'dzin mkha' 'gro dgyes pa'i gsang gtam/
-           /yid dpyod grub mtha' 'jig pa'i tho lu ma/
-        /snying phyung lag mthil bkram pa'I man ngag /gsang bdag dga' rab dpa' bo'i thol glu/
-           /kun mkhyen zhal lung bdud rtsi'i thigs pa (rdo rje'i tshig rkang gi don 'grel kun mkhyen zhal lung) (520-546)
-21. ye.  snying tig sgom pa'i bya bral gyi/ gol shor tshar gcod seng ge'i nga ro (547-565)
-22. yo,  rdzogs pa chen po gnas lugs cer mthong (566-573)
-23. ri.      ri chos zhal gdams ngo mtshar rgya mtsho (574-589)
-24. ru.   klong chen snying thig gi gtor ma'i re gzig gsal ba: gtor ma'i zin bris) (590ñ595)
+kun mkhyen lugs kyi chu gtor brgya rtsa'i lhan thabs dang 'brel ba'i spungs gtor khyer bde [sec] Методи ста основних водних торма за традицією Всемогутнього та пов'язані накопичувальні торма, носимий з радістю
+dkar gsung / dmar gsung bcas [sec] Білі та червоні читання
 
-digitized by 'jam dpal sgrol ma
+140 gson gshin bsngo ba [txt] Поклоніння голодним духам
+141 mchod phreng khun rgyu dang arga spo chog [txt] Ритуал ланцюгів поклонінь з ладаном та парфумами
+142 rab gnas kyi cho ga bkra shis 'dod 'jo bcas [txt] Ритуал освячення: Бажаючи щастя та успіху
+
+spyir chos tshan brgya dang so drug la nang gses su brgya dang lnga bcu nga bdun bzhugs la pusti phyi ma'i chos sde'i rnam grangs so gcig la ldeb grangs 362 yod cing spyi 'bor chig stong gcig brgya sum cu so lnga [sec] Загалом сто шістдесят шість назв дхарм, внутрішньо сто п'ятдесят сім, для наступних томів двадцять одна дхарма-збірка з 362 сторінками, загалом тисяча сто тридцять п'ять
+bzhugs pa dge zhing bkra shis//__//sarba shub+ha//_//
+
+pust'i ka bzhi pa [vol] Том 4
+swA can gyi tshan grangs [sec] Тексти про SVĀ
+snying thig bla brgyud gsol 'debs gsung rgyun ma ldeb [sec] Неперервний потік промов: Молитви лінійки передачі Серцевин
+
+143 brgyud pa'i gsol 'debs byin rlabs sprin mdzes kha skong bcas ldeb [txt] Молитва лінійки передачі з хмарою благословень та доповненням
+144 rig 'dzin 'jigs med gling pa'i 'khrung rabs gsol 'debs ldeb [txt] Молитва про народження Відьмодержателя Джігме Лінгпи
+145 rnam thar gsol 'debs ldeb [txt] Молитва про життєопис
+
+'jigs gling gsung*/ [sec] Промови Джігглінґ
+'phags yul rig 'dzin mchog brgyad gsol 'debs ldeb [sec] Молитви восьми верховних відьмодержателів священної країни
+
+146 sngon 'gro'i ngag 'don rnam mkhyen lam bzang ldeb [txt] Читання попередніх практик: Шлях Вседосвідченого
+
+rdo grub phrin las 'od zer gsung*/ [sec] Промови Ратнабхадри Дії Світла
+sngon 'gro mdor bsdus byang chub lam bzang ldeb [sec] Короткий огляд попередніх: Шлях пробудження
+
+147 sngon 'gro'i dmigs rim snying po'i dril ba zab don 'dud rtsi'i snying khu ldeb [txt] Візуалізаційна послідовність попередніх: Суть глибокого значення, серце нектару
+
+mkhyen brtse'i dbang po'i gsung*/ [sec] Промови Володаря Співчуття
+rigs 'dus brgyud 'debs dngos grub char 'bebs rdo grub bstan pa'i nyi ma'i gsung ldeb [sec] Молитва лінійки Збирання Родів: Дощ сіддхі
+
+148 rigs 'dus bdud rtsi'i chig sgrub ldeb [txt] Одночасна практика амріти Збирання Родів
+149 rigs 'dus skong 'dus rdo rje'i rgyud mangs ldeb [txt] Багато тантр Ваджри: Збирання виправлень Збирання Родів
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+rtsa dbang rgyal thabs spyi blugs kyi mtshams sbyor pad+mi do shal guNa'i gsung ldeb [sec] Підготовка для загального могутнього корінного втілення
+
+150 rigs 'dus lha dbang pad+marA ga'i phreng ba ldeb [txt] Ланцюг Падмаряги: Божественне втілення Збирання Родів
+151 rigs 'dus tshe dbang yid bzhin dbang rgyal ldeb [txt] Втілення довголіття за бажанням: Втілення короля Збирання Родів
+
+phrin las 'od zer gsung*/ [sec] Промови Дії Світла
+rig 'dzin tshe dbang grangs gsog ldeb [sec] Збірка втілень довголіття Відьмодержателів
+
+152 rigs 'dus rtsa dbang yan lag bdun pa [txt] Сім гілок корінного втілення Збирання Родів
+'chad tho sogs zin bris sna tshogs ldeb [sec] Різні нотатки, розриви тощо
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+153 rigs 'dus bdag 'jug rdo rje'i byin 'bebs mang+ga la'i gsung ldeb [txt] Дощ благословень Ваджри: Самопосвячення Збирання Родів
+154 rdo rje sems dpa' mngon dga'i zhing sbyong gter gzhung ldeb [txt] Тренування поля явного радості Ваджрасаттви
+155 rdo rje sems dpa' bla mchod rgyud 'debs ldeb [txt] Молитва лінійки для поклоніння гуру Ваджрасаттви
+156 phrin las bde chen lam bzang ldeb [txt] Шлях Великого Блаженства: Дія
+157 khyad par gyi phrin las bde chen snying po ldeb [txt] Особлива дія: Суть Великого Блаженства
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+158 jo lugs sgrol dkar brgyud 'debs ldeb [txt] Молитва лінійки традиції Атіши для Білого Тари
+159 jo lugs sgrol dkar rtsa ba 'jigs gling gsung dang [txt] Основний текст традиції Атіши для Тари: Промови Джігглінґ
+
+kha skong rwa ston bstan 'dzin rdo rje dang mkhyen brtse'i gsung bcas tshan sbrel ldeb [sec] Доповнення, Рвастон Тензін Дордже та промови Співчутливого з пов'язаними назвами
+
+160 snying thig bla brgyud phyag mchod ldeb [txt] Поклоніння лінійці Серцевин
+161 'od chog tshe sgrub mkhyen brtse'i gsung ldeb [txt] Практика довголіття: Верхнє світло
+162 bde can dbang ma rig mun sel phrin las 'od zer gsung ldeb [txt] Втілення Райського: Усунення темряви невігластва
+163 thugs chen sdug bsngal rang grol brgyud 'debs byin rlabs dpal ster ldeb [txt] Молитва лінійки Великосердного Природного Звільнення від Страждань: Слава благословень
+164 sems ma bzhi'i mngon rtogs ldeb [txt] Явне усвідомлення чотирьох богинь розуму
+165 myong grol ril sgrub dmigs bzlas ldeb [txt] Візуалізація та повторення для практики пігулок звільнення на смак
+166 myong grol ril dbang ldeb [txt] Втілення для пігулок звільнення на смак
+167 thugs chen gnas lung grangs gsog ldeb [txt] Збірка наставлень для Великосердного
+168 'pho ba'i mtshams sbyor ldeb [txt] Підготовка для перенесення
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+169 thugs chen tshogs mchod bsod nams dpal ster ldeb [txt] Цацу мандала Великосердного: Слава заслуг
+170 bskang bshags ldeb [txt] Вшанування та сповідь
+171 gnas 'dren rnam grol lam bzang ldeb [txt] Шлях досконалого звільнення: Ведення осілості
+
+phrin las 'od zer gsung*/ [sec] Промови Дії Світла
+
+172 sreg sbyong gi chog sgrigs thar pa'i 'od ldeb [txt] Світло звільнення: Ритуальне впорядкування спалення очищення
+173 rus sngags ldeb [txt] Мантри для кісток
+174 byang thal swa ts+ts+ha gdab pa'i cho ga ldeb [txt] Ритуал встановлення цаца
+175 sAts+tsha bsgrub tshul ldeb [txt] Метод практики цаца
+176 sAts+tsha bsgrub lag len ldeb [txt] Практика для цаца
+
+bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
+
+177 sdug bsngal rang grol rgyun khyer mang+ga la'i gsung ldeb [txt] Постійне носіння Природного Звільнення від Страждань
+178 dbang chog 'od dkar mtha' yas phrin las 'od zer gsung ldeb [txt] Ритуал втілення: Нескінченне біле світло
+179 sgrub chen khog dbub gzhan phan bdud rtsi'i snang ba ldeb [txt] Явлення амріти на користь інших: Внутрішня великої практики
+180 zhing mchog po tA la ru skye ba'i smon lam ldeb [txt] Молитва про народження в верховному полі Далай
+
+mang+ga la'i gsung*/ [sec] Промови Мангал
+
+181 yang gsang bla sgrub smin byed ye shes mchog sbyin [txt] Найвищий дар премудрості: Зріла практика найтаємнішої гуру
+
+myong grol ril sgrub bcas ldeb [sec] Практика пігулок звільнення на смак та
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+182 bshags skong dang bdag 'jug gi rim pa 'od gsal snang ba mang+ga la'i gsung ldeb [txt] Явлення ясного світла: Етапи сповіді, виправлення та самопосвячення
+183 bsnyen yig grub gnyis shing rta ldeb [txt] Текст повторення для двох практик: Кінь
+184 mchod phreng bsdus pa rdo rje sgra ma'i mchod sprin ldeb [txt] Зібрані ланцюги поклонінь: Хмари поклонінь звуку Ваджри
+185 tshogs 'khor tshims pa drug ldan ldeb [txt] Колесо цацу з шістьма задовольненнями
+186 drag po rta khyung dbang bskur dngos grub 'dod 'jo ldeb [txt] Втілення суворого Хаягріви: Бажаючи сіддхі
+187 dbang bskur grangs gsog ldeb [txt] Збірка втілень
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+188 byin rlabs dbang gi cho ga rdo rje pha lam phrin las 'od zer gsung ldeb [txt] Ритуал благословляючого втілення: Батько Ваджра
+189 las byang ldeb [txt] Посібник дій
+190 byin rlabs rdo rje'i do shal ldeb [txt] Шовкове втілення благословень Ваджри
+
+gu Na'i gsung*/ [sec] Промови Гуна
+
+191 bsnyen tho rin chen sgron me mang+ga la'i gsung ldeb [txt] Коштовна лампа: Текст повторення
+192 dpal chen 'dus pa phrin las snying po ldeb [txt] Суть дії: Збори Великої Слави
+193 dpal 'dus rgyud khyer ldeb [txt] Носима тантра Зборів Слави
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+194 dpal 'dus bskang ba bstan pa'i nyi ma'i gsung ldeb [txt] Вшанування Зборів Слави
+195 dpal chen 'dus pa'i spros bcas sgrub chen gyi stong thun rab brjid dpal gyi rngams sgra ldeb [txt] Звук форми слави: Пропускання та концептуалізація для великої практики Зборів Суворої Великої Слави
+196 dpal chen 'dus pa'i rtsa sngags kyi rnam bshad gsang ba grub pa'i dgongs rgyan ldeb [txt] Прикраса наміру: Пояснення корінних мантр Зборів Великої Слави
+197 rtsa sngags dang sbyar ba'i bstod cing rjes su dran pa'i thol glu mi shigs rdo rje dbyangs kyi rol mo ldeb [txt] Неперервна мелодія Ваджри: Пісня хвали та згадки, поєднана з корінними мантрами
+
+mang+ga la'i gsung*/ [sec] Промови Мангал
+
+198 yum bka'i gsol 'debs bden gnyis myu gu ldeb [txt] Молитва наказів Матері: Подвійна істина, близнюки
+199 yang gsol 'debs bsdus pa ldeb [txt] Зібрані додаткові молитви
+
+phrin las 'od zer gsung*/ [sec] Промови Дії Світла
+
+200 yum bka'i brgyud 'debs bde chen char 'bebs ldeb [txt] Молитва лінійки наказів Матері: Дощ Великого Блаженства
+201 tshogs mchod bsdus pa grum gnyis dpal phreng ldeb [txt] Зібрана цацу мандала: Подвійний вузол, славний ланцюг
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+202 yum bka'i bskang ba bstan pa'i nyi ma'i gsung ldeb [txt] Вшанування наказів Матері
+203 yum bka'i dbang chog bde chen bcud 'bebs gu Na'i gsung ldeb [txt] Ритуал втілення наказів Матері: Дощ есенції Великого Блаженства
+204 yum bka'i las tshogs bzhi pa tshe dbang nyer bsdus mkhyen brtse'i gsung ldeb [txt] Чотири збори дій наказів Матері: Збірка втілення довголіття
+205 rtsa gsum yum bka'i mkha' 'gro'i bsun bzlog las [sec] Зворотне вбивство дакіні з наказів Матері трьох родів
+
+brtan bzhugs dang sun bzlog mang+ga la'i gsung ldeb [sec] Стійке встановлення та зворотне вбивство
+
+206 gsang sgrub seng gdong gsol 'debs byin rlabs char 'bebs phrin las 'od zer gsung ldeb [txt] Молитва для таємної практики Сінгдон: Дощ благословень
+207 seng gdong bskang ba ldeb [txt] Вшанування Сінгдон
+208 rgyal dbyangs ba dan dkar po'i che rtags ldeb [txt] Білий левовий голос: Знаки величі
+
+bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
+
+209 zhi khro ngan song sbyong ba'i bdag 'jug rdo rje bzhi bskyed ldeb [txt] Генерація чотирьох Ваджр: Самопосвячення для тренування спокійного та гнівного поганої долі
+210 bsnyen yig rig 'dzin 'jug ngog ldeb [txt] Текст повторення: Вхід Відьмодержателя
+
+mang+ga la'i gsung [sec] Промови Мангал
+
+211 rtsa gsum gtor bsngos nyer bsdus dngos grum mchog sbyin ldeb [txt] Збірка двадцяти торма трьох родів: Верхній дар фактичних скупчень
+212 sngags srung ma'i gtor bsngo ldeb [txt] Торма поклоніння для захисниці мантр
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+213 ma mo'i 'khrugs skong nyer bsdus bstan pa'i nyi ma'i gsung ldeb [txt] Збірка двадцяти бурхливих виправлень ма мо
+214 tshogs bdag gtor 'bul rdo grub gsung ldeb [txt] Жертва торма цацу божества
+215 dam can phrin bcol klong chen gsung ldeb [txt] Покликання обітничників: Великий простір
+216 zhing skyong dur khrod lha mo'i gsol mchod 'jigs gling gsung ldeb [txt] Молитва та поклоніння богині поля та кладовища
+217 dur khrod lha mo'i mnga' gsol bstan pa'i nyi ma'i gsung ldeb [txt] Велика молитва богині кладовища
+218 ma mgon tshogs mchod ldeb [txt] Цацу мандала Махакалі
+219 ma mgon bzlas dmigs ldeb [txt] Візуалізація повторення Махакалі
+220 tshe ring mched lnga'i tshogs mchod ldeb [txt] Цацу мандала п'яти сестер Церен
+
+mkhyen brtse'i gsung*// [sec] Промови Співчутливого
+pust'i ka lnga pa [vol] Том 5
+
+hA can gyi tshan grangs [sec] Тексти про HĀ
+
+221 ma mgon g.yul mdos kyi 'don zin kun gsal me long mang+ga la'i gsung ldeb [txt] Дзеркало всепрояснюючого: Читання нотаток для мод цілі Махакалі
+222 ma mgon g.yul mdos kyi sku tsaka ldeb [txt] Цаца для мод цілі Махакалі
+223 tshe ring mched lnga'i mnga' gsol dpag bsam yongs 'dus phrin las 'od zer gsung ldeb [txt] Велика молитва п'яти сестер Церен: Повне збирання уяв
+224 mnga' gsol phan bde'i pho nya bstan pa'i nyi ma'i gsung ldeb [txt] Книга користі та щастя: Велика молитва
+225 g.yu sgron gsol mchod sman btsun mgul rgyan 'jigs gling gsung ldeb [txt] Тюркоузовий ліхтар: Молитва та поклоніння для зцілення ченця
+226 gsol bsdus skad cig dran rdzogs phrin las 'od zer gsung ldeb [txt] Зібрані молитви: Мить повного згадування
+227 dam can rgya mtsho'i ru mtshon mnga' gsol ldeb [txt] Велика молитва з танцювальними жестами океану обітничників
+228 skong bshags ldeb [txt] Виправлення та сповідь
+229 phrin bcol ldeb [txt] Покликання
+
+'jig gling gsung*/ [sec] Промови Джігглінґ
+
+230 rdo rje'i chos srung la mngon par bstod pa rgyal sras gzhan phan mtha' yas gsung ldeb [txt] Явна хвала ваджряному захиснику дхарми
+231 za ngu'i phrin bcol dpal sprul gsung ldeb [txt] Покликання За Нгу: Розлите сяйво
+232 'dod gsol phrin las 'od zer gsung ldeb [txt] Молитва бажань
+233 rab gnas bkra shis 'dod 'jo'i snying po nye bar bsdus pa ldeb [txt] Суть освячення: Бажаючи щастя та успіху, коротко зібране
+234 rab gnas bkra shis 'dod 'jo'i phyag len reg zin nyung gsung ldeb [txt] Короткі нотатки практики для освячення: Бажаючи щастя та успіху
+
+mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+235 rig 'dzin 'dus pa'i zin bris rig 'dzin zhal lung bde chen dpal gter rdo grub mkhan po dkon mchog sgron me gsung ldeb [txt] Нотатки Зборів Відьмодержателів: Поради Відьмодержателя, скарб Великого Блаженства
+236 dpal chen 'dus pa'i rnam bshad rin chen snang ba mang+ga la'i gsung ldeb [txt] Пояснення Зборів Великої Слави: Коштовне явлення
+237 yum bka' bde chen rgyal mo'i zin bris bde chen lam bzang gsal ba'i sgron me bstan pa'i nyi ma'i gsung ldeb [txt] Нотатки для Королеви Великого Блаженства наказів Матері: Лампа, що прояснює шлях Великого Блаженства
+238 yum bka'i zin bris kha skong rig 'dzin zhal lung dkon mchog sgron me'i gsung ldeb [txt] Нотатки та доповнення для наказів Матері: Поради Відьмодержателя
+239 klong chen snying gi thig le'i rtsa ba gsum gyi spros bcas sgrub mchod rgyas pa'i khog phub grub gnyis 'dod dgu'i rol mtsho ldeb [txt] Розширена практика та поклоніння для трьох корінних Серцевин величезного простору: Подвійна практика, океан ігор дев'яти бажань
+240 klong chen snying gi thig le'i rtsa ba gsum spyi bye brag gi dbang bskur gyi phreng ba bklag chog tu bkod pa zab gsang bdud rtsi'i sgo 'byed skal bzang kun dga'i rol ston 'jig med mkhyen brtse'i 'od zer rab gsal zla ba'i gsung ldeb [txt] Ланцюг втілення для загального та особливого трьох корінних Серцевин величезного простору: Відкриття дверей таємного нектару, гра радості для щасливих
+241 gzhi lam 'bras bu'i smon lam gyi 'grel pa yon tan rgya mtsho'i gsung ldeb [txt] Коментар до молитви основ, шляху та плоду: Океан якостей
+242 sku gsum zhing khams sbyong ba'i smon lam gyi 'grel pa ldeb [txt] Коментар до молитви тренування полів та сфер трьох тіл
+243 rdzogs pa chen po klong chen snying thig gi rtsa ba gsum gyi lam rim dang 'brel ba'i smon lam rig pa 'dzin pa'i bden tshig ldeb [txt] Молитва, пов'язана з етапами шляху трьох корінних Великого Досконалого Серцевин величезного простору: Обітниця тримання усвідомлення
+
+bcas bzhugs so//_//
