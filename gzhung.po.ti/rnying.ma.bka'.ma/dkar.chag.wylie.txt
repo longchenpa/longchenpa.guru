@@ -5,16 +5,16 @@ kun bzang rdor sems dga' rab pad 'byung sogs/_/snga 'gyur bka' ma'i brgyud rim l
 skor tsho dang po la mdo sngags lam gyi 'jug sgo skyabs 'gro dang /_rgyu mtshan nyid kyi theg pa/_'bras bu rdo rje theg pa ste gsum las/_
 !_dang po lam gyi 'jug sgo skyabs 'gro'i skor la/_
 bka' ma rtsa ba'i chos sde'i glegs bam (ka)001pa 'dir/_
-Прихисток Вімаламітри:: skyabs 'gro yan lag drug pa slob dpon chen po dri med bshes gnyen gyis mdzad pa ldeb 2/_
-Прихисток:: skyabs 'gro yan lag drug pa dang bdun cu ba'i chos kyi bdag po rnams la gsol 'debs brgyud bla ma'i byin rlabs dpal ster dpal gyi seng ge'i gsung lde 2/_
-Прихисток:: Простирания skyabs 'gro yan lag drug pa'i phyag yul dang skyabs gnas gsol 'debs dpal gyi seng ge'i gsung ldeb 2/_
-Прихисток:: skyabs 'gro'i lung sbyor zla ba'i phreng mdzes dpal gyi seng ge'i gsung lde 13/
-Прихисток:: skyabs 'gro yan lag drug pa'i lung sbyor sgron me'i phreng mdzes dpal gyi seng ge'i gsung ldeb 16/_
-Прихисток:: skyabs 'gro yan lag drug pa'i spyi don dpal gyi seng ge'i gsung ldeb 13/
-Прихисток:: skyabs 'gro yan lag drug pa'i brgyud 'debs bsdus pa byin rlabs dpal skyed dpal gyi seng geyi gsung ldeb 1/_
-Прихисток:: skyabs 'gro yan lag drug pa lag tu blang nas rim par klog pa'i thabs dpal gyi seng ge'i gsung ldeb 2/_
-Прихисток:: skyabs 'gro yan lag drug pa bshad pa'i bskyud byang zin ma TI ka lo chen d+ha shrI'i gsung ldeb 10/_
-Прихисток:: skyabs 'gro yan lag drug pa'i sa bcad khol du phyungs pa ye shes rdo rje'i gsung ldeb 2/_
+skyabs 'gro yan lag drug pa slob dpon chen po dri med bshes gnyen gyis mdzad pa ldeb 2/_
+skyabs 'gro yan lag drug pa dang bdun cu ba'i chos kyi bdag po rnams la gsol 'debs brgyud bla ma'i byin rlabs dpal ster dpal gyi seng ge'i gsung lde 2/_
+skyabs 'gro yan lag drug pa'i phyag yul dang skyabs gnas gsol 'debs dpal gyi seng ge'i gsung ldeb 2/_
+skyabs 'gro'i lung sbyor zla ba'i phreng mdzes dpal gyi seng ge'i gsung lde 13/
+skyabs 'gro yan lag drug pa'i lung sbyor sgron me'i phreng mdzes dpal gyi seng ge'i gsung ldeb 16/_
+skyabs 'gro yan lag drug pa'i spyi don dpal gyi seng ge'i gsung ldeb 13/
+skyabs 'gro yan lag drug pa'i brgyud 'debs bsdus pa byin rlabs dpal skyed dpal gyi seng geyi gsung ldeb 1/_
+skyabs 'gro yan lag drug pa lag tu blang nas rim par klog pa'i thabs dpal gyi seng ge'i gsung ldeb 2/_
+skyabs 'gro yan lag drug pa bshad pa'i bskyud byang zin ma TI ka lo chen d+ha shrI'i gsung ldeb 10/_
+skyabs 'gro yan lag drug pa'i sa bcad khol du phyungs pa ye shes rdo rje'i gsung ldeb 2/_
 zag med kyi chos sde tshan nyer gcig gis bstod pa slob dpon dpa' bo'i gsung ldeb 3/_
 thub bstod thabs mkhas ma 'bri gung skyob pa'i gsung ldeb 2/_
 de bzhen gshegs pa khyed sku sogs shis smon ldeb 1/_
@@ -57,10 +57,10 @@ Volume 2 KHA
 snga 'gyur bka' ma rtsa ba'i chos sde'i glegs bam (kha)002 pa 'dir/_
 !_gsum pa 'bras bu sngags kyi theg pa las/_
 dang po phyi rgyud sde gsum gyi bya ba'i rgyud kyi phrin chog skor la/_
-Взаимозависимое Возникновение:: 'phags pa rten cing 'brel bar 'byung ba'i snying po ldeb 1/_
-Взаимозависимое Возникновение:: 'phags pa rten cing 'brel bar 'byung ba zhes bya ba theg pa chen po'i mdo ldeb 2/
-Взаимозависимое Возникновение:: 'phags pa rten cing 'brel bar 'byung ba'i snying po'i cho ga'i gzungs ldeb 4/
-Взаимозависимое Возникновение:: 'phags pa spyan ris gzigs bcu gcig zhal gyi bsgrub thabs bsnyung bar gnas pa dang 'brel ba'i cho ga gzhan phan 'od kyi drwa ba 'gyur med tshe dbang mchog grub kyi gsung ldeb 13/_
+'phags pa rten cing 'brel bar 'byung ba'i snying po ldeb 1/_
+'phags pa rten cing 'brel bar 'byung ba zhes bya ba theg pa chen po'i mdo ldeb 2/
+'phags pa rten cing 'brel bar 'byung ba'i snying po'i cho ga'i gzungs ldeb 4/
+'phags pa spyan ris gzigs bcu gcig zhal gyi bsgrub thabs bsnyung bar gnas pa dang 'brel ba'i cho ga gzhan phan 'od kyi drwa ba 'gyur med tshe dbang mchog grub kyi gsung ldeb 13/_
 phyag 'tshal 'gyur med tshe dbang mchog grub kyi gsung ldeb 1/_
 'phags pa spyan ras gzigs la bstod pa smon lam du bya ba gzhan phan par dkar phreng ba 'gyur med tshe dbang mchog grub kyi gsung ldeb 2/_
 a ma dran nas ma Ni bskul ba legs bshad kyi gsung ldeb 2/_
@@ -1763,3 +1763,4 @@ glegs bam gyi dkar chag ldeb 1/_khyon bsdoms chos tshan 5la ldeb grangs 243bzhug
 /slar yang 'khor ba ma stong bar/
 /bstan 'gro'i don rab 'grub par shog
 /zla tshes dge bar sa ras so/_/
+
