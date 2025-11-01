@@ -222,55 +222,53 @@ bzhugs pa dge zhing bkra shis// sarba shub+ha//
 pust'i ka bzhi pa [vol] Том 4
 
 swA can gyi tshan grangs [sec] Тексти про SVĀ
-snying thig bla brgyud gsol 'debs gsung rgyun ma ldeb [sec] Неперервний потік промов: Молитви лінійки передачі Серцевин
 
-143 brgyud pa'i gsol 'debs byin rlabs sprin mdzes kha skong bcas ldeb [txt] Молитва лінійки передачі з хмарою благословень та доповненням
-144 rig 'dzin 'jigs med gling pa'i 'khrung rabs gsol 'debs ldeb [txt] Молитва про народження Відьмодержателя Джігме Лінгпи
-145 rnam thar gsol 'debs ldeb [txt] Молитва про життєопис
+Історія:
 
-'jigs gling gsung*/ [sec] Промови Джігглінґ
-'phags yul rig 'dzin mchog brgyad gsol 'debs ldeb [sec] Молитви восьми верховних відьмодержателів священної країни
+137 snying thig bla brgyud gsol 'debs gsung rgyun ma ldeb [sec] Неперервний потік промов: Молитви лінійки передачі Серцевин
+138 brgyud pa'i gsol 'debs byin rlabs sprin mdzes kha skong bcas ldeb [txt] Молитва лінійки передачі з хмарою благословень та доповненням
+139 rig 'dzin 'jigs med gling pa'i 'khrung rabs gsol 'debs ldeb [txt] Молитва про народження Відьмодержателя Джігме Лінгпи
+140 rnam thar gsol 'debs ldeb [txt] Намтари
+--- bcas 'jigs gling gsung*/ Цикл Джігме Лінгпи завершено
+141 'phags yul rig 'dzin mchog brgyad gsol 'debs ldeb [sec]
 
-146 sngon 'gro'i ngag 'don rnam mkhyen lam bzang ldeb [txt] Читання попередніх практик: Шлях Вседосвідченого
+Ньондро:
 
-rdo grub phrin las 'od zer gsung*/ [sec] Промови Ратнабхадри Дії Світла
-sngon 'gro mdor bsdus byang chub lam bzang ldeb [sec] Короткий огляд попередніх: Шлях пробудження
+142 sngon 'gro'i ngag 'don rnam mkhyen lam bzang ldeb [txt]
+--- rdo grub phrin las 'od zer gsung*/ [sec] Цикл Додрубчена
+143 sngon 'gro mdor bsdus byang chub lam bzang ldeb [sec] Короткий огляд попередніх: Шлях пробудження
+144 sngon 'gro'i dmigs rim snying po'i dril ba zab don 'dud rtsi'i snying khu ldeb [txt] Візуалізаційна послідовність попередніх: Суть глибокого значення, серце нектару
+--- mkhyen brtse'i dbang po'i gsung*/ [sec] Цикл К'єнце Вангпо
+145 rigs 'dus brgyud 'debs dngos grub char 'bebs rdo grub bstan pa'i nyi ma'i gsung ldeb [sec] Молитва лінійки Збирання Родів: Дощ сіддхі
 
-147 sngon 'gro'i dmigs rim snying po'i dril ba zab don 'dud rtsi'i snying khu ldeb [txt] Візуалізаційна послідовність попередніх: Суть глибокого значення, серце нектару
-
-mkhyen brtse'i dbang po'i gsung*/ [sec] Промови Володаря Співчуття
-rigs 'dus brgyud 'debs dngos grub char 'bebs rdo grub bstan pa'i nyi ma'i gsung ldeb [sec] Молитва лінійки Збирання Родів: Дощ сіддхі
+Рігдзін Дюпа:
 
 148 rigs 'dus bdud rtsi'i chig sgrub ldeb [txt] Одночасна практика амріти Збирання Родів
 149 rigs 'dus skong 'dus rdo rje'i rgyud mangs ldeb [txt] Багато тантр Ваджри: Збирання виправлень Збирання Родів
-
-mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
-rtsa dbang rgyal thabs spyi blugs kyi mtshams sbyor pad+mi do shal guNa'i gsung ldeb [sec] Підготовка для загального могутнього корінного втілення
-
-150 rigs 'dus lha dbang pad+marA ga'i phreng ba ldeb [txt] Ланцюг Падмаряги: Божественне втілення Збирання Родів
-151 rigs 'dus tshe dbang yid bzhin dbang rgyal ldeb [txt] Втілення довголіття за бажанням: Втілення короля Збирання Родів
-
-phrin las 'od zer gsung*/ [sec] Промови Дії Світла
-rig 'dzin tshe dbang grangs gsog ldeb [sec] Збірка втілень довголіття Відьмодержателів
-
-152 rigs 'dus rtsa dbang yan lag bdun pa [txt] Сім гілок корінного втілення Збирання Родів
-
-'chad tho sogs zin bris sna tshogs ldeb [sec] Різні нотатки, розриви тощо
-mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
-
+--- mkhyen brtse'i gsung*/ [sec] Цикл Співчутливого
+150 rtsa dbang rgyal thabs spyi blugs kyi mtshams sbyor pad+mi do shal guNa'i gsung ldeb [sec] Підготовка для загального могутнього корінного втілення
+151 rigs 'dus lha dbang pad+marA ga'i phreng ba ldeb [txt] Ланцюг Падмаряги: Божественне втілення Збирання Родів
+152 rigs 'dus tshe dbang yid bzhin dbang rgyal ldeb [txt] Втілення довголіття за бажанням: Втілення короля Збирання Родів
+--- phrin las 'od zer gsung*/ [sec] Промови Патрула
+153 rig 'dzin tshe dbang grangs gsog ldeb [sec] Збірка втілень довголіття Відьмодержателів
+154 rigs 'dus rtsa dbang yan lag bdun pa [txt] Сім гілок корінного втілення Збирання Родів
+--- 'chad tho sogs zin bris sna tshogs ldeb [sec] Різні нотатки, розриви тощо
+--- mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 153 rigs 'dus bdag 'jug rdo rje'i byin 'bebs mang+ga la'i gsung ldeb [txt] Дощ благословень Ваджри: Самопосвячення Збирання Родів
+
+Дорсем Нгонга:
+
 154 rdo rje sems dpa' mngon dga'i zhing sbyong gter gzhung ldeb [txt] Тренування поля явного радості Ваджрасаттви
 155 rdo rje sems dpa' bla mchod rgyud 'debs ldeb [txt] Молитва лінійки для поклоніння гуру Ваджрасаттви
 156 phrin las bde chen lam bzang ldeb [txt] Шлях Великого Блаженства: Дія
 157 khyad par gyi phrin las bde chen snying po ldeb [txt] Особлива дія: Суть Великого Блаженства
+--- mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 
-mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+Біла Тара:
 
 158 jo lugs sgrol dkar brgyud 'debs ldeb [txt] Молитва лінійки традиції Атіши для Білого Тари
 159 jo lugs sgrol dkar rtsa ba 'jigs gling gsung dang [txt] Основний текст традиції Атіши для Тари: Промови Джігглінґ
-
-kha skong rwa ston bstan 'dzin rdo rje dang mkhyen brtse'i gsung bcas tshan sbrel ldeb [sec] Доповнення, Рвастон Тензін Дордже та промови Співчутливого з пов'язаними назвами
-
+--- kha skong rwa ston bstan 'dzin rdo rje dang mkhyen brtse'i gsung bcas tshan sbrel ldeb [sec] Доповнення, Рвастон Тензін Дордже та промови Співчутливого з пов'язаними назвами
 160 snying thig bla brgyud phyag mchod ldeb [txt] Поклоніння лінійці Серцевин
 161 'od chog tshe sgrub mkhyen brtse'i gsung ldeb [txt] Практика довголіття: Верхнє світло
 162 bde can dbang ma rig mun sel phrin las 'od zer gsung ldeb [txt] Втілення Райського: Усунення темряви невігластва
@@ -280,74 +278,67 @@ kha skong rwa ston bstan 'dzin rdo rje dang mkhyen brtse'i gsung bcas tshan sbre
 166 myong grol ril dbang ldeb [txt] Втілення для пігулок звільнення на смак
 167 thugs chen gnas lung grangs gsog ldeb [txt] Збірка наставлень для Великосердного
 168 'pho ba'i mtshams sbyor ldeb [txt] Підготовка для перенесення
-
-mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
-
+--- bcas mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 169 thugs chen tshogs mchod bsod nams dpal ster ldeb [txt] Цацу мандала Великосердного: Слава заслуг
 170 bskang bshags ldeb [txt] Вшанування та сповідь
 171 gnas 'dren rnam grol lam bzang ldeb [txt] Шлях досконалого звільнення: Ведення осілості
+--- bcas phrin las 'od zer gsung*/ [sec] Промови Дії Світла
 
-phrin las 'od zer gsung*/ [sec] Промови Дії Світла
+Цаца:
 
 172 sreg sbyong gi chog sgrigs thar pa'i 'od ldeb [txt] Світло звільнення: Ритуальне впорядкування спалення очищення
 173 rus sngags ldeb [txt] Мантри для кісток
 174 byang thal swa ts+ts+ha gdab pa'i cho ga ldeb [txt] Ритуал встановлення цаца
 175 sAts+tsha bsgrub tshul ldeb [txt] Метод практики цаца
 176 sAts+tsha bsgrub lag len ldeb [txt] Практика для цаца
-
-bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
-
+--- bcas bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
 177 sdug bsngal rang grol rgyun khyer mang+ga la'i gsung ldeb [txt] Постійне носіння Природного Звільнення від Страждань
 178 dbang chog 'od dkar mtha' yas phrin las 'od zer gsung ldeb [txt] Ритуал втілення: Нескінченне біле світло
 179 sgrub chen khog dbub gzhan phan bdud rtsi'i snang ba ldeb [txt] Явлення амріти на користь інших: Внутрішня великої практики
 180 zhing mchog po tA la ru skye ba'i smon lam ldeb [txt] Молитва про народження в верховному полі Далай
-
-mang+ga la'i gsung*/ [sec] Промови Мангал
-
-181 yang gsang bla sgrub smin byed ye shes mchog sbyin [txt] Найвищий дар премудрості: Зріла практика найтаємнішої гуру
-    myong grol ril sgrub bcas ldeb [sec] Практика пігулок звільнення на смак та
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- bcas mang+ga la'i gsung*/ [sec] Промови Мангал
+181 yang gsang bla sgrub smin byed ye shes mchog sbyin/ myong grol ril sgrub bcas ldeb [txt] Найвищий дар премудрості: Зріла практика найтаємнішої гуру. Практика пігулок звільнення на смак та
+--- bcas mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 182 bshags skong dang bdag 'jug gi rim pa 'od gsal snang ba mang+ga la'i gsung ldeb [txt] Явлення ясного світла: Етапи сповіді, виправлення та самопосвячення
 183 bsnyen yig grub gnyis shing rta ldeb [txt] Текст повторення для двох практик: Кінь
 184 mchod phreng bsdus pa rdo rje sgra ma'i mchod sprin ldeb [txt] Зібрані ланцюги поклонінь: Хмари поклонінь звуку Ваджри
 185 tshogs 'khor tshims pa drug ldan ldeb [txt] Колесо цацу з шістьма задовольненнями
 186 drag po rta khyung dbang bskur dngos grub 'dod 'jo ldeb [txt] Втілення суворого Хаягріви: Бажаючи сіддхі
 187 dbang bskur grangs gsog ldeb [txt] Збірка втілень
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- bcas mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 188 byin rlabs dbang gi cho ga rdo rje pha lam phrin las 'od zer gsung ldeb [txt] Ритуал благословляючого втілення: Батько Ваджра
 189 las byang ldeb [txt] Посібник дій
 190 byin rlabs rdo rje'i do shal ldeb [txt] Шовкове втілення благословень Ваджри
-    gu Na'i gsung*/ [sec] Промови Гуна
+--- bcas gu Na'i gsung*/ [sec] Промови Гуна
 191 bsnyen tho rin chen sgron me mang+ga la'i gsung ldeb [txt] Коштовна лампа: Текст повторення
 192 dpal chen 'dus pa phrin las snying po ldeb [txt] Суть дії: Збори Великої Слави
 193 dpal 'dus rgyud khyer ldeb [txt] Носима тантра Зборів Слави
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- bcas mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 194 dpal 'dus bskang ba bstan pa'i nyi ma'i gsung ldeb [txt] Вшанування Зборів Слави
 195 dpal chen 'dus pa'i spros bcas sgrub chen gyi stong thun rab brjid dpal gyi rngams sgra ldeb [txt] Звук форми слави: Пропускання та концептуалізація для великої практики Зборів Суворої Великої Слави
 196 dpal chen 'dus pa'i rtsa sngags kyi rnam bshad gsang ba grub pa'i dgongs rgyan ldeb [txt] Прикраса наміру: Пояснення корінних мантр Зборів Великої Слави
 197 rtsa sngags dang sbyar ba'i bstod cing rjes su dran pa'i thol glu mi shigs rdo rje dbyangs kyi rol mo ldeb [txt] Неперервна мелодія Ваджри: Пісня хвали та згадки, поєднана з корінними мантрами
-    mang+ga la'i gsung*/ [sec] Промови Мангал
+--- bcas mang+ga la'i gsung*/ [sec] Промови Мангал
 198 yum bka'i gsol 'debs bden gnyis myu gu ldeb [txt] Молитва наказів Матері: Подвійна істина, близнюки
 199 yang gsol 'debs bsdus pa ldeb [txt] Зібрані додаткові молитви
-    phrin las 'od zer gsung*/ [sec] Промови Дії Світла
+--- bcas phrin las 'od zer gsung*/ [sec] Промови Дії Світла
 200 yum bka'i brgyud 'debs bde chen char 'bebs ldeb [txt] Молитва лінійки наказів Матері: Дощ Великого Блаженства
 201 tshogs mchod bsdus pa grum gnyis dpal phreng ldeb [txt] Зібрана цацу мандала: Подвійний вузол, славний ланцюг
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- khyen brtse'i gsung*/ [sec] Промови Співчутливого
 202 yum bka'i bskang ba bstan pa'i nyi ma'i gsung ldeb [txt] Вшанування наказів Матері
 203 yum bka'i dbang chog bde chen bcud 'bebs gu Na'i gsung ldeb [txt] Ритуал втілення наказів Матері: Дощ есенції Великого Блаженства
 204 yum bka'i las tshogs bzhi pa tshe dbang nyer bsdus mkhyen brtse'i gsung ldeb [txt] Чотири збори дій наказів Матері: Збірка втілення довголіття
-205 rtsa gsum yum bka'i mkha' 'gro'i bsun bzlog las [sec] Зворотне вбивство дакіні з наказів Матері трьох родів
-    brtan bzhugs dang sun bzlog mang+ga la'i gsung ldeb [sec] Стійке встановлення та зворотне вбивство
+205 rtsa gsum yum bka'i mkha' 'gro'i bsun bzlog las/ brtan bzhugs dang sun bzlog mang+ga la'i gsung ldeb [sec] Зворотне вбивство дакіні з наказів Матері трьох родів
 206 gsang sgrub seng gdong gsol 'debs byin rlabs char 'bebs phrin las 'od zer gsung ldeb [txt] Молитва для таємної практики Сінгдон: Дощ благословень
 207 seng gdong bskang ba ldeb [txt] Вшанування Сінгдон
 208 rgyal dbyangs ba dan dkar po'i che rtags ldeb [txt] Білий левовий голос: Знаки величі
-    bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
+--- bstan pa'i nyi ma'i gsung*/ [sec] Промови Сонця Вчення
 209 zhi khro ngan song sbyong ba'i bdag 'jug rdo rje bzhi bskyed ldeb [txt] Генерація чотирьох Ваджр: Самопосвячення для тренування спокійного та гнівного поганої долі
 210 bsnyen yig rig 'dzin 'jug ngog ldeb [txt] Текст повторення: Вхід Відьмодержателя
-    mang+ga la'i gsung [sec] Промови Мангал
+--- mang+ga la'i gsung [sec] Промови Мангал
 211 rtsa gsum gtor bsngos nyer bsdus dngos grum mchog sbyin ldeb [txt] Збірка двадцяти торма трьох родів: Верхній дар фактичних скупчень
 212 sngags srung ma'i gtor bsngo ldeb [txt] Торма поклоніння для захисниці мантр
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
 213 ma mo'i 'khrugs skong nyer bsdus bstan pa'i nyi ma'i gsung ldeb [txt] Збірка двадцяти бурхливих виправлень ма мо
 214 tshogs bdag gtor 'bul rdo grub gsung ldeb [txt] Жертва торма цацу божества
 215 dam can phrin bcol klong chen gsung ldeb [txt] Покликання обітничників: Великий простір
@@ -356,12 +347,13 @@ mang+ga la'i gsung*/ [sec] Промови Мангал
 218 ma mgon tshogs mchod ldeb [txt] Цацу мандала Махакалі
 219 ma mgon bzlas dmigs ldeb [txt] Візуалізація повторення Махакалі
 220 tshe ring mched lnga'i tshogs mchod ldeb [txt] Цацу мандала п'яти сестер Церен
-
-mkhyen brtse'i gsung*// [sec] Промови Співчутливого
+--- mkhyen brtse'i gsung*// [sec] Промови Співчутливого
 
 pust'i ka lnga pa [vol] Том 5
 
 hA can gyi tshan grangs [sec] Тексти про HĀ
+
+Захисниця Мати:
 
 221 ma mgon g.yul mdos kyi 'don zin kun gsal me long mang+ga la'i gsung ldeb [txt] Дзеркало всепрояснюючого: Читання нотаток для мод цілі Махакалі
 222 ma mgon g.yul mdos kyi sku tsaka ldeb [txt] Цаца для мод цілі Махакалі
@@ -372,15 +364,15 @@ hA can gyi tshan grangs [sec] Тексти про HĀ
 227 dam can rgya mtsho'i ru mtshon mnga' gsol ldeb [txt] Велика молитва з танцювальними жестами океану обітничників
 228 skong bshags ldeb [txt] Виправлення та сповідь
 229 phrin bcol ldeb [txt] Покликання
-
-'jig gling gsung*/ [sec] Промови Джігглінґ
-
+--- 'jig gling gsung*/ [sec] Промови Джігме Лінгпи
 230 rdo rje'i chos srung la mngon par bstod pa rgyal sras gzhan phan mtha' yas gsung ldeb [txt] Явна хвала ваджряному захиснику дхарми
 231 za ngu'i phrin bcol dpal sprul gsung ldeb [txt] Покликання За Нгу: Розлите сяйво
 232 'dod gsol phrin las 'od zer gsung ldeb [txt] Молитва бажань
 233 rab gnas bkra shis 'dod 'jo'i snying po nye bar bsdus pa ldeb [txt] Суть освячення: Бажаючи щастя та успіху, коротко зібране
 234 rab gnas bkra shis 'dod 'jo'i phyag len reg zin nyung gsung ldeb [txt] Короткі нотатки практики для освячення: Бажаючи щастя та успіху
-    mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+--- mkhyen brtse'i gsung*/ [sec] Промови Співчутливого
+
+Великі коментарі та практики:
 
 235 rig 'dzin 'dus pa'i zin bris rig 'dzin zhal lung bde chen dpal gter rdo grub mkhan po dkon mchog sgron me gsung ldeb [txt] Нотатки Зборів Відьмодержателів: Поради Відьмодержателя, скарб Великого Блаженства
 236 dpal chen 'dus pa'i rnam bshad rin chen snang ba mang+ga la'i gsung ldeb [txt] Пояснення Зборів Великої Слави: Коштовне явлення
@@ -393,4 +385,6 @@ hA can gyi tshan grangs [sec] Тексти про HĀ
 243 rdzogs pa chen po klong chen snying thig gi rtsa ba gsum gyi lam rim dang 'brel ba'i smon lam rig pa 'dzin pa'i bden tshig ldeb [txt] Молитва, пов'язана з етапами шляху трьох корінних Великого Досконалого Серцевин величезного простору: Обітниця тримання усвідомлення
 
 bcas bzhugs so//_//
+
+2025 (с) Лонгчен Осал
 
