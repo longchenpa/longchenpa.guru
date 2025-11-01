@@ -1,7 +1,4 @@
-Великолепные Облака Украшений: Молитва Линии Передачи
-
-rdzogs pa chen po klong chen snying thig gi
-brgyud pa'i gsol 'debs byin rlabs sprin mdzes zhes bya ba bzhugs/
+@#/_/klong chen snying thig rtsa pod/ brgyud pa'i gsol 'debs byin rlabs sprin mdzes zhes bya ba bzhugs/ Молитва лінії передачі Лонгчен Нінгтік
 
 /kun bzang rdo rje sems dpa' dga' rab rje/
 /'jam dpal bshes gnyen shrI sing ha dang/
@@ -44,3 +41,4 @@ phrin las 'od zer rgyal ba'i myu gu dang /
 /'jigs med mkhyen brtse'i 'od zer la gsol ba 'debs/
 
 /zhes pa'ang dad ldan 'gas bskul ngor rang nyid kyis so//
+
