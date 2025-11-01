@@ -1,0 +1,1195 @@
+@#/_/klong chen snying thig rtsa pod/ 'jigs med gling pa/ gsung 'bum/ Каталог збірки праць Джігме Лінгпи в 9 тома Геце Махапандіти
+
+gsung 'bum [col] Збірка творів
+pod ka pa [vol] Том 1
+
+001 yon tan rin po che'i mdzod kyi rgya cher 'grel pa bden gnyis shing rta/ rgyu mtshan nyid kyi theg pa'i skor [txt] Скарбниця коштовностей якостей: Розгорнутий коментар до возів двох істин / Розділ про вози суттєвих причин
+002 gzhung 'di'i klad kyi don dang brtsam par dam bca' ba'i skabs dbye nas bslab pa'i lam gyi gang zag rnams nyan pa'i snod rung du byas pa [cha] Розділи, що встановлюють сенс скарбів цього вчення, роблячи посудину слухачів, що йдуть шляхом навчання, придатною
+003 dal 'byor gyi rnam par bzhag pa ste rab byed dang po'i 'grel pa [cha] Розташування йогів: Коментар до першої відмінності
+004 mi rtag pa'i tshoms te rab byed gnyis pa'i 'grel pa [cha] Аналога непостійності: Коментар до другої відмінності
+005 las rgyu 'bras kyi tshoms te rab byed gsum pa'i 'grel pa [cha] Аналога кармічних причин і плодів: Коментар до третьої відмінності
+006 'khor ba sdug bsngal gyi tshoms dang 'brel bar thar pa'i phan yon skyes bu 'bring gi lam rnam par bzhag pa'i skabs te rab byed bzhi pa'i 'grel pa [cha] Розташування середнього сина шляху: Розділ про переваги звільнення, пов'язаний з аналогією страждань сансари: Коментар до четвертої відмінності
+007 'khor lo chen po bzhi'i tshoms te rab byed lnga pa'i 'grel pa [cha] Аналога чотирьох великих коліс: Коментар до п'ятої відмінності
+008 skyabs su 'gro ba'i tshoms te rab byed drug pa'i 'grel pa [cha] Аналога прибіглища: Коментар до шостої відмінності
+009 tshad med bzh'i tshoms te rab byed bdun pa'i 'grel pa [cha] Аналога чотирьох безмежностей: Коментар до сьомої відмінності
+010 byang chub sems yongs su bzung ba ste rab byed brgyad pa'i 'grel pa [cha] Захоплення бодхічитти: Коментар до восьмої відмінності
+011 smon 'jug gi bslab bya bstan pa'i tshoms te le'u dgu pa'i 'grel pa [cha] Аналога, що показує навчання обітниці прагнення та дії: Коментар до дев'ятої глави
+
+pod kha pa [vol] Том 2
+
+012 yon tan rin po che'i mdzod las bras bu'i theg pa'i rgya cher 'grel rnam mkhyen shing rta [txt] Скарбниця коштовностей якостей: Розгорнутий коментар до возу результату
+013 rig pa 'dzin pa'i sde snod spyi gtan pa phab pa'i tshoms te le'u bcu pa'i 'grel pa [cha] Аналога загального встановлення кошика, що тримає усвідомлення: Коментар до десятої глави
+014 rang bzhin rdzogs pa chen po'i lam thun mong ma yin pa'i gzhi'i bzhugs tshul dang 'brel bar 'khor 'das kyisgo 'phar gtan la phab pa'i tshoms te le'u bcu gcig pa'i 'grel pa [cha] Аналога, що встановлює основу неперевершеного шляху великого досконалого в природному стані, пов'язаного з розміщенням основи сансарно-нірваничних кордонів: Коментар до одинадцятої глави
+015 rang bzhin rdzogs pa chen po'i lam bstan pa'i tshoms te le'u bcu gnyis pa'i 'grel pa [cha] Аналога, що показує шлях великого досконалого в природному стані: Коментар до дванадцятої глави
+016 'bras bu lhun grub chen po'i rnam par bzhag pa ste le'u bcu gsum pa'i 'grel pa [cha] Розташування великого спонтанного результату: Коментар до тринадцятої глави
+017 par byang smon tshig [cha] Додаткові слова молитви
+018 yon tan rin po che'i mdzod dga' ba'i char [txt] Дощ радості: Скарбниця коштовностей якостей
+019 dal 'byor rnam par dbye ba'i tshoms te le'u dang po [cha] Аналога розрізнення йогів: Перша глава
+020 mi rtag pa'i tshoms te le'u gnyis pa [cha] Аналога непостійності: Друга глава
+021 las rgyu 'bras kyi tshoms te le'u gsum pa [cha] Аналога кармічних причин і плодів: Третя глава
+022 'khor ba sdug bsngal gyi tshoms te le'u bzhi pa [cha] Аналога страждань сансари: Четверта глава
+023 'khor lo chen po bzhi'i tshoms te le'u lnga pa [cha] Аналога чотирьох великих коліс: П'ята глава
+024 skyabs su 'gro ba'i tshoms te le'u drug pa [cha] Аналога прибіглища: Шоста глава
+025 tshad med bzhi'i tshoms te le'u bdun pa [cha] Аналога чотирьох безмежностей: Сьома глава
+026 byang chub kyi sems yongs su bzung ba'i shoms te le'u brgyad pa [cha] Аналога захоплення бодхічитти: Восьма глава
+027 smon 'jug gi bslab bya ston pa'i tshoms te le'u dgu pa [cha] Аналога, що показує навчання обітниці прагнення та дії: Дев'ята глава
+028 rig pa 'dzin pa'i sde snod bstan pa'i tshoms te le'u bcu pa [cha] Аналога, що показує кошик, що тримає усвідомлення: Десята глава
+029 gzhi'i bzhugs tshul bstan pa'i tshoms te le'ubcu gcig pa [cha] Аналога, що показує розміщення основи: Одинадцята глава
+030 rang bzhin rdzogs pa chen po'i lam thun mong ma yin pa bstan pa'i tshoms te le'u bcu gnyis pa [cha] Аналога, що показує неперевершений шлях великого досконалого в природному стані: Дванадцята глава
+031 mthar phyin 'bras bu sku dang ye shes bstan pa'i tshoms te le'u bcu gsum pa [cha] Аналога, що показує тіло та премудрість трансцендентного результату: Тринадцята глава
+
+pod ga pa [vol] Том 3
+
+032 snga 'gyur rgyud 'bum rin po che'i rtogs brjod 'dzam gling tha gru khyab pa'i rgyan [txt] Чудове оздоблення, що заповнює куточки світу: Висловлювання усвідомлень про коштовний мільйон тантр стародавньої передачі
+033 ston pa 'jig rten du byon tshul gleng ba'i rab tu byed pa ste/ dang po [cha] Перша відмінність: Розповідь про появу вчителя в світі
+034 'phags pa'i yul du spyir grags pa'i bstan skyong chen po dag las rgyan drug mchog gnyis la sogs pa'i rnam thar smos pa'i rab tu byed pa ste/ gnyis pa [cha] Друга відмінність: Згадка життєписів, таких як вісім великих захисників, відомих у священних землях
+035 bstan pa'i gtad rab bdun dang bka' bsdu ba gsum gyi skor [cha] Розділ про сім ліній передачі вчення та три збори слів
+036 chen po bzhi'i ya gyal bram ze sgra gcan 'dzin gyi skor [cha] Розділ про брахмана Сгра гцан 'дзін, королеву чотирьох великих
+037 'dzam gling mdzes pa'i rgyan gyi rtse mo dpal mgon 'phags pa klu sgrub kyi skor [cha] Розділ про вершину оздоблення світу: Святого захисника Клу сгруб
+038 'dzam gling mdzes par byed pa'i rgyan gnyis pa ar+ya de wa'i skor [cha] Розділ про друге оздоблення, що прикрашає світ: Ар'ю Дэва
+039 chen po bzhi'i ya gyal slob dpon dpa' bo'i skor [cha] Розділ про королеву чотирьох великих: Учителя Дпа' бо
+040 'dzam gling mdzes par byed pa'i rgyan gsum pa slob dpon thogs med kyi skor [cha] Розділ про третє оздоблення, що прикрашає світ: Учителя Тхогс мед
+041 'dzam gling mdzes par byed pa'i rgyan bzhi pa mkhas pa'i dbang phyug dbyig gnyen gyi skor [cha] Розділ про четверте оздоблення, що прикрашає світ: Махапандити Дхармапали
+042 chen po bzhi'i ya gyal slob dpon yon tan 'od kyi skor [cha] Розділ про королеву чотирьох великих: Учителя Йон тан 'од
+043 'dzam gling mdzes par byed pa'i rgyan lnga pa smra ba'i seng+ge phyogs kyi glang po'i skor [cha] Розділ про п'яте оздоблення, що прикрашає світ: Лева мови, слона Азії
+044 rmad du byung ba'i slob dpon tsan+Da go mi'i skor [cha] Розділ про дивовижного учителя Чандраґомі
+045 chen po bzhi'i ya gyal d+harmA pA la'am chos skyong gi skor [cha] Розділ про королеву чотирьох великих: Дхармапалу або захисника Дхарми
+046 rmad du byung ba'i slob dpon shan+ta de wa'am zhi ba lha'i skor [cha] Розділ про дивовижного учителя Шантадеву або бога спокою
+047 'dzam gling mdzes par byed pa'i rgyan drug pa slob dpon dpal ldan chos grags kyi skor [cha] Розділ про шосте оздоблення, що прикрашає світ: Учителя Палден Чос драг
+048 gangs ri'i khrod du rgyal bstan ji ltar byon pa'i rnam gzhag mdo tsam brjod pa'i rab tu byed pa ste/ gsum pa [cha] Третя відмінність: Короткий опис появи царського вчення в гірських пустелях
+049 gangs ri'i khrod du bstan pa ji ltar byon pa las brtsams te btsan po khri srong lde'u btsan gyi dus na gsang sngags nang gi rgyud rnams byung ba'i gtam gsal bar smras pa'i rab tu byed pa ste/ bzhi pa [cha] Четверта відмінність: Розповідь про появу вчення в гірських пустелях, зокрема про внутрішні тантри секретного мантру, що виникли за часів царя Трісронг Децена
+050 lung a nu yo ga [txt] Лунг Ану Йога
+051 bskyed pa ma ha yo ga la gnyis [txt] Дві [частини] для Махайоги генерації
+052 dang po rgyud sde'i skor [txt] Перша: Розділ про клас тантр
+053 gnyis pa sgrub sde'i skor [txt] Друга: Розділ про клас практик
+054 dang po bka' ma'i skor [txt] Перша: Розділ про ка'ма
+055 gnyis pa bde 'ddus gter ma'i lo rgyus [txt] Друга: Історія скарбів Бде 'ддус
+056 rdo rje theg pa snga 'gyur gyi phyogs la mkhas pa dnag / grub pa brnyes pa'i skyes bu bsam gyis mi khyab pa zhig byon pa las/ mdo sgyu sems gsum gyi bstan pa la bshad sgrub kyi sgo nas mdzad pa grags che ba dag gtso bor smos pa'i skabs te/ rab tu byed pa lnga pa [cha] П'ята відмінність: Розділ, що згадує відомих практиків і тлумачів трьох серій сутр, ілюзій та розуму, з появою незбагненних синів, таких як Днаг, майстер у напрямку стародавньої ваджраїани
+057 sems phyogs kyi shing rta chen po slob dpon bai ro tsA na las ji ltar brgyud pa [cha] Як передано від великого воза розуму: Учителя Вайрочана
+058 man ngag sde'i shing rta chen po slob dpon bi ma las brgyud pa'i snying tig gi lo rgyus [cha] Історія серцевин, переданого від великого воза настанов: Учителя Віми
+059 rgyal ba'i dbang po karma pa rang byung rdo rje'i lo rgyus [cha] Історія царського володаря Кармапа Ранг джунг Дордже
+060 rgyal ba gnyis pa dpal bsam yas pa kun mkhyen ngag gi dbang po'am klong chen rab byams kyi skor [cha] Розділ про другого царя, Пал Сам'єпа Куньджен Нга'і Вангпо або Кхьончен Рабджам
+061 mdo sgyu sems gsum gyi bstan pa spyi'i babs tshul bshad pa la gsum [cha] Три пояснення загального способу падіння вчення трьох серій сутр, ілюзій та розуму
+062 dang po gnyags la babs pa [cha] Перше: Падіння на Ньяк
+063 bar du snubs la babs pa [cha] Середнє: Падіння на Нуб
+064 tha ma zur la babs pa [cha] Останнє: Падіння на Цур
+065 mtshan nyid nges pa'i slad du bstan bya dam pa'i chos kyi rnam pa spyi dang bye brag pa mdo tsam smos pa'i rab tu byed pa ste/ skabs drug pa [cha] Шоста відмінність: Коротка згадка загального та особливого аспектів форми священного вчення, що пояснюється для визначення сутності
+066 dang po chos kyi sgra 'jug pa'i yul spyir bshad pa [cha] Перше: Загальне пояснення поля входу в слово Дхарми
+067 dam pa'i chos brag tu bshad pa [cha] Священна Дхарма: Особливе пояснення
+068 ched du brjod pa bya ba las kyi 'khor lo ji ltar brtsams pa'i gtam brjod pa ste/skabs bdun pa [cha] Сьома відмінність: Розповідь про те, як утворилося колесо дій, що повинно бути сказано
+069 gang las byung ba'i rig pa'i yon tan la ltos pa'i rnam par gzhag pa [txt] Розташування, залежне від якостей усвідомлення, що виникають з [джерела]
+070 bya ba las kyi 'khor lo ji ltar byas pa [txt] Як утворилося колесо дій
+071 chos kyi bzhugs byang smos pa'i rab tu byed pa ste/ skabs brgyad pa [cha] Восьма відмінність: Згадка розміщення Дхарми
+072 yongs su bsngo ba dang smon lam dam pa'i khyad par las 'bad pa don ldan du byas pa'i rab tu byed pa ste/ skabs dgu pa [cha] Дев'ята відмінність: Відмінність священної молитви та повне посвячення: Роблячи сенс повним
+073 dris lan rin po che'i bstan bcos lung gi gter mdzod [txt] Скарбниця пророцтв: Коштовний трактат запитань і відповідей
+074 gzhung bshad pa la 'jug pa'i sgo bstan pa [cha] Показ входу в пояснення корінного тексту
+075 gzhung gi dngos don mtha' rgya rlabs kyis bcad nas bshad pa [cha] Пояснення суттєвого сенсу корінного, розрізаного хвилею кордонів
+076 spyi don gsum pa/ mjug thun mong ma yin pa'i grub mtha' gsang bar gdams shing bsngo smon gyis mtha' bsdu ba [cha] Третій загальний сенс: Неперевершені крайні погляди, таємно наставлені, та збирання кінців молитвою та посвяченням
+
+pod nga pa [vol] Том 4
+
+077 dgongs 'dus rnam bshad mkhyen brtse'i me long 'od zer brgya pa [txt] Сто променів світла дзеркала співчуття: Пояснення зібрання намірів
+078 gtam tshogs [txt] Збірка оповідань
+079 sde snod gsum sogs bshad pa nang rig pa'i skor/（1） [txt] Розділ про внутрішні науки: Пояснення трьох кошиків тощо (1)
+080 nam mkha' brtag pa gza' dang rgyud skar gyi gtam go la'i rna rgyan/（skar rtsis kyi rig pa la 'jug pa）（2） [txt] Прикраса вух вступу до науки астрології: Оповідь про зірки, планети та сузір'я (вступ до науки зіркознавства) (2)
+
+spyi chings bshad pa/（1） [sec] Загальне пояснення (1)
+bstan rtsis bshad pa/（2） [sec] Пояснення календаря (2)
+grub pa'i lnga bsdus bshad pa/（3） [sec] Пояснення п'яти встановлених (3)
+byed pa lnga bsdus dang rtsis phran rnams bshad pa/（4） [sec] Пояснення п'яти дій та частин обчислень (4)
+legs ldan gza' lnga nyin zhag la spyod pa bshad pa/（5） [sec] Пояснення поведінки п'яти сприятливих планет у днях (5)
+drang srong gza' lnga tshes zhag la spyod pa bshad pa/（6） [sec] Пояснення поведінки п'яти мудрецьких планет у тьмяних днях (6)
+legs ldan gza' lnga khyim zhag la spyod pa bshad pa/（7） [sec] Пояснення поведінки п'яти сприятливих планет у будинках (7)
+mgyogs rtsis dus gzer dang bcas bshad pa/（8） [sec] Пояснення швидких обчислень часу та стовпів (8)
+ngo mtshar gyi yon tan rgya chen po dang ldan pa'i dus sbyor bshad pa/（9） [sec] Пояснення з'єднання часу з великими дивовижними якостями (9)
+nyi zla sgra gcan 'jug pa bshad pa/（10） [sec] Пояснення входу сонця, місяця та зір (10)
+mjug bsdu ba'i gtam/（11） [sec] Заключна оповідь (11)
+
+081 lho phyogs rgya gar gyi gtam/（3） [txt] Оповідь про Індію на півдні (3)
+082 rin po che brtag pa'i gtam/（4） [txt] Оповідь про коштовності (4)
+083 snyan ngag gi gtam/（5） [txt] Оповідь про поезію (5)
+084 rgyal po dang dmangs la spring ba'i gtam/（6） [txt] Оповідь, що тішить царів та підданих (6)
+085 sa skyong sde dge la spring ba'i gtam/（7） [txt] Оповідь, що тішить етичних правителів (7)
+086 rgyal bu la spring ba'i gtam/（8） [txt] Оповідь, що тішить принців (8)
+087 btsun mo la spring ba'i gtam/（9） [txt] Оповідь, що тішить цариць (9)
+088 dmangs la spring ba'i gtam/（10） [txt] Оповідь, що тішить підданих (10)
+089 b+ho Ta'i srid skyong la spring ba'i gtam/（11） [txt] Оповідь, що тішить правителя Тибету (11)
+090 dam pa la spring ba'i gtam/（12） [txt] Оповідь, що тішить святих (12)
+091 ston chen dben pa la bskul ba'i gtam/（13） [txt] Оповідь, що надихає великих учителів на усамітнення (13)
+092 slob ma la spring ba'i gtam/（14） [txt] Оповідь, що тішить учнів (14)
+093 bshes gnyen bud+dha la spring ba'i gtam/（15） [txt] Оповідь, що тішить духовного друга Будду (15)
+094 dga' ldan byang rtse ba bshes gnyen phrin las thogs med la spring ba'i gtam/（16） [txt] Оповідь, що тішить безперешкодного діяча, духовного друга з північної вершини Гандену (16)
+095 bla ma la spring ba'i gtam/（17） [txt] Оповідь, що тішить гуру (17)
+096 lho brag gsung sprul la spring ba'i gtam/（18） [txt] Оповідь, що тішить еманацію промов Лхо Драк (18)
+097 sgom pa la spring ba'i gtam/（19） [txt] Оповідь, що тішить медитаторів (19)
+098 spong ba bsam gtan pa la spring ba'i gtam/（20） [txt] Оповідь, що тішить спокійних медитаторів (20)
+099 dge slong la spring ba'i gtam/（21） [txt] Оповідь, що тішить бікшу (21)
+100 rab byung la spring ba'i gtam/（22） [txt] Оповідь, що тішить перероджених (22)
+101 sngags pa la spring ba'i gtam/（23） [txt] Оповідь, що тішить мантріків (23)
+102 sde brgyad la spring ba'i gtam/（24） [txt] Оповідь, що тішить вісім родів (24)
+103 phyogs bcu'i gdon tshogs la spring ba'i gtam/（25） [txt] Оповідь, що тішить зборище демонів десяти напрямків (25)
+104 'byung po'i sde la spring ba'i gtam/（26） [txt] Оповідь, що тішить роди духів (26)
+105 ar jag la spring ba'i gtam /（27） [txt] Оповідь, що тішить аракту (27)
+106 gnas bskor ba la spring ba'i gtam/（28） [txt] Оповідь, що тішить охоронців місць (28)
+107 bsam yas gtsug lag khang gi gtam/（29） [txt] Оповідь про храм Сам'є (29)
+108 Ar+ya pa lo'i gling gi gtam/（30） [txt] Оповідь про острів Пал (30)
+109 dpal gyi bsam yas mchims phu'i gtam/（31） [txt] Оповідь про Чімпу, священний Сам'є (31)
+110 bsam yas gtsug lag khang la dngul dkar zhun ma thur srang brgya phrag lnga dang gser rdo tshad gnyis las bskrun pa'i mchod sdong phul nas brtan zhugs gsol ba'i gtam/（32） [txt] Оповідь про посвячення стовпа поклоніння, виготовленого з 500 срібних злитків та двох мір золота, для храму Сам'є (32)
+111 gu ru mtsho skyes rdo rje dang zhabs rjes rin po che'i gtam/（33） [txt] Оповідь про Гуру Цогк'є Дордже та коштовні сліди стоп (33)
+112 gzhu stod gter sgrom mkha' 'gro'i tshogs khang gi gtam/（34） [txt] Оповідь про храм зборища дакіні, скарбницю Гжу Тод (34)
+113 dbu ru zhwa lha khang gi gtam/（35） [txt] Оповідь про храм бога-голову Дбу Ру (35)
+114 lho mon dkar po zangs kyi gtam/（36） [txt] Оповідь про мідний білий Лхо Мьон (36)
+115 bkra shis srong btsan bang so'i gtam/（37） [txt] Оповідь про Трішан Децен Банґсо (37)
+116 bkra shis srong btsan bang so'i dkar chag 'bring por byas pa n.ya gro d+ha'i chun 'phang /（38） [toc] Середній каталог Трішан Децен Банґсо: Повний перелік Няґро Дха
+117 dpal ri theg pa chen po'i gling gi gtam/（39） [txt] Оповідь про острів великої ваджри Палрі (39)
+118 pad ma 'od gsal theg mchog gling gi rten dang brten par bcas pa'i gtam/（40） [txt] Оповідь про реліквії та опори острова верховної ваджри Пема Одсел (40)
+119 gtsang ru lag rgyal byed tshal lam gsang sngags theg mchog gling gi gtam/ 41） [txt] Оповідь про острів верховної секретної мантри, сад переможця рук Цанґру Лак (41)
+120 mtsho snar rgyud 'bum bzhengs pa'i gtam/（42） [txt] Оповідь про встановлення мільйона тантр озера Мцхо На (42)
+121 sa skyong sde dge'i rgyal khab tu snga 'gyur rgyud 'bum rin po che par du bzhengs pa'i dus zhu chen rnam gnyis la skabs dbye ba'i gtam/（43） [txt] Оповідь, розділена на розділи, про два великі прохання щодо встановлення коштовного мільйона стародавніх тантр у царстві етичних правителів (43)
+122 dpal glo don stengs kyi mchod rten bkra shis 'od 'bar gyi gtam/（44） [txt] Оповідь про ступу Трішад Одбар над Гло Дон (44)
+123 bde bar gshegs pa'i mchod rten brgyad kyi thig gi gtam/（45） [txt] Оповідь про вісім ступ Шак'ям'юні (45)
+124 mchod sbyin gyi gtam/（46) [txt] Оповідь про дарування (46)
+125 maN+Dal gyi gtam/（47） [txt] Оповідь про мандалу (47)
+126 dge rtsa byang chub tu bsngo ba'i gtam/（48） [txt] Оповідь про посвячення кореня заслуг бодхі (48)
+127 nags tshal gyi gtam/（49） [txt] Оповідь про ліс (49)
+128 'dab chags kyi gtam/（50） [txt] Оповідь про пристрасть (50)
+129 ri dwags kyi gtam/（51） [txt] Оповідь про диких звірів (51)
+
+dge ba'i bshes gnyen gyis 'khor ba la skyo bar brdas bskul ba'i tshul/（le'u 1） [sec] Спосіб, як етичний духовний друг надихає на співчуття до сансарних мандрівників (глава 1)
+chos ma dran pa srid pa'i bde 'byor la chags pa gang zhig sdug bsngal gyi 'phrang las thar ba med cing de ka'i ngang la 'chi ba btsan thabs su 'byung ste de la thabs gang gis kyang bslu ru med pa'i ri dwags mtha' la gcur pa lta bu'i brdas bstan pa/（le'u 2） [sec] Показ, як той, хто прив'язаний до радощів існування, забуває Дхарму, не має звільнення від кайданів страждань, і смерть приходить як тиран у цьому стані, не піддаючись жодному методу, подібно до падіння на край урвища диких звірів (глава 2)
+las kyi 'bras bu chud mi za bar bstan nas dge ba la bskul ba/（le'u 3） [sec] Надихання на етику, показуючи, що плоди карми не можна обманути (глава 3)
+mjug byang [sec] Заключний розділ
+
+130 ri bong shin tu brtan pa'i gtam/（52） [txt] Оповідь про надзвичайно міцного орла (52)
+131 'du 'dzi la skyo ba'i gtam/（53） [txt] Оповідь про співчуття до бідних (53)
+132 blo ldan b+hu ma ra'i gtam/（54） [txt] Оповідь про мудрого Бхумаріджу (54)
+133 chos spyod bcu'i gtam/（55） [txt] Оповідь про десять дхармічних занять (55)
+134 'bri bar bya ba/（1） [cha] Те, що повинно бути написане (1)
+135 mchod par bya ba/（2） [cha] Те, що повинно бути поклонінням (2)
+136 sbyin par bya ba/（3） [cha] Те, що повинно бути даруванням (3)
+137 nyan par bya ba/（4） [cha] Те, що повинно бути слуханням (4)
+138 klog par bya ba/（5） [cha] Те, що повинно бути читанням (5)
+139 'dzin par bya ba/（6） [cha] Те, що повинно бути утриманням (6)
+140 'chad par bya ba/（7） [cha] Те, що повинно бути поясненням (7)
+141 kha ton bya ba/（8） [cha] Те, що повинно бути розкриттям (8)
+142 sems par bya ba/（9） [cha] Те, що повинно бути роздумуванням (9)
+143 sgom par bya ba/（10） [cha] Те, що повинно бути медитацією (10)
+144 dran pa'i gtam/（56） [txt] Оповідь про пам'ять (56)
+145 dran dang shes bzhin las 'phros pa'i gtam/（57） [txt] Оповідь про випромінювання з пам'яті та усвідомлення (57)
+146 'phags pa'i stong phrag brgya pa las 'phros pa'i gtam/（58） [txt] Оповідь про випромінювання з сотні тисяч [слів] аріїв (58)
+147 grub pa'i mtha' rab tu 'byed pa'i gtam/（59） [txt] Оповідь про повне розрізнення крайніх поглядів (59)
+148 mi dge bcu spong gi gnang bkag la dpyad pa'i gtam tshul khrims rin po che'i rgyan/（60） [txt] Оповідь про аналіз дозволеного та забороненого для десяти негетичних: Прикраса коштовної етики (60)
+149 phyag rdzogs kyi de kho na nyid rab tu dbye ba'i gtam/（61） [txt] Оповідь про повне розрізнення реальності махамудри (61)
+150 chos nyid rnam par ma gyur pa'i gtam/（62） [txt] Оповідь про незмінну дхармату (62)
+151 gnas min gyi brgal brtag la skyo ba'i gtam/（63） [txt] Оповідь про співчуття до перевірки неіснуючого (63)
+152 rnam grangs kyi don dam la dpyad pa'i gtam lha'i rgyal rnga/（64） [txt] Оповідь про аналіз абсолютного через числа: Божественний барабан перемоги (64)
+153 shin tu rnal 'byor grub mtha' bzhi la rton pa'i gtam/（65） [txt] Оповідь про узгодження чотирьох крайніх поглядів з великою йогою (65)
+154 ye grol ka dag gi gtam/（66） [txt] Оповідь про природне звільнення в чистоті (66)
+155 ye shes kyi pha rol tu phyin pa'i gtam/（67） [txt] Оповідь про трансцендентну премудрість (67)
+156 tan+tra'i phyogs 'dzin bzlog pa'i gtam/（68） [txt] Оповідь про спростування прихильників тантр (68)
+157 rton pa bzhi ldan gyi gtam/（69） [txt] Оповідь про чотири узгодження (69)
+158 shes rab kyi gtam/（70） [txt] Оповідь про премудрість (70)
+159 shes rab snying po'i gtam/（71） [txt] Оповідь про сутність премудрості (71)
+160 shes rab snying po'i don bsdus kyi gtam/（72） [txt] Оповідь про зібрання сенсу сутності премудрості (72)
+161 na tsha lam khyer gyi gtam/（73） [txt] Оповідь про носіння шляху Накшатр (73)
+
+pod ca pa [vol] Том 5
+
+162 gsung 'bum dkar chag [toc] Каталог збірки творів
+163 bstod tshogs [txt] Збірка хвал
+164 skyes pa rabs kyi rgyud snyan dngags dam pa'i 'khri shing du bsngags pa'i pra ni d+ha mi'am ci kun tu dga' ba'i zlos gar [txt] Танець повної радості: Хвала роду перероджень, що прославляє священний престол поетичного співу
+165 sangs rgyas byang sems sprul pa dang bcas pa'i bstod tshogs tshangs pa'i rgyud mang [txt] Багато шовкових струн: Збірка хвал будд, бодхісаттв та еманацій
+166 thub dbang grong khyer ma la bstod pa [txt] Хвала Такші, міста-господаря
+167 dus gsum phyogs bcu'i de bzhin gshegs pa rnams la mtshan don gyi sgo nas bsngags pa dad pa'i pho nya [txt] Книга віри: Хвала татхаґатам трьох часів і десяти напрямків через сенс і назви
+168 rnying ma rgyud 'bum gsar bzhengs la bsngags pa [txt] Хвала новому встановленню мільйона тантр Ньїнґми
+169 de bzhin gshegs pa'i mchod rten rnam pa thams cad rdzogs pa brgyad la bstod pa [txt] Хвала восьми повним формам ступ будд
+170 byang chub sems dpa'i dge 'dun chen po nye ba'i sras brgyad la bstod pa [txt] Хвала восьми близьких синів великої санґхи бодхісаттв
+171 cho 'phrul chen mo'i dus chen ched du brjod pa'i tshogs gnyis shing rta [txt] Два вози: Збірка для особливого великого дня магії Дхарми
+172 bcom ldan 'das rta mchog rol pa gsang sgrub la bstod pa [txt] Хвала таємній практиці верховного вершника, Переможця
+173 yon tan mdzod las gsungs pa'i man ngag bcu gsum la bstod pa [txt] Хвала тринадцяти настанов, викладених у Скарбниці якостей
+174 sprul pa'i sku mtshan brgyad la bstid pa [txt] Хвала восьми знакам еманаційного тіла
+175 bsam yas pa kun mkhyen ngag gi dbang po'or klong chen rab byams kyi skor [txt] Розділ про Пал Сам'єпа Куньджен Нга'і Вангпо або Кхьончен Рабджам
+176 tshigs su bcad pa [txt] Вершований текст
+177 dpal gyi bsam yas mchims phu la bstod pardo rje'i kA ma ka [txt] Дорджек'амака: Хвала священному Чімпу Сам'є
+178 dpe phran sna tshogs kyi skor [txt] Різні приклади
+
+dang po/ ngag 'don chos spyod kyi skor chog bsgrigs ma [sec] Перше: Невпорядкований розділ про читання та дхармічні заняття
+gnyis pa/ sgrub thabs sna tshogs pa'i skor [sec] Друге: Різні сідхани
+
+179 gsang ba'i snying po rdo rje sems dpa' sgyu 'phrul zhi ba'i sgrub thabs rnam grol shing rta [txt] Звільнення воза: Сідхана спокою ілюзійного чакравартіна Ваджрасаттви, сутності таємниці
+180 gsang ba'i snying po sgyu 'phrul khro bo'i sgrub thabs khrag 'thung mngon rdzogs [txt] Явне завершення кровопивства: Сідхана гнівного ілюзійного, сутності таємниці
+181 'dus pa mdo'i cho ga'i lhan thabs bstan pa rgya mtsho'i gru gzings [txt] Основи океану вчення: Методи ритуалу Зібрання сутри
+182 tshe dpag med sku gsum 'dus pa'i dkyil 'khor gyi cho ga 'chi ba med pa'i ljon pa kun tu dga' ba'i skyes mos tshal [txt] Сад синів повної радості: Ритуал мандали зібрання трьох тіл Амитабхи, дерева безсмертя
+183 mun pa'i rnal 'byor yang tig nag po'i phrin las kyi chog khrigs [txt] Ритуал дій чорної йоги темряви
+
+jo lugs sgrol dkar maN+Dal gcig pa sogs [sec] Традиція Атіши: Одна мандала Білого Тари тощо
+
+184 jo lugs sgrol dkar maN+Dal gcig pa [txt] Одна мандала Тари традиції Атіши
+185 'jam dbyangs dkar po ma ti lugs kyi rgyun khyer [txt] Носимий ланцюг традиції Маті для Білого Манджушрі
+186 drang srong zhi ba'i rgyun khyer [txt] Носимий ланцюг спокою мудреця
+187 rta mgrin gsang sgrub kyi rgyun khyer [txt] Носимий ланцюг таємної практики Хаягріви
+188 sman bla'i sgom bzlas 'tsho byed bde lam [txt] Приємний шлях даючого життя: Медитація та повторення бога зцілення
+189 bam ze phur bu'i lugs kyi dbyangs can sgrub thabs kun mkhyen lam srol [txt] Традиція кілка Баджравіри: Співуча сідхана, шлях всемовного
+
+gsum pa/ phrin las sna tshogs pa'i skor [sec] Третє: Різні дії
+
+190 'khor los mtshon pa'i gsung rten spyi khyab la rab gnas bya ba'i cho ga phyag rgya bzhi ldan [txt] Ритуал освячення загального охоплення реліквій слова колеса: Чотири мудри
+191 pad+ma'i zhal gdams grol thig dgongs pa rang grol gyi dbang gi cho ga gnad rnam par phye ba mkhyen brtse'i dgongs rgyan [txt] Прикраса наміру співчуття: Розділення ключових точок ритуалу втілення для саморозкриття наміру, усного наставлення лотоса
+192 grol thig dgongs pa rang grol gyi le lag dam grib nyes pa kun sel gyi khrus chog [txt] Ритуал очищення для усунення всіх перешкод і порушень обітниць саморозкриття наміру
+193 gshin rje nag po sum sgril gyi gnan pa'i yig chung gcig shes kun grol [txt] Один лист, що звільняє все: Обітниця трійного згортання чорного Ями
+194 'og min tshogs chen 'dus pa'i dbang chen gyi snyel thob [txt] Отримання благословень великого втілення зібрання великого цацу Нижньої межі
+195 gshin rje nag po sum sgril gyi sgo nas lo dgra ser ba'i gnod pa bsrung thabs sprul sku'i 'khor lo zhes grags pa [txt] Відомий як колесо еманацій: Захист від шкоди золотого ворога через ворота трійного згортання чорного Ями
+196 'jigs byed nag po sum sgril gyi sgo nas las rim ri rab nag po [txt] Чорна вершина серії дій: Через ворота трійного згортання чорного Теренгджа
+197 'jigs byed nag po sum sgril gyi ling khrus [txt] Очищення попелом трійного згортання чорного Теренгджа
+198 phur pa dregs 'dul gnam lcags 'khor lo'i las mtha' las byung ba'i dme brtsegs kyi byab khrus rgyud don rnam dag [txt] Очищення захисників з останньої дії колеса блискавок Кілаки, приборкувача демонів: Чисте значення тантри
+
+lnga pa/ lha srung gsol mchod kyi skor [sec] П'яте: Поклоніння та молитви захисникам божеств
+
+199 bsangs brngan gyi chog ga mchod pa'i sprin gyi khang bzangs [txt] Чудовий палац хмар поклоніння: Ритуал мирення та обміну
+200 dpal mgon zhal bzhi pa'i skong ba dam chags bla chags ma [txt] Виправлення для Чотирьохликого Святого Захисника: Обітниці, зв'язуючі демона
+201 zhing skyong dur khrod lha mo gsol mchod kyi rim pa [txt] Послідовність молитви та поклоніння богині охоронниці поля та кладовища
+202 rdo rje g.yu sgron ma'i gsol mchod sman btsun mgul rgyan [txt] Прикраса шиї ченця зцілення: Молитва та поклоніння Ваджра Юдронма
+203 rdo rje g.yu sgron ma'i skong gso nyer bsdu [txt] Збірка двадцяти виправлень та зцілення для Ваджра Юдронма
+204 tsi dmar ba'i gsol kha rgyas pa mnga' ris paN chen rin po che'i gter byon rtsa ba'i don rgya cher bkral ba dbang drag dus kyi pho nya [txt] Книга потужного часу: Розгорнуте пояснення кореня, що виходить як скарб Пандіти Манг'юл Рінпоче, розширена молитва червоного ці
+205 rgyal chen rnam sras kyi skong gsol nyung bsdus [txt] Короткий збірка виправлень та молитви для царів та синів
+206 ma sangs kyi gsol ka nyung bsdus [txt] Короткий збірка молитв Матсанґ
+207 bstan srung dam can rgya mtsho'i ru mtshon mnga' gsol [txt] Велика молитва з жестами океану обітничників, охоронців вчення
+208 dam can rgya mtsho'i skong bshags [txt] Виправлення та сповідь океану обітничників
+209 dam can chos srung rnams la phrin bcol bya tshul [txt] Спосіб покликання обітничних захисників Дхарми
+
+drug pa/ thor bu sna tshogs kyi skor [sec] Шосте: Різні фрагменти
+
+210 sngon 'gro dngos gzhi'i las bsdus [txt] Збірка дій основи попередніх практик
+211 skyabs sdom 'bogs chog mtho ris 'khri shing [txt] Престол високих вершин: Обітниці прибіглища та дозволені/заборонені
+212 gnas brtan phyag mchod [txt] Поклоніння стабільності місця
+213 smyung gnas kyi cho ga mdor bsdus 'dun pa bzang po [txt] Короткий ритуал посту: Приємне збирання
+rdo rje sems dpa' la brten pa'i bla ma'i rnal 'byor mngon dga'i zhing sbyong sogs [sec] Йога гуру, що спирається на Ваджрасаттву: Тренування поля явної радості тощо
+214 rdo rje sems dpa' la brten pa'i bla ma'i rnal 'byor mngon dga'i zhing sbyong [txt] Тренування поля явної радості: Йога гуру, що спирається на Ваджрасаттву
+215 sangs rgyas snang ba mtha' yas la brten pa'i sku gsum bla ma'i rnal 'byor [txt] Йога трьох тіл гуру, що спирається на нескінченне видіння будд
+216 snga 'gyur bstan pa'i srol 'byed chen po rnams la gsol 'debs [txt] Молитви до великих традицій стародавнього вчення
+217 jo bo rin po che la gsol 'debs smon lam dang 'brel bar dbang bzhi len tshul [txt] Спосіб отримання чотирьох втілень, пов'язаний з молитвою до Джово Рінпоче
+218 mdzad bcu dbang bzhi dang sbyar ba [txt] Поєднання десяти дій та чотирьох втілень
+219 rdzogs smin sbyong ba'i smon lam [txt] Молитва тренування зрілості та звільнення
+220 gsol 'debs mtshang 'don ma [txt] Матеріальна молитва повного читання
+221 rig 'dzin 'jigs med gling pa'i 'khrungs rabs gsol 'debs [txt] Молитва про народження я Джігме Лінгпи
+222 rdzogs chen pa rang byung rdo rje'i rnam thar gsol 'debs [txt] Молитва про життєопис Ранґджунґ Дордже, майстра Дзогчен
+223 gcig chog nor bu lugs kyi gsol 'debs [txt] Молитва традиції єдиної коштовності
+224 gsol 'debs le tshan bzhi [txt] Чотири спеціальні молитви
+225 rig 'dzin 'jigs med gling pa'i zhabs brtan [txt] Стабільність стоп я Джігме Лінгпи
+226 zhabs brtan gsol 'debs le tshan gsum [txt] Три спеціальні молитви стабільності стоп
+227 rgyal sras nyin byed 'od zer gyi zhabs brtan gsol 'debs le tshan gnyis [txt] Дві спеціальні молитви стабільності стоп для сина царя, променя сонця
+228 mdo khams rdzogs chen pa'i skye phreng gsol 'debs [txt] Молитва до ланцюга перероджень майстрів Дзогчен Мдо Кам
+229 ja mchod [txt] Чайне поклоніння
+230 rig 'dzin 'jigs med gling pa'i 'khrungs rabs rnam thar nyung bsdus [txt] Короткий життєопис народження я Джігме Лінгпи
+231 snga 'gyur rnying ma la rgol ngan log rtogs bzlog pa'i bstan bcos [txt] Трактат про спростування злих перешкодників стародавньої Ньїнґми
+232 chab shog gi rim pa phyogs gcig tu bsgrigs pa mi'am ci'i zlos gar [txt] Танець повного задоволення: Збірка ритуалів підпису в одному напрямку
+233 gsan yig nyi zla'i rna cha [txt] Прикраса вух сонця та місяця: Таємний лист
+
+pod cha pa [vol] Том 6
+
+234 phur pa rgyud lugs [txt] Традиція тантр Кілаки
+235 phur pa rgyud lugs kyi chos kyi mtshan byang [txt] Каталог Дхарми традиції тантр Кілаки
+236 chos 'byung ngo mtshar snang byed/（ka） [txt] Показ дивовижного походження Дхарми (ка)
+237 stod las byang chub bsgrub pa'i spyi chings drwa ba sdom pa/（kha） [txt] Обітниця сходинок загального: Дія досягнення пробудження (кха)
+238 dbang chog dngos grub rgya mtsho'i 'jug ngogs/（ga） [txt] Вхід до океану сіддхі: Ритуал втілення (ґа)
+239 phur pa rgyud lugs kyi bdag 'jug byin rlabs rol mtsho/（nga） [txt] Океан розгортання благословень: Самопосвячення традиції тантр Кілаки (нґа)
+240 brgyud pa'i gsol 'debs byin rlabs shing rta/（ca） [txt] Віз воза благословень: Молитва лінійки передачі (ца)
+241 bka' ma'i yan lag brgyad 'grel rgyud don gsal ba/（cha） [txt] Прояснення значення тантр: Коментар до восьми гілок ка'ма (ча)
+242 phur pa rgyud lugs kyi sgrub thabs rdo rje khros pa'i bcud dum dpag bsam ljon pa/（ja） [txt] Дерево уявлень: Сідхана традиції тантр Кілаки, сутність гнівного Ваджри (джа)
+243 snga 'gyur bka' ma'i bdud rtsi gsang nan gyi 'grel pa/（nya） [txt] Коментар до таємного амріти ка'ма стародавньої передачі (ня)
+244 phur pa rgyud lugs kyi bsnyen pa'i las byang bkol ba'i dum bu/（ta） [txt] Уривок поклику: Посібник дій повторення традиції тантр Кілаки (та)
+245 'dzab bskul （tha） [txt] Виклик занурення (тха)
+246 sgrub pa'i dus kyi nyul le skrod pa'i pho nya'i dgos bskul/（da） [txt] Книга потреби: Усунення лінощів у часі практики (да)
+247 mngon rtogs bsdus pa rdo rje bkod pa'i rgyan/（na） [txt] Прикраса розгортання Ваджри: Збірка явних усвідомлень (на)
+248 bskyed rim gyi dogs sel dka' gnad mdud 'grol/（pa） [txt] Звільнення вузлів важких ключових точок: Усунення сумнівів етапу генерації (па)
+249 bsnyen sgrub thams cad kyi mdzod khang rig 'dzin gzhung lam/（pha） [txt] Скарбниця всіх повторень та практик: Корінний шлях Рігдзінів (пха)
+250 tshe sgrub nyi zla'i za ma tog （ba） [txt] Пік сонця та місяця: Практика довголіття (ба)
+251 spros med rgyun gyi rnal 'byor/（ma） [txt] Йога безперервного потоку без концепцій (ма)
+252 byug bdug brab gsum gyi sgrub tshul/ （tsa） [txt] Метод практики трьох: Куріння, вогонь та удар (ца)
+253 smad las spu gri rlung 'khor zhes bya ba ngan sngags nye bar bsnyen pa man ngag ltar bkral ba'i chig brgyud ma/（tsha） [txt] Неперервний лист, витлумачений за настановами близького повторення злих мантр, відомий як колесо вітру списа нижньої дії (тша)
+254 phur srung lcam dral gyi gnad yig dam can bla chags/（dza） [txt] Обітниця, що зв'язує демона: Ключовий лист для Лам Драл, захисника Кілаки (дза)
+255 dam can nye bar bsnyen pa'i phrin las smad las srog shing /（wa） [txt] Жива серцевина дій нижньої: Близьке повторення обітничників (ва)
+256 lha dbye'i bskul ba/（zha） [txt] Виклик божественного розділу (джа)
+257 smad las dam can nye bar bsnyen pa'i man ngag ma mo mkha' 'gro'i zhal lung zhes bya ba gsang ba'i rgya can/（za） [txt] Відомий як усні настанови дакіні-матері: Настанови близького повторення обітничників нижньої дії, таємна скарбниця (за)
+258 dam can lcam dral gyi mchod bskul/（'a） [txt] Поклик поклоніння для Лам Драл обітничників ('а)
+259 phur pa rgyud lugs kyi zhi ba'i sbyin sreg bdud rtsi'i thigs pa/（ya） [txt] Краплі амріти: Спалення дарувань спокою традиції тантр Кілаки (я)
+260 phur pa rgyud lugs kyi drag po'i sbyin sreg rta gdong rngams zhugs/（ra） [txt] Вхід у голос коня: Суворе спалення дарувань традиції тантр Кілаки (ра)
+261 sri gnon rgya gram nag po/（sha） [txt] Чорне море пригнічення бід (ша)
+262 phan gnod las tshogs rdo rje pha lam/（sa） [txt] Батько Ваджри: Збірка дій користі та шкоди (са)
+
+pod ja pa [vol] Том 7
+
+263 pod ja pa'i dkar chag [toc] Каталог тому 7
+264 klong chen snying thig glegs bam dang po [txt] Перший том Серцевин величезного простору Великого Досконалого
+265 DA ki'i gsang gtam chen mo/（ka） [txt] Велика таємна бесіда Дакіні (ка)
+266 gsang ba nyams snang gi rtogs brjod chu zla'i gar mkhan/（kha） [txt] Танцюрист місяця в воді: Висловлювання усвідомлень таємних видінь (кха)
+267 gnad byang thugs kyi sgrom bu/（ga） [txt] Скриня розуму ключових точок (ґа)
+268 rig 'dzin rtsa brgyud thod pa'i dum bu/（nga） [txt] Уламок черепа корінної лінії Рігдзінів (нґа)
+269 rtsa dbang rgyal thabs spyi blugs/（ca） [txt] Загальне вставлення корінного могутнього втілення (ца)
+270 klong chen snying thig gi dbang gi spyi don snying po don gsal/ （cha） [txt] Прояснення сутності загального значення втілення Серцевин величезного простору (ча)
+271 phyi sgrub bla ma'i rnal 'byor yid bzhin nor bu/（ja） [txt] Коштовність бажань: Зовнішня йога гуру практики (джа)
+272 bla ma mchod chog dngos grub rgya mtsho/（nya） [txt] Океан сіддхі: Верховне поклоніння гуру (ня)
+
+gsol 'debs khag gsum [sec] Три молитви
+
+273 'phags yul rig 'dzin mchog brgyad kyi gsol 'debs [cha] Молитва восьми верховних Рігдзінів священної країни
+274 kun mkhyen chen po'i mtsham brgyad kyi gsol 'debs [cha] Молитва восьми великих всемовних
+275 rdzogs chen pa rang byung rdo rje'i 'khrungs rabs gsol 'debs lung gsal [cha] Прояснення пророцтв: Молитва про народження майстра Дзогчен Ранґджунґ Дордже
+276 sngon 'gro dran pa nyer bzhag dang ngag 'don khrigs su sdebs pa rnam mkhyen lam bzang [txt] Шлях всемовного: Збірка двадцяти усвідомлень попередніх практик та читань
+277 nang sgrub rig 'dzin 'dus pa/（da） [txt] Внутрішня практика зібрання Рігдзінів (да)
+278 phyag rgya drug [txt] Шість мудр
+279 rig 'dzin bsnyen yig dngos grub kyi za ma tog （pa） [txt] Пік сіддхі: Текст повторення Рігдзінів (па)
+280 rig 'dzin tshe sgrub bdud rtsi bum bcud/（pha） [txt] Ваза амріти: Практика довголіття Рігдзінів (пха)
+281 rig 'dzin tshe sgrub dmigs gnad gal mdo/（ba） [txt] Ключові точки візуалізації практики довголіття Рігдзінів (ба)
+282 tshe sgrub dbang bshad lhan thabs/（ma） [txt] Пояснення та втілення практики довголіття (ма)
+283 yum ka'i byin rlabs dbang gi cho ga (tsha） [txt] Ритуал благословляючого втілення для Цог'ял (тша)
+284 mkha' 'gro'i gsol debs bsdus pa/ (dza) [txt] Збірка молитв дакіні (дза)
+285 yum ka'i rtsa sgrub bde chen dpal phreng /（dza） [txt] Славний ланцюг великого блаженства: Корінна практика Цог'ял (дза)
+286 yum bka' bde chen rgyal mo'i rtsa ba'i bsnyen yig （wa） [txt] Корінний текст повторення для Королеви Великого Блаженства, наказів Матері (ва)
+287 yum bka' bde chen rgyal mo'i bsnyen yig yang gsal lus dkyil mngon brjod/（zha） [txt] Явне вираження центрального тіла: Додаткове прояснення тексту повторення для Королеви Великого Блаженства, наказів Матері (джа)
+288 yum ka mkha' 'gro'i bdag 'jug dbang don rab gsal/（za） [txt] Прояснення значення самопосвячення для дакіні Цог'ял (за)
+289 rig 'dzin yum ka'i me mchod las bzhi'i bang mdzod/（'a） [txt] Внутрішній скарб чотирьох дій вогняного поклоніння Рігдзінів для Цог'ял ('а)
+290 sku gsum bdud rtsi'i bcud len/（ya） [txt] Вживання есенції амріти трьох тіл (я)
+291 yum ka mkha' 'gro'i nang sgrub bde chen snying po'i gter bum/（ra） [txt] Скарбниця сутності великого блаженства: Внутрішня практика дакіні Цог'ял (ра)
+292 sgrol ma maN+Dal bzhi pa'i cho ga klu dbang dgongs rgyan/（la） [txt] Прикраса наміру: Ритуал чотирьох мандал Тари (ла)
+
+mkha' 'gro bsun bzlog ngo mtshar snang ba (sha） [sec] Чудове видіння зворотного вбивства дакіні (ша)
+
+293 mkha' 'gro bsun bzlog gi grangs gsog nyer bsdu dang skong bshags kyi 'dzun/（sa） [txt] Збірка двадцяти повторень зворотного вбивства дакіні та лук сповіді та виправлення (са)
+294 rdo rje'i lha mo bcu drug gi mchod phreng dril za'i rgyud mangs/（pho） [txt] Багато ланцюгів поклонінь: Ароматний ланцюг для шістнадцяти богинь Ваджри (pho)
+295 dpa' bo dpa' mo'i bsun bzlog （ha） [txt] Зворотне вбивство героїв та героїнь (ха)
+
+yum ka mkha' 'gro'i las tshogs bzhi pa dang 'brel par/ tshe dbang gi mtshams sbyor/（a） [sec] Пов'язане з чотирма зборами дій дакіні Цог'ял / Підготовка для втілення довголіття ('a)
+
+296 yum ka mkha' 'gro'i las tshogs las/ gter bum sgrub pa'i lhan thabs/（ki） [txt] Методи практики скарбниці: З чотирьох зборів дій дакіні Цог'ял (кі)
+297 bde ba can du bgrod pa'i cho ga dpag med myur lam/（ku） [txt] Швидкий шлях до безмежного: Ритуал входу в Рай Блаженства (ку)
+
+khrus chog dang 'brel ba'i gshin po la lam bstan [sec] Показ шляху до привидів, пов'язаних з ритуалом очищення
+
+298 mkha' 'gro'i las tshogs bco lnga pa sgrib sbyong gnas lung gi cho ga dag byed gter bum/（ko） [txt] Скарбниця очищення: Ритуал очищення перешкод, п'ятнадцятий збір дій дакіні (ко)
+299 sgrol ma'i rnal 'byor la brten nas dug dbyung byabs bkrus lhan thabs/（khi） [txt] Методи очищення отрути та захисників, що спираються на йогу Тари (кхі)
+
+yum ka mkha' 'gro'i las tshogs las/ bla bslu srog 'tsho'i ljon pa/（khu） [sec] З зборів дій дакіні Цог'ял / Дерево життя, що обманює блa (кху)
+
+300 dbang chog byin rlabs chun po/（khe） [txt] Повне благословення ритуалу втілення (кхе)
+
+yum ka'i gsang sgrub seng ge'i gdong can gyi gsol 'debs sogs chos tshan gsum [sec] Три дхарми, включаючи молитву для таємної практики Левоголової для Цог'ял
+
+301 yum ka'i gsang sgrub seng+ge'i gdong can/（gi） [txt] Таємна практика Левоголової для Цог'ял (ґі)
+302 yum ka'i gsang sgrub seng ge'i gdong can gyi gsol 'debs byin rlabs char 'bebs/（kho） [txt] Дощ благословень: Молитва для таємної практики Левоголової для Цог'ял (кхо)
+303 yum ka'i gsang sgrub seng+ge'i gdong cangyi bsnyen yig （gu） [txt] Текст повторення для таємної практики Левоголової для Цог'ял (ґу)
+304 bsrung bzlog byad ma stobs 'joms/（ge） [txt] Подолання сили Бхадри ма: Зворотний захист (ґе)
+305 byad 'grol gnam lcags 'khor lo/（go） [txt] Колесо небесних блискавок: Звільнення від злоби (ґо)
+306 gtor bzlog byad gdon g.yul 'joms/（ngi） [txt] Подолання цілей злоби та демонів: Зворотне торма (нґі)
+307 bca' gzhi gnad kyi yig chung/（ngu） [txt] Малий лист ключових точок основи обітниці (нґу)
+308 'phrin las gzhan phan 'khor lo/（nge） [txt] Колесо дій на користь інших (нґе)
+309 yo ga gsum gyi spyi chings dpal chen zhal lung/（ngo） [txt] Загальні поради Великої Слави: Три йоги (нґо)
+310 dpal chen brgyud pa'i gsol debs /（ci） [txt] Молитва лінійки Великої Слави (ці)
+311 rig 'dzin thugs sgrub dpal chen 'dus pa/（cu）20 ff. (pp. 735-774) [txt] Сердечна практика зібрання Великої Слави Рігдзінів (чу)
+312 thugs sgrub dpal chen 'dus pa'i bsnyen yig/（ce） [txt] Текст повторення для сердечної практики зібрання Великої Слави (це)
+313 gshin rje 'chi bdag zil gnon /（co） [txt] Пригнічення Ями, лорда смерті (цо)
+314 rta mgrin khams gsum rol pa /（chi） [txt] Хаягріва: Розгортання трьох сфер (чі)
+315 yang dag sangs rgyas mnyam sbyor/（chu） [txt] Рівне сполучення істинних будд (чу)
+316 phur pa bdud dpung zil gnon/（che） [txt] Пригнічення демонів Кілакою (че)
+317 dpal chen phyag rgya rgyas pa/（cho） [txt] Розширена мудра Великої Слави (чо)
+318 khrag 'thung rigs bzhi'i sgos dbang/（ji） [txt] Втілення ролей чотирьох родів кровопивць (джі)
+319 sgrub khog rin po che'i za ma tog /（ju） [txt] Пік коштовностей: Внутрішня практика (джу)
+320 he ru ka rigs bzhi'i sgos sgrub bsnyen pa'i dmar byang /（je） [txt] Червоний посібник повторення ролей Герука для чотирьох родів (дже)
+321 bdag 'jug dbang don rgya mtsho /（jo） [txt] Океан значення самопосвячення (джо)
+322 rol pa chen po'i gtor bzlog /（nyi） [txt] Зворотне торма великого розгортання (ньї)
+323 rol pa chen po'i gtor zlog gi gzer kha zab mo gud du sbas pa/（nyu） [txt] Глибока основа, прихована в серці: Зворотне торма великого розгортання (нью)
+324 srung bzlog 'khor lo'i zhal shes/（nye） [txt] Вступ до колеса зворотного захисту (ньє)
+325 che mchog bdud rtsi 'khyil ba yon tan 'dus pa'i dkyil 'khor/（nyo） [txt] Мандала зібрання якостей верховного: Збори амріти демонів (ньо)
+326 sman sgrub lag len zin tho （ti） [txt] Посібник практики зцілення (ті)
+327 bskyed rim rnam gzhag 'og min bgrod pa'i them skas/（tu） [txt] Сходи подорожі до Нижньої межі: Розташування етапу генерації (ту)
+328 rig 'dzin zhi drag gi sbyin sreg ye shes me lce/（te） [txt] Язик вогню премудрості: Спалення дарувань спокою та суворості Рігдзінів (те)
+329 las bzhi mchog dang lnga'i sbyin sreg dngos grub rgya mtsho'i za ma tog/（to） [txt] Пік океану сіддхі: Спалення дарувань п'яти верховних дій (то)
+330 'phags pa'i gsol 'debs zhal mthong ma/（di） [txt] Обличчя, що бачить: Молитва аріїв (ді)
+331 gsang sgrub thugs rje chen po sdug bsngal rang grol/（thu） [txt] Велике співчуття: Природне звільнення від страждань, таємна практика (тху)
+332 thugs rje chen po sdug bsngal rang grol gyi cho ga'i dka' 'grel dbyar gyi rnga gsang /（the） [txt] Таємний літній барабан: Важкий коментар ритуалу Великого співчуття, природного звільнення від страждань (тхе)
+333 thugs rje chen po sdug bsngal rang grol lasH dbang don bdag 'jug gsal ba/（the） [txt] Прояснення значення самопосвячення для Великого співчуття, природного звільнення від страждань (тхе)
+334 pra khrid dmar byang gnad yig （tho） [txt] Червоний посібник ключових точок: Вступ до пра (тхо)
+335 rta mgrin 'dus pa'i sgrub thabs/（du） [txt] Сідхана зібрання Хаягріви (ду)
+336 rig 'dzin gyi gab byang gnad kyi mig tshags/（na） [txt] Очі ключових точок огляду Рігдзінів (на)
+337 yum ka bde chen rgyal mo'i lo rgyus/（tsa） [txt] Історія Королеви Великого Блаженства Цог'ял (ца)
+338 bde gshegs sgrub pa bka' brgyad nyang lugs kyi gtor bzlog skor gyi dris lan gshin rje'i gad rgyangs [txt] Гучний крик Ями: Відповіді на запитання про зворотне торма традиції Нян для восьми передач практики Шак'ям'юні
+339 kun bzang smon lam gyi 'grel pa [txt] Коментар до молитви Самантабхадри
+340 'khor lo 'bang ba'i dmigs rim gyi dogs pa kun gsal me long [txt] Дзеркало, що прояснює всі сумніви: Візуалізаційна послідовність колеса підкорення
+
+pod nya pa [vol] Том 8
+
+341 klong chen snying thig glegs bam gnyis pa [txt] Другий том Серцевин величезного простору Великого Досконалого
+342 bla ma drag po rta khyung 'bar ba'i gsol 'debs [txt] Молитва для суворої гуру, палаючої гриви коня
+343 phur pa gnam lcags thog rgod kyi lo rgyus [txt] Історія дикої блискавки Кілаки
+344 bla ma drag po rta khyung 'bar ba'i las byang byin rlabs gzi 'bar/ （do） [txt] Палаючий основи благословень: Посібник дій для суворої гуру, палаючої гриви коня (до)
+345 bla ma drag po rta khyung 'bar ba lasH dbang dang bsnyen pa'i gnad yig （ni） [txt] Ключовий лист втілення та повторення для суворої гуру, палаючої гриви коня (ні)
+346 bla ma drag po rta khyung 'bar ba lasH klu'i gdon 'grol 'og gdon mthar byed/（nu） [txt] Кінцевий нижній демон: Звільнення демонів наг для суворої гуру, палаючої гриви коня (ну)
+347 zangs mdog dpal ri'i smon lam dpal ri'i gsang lam/（ne） [txt] Таємний шлях Пагодової гори: Молитва Мідної Гори Слави (не)
+
+gzhi lam 'bras bu'i smon lam sogs [sec] Молитва основи, шляху та плоду тощо
+
+348 gzhi lam 'bras bu'i smon lam [txt] Молитва основи, шляху та плоду
+349 sku gsum zhing khams sbyong ba'i gsol 'debs smon lam/（no） [txt] Молитва тренування полів та сфер трьох тіл (но)
+350 bden tshig grub ba'i pra Ni ng+ha rnam mkhyen grong 'jug/（pu） [txt] Вхід до міста всемовного: Пранінгха для встановлення обітниці (пу)
+351 bar do'i smon lam dgongs gcig rgya mtsho/（pi） [txt] Океан єдиного наміру: Молитва бардо (пі)
+352 bskong bshags rdo rje'i thol glu/（ti） [txt] Проста пісня Ваджри: Виправлення та сповідь (ті)
+353 rgyal ba rig 'dzin srog 'khor dpal gyi gdu bu/（pe） [txt] Частина слави колеса життя царів-ів (пе)
+354 zhi khro ngan song sbyong ba'i chog bsgrigs khrom dkrugs gsal ba'i rgyan/（bo） [txt] Прикраса, що розбурхує натовп: Збірка ритуалу тренування спокійного та гнівного поганої долі (бо)
+355 zhi khro ngan song sbyong ba la brten pa'i zhib dpyod lhan thabs/（phi） [txt] Детальний аналіз методів, що спираються на тренування спокійного та гнівного поганої долі (пхі)
+356 zhi khro ngan song sbyong ba'i bskyed rim las 'phros pa'i yang yig dka' gnad rgya 'grol/（phu） [txt] Звільнення великого лотоса важких ключових точок: Додатковий лист, що випромінюється з етапу генерації тренування спокійного та гнівного поганої долі (пху)
+357 nyams chag skong ba'i man ngag/（phe） [txt] Настанови для виправлення видінь та перерв (пхе)
+358 dam pa rigs brgya'i lha dbang gi bkol byang /（phi） [txt] Поклик божественної влади для ста родів святих (пхі)
+359 na rag dong sprugs/ (po) [txt] Бурхливий Нарак Донг (по)
+360 zhi khro ngan song sbyong ba dang 'brel ba'i tshe 'das la phan gdags pa'i cho ga gzhan phan thugs rje'i dra ba/（bi） [txt] Сердечна дія користі іншим: Ритуал для померлих, пов'язаний з тренуванням спокійного та гнівного поганої долі (бі)
+361 zhi khro ngan song sbyong ba dang 'brel bar tshe 'das kyi phung po sbyong thabs sgrib gnyis rnam grol/（mi） [txt] Звільнення двох перешкод: Метод тренування скелета померлих, пов'язаний з тренуванням спокійного та гнівного поганої долі (мі)
+
+bka' srung ma mgon lcam dral sogs/（be） [sec] Захисниця вчення Махакала Лам Драл тощо (бе)
+
+362 bka' srung ma mgon lcam dral [txt] Махакала Лам Драл, захисниця вчення
+363 gza' rgod srog gi spu gri /（tshu） [txt] Спис дикої зірки життя (тшу)
+364 zhing skyong dur khrod lha mo'i gsol mchod [txt] Молитва та поклоніння богині охоронниці поля та кладовища
+365 klong chen snying thig bka' srung ma mgon lcam dral gyi srog gtad /（bo） [txt] Встановлення життя для Махакали Лам Драл, захисниці вчення Серцевин величезного простору (бо)
+366 rdo rje g.yu sgron ma'i skang gsol [txt] Вшанування та молитва Ваджра Юдронма
+367 gnod sbyin rol b skya bdun gyi gsol mchod [txt] Молитва та поклоніння семи синів Якуші
+368 klong chen snying gi thig le lasH lcam dral gsum gyi srog gtad/（mu） [txt] Встановлення життя для трьох Лам Драл з Серцевин величезного простору (му)
+369 tshe ring ma'i srog dbang byin pa'i skor/（tse） [txt] Розділ про втілення життя Церенма (тсе)
+370 mdos skong srid pa gzhi bzhengs/（tsi） [txt] Виправлення мод: Встановлення основи чотирьох світів (ці)
+371 klong chen snying gi thig le lasH bka' srung lcam dral gnad yig/（mi） [txt] Ключовий лист для Лам Драл, захисниці вчення з Серцевин величезного простору (мі)
+372 g.yul mdos bdud dpung zil gnon/（mo） [txt] Пригнічення демонів мод-цілі (мо)
+373 ma mgon g.yul mdos kyi bca' gzhi sogs kyi yig chung /（tsi） [txt] Малий лист основи обітниці мод-цілі Махакалі тощо (ці)
+374 gza'i bskul byang dug rlangs 'tshub ma/（tsu） [txt] Отруйний вихор: Посібник виклику зірки (цу)
+375 gtal dkar ma'i phyugs gta' sdom pa/（tsho） [txt] Обітниця стріли жертви для Білого Гталми (тшо)
+376 bstan srung dam can rgya mtsho'i ru mtshon mnga' gsol/ (tshe) [txt] Велика молитва з жестами океану обітничників, охоронців вчення (тше)
+
+ma mgon gyi bskul dang / bzlas dmigs/ gtor 'bul/ bskangs 'phrin bden bdar/ bstod pa/ bka' srung gsol mchod sogs [sec] Виклик Махакалі тощо / Візуалізація повторення / Жертва торма / Вшанування з діями, подвійна правда / Хвала / Молитва захисниці вчення тощо
+
+377 ma mgon gyi bskul dang [txt] Виклик Махакалі
+378 bzlas dmigs [txt] Візуалізація повторення
+379 gtor 'bul [txt] Жертва торма
+380 bskangs 'phrin bden bdar [txt] Вшанування з діями, подвійна правда
+381 las tshogs gang rigs la sbyar chog pa'i tshogs bsdus [txt] Збірка цацу, придатна для будь-якого роду дій
+382 rgyud mgon legs ldan tshogs kyi bdag po'i skong ba/（dzi） [txt] Виправлення для божества зборища Легден, захисника лінії (дзі)
+383 mgon po legs ldan gyi skong ba rgyun khyer/（dzu） [txt] Постійне носіння виправлення Махакали Легден (дзу)
+
+'pho ba ma bsgom sangs rgyas/（wu） [sec] Перенесення без практики: Пробудження будди (ву)
+
+384 'pho ba [txt] Перенесення
+
+klong chen snying gi thig le lasH gtum mo'i gsol 'debs sogs [sec] З Серцевин величезного простору: Молитви чандалі тощо
+
+385 gtum mo'i gsol 'debs rdo rje'i tshig rkang /（zhi） [txt] Ваджряні вірші молитви чандалі (жі)
+386 bde stong rlung gi rdzogs rim snyan rgyud shog dril yid bzhin nor bu/（wi） [txt] Коштовність бажань: Скрита тантра етапу завершення з вітром блаженства-порожнечі (ві)
+387 gtum mo'i 'bar 'dzag yig chung /（wu） [txt] Малий лист спалахів чандалі (ву)
+388 snyan rgyud shog dril yid bzhin nor bu'i sbas don thabs lam ma bsgoms sangs rgyas/（we） [txt] Пробудження будди без практики шляху методів: Таємний сенс коштовності бажань, скритої тантри (ве)
+389 rig 'dzin 'khrul 'khor sbas don gsal ba/（wo） [txt] Прояснення таємного сенсу йоги Рігдзінів (во)
+390 bla ma yang gsang gi bla brgyud gsol 'debs [txt] Молитва лінійки передачі найтаємнішої гуру
+391 yang gsang bla ma'i sgrub pa thig le'i rgya can/（de） [txt] Таємна скарбниця практики найтаємнішої гуру (де)
+392 rdo rje'i rnal 'byor dang rjes su 'brel ba'i smin byed dbang rnam grol ye shes mchog sbyin/ (we) [txt] Найвищий дар премудрості: Втілення зрілого, пов'язане з йогою Ваджри (ве)
+393 yang gsang bla ma grub pa thig le'i rgya can gyi bsnyen yig grub gnyis shing rta/ (wo) [txt] Віз двох практик: Текст повторення таємної скарбниці практики найтаємнішої гуру (во)
+394 bskong bshags rdo rje'i thol glu/（zhi） [txt] Проста пісня Ваджри: Виправлення та сповідь (жі)
+395 yang gsang bla ma'i sgrub pa thig le rgyan can gyi rjes chog tshogs kyi mchod pa bsod nams sprin gyi rol mo [txt] Мелодія хмар заслуг: Ритуал цацу прикрашеної практики найтаємнішої гуру
+396 gcod yul mkha' 'gro'i gad rgyangs/（zhu） [txt] Гучний крик дакіні: Розтин цілі (жу)
+397 gcod mkhan rnams kyi nye bar spyad pa'i phyin drug lang tsho/（zu） [txt] Шість мов трансцендентних: Близьке застосування для різальників (зу)
+
+rdzogs pa chen po kun tu bzang po ye shes klong gi rgyud sogs /（zho） [sec] Великий досконалий: Тантра океану премудрості Самантабхадри тощо (жо)
+
+398 rdzogs pa chen po kun tu bzang po ye shes klong gi rgyud /（zho） [txt] Тантра океану премудрості Самантабхадри Великого Досконалого (жо)
+399 man ngag rdzogs pa chen po'i rgyud phyi ma/（zi） [txt] Зовнішня тантра настанов Великого Досконалого (зі)
+400 kun tu bzang po'i dgongs nyams/（zu） [txt] Видіння наміру Самантабхадри (зу)
+401 rdzogs pa chen po'i gnad gsum shan 'byed/（ze） [txt] Розрізнення трьох ключових Великого Досконалого (дзе)
+402 o rgyan zur rje gling pa'i gsol 'debs [txt] Молитва до Лінгпи острова Цур'є Орг'єна
+403 snang ba dbang 'dus zhes bya ba'i gsol 'debs [txt] Молитва зібрання втілення видінь
+404 gcod yul mkha' 'gro gad rgyangs kyi brgyud pa'i gsol 'debs [txt] Молитва лінійки для гучного крику дакіні, розтину цілі
+405 thun mong gi sngon 'gro sems sbyong rnam pa bdun gyi don khrid thar pa'i them skas/（zo） [txt] Сходи звільнення: Ведення сенсу семи звичайних попередніх тренувань розуму (зо)
+406 rdzogs pa chen po klong chen snying thig gi thun mong gi sngon 'gro khrid kyi lag len 'debs lugs/（'i） [txt] Метод застосування ведення звичайних попередніх практик Серцевин величезного простору Великого Досконалого ('і)
+407 thun mong ma yin pa'i khrid yig dran pa nyer gzhag('u） [txt] Текст ведення неперевершеного: Двадцять усвідомлень ('у)
+408 klong chen snying tig gi khrid yig ye shes bla ma/（'e） [txt] Йога премудрості гуру: Текст ведення Серцевин величезного простору ('е)
+409 man ngag gi rgyab rten pad+ma dkar po /（'o） [txt] Білий лотос: Підтримка настанов ('о)
+
+gnas lugs rdo rje'i tshig rkang sogs [sec] Ваджряні вірші природного стану тощо
+
+410 gnas lugs rdo rje'i tshig rkang /（yi） [txt] Ваджряні вірші природного стану (йі)
+411 kun mkhyen zhal lung bdud rtsi'i thigs pa/（yu） [txt] Краплі амріти: Усні поради всемовного (ю)
+412 snying tig sgom pa'i bya bral gyi gol shor tshar gcod seng ge'i nga ro/（ye） [txt] Рев лева: Різке розтин помилок бездіяльної медитації серцевин (є)
+413 rdzogs pa chen po gnas lugs cer mthong /（yo） [txt] Повне бачення природного стану Великого Досконалого (йо)
+414 byang sdom [txt] Білі обітниці
+
+gtor ma sogs cho ga'i skor 'ga' zhig [sec] Деякі ритуали торма тощо
+
+415 spungs gtor bsdus pa/（le） [txt] Збірка накопичувальних торма (ле)
+416 dkar gsur zhing khams kun khyab/（le） [txt] Біле читання, що охоплює всі поля та сфери (ле)
+417 dmar gsur la brten nas rang gzhan gyi 'chi ba bslu ba/（le） [txt] Обманювання смерті себе та інших через червоне читання (ле)
+418 gson gshin gyi bsngo ba nyi ma'i 'od zer [txt] Промені сонця: Поклоніння голодним духам
+419 dus mthar gdab pa'i smon lam/（le） [txt] Молитва для останньої епохи (ле)
+420 dpag med myur lam gyi dbang chog ma rig mun sel 'ood zer 'bum ldan/（yo） [txt] Сто тисяч променів світла: Ритуал втілення швидкого шляху до Безмежного, усунення темряви невігластва (йо)
+421 ri chos zhal gdams ngo mtshar rgya mtsho/（ri） [txt] Океан дивовижних порад: Усні настанови гірських вчень (рі)
+422 klong chen snying thig gi gtor ma'i reg zig （re） [txt] Нотатки торма Серцевин величезного простору (ре)
+423 thugs rje byams pa'i man ngag 'gro ba'i srog 'dzin/（ru） [txt] Тримач життя мандрівників: Настанови співчутливої любові (ру)
+424 mdo sngags zung du 'jug pa'i spyod yul lam khyer sangs rgyas lam zhugs/（ro） [txt] Вхід у шлях будди: Носимий шлях практики з'єднання сутр та тантр (ро)
+bai ro'i sgrub thabs dang / 'jigs med gling pa'i bla ma'i rnal 'byor sogs [sec] Сідхана Вайрочани та йога гуру Джігме Лінгпи тощо
+425 bdag nyid chen po bai ro'i sgrub thabs [txt] Сідхана великого я: Вайрочана
+426 rig 'dzin 'jigs med gling pa la brten pa'i bla ma'i rnal 'byor [txt] Йога гуру, що спирається на я Джігме Лінгпу
+427 rgyal gdon zhi ba'i sgom bzlas [txt] Медитація заспокоєння царських демонів
+
+tshes bcu'i phan yon gsol 'debs dang / gu ru'i gsol 'debs/（lu） [sec] Молитви переваг десятого дня та гуру (лу)
+
+428 gu ru'i gsol 'debs/（lu） [txt] Молитви гуру (лу)
+429 thun mong dang thun min sngon 'gro sogs ngag 'don 'thor bu'i skor/（le） [txt] Різні читання звичайних та неперевершених попередніх практик (ле)
+430 rab gnas gyi rgyud nas gsungs pa'i mchod phreng kun tu rgyu dang yan lag arga'i cho ga （she） [txt] Ритуал ланцюгів поклонінь з ладаном та парфумами з тантр освячення (ше)
+431 rab gnas kyi cho ga bkra shis 'dod 'jo/（sho） [txt] Ритуал освячення: Бажаючи щастя та успіху (шо)
+
+pod ta pa [vol] Том 9
+
+432 mkhyen brtse'i 'od zer gyi rnam thar legs byas yongs 'du'i snye ma [txt] Вершина повного збирання: Добре складений життєпис Променя Світла Співчуття
+433 klog pa thos bsam dang 'brel ba'i skor te skabs dang po [cha] Перший розділ: Пов'язаний з читанням, слуханням та роздумуванням
+434 sgrub pa nan tan dang 'brel ba'i skor te skabs gnyis pa [cha] Другий розділ: Пов'язаний з практикою обітниці
+435 bya ba las kyi 'khor lo dang 'brel ba'i skor te skabs gsum pa/ - [cha] Третій розділ: Пов'язаний з колесом дій
+436 rnam thar bsdus pa do ha'i rgyan [txt] Прикраса дохи: Зведений життєпис
+437 klong chen nam mkha'i rnal 'byor gyi gsung thor bu phyogs bsdebs [txt] Зібрані фрагменти промов йоги небесного простору Кхьончена
+438 lcags zam mchog sprul rin po cher phul ba [txt] Подароване верховній еманації Цагцама Рінпоче
+439 ji phebs sgom phyogs skor [txt] Розділ про медитацію, куди б не прийшов
+440 rig 'dzin lhun grub la gdams pa [txt] Настанови для я Лхундруба
+441 gsar bu rnams la nyam skhrid dmar bcangs kyi rgyab skyor du gdams pa [txt] Настанови для нових: Підготовка до червоної медитації та ведення видінь
+442 mi rgan dbang 'dus la gdams pa [txt] Настанови для старого Ванг'ду
+443 gtam gsum bdud rtsi'i thig pa [txt] Краплі амріти трьох оповідей
+444 phyag rdzogs man ngag [txt] Настанови махамудри
+445 ma Ni b+ha dra la gdams pa [txt] Настанови для Мані Бхадри
+446 tshogs drug gegs sel gnad kyi man ngag [txt] Настанови ключових точок усунення шести зборів перешкод
+447 snying gtam tshig gsum ma [txt] Три слова серцевого оповідання
+448 sam b+ho Dar dri tshig bsring pa'i skabs don [txt] Сенс розділу, що прикрашає запитання Санбходхари
+449 'phrin las la gdams pa [txt] Настанови для дій
+450 pad+ma chos 'dzoms la gdams pa [txt] Настанови для Пема Чодзом
+451 ljang rtsa ma NI b+ha dra la gdams pa [txt] Настанови для Мані Бхадри з Лянгци
+452 bsnyen sgrub kyi dri ba'i lan [txt] Відповіді на запитання про повторення та практику
+453 sbyor sprул rin pos ches mdzad pa'i ngag sngags su go phyir smra ba gcog mi dgos zhes pa'i lan [txt] Відповідь: Не потрібно говорити, що промови, складені еманацією Сьор, є мантрами
+454 sa skya pa'i dge bshes dag snang can zhig gis dris lan [txt] Відповіді на запитання Ґешен Даґнака з Сак'ї
+455 lcag zam sprul pa'i sku mchог dam pa'i mchid lan [txt] Лист відповіді верховній еманації Цагцама
+456 sprul pa'i sku pad+ma chos 'byor rgya mtshi'i dris lan [txt] Відповіді на запитання еманації Пема Чоджор Ґьямцхо
+457 la la dag bogs 'don gyi spyod pa la dengs su bcug pa'i tshe gdams pa [txt] Настанови для введення в поведінку читання дозволених/заборонених
+458 'jigs med kun grol la gdams pa [txt] Настанови для Джігме Куньдрола
+459 sgom pa'i shes rab ;a myong ba cung zad yod pa la gdams pa [txt] Настанови для тих, хто має деяке досвідчення премудрості медитації
+460 'bri gung yang ri sgar pa dkon mchog chos dar gyis bskul ba'i ngor gdams pa [txt] Настанови на прохання Дкончоґ Чодар з Дріґунґ Янґрі
+461 snying gi bu slob wang 'jigs med kun grol dang / rin chen rdo rje dengs khar zhal gdams [txt] Усні настанови для серцевого сина Ванг Джігме Куньдрола та Рінчен Дордже
+462 snying gtam [txt] Серцеве оповідання
+463 bslab bya snying gi mun sel [txt] Усунення темряви серця навчання
+464 dge rgan ting 'dzin la gdams pa [txt] Настанови для Джеґена Тіндзіна
+465 hor pa bstan dar la gdams pa [txt] Настанови для Тендара з Хор
+466 lho brag bdud 'joms gling em chi can gyi ngor gdams pa [txt] Настанови для еманації Лхо Драк Дуджом Лінгчі
+467 'jigs med 'phrin las 'od zer la gdams pa [txt] Настанови для Джігме Пхрінлас Одзер
+468 rgyang rtse brtse chen chos sde'i dad gus ldan pa'i dge 'dun la gdams pa [txt] Настанови для санґхи з вірою в монастир Бріджун Цечен Ґянґдзе
+469 dpal sdings sku skye rin po cher bslab bya nang ma'i tshul du gdams pa [txt] Настанови внутрішнього навчання для Кюке Рінпоче з Пал Дінґ
+470 rgya drung byang chub rgyal mtshan dang / mdo khams pa gnyis kyis nan tan du dris pa'i lan [txt] Відповіді на обітничні запитання Чанчуб Ґялцен та двох з Мдо Кам
+471 lha lcam ngang tshul rgyal mo la gdams pa [txt] Настанови для богині Нанґцал Ґьямо
+472 sa skya gong ma la phul [txt] Подароване вищому Сак'ї
+473 sa skya'i mkhan chen khri thog pa anan+da la phul ba [txt] Подароване абату Сак'ї Крітопі Аняндії
+474 sde dge'i drung yig la [txt] До секретаря Седе
+475 e chen sku skye rin po cher gdams pa [txt] Настанови для Ечен Кюке Рінпоче
+476 'tsho byed dge slong bde legs dbang phyug la gdams pa [txt] Настанови для бікшу Делеґ Ванґчуг, Даючого Життя
+477 dgon rtse sprul sku rin po cher gdams pa [txt] Настанови для еманації Гонцерінпоче
+478 zhal gdams bla ma rgyal ba [txt] Усні настанови гуру, Переможця
+479 rdza chu kha pa blo ldan gyis bsgom bya sgom byed mi 'dug zer ba la gdams pa [txt] Настанови для Лодена з Рдза Чука, який каже, що немає медитатора та об'єкта медитації
+480 rgya rong ri khrod pa dpal ldan rgya mtsho la gdams pa [txt] Настанови для Палден Ґямцо, відлюдника Рґяронґрі
+481 pad+ma bsam gtan rong skor la 'gro khar gdams pa [txt] Настанови для подорожі до Ронґкару, самадхі Пеми
+482 snying gtam nyung ngur bsdus pa [txt] Коротко зібране серцеве оповідання
+483 mdo khams ru dam pa 'jigs med blo gsal can gnyis la [txt] До двох святих Джігме Лосал з Мдо Кам
+484 kong po rgod tshang sprul skus ched du bskul ma byu ba'i bslab bya [txt] Навчання, щоб не відволікатися, на прохання еманації Конґпо Ґодценґ
+485 'jigs med rnam rgyal lo gsum gyi sgrub pa la dengs par gdams pa [txt] Настанови для поточної практики трирічного Джігме Намґ'ял
+486 dgon rtse sprul sku rin po che nas ran pa skyong tshul gyi dris lan [txt] Відповіді на запитання Гонцерінпоче про охорону себе
+487 nags shod sgom chen chu skyes kyi phrin lan [txt] Лист відповіді великого медитатора Наґшод Чук'є
+488 zhal gdams bde gshegs rnams ma [txt] Матеріальні усні настанови для Шак'ям'юні
+489 pad+ma chos grags la gdams pa [txt] Настанови для Пема Чодраґа
+490 no ba kun bzang legs bshad la gdams pa [txt] Настанови для доброго пояснення Куньсанґ Нони
+491 nyams mgur chos sku rdo rje 'chang chen [txt] Пісні досвіду для великого носія Ваджридхарми, тіла Дхарми
+492 nyams mgur sprul pa'i rje 'bangs ma [txt] Пісні досвіду для еманаційної матері підданих
+493 mdo khams pa 'jigs med thar pa nad drag pos mnar ba'i tshe gdams pa [txt] Настанови для Джігме Тарпи з Мдо Кам, пригніченого важкою хворобою
+494 dpal tshe ring ljongs kyi bca' yig [txt] Статут долини Церін
+495 rdzogs chen sprul sku nges don bstan 'dzin bzang po'i dris lan [txt] Відповіді на запитання Тензін Санґпо, еманації Дзогчен
+496 mdo khams pa sa ra'i ming can gyis dris lan [txt] Відповіді на запитання того з Сари з Мдо Кам
+497 a khu khams pa la gdams pa [txt] Настанови для Аку з Кам
+498 sde dge mchod dpon la gdams pa [txt] Настанови для настоятеля Седе
+499 kaH thog dge rtse rin po cher gdams pa [txt] Настанови для Кат'оґ Джецерінпоче
+500 kaH thog phyag tsha sku skye ba la gdams pa [txt] Настанови для Кюке з Кат'оґ Пакца
+
+bu 'jigs med blo gsal la gdams pa khag gnyis [sec] Дві групи настанов для сина Джігме Лосала
+
+501 bu 'jigs med blo gsal la gdams pa [txt] Настанови для сина Джігме Лосала
+502 bu 'jigs med blo gsal la gdams pa [txt] Настанови для сина Джігме Лосала
+503 rgyal rong bsod nams bkra shis la gdams pa [txt] Настанови для Соннам Трші з Ґ'ялронґ
+
+chab mdo rab rgyas la gdams pa khag gnyis [sec] Дві групи настанов для Чапмо Рабґ'є
+
+504 chab mdo rab rgyas sems la phur [txt] Політ розуму для Чапмо Рабґ'є
+505 lho gnas mdo pa la gdams pa [txt] Настанови для Логна Мопо
+506 rig 'dzin lhun grub la gdams pa [txt] Настанови для Рігдзіна Лхундруба
+507 hor thag 'go pa 'jigs med rnam grol la gdams pa [txt] Настанови для Джігме Намдрола, Хор Тагґо
+508 gang shar thol thol byung gi glu [txt] Пісня, що виникає просто з Ґанґшара
+509 nyams mgur [txt] Пісні досвіду
+510 mtshur phu gdan tshab pa'i dris lan [txt] Відповіді на запитання регента Мцурфу
+511 rang bab smra smra bsam brjod med kyi lta ba [txt] Природний потік: Погляд без роздумів чи вираження
+512 'bri gung mthel du ri pa rnams la phan pa'i sems kyis rgyud tshod dang mthun par gdams pa [txt] Настанови, узгоджені з сесією, з думкою про користь для відлюдників верхнього Дріґунґ
+513 mtshang 'don gyi zhal gdams [txt] Усні настанови повного читання
+514 zhabs drung yang steng pa 'jigs med dpal chen gyi sgom phyogs dris lan [txt] Відповіді на запитання про напрямки медитації Джігме Палчена, молодшого сина стоп
+515 lha lcam ngang tshul ma'i dogs sel [txt] Усунення сумнівів богині Нанґцалма
+516 zhal gdams blang dor me long [txt] Дзеркало прийняття та відкидання: Усні настанови
+517 spa sgro gnas kyi bla ma la gdams pa [txt] Настанови для гуру монастиря Паґро
+518 rig pa'i thol glu [txt] Проста пісня усвідомлення
+519 mdo khams ge sar gling tshang sku skye gnyis la gdams pa [txt] Настанови для двох Кюке з Ґесар Лінґ Мдо Кам
+520 bri gung rtse ba gzhis kar thol byung du gsungs pa [txt] Викладене просто в Ґжікар для Дріґунґцеви
+521 dpon rin chen gyi ngor gdams pa [txt] Настанови для Рінчена, настоятеля
+522 'bri gung pa'i sgom chen la gdams pa [txt] Настанови для великого медитатора Дріґунґпи
+
+Sam van Schaik, “A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa”
+
+The British Library
+
+he first printed edition of the collected works (gsung ’bum) of ’Jigs-med gling-pa was published in Derge, shortly after his death in 1798. The compilation and printing of the collected works was done under the aegis of ’Jigs-med gling-pa’s patron the queen of Derge and his disciple Mdo-grub-chen, edited by the Dge-rtse sprul-sku, Gyur-med tshe-dbang mchog-grub (1761– 1829), and printed at Derge’s Dgon-chen monastery.
+
+
+Just over a century later, another edition was printed in central Tibet in 1881, generally known as the Lhasa edition.2
+
+From the records of the printing blocks at Gnas-chung monastery, and certain extra colophons in this edition wherein Gnas-chung is mentioned, it appears that the two volumes of the Klong chen snying thig along with ’Jigs-med gling-pa’s sGom phyogs dris lan in this edition may have been copied from the blocks kept there.3
+
+The first two volumes 1 Cf. Kolmas 1971: 237-250 which contains reproductions of some of the title pages from the Klong chen snying thig published at Dgon-chen monastery.
+
+The life story of ’Jigs-med gling-pa has been discussed in several studies of which the most extensive is Gyatso 1998.
+
+
+2 This date is given at the end of the dkar chag (p. 33.5): rab tshes lo rkyang so lnga pa khyu mchog lo’i nang gegs med du grub pa.
+
+The terms rab tshes and khyu mchog would both usually denote the fifteenth year of the 60-year cycle (which in this case must be the cycle that began in 1867).
+
+This year mostly corresponds to 1881 but also includes the first month of 1882 (Schuh 1973).
+
+A third version of the collected works of ’Jigs-med gling-pa was printed by the printing house of Adzom chos-sgar in 14 volumes.
+
+A copy of this version, with uncertain place and date of printing, is available on the TBRC website (W7477).
+
+My previous comparisons of certain texts in Klong chen snying thig (see van Schaik 2004: 241–2) suggests that these blockprints (at least in the Klong chen snying thig volumes) differ from both the Derge and Lhasa versions, and appear to have been compiled from different manuscript exemplars.
+
+3 Two of these colophons are given in the footnotes to the critical editions. The record of a set of Klong chen snying thig printing blocks at Gnas-chung is in Three Karchacks, p. 190. Although the number of folios given in that record do not match the number of folios in the edition exactly, they are very close: 1363 and containing the Yon tan mdzod were printed in the monastery of Rdorje- brag, and this is probably also the case for other volumes lacking additional printing colophons.
+
+The Lhasa blockprints differ from the Derge edition in that certain texts are grouped together:
+
+their titles appear together on a single page, and they are paginated together as a single text.
+
+4 For example a group of four texts in the Klong chen snying thig are placed together in this way (vol. nya, 647–92), and an additional printer’s colophon is added at the end of the final text in the group.
+
+The colophon lists the names of those who contributed and the amount of their contribution to the printing of this group of texts; most or all of these contributors seem to have been from Gnas-chung monastery.5
+
+
+Thus this method of grouping texts seems to be related to the way in which funds were raised for their publication. More information about the fundraising for these blockprints is given in the dkar chag to this edition.
+
+
+The dkar chag is located in the fifth volume (ca) of the Lhasa edition of the collected works of ’Jigs-med gling-pa, on pp. 1–36. It is written by Rdo-rje rgyal-mtshan, though it also reproduces parts of the catalogue in the Sde-dge edition by Dge-rtse sprul-sku.6
+
+It is 1353 respectively (both other editions contain considerably fewer pages).
+
+Also recorded amongst the rather few (only five, all Nyingma) sets at Gnas-chung is a Sgom phyogs dris lan, presumably ’Jigs-med gling-pa’s text.
+
+Here the number of folios is not close to the version in SBl, yet the colophon mentions Gnas-chung, so there may be have been an error in the folio count. 4 See van Schaik 2004: 39–40, 241–242; Gyatso 1998: 310.
+
+
+5 Vol nya, 690.3-691.5: /rgyu sbyor sbyin pa'i bdag po gnas chung grwa rigs gras sku bcar chos rje lags nas kha phyi dngul srang 20/ rtse phyag zur pa kun dpal nas dngul srang 10 chos rgyal nas dngul srang 10 dge zur 'jam dpal nas dngul srang 10 kha gsong/ skal phun nas 030 chos kun chos nas 00 ye chos 00 rnam grol 030 dge rgyal 'phrin 030 'jam 'phrin 0150 dbu khri bskal don 00 gnyer grags chos 030 'jam shes 00 shā ka smon 0150 dag chos 0150 gye re lha bras pas 030 bskal bstan 015 kun bzang 023 blo chos 030 blo dar 010 ye dar 030 bskal bstan pas 00 dge khrims 0150 bskal chos 0350 grags shes 0150 mkhyen rab 050 chos 'jam bzlas 015 tshul brtan 010 zhol lang ba'i kha lhag nas 0470 gong gi kha btags rin 06 bcas kyi bar du bskrun / /ngo bo ka nas dag pa chos sku zhes/ /'dzin med gsal stong rig pa ye shes gsung/ /ye grol kun tu bzang por mngon gyur nas/ /rang gzhan don gnyis lhun gyi 'grub par shog/ ces dngos po de dag chus mi 'dza' ba'i ched du dge ba rdzogs byang du bsngo ba'i smon tshig 'di bzhin gnas chung mkhan rin po che nas dgongs zhes phebs don ltar dbu ru skyid smad du lha rigs gnyos kyi bandhe bu su ku des sbyar// // manga laṃ/.
+
+
+6 It is not easy to identify this Rdo-rje rgyal-mtshan. From the colophon to his account of the printing of this edition, we see that he was residing in retreat in Yer-pa at the time of writing.
+
+Thus he may be the doctor ’Tsho-byed Rdo-rje rgyal-mtshan (d.1927?) who is mentioned in several sources gathered in the TBRC record P4543: he is said to have been a physician to the king of Bhutan at A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa
+
+
+titled Differentiating the Supreme Dharma: a list of the complete works of Vidyādhara ’Jigs-med gling-pa, the all-knowing king of the dharma ([[Kun mkhyen chos kyi rgyal po rig 'dzin 'jigs med gling pa'i bka' 'bum yongs rdzogs kyi bzhugs byang chos rab rnam 'byed) and is divided into the following parts:
+
+
+2.1 Opening verses.
+
+
+2.3 The dkar chag by Dge-brtse sprul-sku Tshe-dbang mchog-grub. 9.1 An account of compilation and printing by Dge-brtse sprul-sku. 14.2 The main list of works (bzhugs byang dkar chag dngos). 20.6 The benefits of his activities and a final supplication of dedication.
+
+20.6 Verses from the Perfection of Wisdom in 8,000 Verses (yum sdud pa).
+
+22.5 A few verses of dedication.
+
+25.6 An account of printing in central Tibet.
+
+34.1–36.4 Conclusion.
+
+
+The catalogue (bzhugs byang) on pp. 14–20 is translated below.
+
+Though attributed to Rdo-rje rgyal-mtshan it is almost directly copied from that of Dge-brtse sprul-sku, to the extent that it is not entirely accurate (for example, it lists Yon tan mdzod in volume ka when it is in fact in volume kha).
+
+Thus the reason for the inclusion of both Dge-brtse sprul-sku’s catalogue as well as this one is not entirely clear, except that this one is distinguished by the addition of the folio numbers of the Lhasa blockprints.
+
+There is also a problem with the page order.
+
+The first dkar chag (pp. 2–8) is missing the last page or so, and Dge-brtse sprul-sku’s account of the Sde-dge printing (pp. 9–14) is missing its opening.
+
+Furthermore, pp. 31–32 (folio 16 in the Tibetan numbering) of the account of the printing in Central Tibet appears to belong in Dge-brtse sprul-sku’s account, and should be inserted immediately before p. 9 (folio 5 in the Tibetan numbering).
+
+This is still not the first page of Dge-brtse sprul-sku’s account, which seems to be entirely missing here.
+
+
+The catalogue includes some description of the longer texts, but is content to list the shorter ones. Most of ’Jigs-med gling-pa’s shorter texts are titled according to the Tibetan custom of having both an ornamental and a descriptive title.
+
+I have translated the descriptive parts of the titles, and left the ornamental parts, by which the texts one time, to have been responsible for carving blocks of the Rgyud bzhi, and to have settled in the latter part of his life in Yer-pa.
+
+Further support for this identification is offerred by the dkar chag itself, in which the sickness and cure of the patron Gro-shod skal-bzang chos-’phel is mentioned as a motivation for this making a “repayment for medical services” (sman yon); see pp. 26–27.
+
+Revue d’Etudes Tibétaines are generally known, in Tibetan with the intention of giving an easy overview of the contents of the texts as well as their shortened Tibetan titles. I have added page numbers for all texts from the Sonam T. Kazi edition (see the Bibliography).
+
+The translations I have used for the main Tibetan words for textual genres encountered here are as follows
+
+spring ba epistle bstod hymn gsol 'debs prayer bsngags praise smon lam aspiration / aspirational prayer cho ga ritual mchod offering skong gso fulfillment offering nyer bsdus condensed (form) man ngag instructions
+
+
+The colophons have been transcribed directly from the Sonam T. Kazi edition of the Lhasa blockprints, published in Gangtok in 1970– 75.7 As mentioned above, these sometimes contain addenda relating to their printing in the present edition; for example the colophon of the last text in the collection, the sGom phyogs dris lan, states that the blocks are kept at Gnas-chung monastery.
+
+In these colophons I have placed personal names in bold where the names relate to contemporaries of ’Jigs-med gling-pa. I have not included historical figures such as Klong-chen-pa and Padmasambhava, who appear in so many of the colophons, or the various names by which
+
+’Jigs-med gling-pa signs himself. Among those credited with inspiring ’Jigsmed gling-pa’s compositions are the Sa-skya throne holder Ngagdbang kun-dga’ blo-gros (1729–1783), and two Dge-lugs monks from ’Bras-spungs monastery.
+
+Several of ’Jigs-med gling-pa’s rnying ma disciples, such as Padma chos-’byor rgya-mtsho, are also credited.8
+
+Place names relevant to the writing and publication of the texts are underlined in the colophons. A large number were written in the monastery of Tshe-ring-ljongs Padma-’od-gsal-gling, which ’Jigsmed gling-pa founded after his retreat. Other were written earlier in his retreat cave.
+
+Some were written in other monasteries, including the main temple (gtsug lag khang) at Sa-skya and the ’Bri-gung rdzong-gsar. I have also added a few other notes, including 7 The actual printing house is given as being in Daryaganj, Delhi.
+
+
+8 Colophons for the longer texts are also available on the TBRC website. A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa
+
+
+references where relevant to modern studies and translations of the texts.9
+
+
+Translation
+
+
+Differentiating the Supreme Dharma: a list of the complete works of Vidyādhara ’Jigs-med gling-pa, the all-knowing king of the dharma The first book: KA
+
+
+[A] The complete basis for sutra and mantra, the Yon tan rin po che mdzod root text in thirteen chapters.10 (KHA 1–121)11 [B] The commentary to the above, up to the ninth chapter, teaching the correct meaning of the three baskets, the Bden gnyis shing rta.12 (1–925)
+
+KHA The continuation of the latter up to the tenth chapter, the complete vessel of the vidyādharas, and the three remaining chapters, establishing the essential points of the ground, path and goal of the 9 In these notes, the Sde-dge version of the gsung ’bum is abbreviated as SBd and the Lhasa version as SBl.
+
+
+10 Written in the winter of 1779–80; Rnam thar 303ff. See also Gyatso 1998: 292 n.105. COLOPHON (121.1): /yon tan rin po che'i mdzod dga' ba'i char zhes bya ba / la stod chos rje brag phug pas bskul ba'i ngor / sangs rgyas gnyis pa padma sam bha wa'i zhabs rdul la spyi bos reg pa'i rdzogs chen rang byung rdo rje mkhyen brtse 'od zer gyis / dpal ldan padma gling du sbyar ba'o// // sva sti / rgyal gsungs dri med mdo sngags ma lus pa'i/ /gzhung gi gnas rnams legs ston yon tan mdzod/ /par gyi phyi mar skrun pa'i rnam dkar gyis/ /legs byas dge ba'i bshad sgrub phyogs brgyar 'phel/ /par 'di thub bstan rdo rje drag tu bzhugs/ /dge'o//.
+
+
+11 Contrary to the arrangement here, which matches SBd, in SBl, Yon tan mdzod is the second text in vol. KHA. For a translation of the text, Padmakara Translation Group 2011, 2013.
+
+12 COLOPHON (924.3): /sa skya bdag po rin po che ngag dbang kun dga' blo gros sangs rgyas bstan pa'i rgyal mtshan dpal bzang pos bstan pa 'ba' zhig thugs las bcangs nas sa snying srang 'khor/ rin chen gnyis pa'i rta rmig/ /nang mdzod sna lnga'i skyes dang bcas te bkas bskul ba las/ dben pa'i r ngogs na gnas pa'i gtsug lag khang padma 'od gsal gling zhes bya bar rdzogs chen pa rang byung rdo rje mkhyen brtse 'od zer gyis thin ris su btab pa'i yi ge pa ni dge slong rnal 'byor spyod pa chos rje brag phug pa'o//.
+
+
+
+esoteric instruction class of Rdzogs-chen, the Rnam khyen shing rta.13 (122–877)
+
+GA [A] The Snga 'gyur rgyud 'bum rin po che rtogs pa brjod pa 'dzam gling tha grur khyab pa'i rgyan in nine chapters, comprising: [i] at the start, the way our teacher the Buddha arrived, and the six ornaments, two supreme ones, and so on, concluding with the [eight] great vidyādharas; [ii] following that, a general and specific dharma history; and [iii] ending with a presentation of sacred dharma teachings, a catalogue of dharma texts [in the Rgyud 'bum],14 and a dedication.15
+
+(1–499)
+
+[B] A teaching addressing uncertainties in the presentation of the lesser and greater vehicles, the Dris lan rin po che bstan bcos16 lung gi gter mdzod in five chapters.17 (1–375)
+
+13 COLOPHON (874.3): yon tan rin po che'i mdzod kyi smad cha'i yal 'dal bzhi la 'bras bu sngags kyi theg pa rgya mtsho lta bu gtan la dbab pa'i rgya cher 'grel rnam thams cad mkhyen pa'i shing rta zhes bya ba 'di sngon nas sa skya gong ma rin po che'i bka' gnang gi thog skal ldan gi slob ma dam pa chos rje brag phug pas rin chen gnyis pa'i maṇḍal bkra shis kyi rtogs ldan me tog khor yug can la nai pa la'i dong tse brgya phrag gi tshom bur ldan pa bzang gos gi lha rgyas bzang pos bteg nas nan tan chen pos gsol ba btab cing/ zin ris pa yi ge gnyis par 'bebs pa'i gnal ba dang lam gyi rten cing 'brel 'byung tshogs pa las/ pa lang lta bu'u skye bo rnams kyis tshur mthong gi snang ba dang skal pa mnyam par 'grogs shing/ rjes la thob pa'i shes rab kyang skyo shas dang nges 'byung gi bsrung pa'i bsam gtan gyi ngang du yid sdung pa las nye bar slong ba'i grub 'bras rgyal ba'i phrin las su shar ba 'di ni/ dpal o rgyan gyi slob dpon chen po sangs rgyas gnyis pas rjes su bzung ba'i rdzogs chen pa rang byung rdo rje mkhyen brtse lhas/ dpal ldan padma 'od gling zhes bya ba'i bas mtha'i gtsug lag khang du sbyar ba'o//. 14 The dkar chag for the Rnying ma rgyud 'bum is on pp. 455-484.
+
+
+15 C.f. Rnam thar p. 242.2 (1771/72). COLOPHON (498.6): // rgya gar nub phyogs pa'i pandita chen po nang rig pa'i de nyid khyad par smra ba dri med bshes gnyen dang/ /dpal o rgyan gyi slob dpon chen po sangs rgyas kun dngos padma'i zhabs kyi thugs rje'i zla zer snying la zhugs pas sngon gyi bag chags dus la rang dbang du byed cing/ rang bzhin theg mchog snying po'i lam nas rig pa phyogs yan du grol ba'i rdzogs chen pa rang byung rdo rje mkhyen brtse 'od zer ram/ klong chen nam mkha'i rnal 'byor 'jigs med gling pa'i sdebs/ thar pa chen po'i grong khyer padma 'od gling du rgyud 'bum rin po che gsar du bskrul pa'i de mchog pa las dbu brtsams nas bri bar 'du 'byed na/ 'brel par ldan pa'i dpyod ldan dran pa'i dbang po kun dang/ bye brag tu lha rigs rgyal po'i khab tu mi dbang mkhas pa'i dbang po/ lha 'jigs med dpa' bo 'chi med bstan pa'i rdo rje gsung gis kyang myur du 'grub par bskul lo/.
+
+16 14.5: bstan bcos for bstan ba ces.
+
+
+17 Contents and partial précis in Kawamura 1992. COLOPHON (375.1): grub pa'i bsti gnas tshe ring ljongs su grags pa'i dben kyi 'od gsal gnyug ma'i pho brang padma 'od gling zhes bya bar dpal o rgyan yab yum gyis rjes su bzung ba'i A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa
+
+
+NGA [A] To help beginners who have started on the path of mantra, untangling the meanings of the words through the vastness of space and communicating that understanding, the Dgongs 'dus cho ga'i rnam bshad mkhyen brtse me long.18 (1–371)
+
+[B] A collection of investigations (rab 'byed) [distinguishing] the true meaning of various fields of knowledge (rig pa) and sciences (gtsug lag) [from] purely fanciful ('dod rgyal du) teachings, the Gtam gyi tshogs theg pa'i rgya mtsho in seventy-three chapters. (1–543) [1] Theg pa'i gru gzings: a general overview. (2.1)
+
+[2] Go la'i rna rgyan: a discourse on astrology, on the planets and constellations.19 (8.6)
+
+[3] Brtag pa brgyad kyi me long: on India and the lands to the south.20 (62.4)
+
+[4] Tsinta ma ṇi'i mdzod khang: on the examination of jewels.21 (83.1)
+
+[5] Rin po che'i gter: on poetry.22 (113.1)
+
+rdzogs chen pa mkhyen brtse 'od zer ram ming gzhan klong chen nam mkha'i rnal 'byor gis bkod rdzogs so//.
+
+18 COLOPHON (371.5): 'di la nyes pa bshad gang bdag gi skyon / /yon tan cung zad mchis na bla ma'i don/ /ci phyir zhen pa padma kāra yi/ /mkhyen brtse nus pa'i mthu yin bdag 'dras min/ 1 /'od gsal dbu ma'i rgyal khab chen po la/ /gzung 'dzin rnam rtog kun gyis phyag byas pas/ /dpal ri gsang sngags theg chen gling mchog gi/ /sgom mal 'od gsal klong nas 'di byung ngo/ 2 (thugs kyi byin gyi brlabs pas shā ri'i pu dang spyan ras gzigs kyis 'dri ba dang lan ldog pa'i tshul du shes rab snying po byung ba lta bu/) /dga' bar byos shig sha za ral gcig ma/ /mgu bar byos shig rdo rje spun grogs tshe/ /mnyam gzhag dran pa nam mkha'i ngang sgom nas/ /rjes thob sgyu ma'i rtsal gyis 'di bris so/ 3 /da ni rmi lam tsam gyi mi tshe 'dir/ /rnam g.yengs chos su ming btags des ci bya/ /kun brtags rtog dpyod rnon po ci dgar thong/ /rig pa 'od gsal klong su ngal bsos shig/ 4 /'di ni gangs ri'i khrod kyi sgrub pa po/ /srog rtsol dbu mar yan pa'i grong khyer nas/ /snang bzhi'i ltad mor g.yengs pa'i rnal 'byor pa/ /padma dbang chen mkhyen brtse 'od kyi sbyar/ 5.
+
+19 COLOPHON (62.3): da lta na yang de ring 'dir/ gsar bu'i rig pa blo gsal ba/ dpon po 'od zer phrin las kyis bskul zhing ri mo'i grags bgyis nas/ byang chub dam pa'i nags khrod ni/ dpal ldan padma 'od gling du/ rang byung rdo rje mkhyen brtse lha/ abhayadhipa des sbyar/.
+
+20 Text and translation in Aris 1995.
+
+21 COLOPHON (112.6): zhes pa'ang rdzogs pa chen po rang byung rdo rje rgyal btsan yun du gnas pa dang/ 'gro ba'i bde skyid spel ba'i slad/ dngul srang lnga brgya'i rgyu tshogs las byang chen mchod sdong gsar du bskrun nas rgyal dbang padma'i lung bstan bzhin bsam yas bar khang du bzhugs su gsol ba'i tshe sbyar ba'o/.
+
+Revue d’Etudes Tibétaines
+
+
+[6] Rab byed gnyis pa 'jig rten gso ba'i sman: advice to the king and the people.23 (123.1)
+
+[7] Sa la spyod pa rna rgyan: an epistle to the ruler (sa skyong) of Sde-dge.24 (128.4)
+
+[8] Char sprin gyi rol po: an epistle to the prince.25 (137.1) [9] Dam pa'i gan mdzod: an epistle to the queen, along with a commentary.26 (141.3)
+
+
+[10] Dpe don 'brel ba: an epistle to the people.27 (146.2) [11] A message for the secular ruler (skyid skyong) of Tibet (bho ta). (157.2)
+
+[12] A message for the holy ones.28 (158.6) [13] An exhortation to the great teachers to go into solitude.29 (161.1)
+
+[14] Mdun na don gyi rna rgyan: a message to students.30 (164.4) [15] An epistle to Bshes-gnyen Buddha. (167.4) [16] An epistle to the virtuous guides of Dga'-ldan Byang-rtse. (169.2) [17] An epistle to the lama.31 (169.9)
+
+
+22 COLOPHON (122.5): snyan dang gas gyi gtam rin po che'i gter zhes bya ba 'dab ldan g.yung 'khyi ba'i tshal nas sai na ka a nantas bskul ba ltar dbyangs can mgrin par chags pa'i rnal byor pa mkhyen brtse 'od zer gyis 'od gsal gnyug ma'i pho brang padma 'od gling du rjes thob kyi snang cha rtog pa'i drwa bar bkod rdzogs so/.
+
+23 See Rnam thar, p364 for the occasion of the writing of this text. COLOPHON (128.3): dmangs la gdams pa'i rab tu 'byed pa ste le'u gnyis pa'i bdag nyid can rgyal ba'i myu gu mkhyen brtse lhas dpal ldan padma 'od gling du sbyar ba'o/. 24 COLOPHON (136.6): dpal u rgyan gyi slob dpon chen po padma sam bha bas byin gyi rlabs pa'i rdzogs chen pa rang byung rdo rje khyen brste 'od zer ram/ rig pa 'dzin pa 'jigs med gling pas dpal ldan padma 'od gling zhe bya ba'i gtsug lag khang nas phul ba sarba dza ga tam/ 25 COLOPHON (141.3): rig 'dzin 'jigs med gling pas gdams pa rdzogs so/. 26 COLOPHON (143.4): sa skyong sde dge'i btsun mo dam pa dang tshul byang chub rgyal mo la rdzogs chen pa rang byung rdo rjes gdams pa rdzogs so/. 27 “On the basis of correct communication of the worldly, teaching the natural state of holiness.” (146.2-3). COLOPHON (157.1): dmangs la sprin pa'i gtam dpe don 'brel ba zhes bya ba rgyal ba'i myu gu a bha ya dhī pas rgya gar kā ma rū pa'i gnas dang nye zhing/ bya rgod phung po'i ri bo ltar yod pa'i a tsa ra kha spung can gyis stong dpon byang chub rgyal tshan la gdams pa rdzogs so/. 28 COLOPHON (160.6): dam pa la spring ba'i gtam zhes bya ba/ /mdo smad rdzogs chen sprul sku la/ /rdzogs chen pa rang 'byung rdo rje spring pa rdzogs/. 29 COLOPHON (164.3): 'di ni rta mchog rol pa yang gsang dang/ phrog byed btul ba'i phur pa bzhugs pa'i gnas/ ser smad sku skye smon lam rab 'byams pa'i/ gsung ngor dus mtha'i rang byung rdo rjes so/.
+
+
+30 COLOPHON (167.4): de skad gang la spring pa'ang lhag pa'i sems/ /nya rgas zla ba gsar la chags pa'i/ /ri dwags drang srong rgan po'i bden gtam gyis/ /dran pa'i dbang pos khyid la shis gyur cig/.
+
+A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa
+
+
+[18] Tshungs pa'i rna rgyan: an epistle to the speech emanation of Lho-brag. (171.3) [19] An epistle to meditators.32 (175.1) [20] Don rab 'byed pa'i rgyan: an epistle to contemplators on renunciation.33 (175.5)
+
+[21] Sbyangs pa'i yon tan gyi rab 'byed: an epistle to the monks.34 (177.1)
+
+[22] Prati mokṣa garbha: an epistle to philosophers.35 (185.4) [23] Bshags le bzhi pa'i ṭīka dam tshig rgya mtsho gsal byed: advice to mantrins.36 (188.6) [24] Gnod sbyin gyi rna cha: an epistle to spirits of the eight classes. (199.1)
+
+[25] Lha ma yin gyi gtsug gtor: an epistle to the harmful spirits of the ten directions.37 (200.1) [26] Padma'i zhal lung: an epistle to the various classes of elemental spirits.38 (201.2)
+
+
+[27] Dkon mchog gsum gyi grib bsil: an epistle to bandits.39 (202.5) [28] Lhag bsam gyi chun po: an epistle to pilgrims.40 (203.5) 31 COLOPHON (171.2): /dam pa rnams la skyes su bsngags pa'i rtse/ /'khor lo dang po'i mdzod khang 'dul ba'i gtam/ /zur dang dam mdud rten 'brel skyes dang bcas/ /ā rya pa lo'i gling nas dpyod zlar dge/ /rgya rong sku skye rnam gnyis kyi chab shog lan du phul ba/.
+
+32 COLOPHON (175.4): /zhal gdams de yin 'phron yig yan kyang 'di/ /brtse'i sems dang lhan cig dam mdud dang/ /skra sen dang bcas bsam yas chos 'khor nas/ /dharma bha dra dri'i lan tu spring bzhin dengs/ /srid pa'i mtsho las sgrol bas bkra shis shog/.
+
+33 COLOPHON (176.6): ces pa'ang mdo khams rgya rong ri khrod pa karma bsam 'grub bam/ 'jigs med bstan dar gyi nan gyis bskul nger/ klong chen nam mkha'i rnal 'byor gyis rta mgrin gling du bris pa'o.
+
+34 COLOPHON: (185.2): /gang 'di rang byung rdo rje mkhyen brtse lhas/ /dpal ldan skya'i mkhan chen khri thog pa/ /brten mkhas yon tan rdzogs pa'i a nanta/ /pha la shrīr skyes kyi mchog tu bsngags/ /gang la de skad spyir ba'ang legs smon gyi/ rnyog pa drangs pa'i nges 'byung gser 'gyur rtsis/ /lhag pa'i tshul khrims mya ngan 'da' phyir yang/ bdag dang gang zag can du blta la ci/ /de lta mod kyis 'di yis skabs dbye nas/ drang srong rgyal mtshan 'dzin pa brgya phrag brgya/ /des 'byung ba ser bus bskyod pa'i tshul khrims kyi/ /bsod zhim tsan da na dri dang tshul gyur cig/.
+
+35 COLOPHON (188.5): /dge ba'i bshes gnyen chen po 'bras spungs bde yangs bla ma la rgyal ba'i myu gu a bha ya dwī pas dpal ldan tshe ring ljongs zhes bya ba'i gtsug lag khang nas gdams pa rdzogs so/.
+
+36 COLOPHON (198.6): /ces pa'ang rwa lo'i brgyud 'dzin yang stengs bas nan gtung chen po'i ngor rdzogs chen pa rang byung rdo rjes ngag thog nas dpon pa'o//. 37 COLOPHON (201.1): /snang srid rnam dag padma 'od gling nas/ /don dam bden pa raksha thod 'phreng gis/ /ma rig las gyur kun rdzob gdon la springs/. 38 COLOPHON (202.5): /zhes ladak mgrin bcu'i rgyal khab nas springs/. 39 COLOPHON (203.4): zhes rdzogs pa chen po rang byung rdo rjes so/.
+
+
+
+[29] 'Dod pa khams gyi rna rgyan: discourse on the main temple at bSam-yas.41 (207.3)
+
+[30] Bden pa'i rna rgyan: on Ārya palo'i-gling.42 (211.3) [31] Ka la ping ka'i rol mo: on dPal-gyi bsam-yas mchims-pu.43 (215.1)
+
+[32] 'Phrul dga'i rna rgyan: on the erection of a new shrine. (219.4) [33] On O-rgyan mtsho-skyes rdo-rje and his precious footprints.44 (223.6) [34] Mkha' 'gro'i glu gar: discourse on gZhu-stod gter-sgrom.45 (229.3)
+
+[35] Chos 'byung gi me tog: discourse on the Zhwa lha-khang in upper Dbu-ru.46 (232.6)
+
+[36] On Lha-mon Dkar-po-zangs. (236.6) [37] Lo rgyus kyi mdzod khang: on the tomb of Bkra-shis Srongbtsan. 47 (241.3)
+
+[38] Nya gro dhā'i chun 'phyangs: the medium-sized catalogue (dkar chag) of the tomb of Bkra-shis Srong-btsan.48 (263.4) 40 COLOPHON (207.3): /zhes kah sgom rtswa mchog grong la 'gro zer ba la gdams pa rang byung rdo rjes so//.
+
+41 C.f. Rnam-thar 356.6. COLOPHON (211.3): /ces pas mtshon na sangs rgyas 'byung ba la mnyes par mi bgyid pa'i las mtha' log pa rnams la bsams nas chos snang ba'i sgo dad pa bla lhag tu bskyed 'tshal/.
+
+42 COLOPHON (214.6): /sku gnyer blo gsal gyi ngor mahā sandhi pa a bha ya dhwī pas so//.
+
+43 COLOPHON (219.4): ces pa'ang tshe'i rig 'byed pa chu skyas ming can gyi ngor rdzogs chen pa rang byung rdo rjes so/.
+
+44 COLOPHON (229.2): /zhes pa'ang gtam rgyus 'dod rgyal bas rnyog pa lung rig gtan tshigs gsum gyis legs par bsal zhing/ ngo mtshar gyi gsal snang gling du yod pa'ang bsnan nas sangs rgyas gnyis pa de nyid kyi byin rlabs snying la zhugs pa'i rjes 'jug rdzogs chen pa rang byung rdo rjes sgra bsgyur rgya gar gling du yung tsam la smras pa'o//.
+
+45 COLOPHON (232.5): /dad ldan gyi slob bu dge don 'jigs med 'bangs kyi ngor dgongs brgyud las yi ger spel zhing/ rigs kyi bu rgyal sras nyin byed 'od zer rig 'dzin mthu stobs grub pa'i sde'i chos skal du rig 'dzin 'jigs med gling pas so/. 46 COLOPHON (236.5): zhes pa'ang 'bras spungs sgo mangs pa bskal bzang don 'grub dang zhwa ba'i grwa tshogs rnams kyis bskul ngor/ rdzogs chen pa rang byung rdo rje 'bri gung rdzong gsar du shar mar bris pa'o//.
+
+47 C.f. Rnam thar p. 128.5ff. COLOPHON (263.2): //zhes pa'ang sdom brtson rnal du 'byor pa'i rim pa la mos pa o di yas ched du gnyer ba'i phyir ma 'dres yongs su rdzogs pa'i shing rta chen po pa rnams kyi grub pa'i mtha' la dad cing/ rang bzhin theg mchog snying po'i ring lugs pa klong chen nam mkha'i rnal 'byor gyis sngon gyi yi ge dang/ ngag 'gros gyi na'i rigs las tshad mar rig pa'i lo rgyus la gzhig 'brel sngon du 'gro ba'i bya dor dang bcas slad yang phri ba snan cung zad dang/ mchun bu dkyis su sdeb pa sogs dag ther bgyis pa 'di nyid bka' btsan par bya'o/.
+
+48 COLOPHON (268.6): zhes pa'ang sku gnyer rdo rje chos 'byor gyis bskul ba la rdzogs chen pa mkhyen brtse lhas so/.
+
+[39] Rdo rje sgra ma'i rgyud mangs: on Dpal-ri theg-pa-chen-po'igling. 49 (268.6) [40] Nor bu do shal: on the structure and contents (rten dang brten) of Padma 'od-gsal theg-mchog-gling. (283.1) [41] Dad pa'i gser: on Rgyal-byed-rtsal in Gtsang Ru-lag. (322.6) [42] Ka lantaka'i rgyan: on the production of the Mtsho-sna Rgyud 'bum. (330.3)50
+
+[43] Drang srong gi rnga sgra: the production of the Snga 'gyur rgyud 'bum rin po che in the lands of the ruler of Sde-dge.51 (335.2)
+
+[44] Rnyong ma 'grungs pa'i ketaka: on the bKra-shis 'Od-bar stūpa.52 (338.3)
+
+[45] Byang chub ljong shing: on the proportions (thig) of the eight stūpas of the sugatas.53 (341.4) [46] 'Phrul dag pa'i rol mo: on offerings in general (mchod spyi).54 (352.1)
+
+[47] Bsod nams sprin phung: on the maṇḍala offering.55 (357.6) 49 COLOPHON (282.4): zhes pa 'di ni chos khrims pa blo gsal dbang po padma kun gsal dang/ dkon gnyer phrin las dpal 'byor zung gis lha rdzas kyi me tog dang bcas te 'bad pa chen pos bskul ba ngor/ dpal gyi ri bo'i sa 'dzin gyi spo la 'dus pa'i tshom bu 'di nyid chags nas zla ba'i phung po drang srung bkra shis 'od dkar can du slob pa'i rodha'i lo legs bris kyi bden tshig grub pa'i drang srong chen po ri shis mā ma kī'i klung thams cad la yan lag brgyad ldan gyi nus pa ster ba la mngon du phyogs pa tshe/ dpal u rgyan chos kyi rgyal po yab yum gyis rjes su bzung pa'i rdzogs chen mkhyen brtse 'od zer gyis kun mkhyen shanta pu ri pa la mi bslub par nges pa'i ngang pa brtan pos kun nas bslangs te padma 'od gsal theg mchog gling du sbyar ba'i yi ge ni 'jigs skyob dang lags smon tsam ma yin par nges par 'byung pa'i blos shākya'i bstan pa la rab tu byung ba'i skal ba can zur rdo rje snying pos so/.
+
+
+50 C.f. Rnam thar p. 281.1. COLOPHON (335.1): zhes pa nas skyes rabs brgya ba'i smon lam mu 'thud pa dkar chag chen mo'i gsham la bris so/.
+
+51 This title from the Gtam tshogs. The dkar chag has only: Sna 'gyur 'gyud 'bum la dpyad zhus kyi gtam drang srong gi rnga sgra. COLOPHON (338.3): /zhes pa'ang rdzogs chen pa rang byung rdo rjes so/.
+
+52 COLOPHON (341.4): gong ma'i gdan sa dgon pas phug tu bris pa'o/. 53 “…and an account of the stūpas appropriate to each of the Buddhist vehicles.”
+
+(Aris 1995, p. 12). COLOPHON (351.45): de ltar rgyal ba kun gyi chos sku'i rten chen po'i bsgrub tshul rnam par gzhag pa dang bcas pa rang gzhan gyi bsod nams gsog pa'i slad du tshe ring ljongs byang chub ljon pa'i rtsal du rgyal ba 'od mtshan stong 'bar gyi snang brnyan 'bum ther gcig dang lnga stong rgal bas mthson bla na med pa'i nang gzungs kyis phur bur bltams pa'i mchod rten byang chub mthong grol ba zhengs pa'i tshe rdzogs chen pa mkhyen brtse'i 'od zer gyis padma od gling 'khor lo tshegs can gyi gnas su sbyar ba'o/. 54 COLOPHON (357.5): zhes pa'ang mdo khams rdzogs chen sprul pa'i sku rin po che'i gsung ngor rig 'dzin 'jigs med gling pas so/.
+
+
+[48] Rnam mkhyen lam bzang: on the dedication of the roots of virtue to enlightenment.56 (363.1)
+
+[49] U dum wā ra'i chun po: on the forests.57 (371.1) [50] Mi khom pa'i gnas la skyo ba bskul ba: on the birds.58 (375.3) [51] Nges byung gi pho nya: on the deer.59 (380.3) [52] Brag ri mgul rgyan: on the steadfast hare.60 (392.2) [53] Me tog gi blo gros: on disenchantment with hustle and bustle.61 (400.6)
+
+[54] Tshig la mi rtog don la rton pa: on the intelligent bee. (403.4) [55] Dge ba'i ljong shing: on the ten religious practices (chos spyod). (418.3)
+
+[56] Yon tan rgya mtsho: on mindfulness (dran).62 (438.4) 55 COLOPHON (362.6): /zhes pa'ang ri sul myu ba'i rnal 'byor lam mkhyen brtse'i 'od zer gyis grub pa'i bsti gnas tshe ring ljongs kyi gnas khang padma 'od gling du sbyar ba'o//.
+
+
+56 COLOPHON (370.5): de ltar bsngo ba'i yod bshad nyung ngur bsngus pa rnam mkhyen lam bzang zhes bya ba di ni rgyal dbang padma'i don gyi rgyal tshab theg pa mtha' dag la gzhan dring mi 'jog pa'i gter chen chos kyi rgyal po 'gro 'dul thams cad mkhyen pa pra dzanyā ra smri'i zhabs sen zla ris gsar bas byin gyi brlabs pa'i seng ge khril rnam par 'bring pa'i sprul pa'i sku padma chos 'byor rgya mtsho'i bkas bskul ba las/ rang bzhin rdzogs pa chen po'i rnal 'byor mkhyen brtse'i 'od zer gyis 'od gsal gnyug ma'i pho brang padma 'od gling du sbyar ba'o//.
+
+57 COLOPHON (375.2): mchims pu dpal gyi nags khrod dpal rgyal ba'i dbang po 'dri med 'od zer gyis dngos grub brnyes pa'i sa/ mkha' 'gro rang bzhin gyis 'du ba'i brag ri'i bgam chen po ring mo can zhes bya ba'i gnas su/ rdzogs chen pa rang byung rdo rje mkhyen brtse 'od zer gyis/ nags tshal dang kha ba'i rdul ro gcig tu 'dres pa'i khrod du legs par sbyar ba rdzogs so/.
+
+58 Additional title: “Encouragement to weariness with the state of having no leisure.” COLOPHON (380.2): /ces smras pas byad bang de nyid shin tu dga' ba'i rnam 'gyur dang bcas rang gnas so song bar gyur kyang ring por ma thogs par 'od dkar gyis mgrin pa bcad de mi snang bar gyur te/ gang zhig 'jig rten na sangs rgyas 'byung ba la mnyes par mi bgyid pa'i skyes bu blon po rnams la 'phrin sgrogs shin gu/.
+
+59 Additional title: “The envoy of confidence.” C.f. Rnam thar 156.2. COLOPHON (391.5): //e ma/ bya bral klong chen sgyu ma'i rnal 'byor pa/ /gtad med zang thal ma bcos lhug pa'i ngang/ /byang chub shing gi nags khrod tshe ring ljongs/ /shin tu dben pa'i gnas su bag pheb nas/ /sgyu 'phrul lus kyi bkod pa 'chags pa'i tshe/ /sdig chen rngon pas ri dwags bsad pa'i sha/ /khyer nas gnas su ldog pa mthong pa las/ /bzod med snying rje chen pos rgyud bskul zhing/ /mig nas mchi ma'i dpa' rlabs g.yo ba dang/ /skyo shas nges 'byung drag pos nyer bskul bas/ /thugs gter nam mkha' mdzod kyi sgo phye ste/ /nyams chos brda'i ri mos ji bzhin bkod/.
+
+60 COLOPHON (400.4): dpal gyi bsam yas mchims phu brag dmar ring mo can gyi nags khrod du/ rgyal ba'i dbang po dri med 'od zer gyi byin rlabs las snang srid brda brgyud chen por shar ba'i rdzogs chen pa rang byung rdo rjes so/. 61 COLOPHON (403.4): /rdor brag sprul sku rin po che'i ngor/ /rdzogs chen pa rang byung rdo rjes so/.
+
+
+[57] Don rab 'byed pa'i thur ma: additional points of mindfulness (dran) and awareness (shes bzhin).63 (465.1) [58] De kho na nyid kyi me long: additional points from the heart of the 'Phags pa stong phrag brgya pa.64 (475.5) [59] Rtog ge'i gnyen po: on the distinctions of philosophical tenets. (478.4)
+
+[60] Tshul khrims rin po che'i rgyan: examination of the vinaya rules (gnang bkag) for abandoning the ten non-virtues. (485.6) [61] Ke ta ka'i rna rgyan: distinguishing the differences regarding ultimate reality (de kho na nyid) in Rdzogs-chen and Mahāmudrā.65 (487.4)
+
+[62] Nam mkha' lding gi rna rgyan: on the unchanging dharmatā.66 (494.5)
+
+[63] On weariness with unnecessary (gnas min) disputes (brgal brtag).67 (504.2)
+
+[64] Lha'i rgyal rnga: examination of the expressible ultimate reality (rnam grangs pa'i don dam).68 (506.2)
+
+62 C.f. Rnam thar p. 284.2. COLOPHON (464.5): /zhes gsungs pas dge slong mon pa dang/ la stod chos rje dang/ dharma kīrti dang/ sba gro kun grol dang/ khams pa dge slong la sogs pa lam sna zin pa'i khyer thams cad yi rangs te rdzogs pa chen pos gsungs pa la mngon par bstod do/.
+
+63 Based on works of Klong-chen-pa (475.1-5). 64 “Reflections on the Śatasāhasrikā prajñāpāramitā” (Aris 1995, p13). The “snying po” does not occur in the dkar chag title (16.4). COLOPHON (478.3): /di yang dgon rtse sprul pa'i skus/ /gsungs ngor 'jigs med gling pas so/.
+
+65 C.f. Rnam thar p. 324.2. COLOPHON (494.4): /ces pa'ang 'bri gung bla ma chan don thub bskal bzang gis dri ba'i 'phrin yig ris mo bsrings pa'i lan du mkhyen rtse'i 'od zer gyis dpal sa skya'i gtsug lag khang du bris pa dge shing bkra shis par gyur cig/.
+
+66 In three parts: grub mtha' rnam gzhag spyir bstan pa (494.6-455.6); rang sde grub mtha'i khyad par bshad pa (495.6-499.4); chos nyid zab mo la rtsod pa spang ba (499.4-504.6). COLOPHON (504.1): mkhyen rab kyi dbang phyug lcags zam sprul pa'i sku bstan 'dzin lhun grub dpal bzang pa'i zhal snga nas shangs pa bka' brgyud pa'i gdams ngag gi nges don bstan pa'i tshig rkang gnyis la snga rabs kyi mkhas pa rnams kyis sgro skur byas pa sel bar bskul ba las/ rdzogs chen pa rang byung rdo rje dpal ldan padma 'od gling du bkod pa'o/.
+
+67 COLOPHON (505.5): /e ma sgrub brgyud bstan pa ni/ /rtog ge'i gzugs brnyang mi bsgrub cing/ /des 'byung mos gus dag snang gsum/ /lhur byed las ton rnam smin sgrub/ /rnam par mi rtog pas sbyor na/ /des pa kho na phan 'dogs yul/ /las dang pa'i sems can la/ shi ba'i sems kyis ngag gcog cing/ /phyogs su ring la grags 'dod kyis/ /ri mo'i lam nas sems g.yengs pa/ /'di ni lam rtags ma yin te/ /'dod khams bdag pos brlabs pa'i phyir/ /de la skyo ba lhag par 'phel/ /dngos ni bsam gtan tshor ma la/ /'jigs nas dben pa 'ba' zhig bsnyen/ /las rlung bag la zhar pas/ /gzhan mtshang 'dru dang dag 'khyal gyi/ /gnas la shin tu skyo zhing bsun/.
+
+68 C.f. Rnam thar p. 307.6ff. On the rang stong vs. gzhan stong question (see colophon). COLOPHON (519.4): /de bzhin rang stong gzhan stong gi/ /gdags gzhi
+
+
+[65] Rdo rje gzegs ma'i mtshan cha: on the reliance of atiyoga on the four philosophical systems (grub mtha' bzhi).69 (519.6) [66] Dag pa gnyis ldan pa'i mdzod khang: on the ever-pure primordial liberation (ye grol ka dag).70 (522.6) [67] Rdzogs pa chen po do ha71 mdzod: on the paramitā of wisdom (ye shes).72 (529.1)
+
+[68] A refutation of partiality (phyogs 'dzin) about the tantras.73 (533.2) [69] Log rtog gi gnyen po: on having the four reliances.74 (535.3) [70] Zab mo snang ba: on prajñā.75 (539.5) [71] Bstod phyag gis gsal ba: on the heart of prajñā.76 (540.5) [72] An essentialisation of the latter [two].77 (541.5) [73] On bringing sickness onto the path.78 (542.1–543)
+
+
+rgyal bas gsungs mod kyang/ /de yi phyogs 'dzin la brten nas/ /bstan pa dkrug pa lha chen po'i/ /rnam thar kho nar mthong pa'i phyir/ /mchog dman skyed gu thams cad kyi/ /rgyud las byang chub sems skyes nas/ /bstan pa'i lhag zhabs cung zad 'di/ /chud mi za ba'i bkra shis shog/.
+
+69 COLOPHON (522.5): /'jigs bral a kshor badzra yi/ /gzhung la dpyad gsum dag pa yin/ /thal 'gyur rnam dag sgrubs shin kyi/ /bdag cag rgyal ba'i bstan pa dang/ /de las rgyes pa'i chos lugs la/ /sde ba bco brgyad bkar bsdus bzhin/ /chos spong lam la mi 'jugs pas/ /mnyam pa nyid du gnas gyur cig/ /rdzogs chen rang byung rdo rjes so/.
+
+70 COLOPHON (528.6): /thar pa'i srog rtsa gcog pa'i phyir/ /gzu por gnas pa'i bshes gnyen che/ /'bras spungs bde yangs bla ma ni/ /kal pa ma ti'i gsung nan la/ /brten nas rang bzhin brjod pa 'dis/ /'gro 'di'i rgyud la byang chub sems/ /skyes nas rang grol la reg shog/.
+
+71 Text has do ha, dkar chag (16.6) has dwa ha. 72 COLOPHON (533.2): /rig 'dzin 'jigs bral gling pas bstan nas song/ /klong chen nam mkha'i rdo rje'i rtogs chos yin/ /mkhyen rtse 'od zer stong ldan de skad lo/ dge bas gdong ma'i sa la byang chub shog/.
+
+73 COLOPHON (535.3): /ma hā sandhi rang byung rdo rjes so/. 74 COLOPHON (539.4): /zhes pa'ang rgyud lung zab mo la bsting tshig smra ba dag la snying rje'i bsams pa'i a bha ya dhwī pas so/. 75 COLOPHON (539.4): /rtogs na gang zag rdzogs pa che/ /dbu ma'i don dang mi 'gal shing/ /phyag rgya chen po'i 'dra 'bag ces/ /rang byung rdo rje'i gsang tshig go/.
+
+76 COLOPHON (541.4): /da lta'i dus med phung po skye mched bral/ /dus gsum de ltar rtogs na rgyal pa'i yum/ /gang la lta ba 'jal ba'i phyag 'tshal lo/ /rdzogs pa chen po rang byung rdo rjes so/.
+
+77 COLOPHON (541.6): /zhes pa'ang rigs 'dzin 'jigs bral gling pas so/. 78 COLOPHON (542.1): /kun mkhyen rje dang rong pa chos kyi bzang/ /dkar po gsum dang chos kyi blo gros sde/ /dngos dang bcas pa'i sa mchog ma ni kaḥ/ /rang gi yul du mi mthong gzhan du mthong/ /khyod la mthong ba legs pa'i bkra shis shog/ /ces pa'ang g.yo ru rdzogs chen pa rang byung rdo rjes so// //de ltar rig pa dang gtsug lag sna tshogs kyi don 'dod rgyal du ston pa gtam gyi tshogs pa le'u don gsum pa'i bdag nyid can gyis yongs su rdzogs so//.
+
+
+CA [A] A collection of hymns (bstod tshogs) and [B] various small books (dpe phran sna tshogs). [A] The first:
+
+[1] Mi 'am ci kun tu dga' ba'i zlos gar:79 the lineages of previous generations, praised in tendrils of holy verse.80 (37) [2] Ljon pa'i glu phreng: hymn to the thirty-five buddhas.81 (75.4) [3] Hymn to the Thub-dbang Grong-khyer-ma. (80.6) [4] Dad pa pho nya: hymn to the tathāgatas of the three times and ten directions in terms of their titles (mtshan don). (81.2) [5] Praise for the new production of the Rnying ma rgyud 'bum.82 (83.1) [6] Hymn to the eight full perfections [in] the stūpa of the tathagatas. (83.5)
+
+[7] Hymn to the eight main sons [of the Buddha), the sangha of bodhisattvas, along with a commentary. (84.6) [8] Tshogs gnyis shing rta: discourse upon the great miracles. (100.2)
+
+[9] Hymn to the secret sādhana (gsang ba sgrub pa) of the Bcom ldan 'das rta mchog rol pa (tantra). (104.2) [10] Hymn to Zangs-mdog-dpal-ri. (104.4) [11] Praise for the thirteen instructions (man ngag) spoken in the Yon tan gter mdzod. (104.5)
+
+[12] Hymn to the Rnam thar sindhu mala. (104.6) [13] Hymn to the vidyādhara (rig 'dzin). (105.1) [14] Hymn to the scholar (mkhan po). (105.2) 79 Vol ca p. 37 has: pra ni dha mi'am ci kun tu dga' ba'i zlo gar.
+
+
+80 COLOPHON (75.3): / blo gsal dbang po wa gin dra bskul ba'i ngor/ ma hā sandhi nir bhā ya mkhyen brtse lhas sbyar ba bzhugs so/.
+
+81 Ca p. 75.4 has sangs rgyas dang byang sems sprul par bcas pa'i bstod tshogs pa'i rgyud mongs.COLOPHON (80.5): / 'di ni gnyis med gsung ba'i bstan pa la zhugs pa mkhyen brtse 'od zer gyis shing rta chen po klu'i dbang po dang/ /ma ti tsi tral sogs pa'i rgya gzhung dang bstun nas snyan dngags kyi me tog dang mngon brjod kyi do shal spel mar dbyongs pa'o/ tshig sbyar gyi kong nas mgon rtogs mi gsal ba rnams la/ phyag g.yon pa gang byung mnyam gzhag dang/ sku mdog ma bstan pa rnams gser btso ma'i mdog sangs rgyas kyi khyed chos su snang bas shes par 'gyur ro/.
+
+82 COLOPHON (83.4): / zhes padma 'od gling thar pa chen po'i grong khyer dam par lcags mo yos kyi lor/ snga 'gyur rdo rje theg pa'i rgyud 'bum rin po che'i bstan pa'i dngos po gsar du snang bar brgyis pa'i dbu lha'i tshogs rnal 'byor spyod pa dharma ki rti dang/ yi ge'i gzab 'bris rgyal rtse yang steng drung yig 'jigs med dpal 'bar du byed dge ba'i 'bras bur sad pa'o//.
+
+
+
+[15] Hymn to the master (slob dpon). (105.2) [16] Hymn to the dharma king (chos rgyal). (105.3) [17] Hymn to the lion's roar (seng ge'i sgra). (105.4) [18] Hymn to the monk (sdom brtson). (105.4) [19] Hymn to Tshe-ring-yul-ljongs. (105.6) [20] Hymn to the Kālacakra seed syllable (rnam bcu dbang ldan). (106.1) [21] Hymn to the wheel of liberating activities (bya grol 'khor lo). (106.5)
+
+[22] Hymn to the eight marks of the nirmāṇakāya. (107.1) [23] Dpyid kyi rgyal mo'i rgyang glu: hymn to Kun-mkhyen ngag-gi dbang-po.83 (108.1) [24] Tshig su bcad pa rkang pa lnga pa: condensed hymn to Kunmkhyen chen-po. (118.1) [25] Rdo rje gā ma kaḥ: hymn to glorious Bsam-yas mchims-phu.84 (119.2)
+
+[B] The second, in six collections: [Bi] First, a collection of liturgical arrangements (chog bsgrigs) for the activity of chanting (ngag 'don). [1] First, the speech blessing. (132.1) [2] Second, calling on the lineage of lamas. (132.4) [3] Third, the ten deeds of the Teacher. (138.1) [4] Fourth, supplicating the vinaya (so thar) lineage. (139.5) [5] Fifth, Mos pa lam byed: prayer to the lineage of the precious early translations (snga 'gyur rin po che). (140.4) [6] Sixth, prostrations (phyag 'tshal). (142.6) [7] Seventh, general confession (spyi bshags). (144.4) [8] Eighth, the cleansing ritual (khrus gsol) of invitation (spyan 'dren). (146.3)
+
+[9] Ninth, meditation of the four immeasurables (tshad med bzhi). (149.4) [10] Tenth, holding the vows of the pure mantra (byang sngags) and in connection with that, the pledges for the Mahāyāna path. (149.6) 83 Ca p108.1: dpal bsam yas pa kun mkhyen ngag gi dbang po la bstod pa ganta wa ra bdag gi rgyud mongs kyi sgra las drangs pa'i snyan tshig dpyid kyi rgyal mo'i glag glu/.
+
+84 COLOPHON (130.2): /klong chen dgongs pa'i gsang mdzod brdal ba las/ /phyi yi yul snang brda dang dpe char shar/ /khas len gtad so bral ba'i rig pa de/ /snang ba yul 'phyir 'brang ba ma lags te/ /rjes thob sgyu ma'i rol par bzhengs pa'i gtam/ /gnas pa stod rdo rje'i thol glu gsar bar shar/. A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa 55
+
+[11] Aspiration to develop the three [super-]knowledges. (154.1) [12] Bsam pa myur grub: a prayer. (154.5) [13] Hymn and prayer to Lha-mo ’od-zer-can. (155.1) [14] The aspirational prayer conferred upon rGya-rong dpon-slob. (155.3)
+
+[Bii] Second, a collection of various sādhanas (sgrub thabs): [15] Rnam grol shing rta: a sādhana of the peaceful deities of the Māyājāla tantras (sgyu 'phrul).85 (157) [16] Khrag 'thung mngon rdzogs: a sādhana of the wrathful deities of the Māyājāla. (205) [17] Bshad pa rgya mtsho gru gzungs: a set of instructions (lhan thabs) elucidating the practices (cho ga) of the 'dus pa mdo. (251.2) [18] The condensed version (nyer bsdus) of the above, for daily practice. (259.5)
+
+[19] 'Chi ba med pa'i ljon pa kun tu dga' ba'i skyes mos tshal: a liturgical arrangement for the maṇḍala of Amitāyus (tshe dpag med) embodying the three kāyas. (263) [20] An arrangement for the practice of the enlightened activities of the black yang ti, the darkness yoga. (299) [21] A sādhana for a maṇḍala offering in the White Tārā (sgrol dkar) tradition of Atisha (jo bo). (317)
+
+[22] A daily practice for the White Manjuśrī ('jam dkar) of the Ma ti tradition. (323.1) [23] A daily practice for the sage Loktri.86 (324.1) [24] A daily practice for the secret accomplishment of Hayagrīva (rta mgrin gsang sgrub). (325.2) [25] The meditation and recitation for Medicine Buddha. (326.5) [26] A sādhana of Sarasvatī (dbyangs can ma) in the Bram-ze phur bu tradition. (327.3)
+
+
+[Biii] Third, a collection of various tantric activities (phrin las): [27] A hundred-and-four armed consecration ritual (rab gnas bya'i cho ga) in the general (spyi khyab) scriptures (gsung rten). (331) 85 COLOPHON (204.2): /de yang snga 'gyur rang gzhung gi grub mtha' lam lnga dang/ sa bcu'i spangs rtogs rig 'dzin bzhi'i go phang la brten nas rdzogs pa'i tshul pandita rong pa chos kyi bzang po dang/ rgyal ba gnyis pa kun mkhyen ngag gi dbang po'i rgyud 'grel las rtogs par bya'o//. 86 Vol. ca p. 324.1 has drang srong zhi ba'i rgyud khyer.
+
+
+[28] Mkhyen brtse dgongs rgyan: a detailed categorisation (rnam par phye ba) of the initiation rituals of the Grol tig dgongs pa rang grol.87 (339)
+
+[29] A purificatory practice (khrus chog) which cleanses all obscurations and blemishes on one's vows.88 (449)
+
+[30] A mnemonic (bsnyel tho) for the initiations of the ’Dus pa mdo. [31] Shin rje gad rgyangs: questions and answers on the gtor ma exorcism (gtor blzog) of the Bka' brgyad bde gshegs 'dus pa.
+
+[32] Gcig shes kun grol: short notes on the outer subduing rituals (phyi mnan pa) which bind together (sum sgril) [the various rituals of] black Yamāntaka. (461.1)
+
+[33] Sprul sku'i 'khor lo: protective practices (gnod pa'i bsrung thabs) which clear away enemies. (473.4) [34] Ri rab nag po: the sequence of activities (las rim) for subduing. (478.2)
+
+[35] Rgyud don rnam dag: The final activity (las mtha') of the Phur pa dregs 'dul gnam lcags 'khor lo, clearing away piles of impurities.89 (503) [Biv] Fourth, a collection of explanatory tīkas: [36] Rgyal ba'i gzhung lam: a tīka to the Phan bde ljon pa, the aspirational prayer for enlightened actions by Kun-mkhyen Śāntapuripa. (519)
+
+[37] Rig 'dzin lam bzang: a commentary on the 'Dod 'jo'i dga' ston, an aspirational prayer for the secret mantra. (546.2) [38] Dpal ri myur lam: a cycle of contemplations (dmigs skor) on the hūng practice (hūng bsnyen) of the Yongs rdzogs90 thugs sgrub. (571)
+
+[39] Mnemonic for the major initiation (dbang chen) of the Akaniṣṭa assembly.91 (579)
+
+87 C.f. Rnam thar p. 210.3. COLOPHON (447.4): /de'i phyir dang sang rdo rje theg pa'i bstan pa shin tu nyams par mthong nas slar yang tshig gi mdud pa rnams mchan bus gsal bar byas pa yin pas rtog dpyod dang ldan pa rnams kyis go ba'i gting phyin par bltab dang/ 'dri ba'i tshe mchan yig la dag pa rgyun 'byams mi 'tshal lo//.
+
+88 Ca p. 449: grol thig dgongs pa rang grol gyi le la gdam grib hyes pa kun sel gyi khrus chog.
+
+89 COLOPHON (517.2): / zhes pa 'di ni gter chen bla a mchog gi rigs kyi gdung brgyud mchog spul bstan 'phel dge legs rgya mtsho dang/ rje de nyid kyi zhal ring gi thu bo/ dharma'i mtshan can gyi bkas bskul ba las/ theg mchog rnal 'byor la mos pa lam du byed pa'i sgrub pa po mkhyen brtse 'od zer gyis/ rgyal zla chu srin gyi khyim zla'i dkar phyogs kyi rgyal ba gsum pa'i tshes pa dpal rigs sngags pho brang du sbyor ba dge'o/.
+
+90 19.1: rdzogs for rdzong.
+
+A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa
+
+
+[40] Gshin rje gad rgyangs: questions and answers about errors in the gtor ma exorcism (gtor zlog) of the Nyang tradition of the Bde shegs sgrub pa bka' brgyad. (583)
+
+[41] Tīka'i thur mas bsal ba: guidance ('dren byed) for the Kun bzang smon lam.92 (591)
+
+[42] The mirror which clears up doubts about the stages of contemplation (dmigs rim) for the 'Khor lo 'bar ba. (596) [Bv] Fifth, a collection of offering prayers (gsol mchog) to the protector deities (lha srung).
+
+[43] Sprin gyi khang bzang: an offering ritual (cho ga mchog) of incense offerings (bsang brnga). (603)
+
+[44] Sbyin rgya mtsho: offerings for appeasement (phud skong brnga).
+
+[45] Dam can bla chags: a fulfillment offering for Dpal-mgon-zhal. (629)
+
+[46] An offering practice (mchog thabs) for Dur-khrod lha-mo. (635) [47] Sman btsun mgul ryan: an offering prayer (gsol mchog) for Rdorje g.yu-sgron. (643) [48] A fulfillment offering for the above, in condensed form. (649) [49] Dbang drag dus kyi pho nya: fulfillment offering for gNodsbyin- tsi-dmar. (651)
+
+[50] Condensed fulfillment offering for Rgyal-chen rnam-sras. (677.1)
+
+[51] Condensed oblation for Ma-sangs. (677.5) [52] A benediction (mnga' gsol) showing the divisions (ru mtshon) of the Bstan srung dam can rgya mtsho.93 (678.1) [53] A teaching on the fulfillments for the Dam can rgya mtsho. (681)
+
+[54] Thub bstan ma: invocation (phrin bcol) to the dharma protectors in general. (683)
+
+[Bvi] A collection of various miscellaneous texts:
+
+91 C.f. Rnam thar p. 210.5. Texts 39 and 40 are missing from the dkar chag.
+
+92 COLOPHON (596.1): /zlos dang ma tshang gzhung gis mi tshal bas/ /bcu bdun rgyud dang de yi dgongs pa yi/ /ji bzhin rtogs nas gzhan la 'dems khas pa/ /dri med 'od zer stong gis bye ba'i gzhung theg mchog rin chen mdzod las gzhan gyis min/ /'di ni rdor brag sprul sku'i dgongs bzhed bzhin/ /blo dman rnam la phan phyir gzhung de ga'i/ /tshig don rang sar 'byed pa'i dbang byas te/ /klong chen nam mkha'i rnal 'byor de yis so//.
+
+93 Dam can bstan srung rgya mtsho'i rnam thar, by Sle-lung bzhad-pa’i rdo-rje (see TBRC W1KG9276).
+
+
+[55] Mtho ris them skas: summarisation of the path of the preliminaries and main practices. (685.1)
+
+[56] Bu lon 'khor lo'i sgra don: on [paying off] karmic debts (lan chags) during the water torma offering (chab gtor). (685.4)
+
+[57] Thar pa'i 'khri shing: a ritual for the entrustment of vows ('bogs chog) at the time of taking refuge. (687)
+
+[58] Ritual of veneration (phyag mchog) to the [sixteen] sthaviras. (693)
+
+[59] 'Dun pa bzang po: a fasting practice (smyung gnas). (699) [60] Mngon dag li shing sbyong: a guru yoga centred on Vajrasattva. (701)
+
+[61] A guru yoga of the three kāyas centred on the buddha Amitābha. (703.4)
+
+[62] Prayer to the the great pioneering (srol 'byed) teachers of the early translations. (704.4)
+
+[63] A prayer and aspiration to Atisha (Jo-bo Rin-po-che), and, in connection with them, a method for the four initiations. (705.4)
+
+[64] Connecting the ten deeds with the four initiations. (706.4) [65] Aspirational prayer for perfecting, ripening and cleansing (rdzogs smin sbyong). (707.1) [66] Prayer to the lama for casting out faults (gsol 'debs mtshang 'don ma). (708.1)
+
+[67] Prayer to the past-life lineage ('khrungs rabs) of ’Jigs-med gling-pa.94 (709.3)
+
+[68] Prayer for the life-story (rnam thar gsol 'debs).95 (710.3) [69] Prayer to the tradition of the all-sufficient jewel (gcig chog nor bu). (712.2)
+
+[70] Also, an aspirational prayer in four sections (le tshan bzhi). (713.3)
+
+[71] A long-life prayer (zhabs brtan gsol 'debs) in three sections.96 (715.1)
+
+[72] Prayer in two sections for the long life of Rgyal-sras nyinbyed 'od-zer. (718.5)
+
+[73] Prayer to the garland of rebirths of Mdo-khams rdzogs-chenpa. (718.6) 94 COLOPHON (710.2): /ces pa'ang rje btsun dzanyā na'i ming can sogs dang ldan 'gas bskul ba las 'khrul snang la shar tshod tsam tsan sor bzhag nas mkhyen brtse lhas so/.
+
+95 COLOPHON (712.2): /ces pa'ang las can gyi slob ma mdo smad pa 'jigs med phrin las 'od zer gyi nan tan chen po'i ngo ma zlog par legs byas kyi phyogs nas bsnyad pa'o//.
+
+96 This is a prayer for the long life of 'Jigs-med gling-pa. A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa 59
+
+[74] A tea offering (ja mtshod) in two sections. (720.1) [75] Past lives and condensed life-story of 'Jigs-med gling-pa. (721)
+
+[76] Rno sogs rab snang bgyis pa: A śāstra refuting the misguided critics of the Rnying-ma, school of the early translations, by Kun-mkhyen ngag-gi dbang-po.97 (729) [77] Ma'i ma ci zlos gar: an anthology of the letters (chab shog).98 (827)
+
+[78] Nyi zla'i rna cha: the record of teachings received (gsan yig).99 (865–890) [79] Chos rab rnam byed: a catalogue (bzhugs byang) of the complete Bka' 'bum. (1)100
+
+97 COLOPHON (825.3): /ces rdzogs pa chen po la sogs sngags rnying ma rjes 'brangs dang bcas pa'i tshig don la log par rtogs pa'i 'kril pa ngan pa 'joms pa'i bstan bcos 'khrul 'joms zhes bya ba 'di ni theg pa mchog gi rnal 'byor pa klong chen rab 'byams kyis dpyid zlar ba'i bcom ldan 'das cho 'phrul chen pos mu stegs par rnams pham par mdzad pa'i dus kyi zla ba 'di kar 'phyogs kyi tshes bcu nyin par rdzogs par bris pa 'dis/ log par rtogs pa rnams kyi 'khrul pa thams cad bcom nas/ phyis nas rdzogs pa chen po skyabs kyi dam pa mchog tu gyur cig/ /rgyal bas cho 'phrul chen po'i mdzad pa dang/ nam mkha' lding gis klu la bya ba bzhin/ /pha lam rdo rje lta bu'i mtshon cha la/ /rno dpal tsher ma rang byung rdo rje bsman/ /dge bas bstan la phyogs lhung zig gyur cig/.
+
+
+98 There follows a breakdown of this collection into the specific letters: 828.1: /dngos cag la zhabs drung lha bas rang gi khab tu bskyed dgos gsung ba thog mar byung ba'i lan phul ba/
+
+830.2: / zhabs drung lha ba'i mchid lan gnyis/
+
+831.5: / lcags zam sprul sku rin po che la phul ba/
+
+833.4: / lcags zam phyag mdzod blo gros dbang pos sgra rig pa khong du chud pa'i gnas tshul dang chab gcig rdzogs pa chen po'i gra nyan dul kho bo'i mdon sar lags rgyul zhu 'phrin byung dus gsol bslob dpon mchog srid dbang po'i gtam/
+
+835.2: / mtsho sna dgon rtse sprul sku chab shog lan phul ba/ 836.3: / gzhung sar zhabs brtan gyi dper mdzod/ 837.2: / lcags zam rin po che lo gsum pa nang sku'i mchid phebs lan/ 841.1: / bya bral bsod dal di mi 'jog par gzhon nu la yon tan bslab par bskul ba'i phrin las/
+
+843.3: / 'phyong rgyas dzong gi debs gsar bjo'i 'go brjod bskul ma byung ba/ 844.6: / dpar brjod du/ 846.4: / mkhyen dbyed langs pa sde pa rin po che drung du/ 850.3: / sa spre'u tshe chog dang 'brel bar jo bo byang chub chen par zhabs brtan thugs dam brgyad bskul/
+
+852.1: / lho brag gsung sprul gyi mchid lan/ 856.2: / srid skyong rta tshag rin po cher rten bzhengs kyi legs 'dul chab shog/ (the regent, 1791-1810) 857.2: / rdo rje brag sprul sku rin po cher/ 858.4: / lho brag lha lung thugs sras sprul skur mchid lan/ 860.3: / bka' blon lha sdings bar/
+
+861.4: / gsung sprul rin po che'i sku zhabs su/.
+
+
+CHA Phur pa rgyud lugs chos tshan rang gzhung dkar chag gis gsal ba: the tantras of Phur-ba from the Rgyud 'bum rin po che, brought together from nearly a hundred translations of numerous scholars (lo pan). (1– 513)
+
+JA The nectar of the tantras, the ultimate instructions on development and completion, condensing the essential points of the essential points, the Snying thig gsar ma, also known as the great dgongs gter (dgongs gter chen mo) of profound meaning and swift blessings, the Klong chen snying gi thig le.101
+
+Its groups (lhan thabs) and subdivisions (nang gses) are clarified in the list (dkar chag) of its own texts (rang gzhugs), the Nyi 'od kyis gsal ba.102 The first of the two volumes teaches primarily the development stage, taking the vase initiation onto the path, as well as sādhanas and (tantric) activities (sgrub phrin) and supporting teachings (rgyab chos). (1–1288)
+
+NYA The second [volume] contains instructions which teach primarily the completion stage, taking the three supreme initiations (dbang gong ma gsum) such as the secret initiation onto the path, as well as individual supporting texts (yi ge so so'i rgyab chos). (1–1415) TA
+
+[A] Legs byas yongs 'du'i snye ma: collected autobiographies and songs(rnam mgur) which brings together as one the trilogy of [i] reading, 100 This text is listed here as being at the end of the volume in spite of the fact of its actual presence at the beginning of the volume.
+
+This again indicates that the catalogue of Rdo-rje rgyal-mtshan has been copied directly from the one in the Sde-dge edition, in which this text does appear at the end of the volume. 101 Studies and translations of texts from the Klong chen snying thig include Goodman 1983 and 1992, Gyatso 1998, van Schaik 2004 and Dahl 2010. 102 SBd vol. ja, 1–20; this appears to be missing from SBl. See Appendix A below for a list of titles drawn from SBl.
+
+
+thinking and meditating (1-37), [ii] exertion and accomplishment (38- 148), and [iii] the field of activities (149–500).103 [B] Do ha'i rgyan: the condensation of the above.104 (501–510) [C] A compilation of questions-and-answers (dris lan) on the subject of development and completion meditation, and oral advice (zhal gdams) edited according to subject.105 (1–34).
+
+Bibliography
+
+Tibetan
+
+SBd: The Collected Works of ’Jigs-med-gliṅ-pa Raṅ-byuṅ-rdo-rje Mkhyenbrtse’i ’od-zer (1730–98), Derge edition (9 vols). Edited by Pema Thinley. Gangtok, India 1985.
+
+SBl: The Collected Works of Kun-mkhyen ’Jigs-med-gling-pa, Lhasa edition; Ngagyur Nyingmay Sungrab series, vols. 29–37 (9 vols). Edited by Sonam T. Kazi. Gangtok, India 1970–75.
+
+Rnam thar: Yul lho rgyud du ‘byung ba’i rdzogs chen pa rang byung rdo rje mkhyen brtse’i od zer gyi rnam par thar pa legs byas yongs ‘du’i snyem: SBl vol.9 (ta), pp1–500.
+
+103 Goodman 1992: 187: “This third section is itself divided into three untitled parts: (3a) pp. 149-388, written and revised by ’Jigs-med gling-pa, covers the years 1764-1793; (3b) pp. 389-454, covers up to the end of his life (1798); (3c) pp. 455- 500, written by Padma dbang-chen rol-pa'i rtsal [rDo-sgrub-chen I], details the period leading up to the death of ’Jigs-med gling-pa, the funeral rites, and subsequent events.”
+
+104 COLOPHON (510.6): /'di ni bla chen sa skya pa'i/ /gsung gis bskul nas bris pa yin/ /dge bas mthong thos dran reg kun/ /rnam byang dam pa'i rgyur gyur cig/.
+
+105 The title on the title page (SBl) is slightly different from the dkar chag title. It is: Klong chen nam mkha'i rnal 'byor gyi gsung 'bum thor bu las bskyed rdzogs sgom phyogs dris lan dang/ zhal gdams rnams phyogs su bsdebs pa. COLOPHON (348.5): /kun mkhyen rgyal ba'i bstan yongs rdzogs gzhung/ /kun mkhyen klong chen thugs mtshor rab 'khyil ba/ /kun mkhyen 'jigs gling dang bas rab drangs gang/ /mkhyen pa'i klong rdol ji snyed nyams rtogs glu/ /gus ldan yongs kyi rna ba'i bdud rtsi mchog/ /sgom phyogs dris lan spar gzhi 'phrul chen po/ /dad gus gtong sems dag pas legs sgrub dgos/ /rgyal bstan spyi dang 'od gsal rdzogs chen gyi/ /bstan pa 'phel rgyas bstan 'dzin zhabs pad bstan/ /mkha' mnyam ma rnams phan bde'i dpal la spyod/ /kun mkhyen sangs rgyas go 'phang myur thob shog/ /gus ldan dge slong bshes snyen chos 'phel nas/ /spar 'di gnas chung sgra dbyangs gling du bzhugs//.
+
+
+Sde dge par khang gi dkar chag zhib rgyas su bkod shes bya’i sgo ’byed. Kokonor, 1994.
+
+Three Karchacks [Gedan Sungrab Minyan Gyunphel series]. Edited by Ngawang Gelek Demo. New Delhi, 1970.
+
+Other
+
+Aris, Michael. 1995. 'Jigs-med-gling-pa’s “Discourse on India” of 1789: A Critical Edition and Annoted Translation of the lHo-phyogs rgya-gar-gyi gtam-brtag-pa brgyad-kyi me-lon. Tokyo: The Institute for Buddhist Studies.
+
+Dahl, Courtland. 2010. Entrance to the Great Perfection: A Guide to Dzogchen Preliminary Practices. Boston: Snow Lion Publications. Goodman, Steven D. 1983. The Klong-chen snying-thig: An Eighteenth Century Tibetan Revelation. PhD thesis, University of Saskatchewan. — 1992. ‘Rig-'dzin 'Jigs-med gling-pa and the Klong-Chen sNying- Thig’, in Davidson, Ronald M. and Goodman, Steven D. (eds), Tibetan Buddhism: Reason and Revelation. New York: SUNY Press. 133- 207.
+
+Gyatso, Janet. 1998. Apparitions of the Self. Princeton: University of Princeton Press.
+
+Kawamura, Leslie S. 1992. ‘On 'Jigs-med gling-pa's Dris lan rin po ch'i bstan bcos | lung gi gter mdzod’, in Ihara, Shoren (ed.), Tibetan Studies: Proceedings of the 5th Seminar of the International Associaton for Tibetan Studies (Narita 1989). Tokyo: Naritisan Shinshoji. 121–130. Kolmas, Josef. 1971. Prague Collection of Tibetan Prints From Derge. Wiesbaden: Otto Harrossowitz.
+
+Padmakara Translation Group. 2011. Treasury of Precious Qualities, Book 1. Revised edition. Boston: Shambhala.
+
+— 2013. Treasury of Precious Qualities, Book 2. Boston: Shambhala. van Schaik, Sam. 2000. “Sun and Moon Earrings: the Thob yig of ’Jigs med gling pa.” In The Tibet Journal 25.4: 3–32.
+
+A Tibetan Catalogue of the Works of ‘Jigs-med gling-pa 63
+
+— 2004. Approaching the Great Perfection: Simultaneous and Gradual Approaches to Dzogchen Practice in the Longchen Nyingtig. Boston: Wisdom Publications.
+
+Schuh, Dieter. 1973. Untersuchungen zur Geschichte der Tibetischen Kalenderrechnung. Wiesbaden: Steiner Verlag.
