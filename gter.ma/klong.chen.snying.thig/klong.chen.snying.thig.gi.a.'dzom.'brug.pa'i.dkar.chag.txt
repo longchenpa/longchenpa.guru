@@ -2,7 +2,7 @@
 
 pod dang po [vol] Том 1
 
-001 klong chen snying gi thig le'i rtogs pa brjod pa da kki'i gsang gtam chen mo (da kki'i gsang gtam) [txt] Велика таємна бесіда Дакіні: Висловлювання усвідомлень Серцевин величезного простору
+001 klong chen snying gi thig le'i rtogs pa brjod pa da kki'i gsang gtam chen mo/ da kki'i gsang gtam [txt] Велика таємна бесіда Дакіні: Висловлювання усвідомлень Серцевин величезного простору
 002 gsang ba chen po nyams snang gi rtogs brjod chu zla'i gar mkhan (rtogs brjod) [txt] Танцюрист місяця у воді: Висловлювання усвідомлень щодо великої таємниці видінь
 003 gnad byang thugs kyi sgrom bu (gnad byang) [txt] Скриня розуму ключових настанов
 004 rig 'dzin rtsa rgyud thod pa'i dum bu (rtsa rgyud) [txt] Уламок черепа корінної тантри Рігдзінів
@@ -34,7 +34,7 @@ pod dang po [vol] Том 1
 030 yum ka mkha 'gro'i las tshogs bzhi pa dang 'brel bar tshe dbang gi mtshams sbyor (mtshams sbyor) [txt] Підготовка для втілення довголіття, пов'язана з чотирма зборами дій дакіні Цог'ял
 031 yum ka mkha 'gro'i las tshogs las gter bum sgrub pa'i lhan thabs (bum sgrub/bse rags) [txt] Методи практики скарбниці з чотирьох зборів дій дакіні Цог'ял
 
-g.yang chog gter bum sgrub pa'i lhan thabs dang bse rags rdzong thabs [sec] Методи практики скарбниці благ та бсе рагс рдзонг
+ki pa g.yang chog gter bum sgrub pa'i lhan thabs dang/ bse rags rdzong thabs/  Методи практики скарбниці благ та bse rags rdzong
 
 032 bde ba can du bgrod pa'i cho ga dpag med myur lam (cho ga) [txt] Ритуал входу в Рай Блаженства: Швидкий шлях до Безмежного
 033 bde can zhing bkod smon lam (bde smon) [txt] Молитва розгортання Райського поля
@@ -73,7 +73,7 @@ pod gnyis pa [vol] Том 2
 
 pod gsum pa [vol] Том 3
 
-gsang dbang gi lam khyer skor [sec] Коло носіння таємного втілення
+gsang dbang gi lam khyer skor/ Коло носіння таємного втілення
 
 063 klong chen snying gi thig le las 'pho ba ma bsgom sangs rgyas [txt] Перенесення свідомості без практики: Пробудження будди з Серцевин величезного простору
 064 'pho ba'i ngo sprod nyung ngu (gshin 'pho) [txt] Коротке введення в сутність перенесення
@@ -93,7 +93,7 @@ gsang dbang gi lam khyer skor [sec] Коло носіння таємного в�
 078 rdzogs pa chen po klong chen snying thig gi thun mong ma yin pa'i sngon 'gro'i khrid yig dran pa nyer gzhag [txt] Текст ведення неперевершеного: Двадцять усвідомлень попередніх практик Серцевин величезного простору Великого Досконалого
 079 rdzogs pa chen po klong chen snying thig gi gdod ma'i mgon po'i lam gyi rim pa'i khrid yig ye shes bla ma [txt] Йога премудрості гуру: Текст ведення етапів шляху первинного захисника Серцевин величезного простору Великого Досконалого
 
-rgya b chos skor [sec] Широкий дхарма-коло
+rgya b chos skor/ Широкий дхарма-коло
 
 080 klong chen snying gi thig le las rdo rje theg pa'i smin grol lam gyi rim pa las 'phros pa'i man ngag gi rgyab brten padma dkar po [txt] Білий лотос: Підтримка настанов, що випромінюється з етапів шляху зрілого звільнення ваджраїани з Серцевин величезного простору
 081 gnas lugs rdo rje'i tshig rkang [txt] Ваджряні вірші природного стану
@@ -103,13 +103,9 @@ rgya b chos skor [sec] Широкий дхарма-коло
 085 ri chos zhal gdams ngo mtshar rgya mtsho [txt] Океан дивовижних порад: Усні настанови гірських вчень
 086 klong chen snying thig gi gtor ma'i re gzig gsal ba (gtor ma'i zin bris) [txt] Прояснення нотаток торма Серцевин величезного простору
 
+MANGALAM
+
 2025 (c) Лонгчен Осал
-
-
-                Longchen Nyinthig Tsa Pod 3 Volumes Collected by Adzom Drukpa
-                -------------------------------------------------------------
-
-Volume I
 
  1. ka.   klong chen snying gi thig le'i rtogs pa brjod pa da kki'i gsang gtam chen mo/ (da kki'i gsang gtam) (4-16)
  2. kha.  gsang ba chen po nyams snang gi rtogs brjod chu zla i gar mikhan/ (rtogs briod) 17-68
@@ -142,9 +138,6 @@ Volume I
 29. ha.     yum ka bde chen rgyal mo las: dpa' bo dpa' mo'i bsun bzlog (bsun bzlog) (422-424)
 30. a.      yum ka mkha' 'gro'i las tshogs bzhi pa dang 'brel bar: tshe dbang gi mtshams sbyor/ (mtshams sbyor) (425-440)
 31. ki.     yum ka mkha' 'gro'i las tshogs las: gter bum sgrub pai lhan thabs/ (bum sgrub/bse rags) (441-456)
-
-them-byang: ki pa g.yang chog gter bum sgrub pa'i lhan thabs dang/ bse rags rdzong thabs:
-
 32. ku.     bde ba can du bgrod pa'i cho ga dpag med myur lam/ (cho ga) (457-490)
 33. ke.     bde can zhing bkod smon lam/ (bde smon) (491-495)
 
@@ -177,13 +170,10 @@ Volume 2
 25. no.     sku gsum zhing khams sbyong ba'i gsol 'debs smon lam (zhing sbyong smon lam) (448-453)
 26. pi.     bar do'i smon lam dgongs gcig rgya mtsho (bar do'i smon lam) (454-464)
 27. pu.    bden tshig 'grub pa'i pra ni dha na rnam mkhyen grong jug (pra ni dha) (465-468)
-           bden tshig 'grub pa'i pra Ni d+ha rnam mkhyen grong 'jug ces bya ba ni/
 28. pe.   klong chen snying gi thig le las: rgyal ba rig 'dzin gyi srog 'khor dpal gyi gdu bu bzhugs: btags grol (srog 'khor) (469-479)
 29. po.     zhi khro ngang song sbyong ba'i chog sgrigs khrom dkrugs gsal ba'i rgyan zhes bya ba bklags chog mar bkod pa (zhi khro chog sgrigs) (480-540)
 
 Volume 3
-
-gsang dbang gi lam khyer skor:
 
  1. dze.  klong chen snying gi thig le las: 'pho ba ma bsgoms sangs rgyas (3-6)
  2. dzo.   'pho ba'i ngo sprod nyung ngu: gshin 'pho (7-12)
@@ -202,18 +192,11 @@ gsang dbang gi lam khyer skor:
 15. 'i.  rdzogs pa chen po klong chen snying tig gi thun mong gi sngon 'gro khrid kyi lag len la 'debs lugs (227-263)
 16. 'u.  rdzogs pa chen po klong chen snying thig gi thun mong ma yin pa'i sngon 'gro'i khrid yig dran pa nyer gzhag (264-297)
 17. 'e.  rdzogs pa chen po klong chen snying tig gi gdod ma'i mgon po'i lam gyi rim pa'i khrid yig ye shes bla ma (298-462)
-
-rgya b chos skor:
-
 18. 'o.   klong chen snying gi thig le las: rdo rje theg pa'i smin grol lam gyi rim pa las 'phros pa'i man ngag gi rgyab brten padma dkar po (463-516)
 19. yi.    gnas lugs rdo rje'i tshig rkang (517-519)
-20. yu.     rig 'dzin mkha' 'gro dgyes pa'i gsang gtam/
-           /yid dpyod grub mtha' 'jig pa'i tho lu ma/
-        /snying phyung lag mthil bkram pa'I man ngag /gsang bdag dga' rab dpa' bo'i thol glu/
-           /kun mkhyen zhal lung bdud rtsi'i thigs pa (rdo rje'i tshig rkang gi don 'grel kun mkhyen zhal lung) (520-546)
+20. yu.     rig 'dzin mkha' 'gro dgyes pa'i gsang gtam/ /yid dpyod grub mtha' 'jig pa'i tho lu ma/ /snying phyung lag mthil bkram pa'I man ngag /gsang bdag dga' rab dpa' bo'i thol glu/ /kun mkhyen zhal lung bdud rtsi'i thigs pa (rdo rje'i tshig rkang gi don 'grel kun mkhyen zhal lung) (520-546)
 21. ye.  snying tig sgom pa'i bya bral gyi/ gol shor tshar gcod seng ge'i nga ro (547-565)
 22. yo,  rdzogs pa chen po gnas lugs cer mthong (566-573)
 23. ri.      ri chos zhal gdams ngo mtshar rgya mtsho (574-589)
 24. ru.   klong chen snying thig gi gtor ma'i re gzig gsal ba: gtor ma'i zin bris) (590-595)
-
 
