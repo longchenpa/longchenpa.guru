@@ -1,33 +1,3 @@
-@#/_/bi ma snying thig/ sngon 'gro/ Ньондро Віма Нінгтік
-@#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
-@#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro khrid rim gyi ngag 'don nyung ngu gud du phyung ba/ Янгті Накпо Ньондро Кхрід Рім
-@#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Янгті Накпо Ньондро Мінгмі Шепа
-@#/_/dung mtsho ras pa phyi ma/ rnam thar/ Дунгцо Ріпа Намтар
-@#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
-@#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
-@#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
-@#/_/gnam chos/ mi 'gyur rdo rje rnam thar/ Мінг'юр Дордже Намтар
-@#/_/gnam chos/ zhi khro/ Жітро Намчо
-@#/_/gu ru chos dbang/ bka' 'gyur ro cog gi snying po bsdus pa'i gzungs bzhugs so: Гуру Чованг: Дхарані Суті Канжура
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/ Мандала
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ gu ru drag po/ Гуру Кродха Дракпо
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/ Кета Ракша Рахула
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ ha ri ni sa/ Харініца Ваджра Прамоха
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ klong chen nyer lnga'i snying po/ 25 Тіглє Самантабхадри
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ mgon po nag po/ Шрі Маха Кала
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ ral pa gcig ma/ Мама Трак Ракша Екаджаті
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje legs pa/ Ваджра Садху Дордже Легпа
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje rmongs pa/ Харініца Прамоха
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджра
-@#/_/klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/ Бхумі Паті Локакапали
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-йога білого А
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/ Гуру-Йога
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ sems sde'i rnal 'byor bzhi/ Чотири споглядання мислення
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ sngon 'gro/ Ньондро Лонгчен Осал Кхандро Нінгтік
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/ Практика Довгого Життя Дакіні Гомадеві
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/ Практика Довгого Життя Мандарави
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ tshogs/ Ганачакра Лонгчен Осал Кхандро Нінгтік
 @#/_/klong chen 'od gsal snying thig/ 'ja' lus/ Райдужне тіло
 @#/_/klong chen 'od gsal snying thig/ bcu gnyis mgon po'i 'od zer/ Молитва Захисникам Лонгчен Осал
 @#/_/klong chen 'od gsal snying thig/ bla ma'i rtsa sngags kyi dmigs pa bzhugs so/ Букви Гуру
@@ -49,39 +19,3 @@
 @#/_/klong chen 'od gsal snying thig/ thod rgal gyi mdog gsal gyi snang ba/ Радіантні кольори Тогал
 @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
 @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
-@#/_/klong chen snying thig/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
-@#/_/klong chen snying thig/ dge bsngo/ Посвята накопичення заслуг і мудрості
-@#/_/klong chen snying thig/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/ Лонгчен Нінгтік: Сміх Дакіні
-@#/_/klong chen snying thig/ gdod ma'i mgon po'i lam gyi rim pa 'i khrid yig ye shes bla ma zhes bya ba bzhugs/ Єше Лама
-@#/_/klong chen snying thig/ nang gsang rnal 'byor/ Таємна Гуру Йога
-@#/_/klong chen snying thig/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
-@#/_/klong chen snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
-@#/_/klong chen snying thig/ rdo rje gsung/ Мантра ваджрного мовлення
-@#/_/klong chen snying thig/ rdo rje sems dpa'/ Дордже Семпа
-@#/_/klong chen snying thig/ rdo rje'i lha mo bcu drug/ Дордже Лхамо Чудрук
-@#/_/klong chen snying thig/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
-@#/_/klong chen snying thig/ rnam dag ston pa'i lha srung smon lam/ Молитва захисникам Лонгчен Нінгтік Намдака Тонпи
-@#/_/klong chen snying thig/ skong bshags rdo rje'i thol glu bzhugs/ Спонтанна Ваджрна Пісня Виконання та Сповіді
-@#/_/klong chen snying thig/ snyan brgyud 'bring po bar do 'od gsal rang snang bzhugs so/ Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості
-@#/_/klong chen snying thig/ thig le'i rgya can gyi smin byed ye shes mchog sbyin zhes bya ba bzhugs so/ Дарування Печатки Тіґлє Г'ялчен
-@#/_/klong chen snying thig/ thig le'i rgya can/ Пуджа Тіглє Г'ялчен
-@#/_/klong chen snying thig/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
-@#/_/klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
-@#/_/klong gsal snying po/ sngon 'gro/ Ньондро Лонгсал Нінгпо
-@#/_/mkha' 'gro kun bzang/ rnam thar/ Кхандро Кунзанг Намтар
-@#/_/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-@#/_/mkha' 'gro snying thig/ khregs chod ngo sprod mtha 'grol klong yangs/ Вступ до Трекчо з Кхандро Ньїнґтік
-@#/_/mkha' 'gro snying thig/ mkha' 'gro sngags kyi lde mig/ Ключ-мантри Дакіні
-@#/_/mkha' 'gro snying thig/ tsche sgrub/ Практика довгого Життя
-@#/_/mkha' 'gro snying thig/ yang ti gser gyi 'bru gcig pa'i rgyud/ Тантра Унікального Золотого Складу Янгті
-@#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
-@#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі
-@#/_/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/ З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
-@#/_/nyi ma grags pa/ rnam thar/ Ньїма Дракпа Намтар
-@#/_/nyi ma grags pa/ thod rgal khrid yig/ Тогал Кхрід Їк
-@#/_/rdza dpal sprul/ bden gnyis/ Настанова щодо погляду Махаяни: Роз’яснення двох істин.
-@#/_/rdza dpal sprul/ dmigs rim bsdus pa/ Короткий посібник з етапів візуалізації для практики Ньондро
-@#/_/rdza dpal sprul/ snying thig sngon 'gro'i khrid yig kun bzang  bla ma'i zhal lung bzhugs/ Нінгтік Ньондро Крід Їк Кунзан Ламеї Шалунг
-@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/ Ньїда Кхаджор
-@#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
-@#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
