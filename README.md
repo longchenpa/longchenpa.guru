@@ -29,7 +29,7 @@
 **Вимоги**: філологічна освіта, портфоліо, бажання, натхнення.
 **Об'єкти**: оцифровані та підготовлені тексти тантр, практик чи коментарів на тибетській мові.
 
-[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/gzhi.lam.'bras.bu'i.smon.lam.htm)
+[Приклад](http://longchenpa.guru/gter.ma/klong.chen.snying.thig/gzhi.lam.'bras.bu'i.smon.lam.txt)
 
 Коректор
 --------
@@ -37,7 +37,7 @@
 **Вимоги**: філологічна освіта, бажання, натхнення.
 **Об'єкти**: оцифровані та підготовлені тексти тантр, практик чи коментарів на тібетській чи українській мові.
 
-[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/sngon.'gro/index.pdf)
+[Приклад](http://longchenpa.guru/gter.ma/klong.chen.snying.thig/sngon.'gro.pdf)
 
 Верстальник
 -----------
