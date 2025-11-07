@@ -1,8 +1,10 @@
+// HEVEA.CSS
+
 @font-face {
     font-family: 'Geometria';
     font-style: normal;
     font-weight: normal;
-    src: url(Geometria-Light.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-Light.otf);
 }
 
 .section { margin-top: 20px; margin-bottom: 20px; }
@@ -18,35 +20,35 @@ table { margin-bottom: 20px }
     font-family: 'Geometria';
     font-weight: bold;
     font-style: normal;
-    src: url(Geometria-Medium.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-Medium.otf);
 }
 
 @font-face {
     font-family: 'Geometria';
     font-style: italic;
     font-weight: bold;
-    src: url(Geometria-MediumItalic.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-MediumItalic.otf);
 }
 
 @font-face {
     font-family: 'local';
     font-style: normal;
     font-weight: normal;
-    src: url(Geometria-Light.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-Light.otf);
 }
 
 @font-face {
     font-family: 'local';
     font-weight: bold;
     font-style: normal;
-    src: url(Geometria-Medium.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-Medium.otf);
 }
 
 @font-face {
     font-family: 'local';
     font-style: italic;
     font-weight: bold;
-    src: url(Geometria-MediumItalic.otf);
+    src: url(dgon.mdzod/yig.gzugs/Geometria-MediumItalic.otf);
 }
 
 * {

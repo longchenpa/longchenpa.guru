@@ -1,4 +1,5 @@
 // NYING.MA.CSS
+
 A { text-decoration: none; color: blue; }
 A:link { color: blue; text-decoration: none; }
 A:visited { color: blue; text-decoration: none; }
@@ -8,7 +9,7 @@ BODY { font-size:10pt; font-family: local, Calibri, Lucida Sans, "Lucida Grande"
 TD { margin: 0 auto; padding-right: 20px; font-size: 10pt; }
 H1 { color: darkblue; font-weight: bold; font-size:18pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
 H2 { color: darkblue; font-size:16pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
-H3 { font-size:14pt; margin-top:20px; margin-bottom:10px; margin-right:6px; } 
+H3 { font-size:14pt; margin-top:20px; margin-bottom:10px; margin-right:6px; }
 P { font-size:10pt; margin-top: 0px; margin-bottom: 8px; }
 .ti { font-family: ti; font-weight: lighter;}
 h1 > .ti { font-size: 26pt; font-family: ti; font-weight: lighter;}
@@ -30,14 +31,14 @@ pre { font-size:10pt; font-family: Lucida Console; }
 
 @font-face {
     font-family: 'local';
-    src: url('Geometria-Light.otf');
+    src: url('dgon.mdzod/yig.gzugs/Geometria-Light.otf');
     font-weight: normal;
     font-style: normal;
 };
 
 @font-face {
     font-family: 'ti';
-    src: url('TibetanMachineWeb.eot');
+    src: url('dgon.mdzod/yig.gzugs/TibetanMachineWeb.eot');
     font-weight: lighter;
     font-style: normal;
 };
@@ -83,7 +84,7 @@ pre { font-size:10pt; font-family: Lucida Console; }
     }
 
     #nav ul li {
-	    position: relative;
+        position: relative;
         float: left;
         padding: 0;
         margin-top: -1px;
@@ -91,13 +92,13 @@ pre { font-size:10pt; font-family: Lucida Console; }
         width: 140%;
         height: 120%;
         z-index: 100;
-		color: #ddd;
+        color: #ddd;
         background: #ffffff;
     }
 
     #nav li {
         color: white;
-	    position: relative;
+        position: relative;
         float: left;
         padding: 0;
         margin: 0;
@@ -128,7 +129,7 @@ pre { font-size:10pt; font-family: Lucida Console; }
     }
 
     #nav a:active,
-	#nav a:hover {
+        #nav a:hover {
         color: #000;
         left: auto;
         background: #bbb;
