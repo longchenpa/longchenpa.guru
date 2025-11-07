@@ -39,6 +39,16 @@
 
 [Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/sngon.'gro/index.pdf)
 
+Верстальник
+-----------
+
+```
+$ sudo apt install texlive-full
+$ cp *.ttf ~/.local/share/fonts
+$ sudo fc-cache -f
+$ fc-match Geometria
+```
+
 Волонтери
 ---------
 
