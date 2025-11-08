@@ -1,9 +1,9 @@
 @#/_/klong chen rab 'byams/ mdzod bdun/ Сім Скарбниць
 
-Файли з позначкою tsawa є основними текстами (кореневими),
-а файли з позначками drelpa (коментарі), tshig 'grel (словникові пояснення),
-sa bcad (структура) тощо є коментарями чи додатковими текстами,
-які не потрібні для основного набору.
+rtsa ba/ root
+'grel pa/ commentary
+tshig 'grel/ dictionary explanation
+sa bcad/ structure
 
 001 yid bzhin mdzod/ Скарбниця виконання бажань
 002 drub mtha' mdzod/ Скарбниця філософських систем
