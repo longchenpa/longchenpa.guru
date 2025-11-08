@@ -1,83 +1,56 @@
-Adzom Drukpa organized Longchenpa's ngal gso skor gsum into three volumes (NYA, TA, THA).
-Based on the standard arrangement and the provided titles, the works are distributed as follows:
+@#/_/klong chen rab 'byams/ ngal gso skor gsum dkar chag/ Трилогія відпочинку з 14 текстів
 
-Longchen Osal Index:
+rtsa ba/ root
+'grel pa/ commentary
+bsdus don/ condensed meaning
+don khrid/ practical guide
+spyi don/ general
 
-Volume NYA:
-
-bsam gtan ngal gso (Root Text: Resting in Contemplation)
-bsam gtan ngal gso'i 'grel pa shing rta rnam par dag pa dge ba (Commentary: The Completely Pure Virtuous Chariot)
-bsam gtan ngal gso skor gsum gyi spyi don legs bshad rgya mtsho (General Exposition: Ocean of Excellent Explanations)
-
-Volume TA:
-
-sems nyid ngal gso (Root Text: Resting in the Nature of Mind, implied)
-sems nyid ngal gso'i 'grel pa shing rta chen po (Commentary: The Great Chariot)
-sems nyid ngal gso'i gnas gsum dge ba gsum gyi don khrid byang chub lam bzang (Practical Guide: The Excellent Path to Enlightenment)
-
-Volume THA:
-
-sgyu ma ngal gso (Root Text: Resting in Illusion)
-sgyu ma ngal gso'i 'grel pa shing rta bzang po (Commentary: The Excellent Chariot)
-
-Texts Titles for Accurate Citations:
-
-@#/_/rdzogs pa chen po bsam gtan ngal gso zhes bya ba bzhugs//_
-@#/_/rdzogs pa chen po bsam gtan ngal gso'i 'grel pa shing rta rnam par dag pa dge ba zhes bya ba bzhugs//
-@#/_/ngal gso skor gsum gyi spyi don legs bshad rgya mtsho zhes bya ba bzhugs so//_
-
-@#/_/sems nyid ngal gso'i 'grel pa las/_
-@#/_/rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po zhes bya ba bzhugs so//
-@#/_/rdzogs pa chen po sems nyid ngal gso'i gnas gsum dge ba gsum gyi don khrid byang chub lam bzang bzhugs//
-
-@#/_/rdzogs pa chen po sgyu ma ngal gso zhes bya ba bzhugs so//
-@#/_/rdzogs pa chen po sgyu ma ngal gso'i 'grel pa shing rta bzang po zhes bya ba bzhugs so//
-
-༄༅། །རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོ་ཞེས་བྱ་བ་བཞུགས།།
-༄༅། །རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་རྣམ་པར་དག་པ་དགེ་བ་ཞེས་བྱ་བ་བཞུགས།།
-༄༅། །ངལ་གསོ་སྐོར་གསུམ་གྱི་སྤྱི་དོན་ལེགས་བཤད་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
-
-༄༅། །སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ལས།
-༄༅། །རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་ཆེན་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
-༄༅། །རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་གནས་གསུམ་དགེ་བ་གསུམ་གྱི་དོན་ཁྲིད་བྱང་ཆུབ་ལམ་བཟང་བཞུགས།།
-
-༄༅། །རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
-༄༅། །རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་བཟང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
-
-Volumes sequesnces of Adzom Drukpa:
+001 (NYA) rdzogs pa chen po bsam gtan ngal gso zhes bya ba bzhugs so (rtsa ba)/ Resting in Contemplation
+002 (TA) rdzogs pa chen po sems nyid ngal gso zhes bya ba (rtsa ba)/ Resting in the Nature of Mind
+003 (TA/THA) rdzogs pa chen po sgyu ma ngal gso zhes bya ba bzhugs so/ Resting in Illusion
+004 (NYA) rdzogs pa chen po bsam gtan ngal gso'i 'grel pa shing rta rnam par dag pa dge ba zhes bya ba bzhugs so ('grel pa)/ The Completely Pure Virtuous Chariot
+005 (TA) rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po zhes bya ba bzhugs so ('grel pa)/ The Great Chariot
+006 (THA) sgyu ma ngal gso'i 'grel pa shing rta bzang po ('grel pa)/ The Excellent Chariot
+007 (THA) bsam gtan ngal gso'i bsdus don puṇḍa ri ka'i phreng ba bcas (bsdus don)/ Pundarika Garland
+008 (TA) rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i bsdus don padma dkar po'i phreng ba (bsdus don)/ White Lotus Garland
+009 (TA) rdzogs pa chen po sgyu ma ngal gso'i bsdus don maṇḍa ra ba'i phreng ba bcas (bsdus don)/ Mandarava Garland
+010 (THA) bsam gtan ngal gso'i don khrid snying po bcud bsdus bcas (don khrid)/ Essence Extract
+011 (TA) rdzogs pa chen po sems nyid ngal gso'i gnas gsum dge ba gsum gyi don khrid byang chub lam bzang (don khrid)/ Excellent Path to Enlightenment
+012 (THA) sgyu ma ngal gso'i don khrid yid bzhin nor bu bcas (don khrid)/ Wish-Fulfilling Jewel
+013 (THA) ngal gso skor gsum gyi spyi don legs bshad rgya mtsho zhes bya ba bzhugs so (spyi don)/ Ocean of Excellent Explanations
+014 (THA) ngal gso skor gsum gyi dkar chag padma stong ldan bcas (dkar chag)/ Thousand-Petaled Lotus Table of Contents
 
 NYA
 ངལ་གསོ་སྐོར་གསུམ་ཨ་འཛོམ་སྤར་ལྟར་བསྐྲུན་པའི་དཀར་ཆག་དགོད་པ་ལ། 1 ཉ་
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོ་ལེའུ་བཅུ་གསུམ་པ་ 112 113
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་ཆེན་པོ་ལས་སྟོད་ཆ་ལེའུ་བརྒྱད་པ་ཡན་གྱི་འགྲེལ་པ་བཅས་ 730
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོ་ལེའུ་བཅུ་གསུམ་པ་ 112 113 Resting in the Nature of Mind (Root, partial?)
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་ཆེན་པོ་ལས་སྟོད་ཆ་ལེའུ་བརྒྱད་པ་ཡན་གྱི་འགྲེལ་པ་བཅས་ 730 The Great Chariot (Upper Part)
 
 TA
 ངལ་གསོ་སྐོར་གསུམ་ཨ་འཛོམ་སྤར་ལྟར་བསྐྲུན་པའི་དཀར་ཆག། 1 ཏ
-སེམས་ཉིད་ངལ་གསོའི་ལེའུ་དགུ་པ་མན་ཆད་ཡོངས་རྫོགས་ཀྱི་འགྲེལ་པ་སྨད་ཆ་ལྡེབ་བརྒྱ་དང་གོ་གཅིག་གི་ཉིན་ཕྲེང་གཉིས་པའི་ནང་བར་དང་། 381
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་ཆེན་པོའི་བསྡུས་དོན་གྱི་གནས་རྒྱ་ཆེར་དབྱེ་བ་པདྨདཀར་པོའི་ཕྲེང་བ་བཅས། 440 441
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་གནས་གསུམ་དགེ་བ་གསུམ་གྱི་དོན་ཁྲིད་བྱང་ཆུབ་ལམ་བཟང་། 546 547
-རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོ་ལྡེབ་བཅུ་བདུན་པའི་ཉིན་ཕྲེང་ཐ་མའི་ནང་བར་དང་། 579
-རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོའི་བསྡུས་དོན་མནྡ༄༅་ར་བའི་ཕྲེང་བ་བཅས་ 592 593
-སྒྱུ་མ་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་བཟང་པོ་ལྡེབ་གྱ་ལྔའི་ཉིན་ཕྲེང་གསུམ་པའི་བར་དང་། 761
-དེ་ནས་སྒྱུ་མ་ངལ་གསོའི་དོན་ཁྲིད་ཡིད་བཞིན་ནོར་བུ་བཅས་ 766
+སེམས་ཉིད་ངལ་གསོའི་ལེའུ་དགུ་པ་མན་ཆད་ཡོངས་རྫོགས་ཀྱི་འགྲེལ་པ་སྨད་ཆ་ལྡེབ་བརྒྱ་དང་གོ་གཅིག་གི་ཉིན་ཕྲེང་གཉིས་པའི་ནང་བར་དང་། 381 The Great Chariot (Lower Part)
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་ཆེན་པོའི་བསྡུས་དོན་གྱི་གནས་རྒྱ་ཆེར་དབྱེ་བ་པདྨདཀར་པོའི་ཕྲེང་བ་བཅས། 440 441 White Lotus Garland
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་ངལ་གསོའི་གནས་གསུམ་དགེ་བ་གསུམ་གྱི་དོན་ཁྲིད་བྱང་ཆུབ་ལམ་བཟང་། 546 547 Excellent Path to Enlightenment
+རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོ་ལྡེབ་བཅུ་བདུན་པའི་ཉིན་ཕྲེང་ཐ་མའི་ནང་བར་དང་། 579 Resting in Illusion (Root, begins)
+རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོའི་བསྡུས་དོན་མནྡ༄༅་ར་བའི་ཕྲེང་བ་བཅས་ 592 593 Mandala Garland
+སྒྱུ་མ་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་བཟང་པོ་ལྡེབ་གྱ་ལྔའི་ཉིན་ཕྲེང་གསུམ་པའི་བར་དང་། 761 The Excellent Chariot
+དེ་ནས་སྒྱུ་མ་ངལ་གསོའི་དོན་ཁྲིད་ཡིད་བཞིན་ནོར་བུ་བཅས་ 766 Wish-Fulfilling Jewel
 
 THA
-
 ངལ་གསོ་སྐོར་གསུམ་ཨ་འཛོམ་སྤར་ལྟར་བསྐྲུན་པའི་དཀར་ཆག 1 ཐ
-རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་རྩ་བ་གནས་གསུམ་པ། ལྡེབ་བཅུ་གསུམ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 25
-བསམ་གཏན་ངལ་གསོའི་བསྡུས་དོན་པུཎྜ་རི་ཀའི་ཕྲེང་བ་བཅས། 34 35
-རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་རྣམ་དག་ལྡེབ་ཞེ་དྲུག་པའི་སྲིབ་ཕྲེང་གཉིས་པའི་བར་དང་། 126
-བསམ་གཏན་ངལ་གསོའི་དོན་ཁྲིད་སྙིང་པོ་བཅུད་བསྡུས་བཅས། 130 131
-སྤྱི་དོན་ལེགས་བཤད་རྒྱ་མཚོ་ལྡེབ་པ་བདུན་པའི་སྲིབ་ཕྲེང་དྲུག་པ་བར་དང་། 244
-ངལ་གསོ་སྐོར་གསུམ་གྱི་དཀར་ཆག་པདྨསྟོང་ལྡན་བཅས་ 250 ༈
-།རང་གྲོལ་སྐོར་གསུམ་ལ། 251 ཐ་
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཅུ་བདུན་པའི་སྲིབ་ཕྲེང་བཞི་པའི་བར་དང་། 284
-དེའི་རྗེས་འབྲེལ་རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་ལམ་རིམ་སྙིང་པོའི་དོན་ཁྲིད་ལྡེབ་ཉེར་བརྒྱད་པའི་སྲིབ་ཕྲེང་དང་པོའི་བར་དང་། 306
-སེམས་ཉིད་རང་གྲོལ་གྱི་གསོལ་འདེབས། ལྡེབ་སུམ་ཅུའི་སྲིབ་ཕྲེང་བཞི་པའི་ནང་བར་དང་། 310
-རྫོགས་པ་ཆེན་པོ་ཆོས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཞི་བཅུའི་ཉིན་ཕྲེང་གཉིས་པའི་བར་དང་། 329
-ཆོས་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་ཡིད་བཞིན་ལྡེབ་ལྔ་བཅུ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 349
-རྫོགས་པ་ཆེན་པོ་མཉམ་ཉིད་རང་གྲོལ་ལྡེབ་རེ་གསུམ་པའི་སྲིབ་ཕྲེང་ལྔ་པའི་ནང་བར་དང་། 376
-མཉམ་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་རིན་ཆེན་སྙིང་པོ། ལྡེབ་དོན་གཅིག་པའི་སྲིབ་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 392
-བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་དོན་ཁྲིད་རིན་ཆེན་གྲུ་བོ་བཅས། 428 བྱོན།
-
+རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་རྩ་བ་གནས་གསུམ་པ། ལྡེབ་བཅུ་གསུམ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 25 Root of Resting in Contemplation (reprise)
+བསམ་གཏན་ངལ་གསོའི་བསྡུས་དོན་པུཎྜ་རི་ཀའི་ཕྲེང་བ་བཅས། 34 35 Pundarika Garland
+རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་རྣམ་དག་ལྡེབ་ཞེ་དྲུག་པའི་སྲིབ་ཕྲེང་གཉིས་པའི་བར་དང་། 126 The Completely Pure Chariot (continued)
+བསམ་གཏན་ངལ་གསོའི་དོན་ཁྲིད་སྙིང་པོ་བཅུད་བསྡུས་བཅས། 130 131 Essence Extract
+སྤྱི་དོན་ལེགས་བཤད་རྒྱ་མཚོ་ལྡེབ་པ་བདུན་པའི་སྲིབ་ཕྲེང་དྲུག་པ་བར་དང་། 244 Ocean of Excellent Explanations
+ངལ་གསོ་སྐོར་གསུམ་གྱི་དཀར་ཆག་པདྨསྟོང་ལྡན་བཅས་ 250 ༈ Thousand-Petaled Lotus Table of Contents
+།རང་གྲོལ་སྐོར་གསུམ་ལ། 251 ཐ་ Start of Rang Grol Korsum — On the Trilogy of Natural Liberation
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཅུ་བདུན་པའི་སྲིབ་ཕྲེང་བཞི་པའི་བར་དང་། 284 Natural Liberation of the Nature of Mind (Root, 3 chapters)
+དེའི་རྗེས་འབྲེལ་རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་ལམ་རིམ་སྙིང་པོའི་དོན་ཁྲིད་ལྡེབ་ཉེར་བརྒྱད་པའི་སྲིབ་ཕྲེང་དང་པོའི་བར་དང་། 306 Practical Guide to the Stages of the Path: Essence of Natural Liberation of Mind
+སེམས་ཉིད་རང་གྲོལ་གྱི་གསོལ་འདེབས། ལྡེབ་སུམ་ཅུའི་སྲིབ་ཕྲེང་བཞི་པའི་ནང་བར་དང་། 310 Prayer for Natural Liberation of Mind
+རྫོགས་པ་ཆེན་པོ་ཆོས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཞི་བཅུའི་ཉིན་ཕྲེང་གཉིས་པའི་བར་དང་། 329 Natural Liberation of Reality Itself (Root, 3 chapters)
+ཆོས་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་ཡིད་བཞིན་ལྡེབ་ལྔ་བཅུ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 349 Wish-Fulfilling Practical Guide to Natural Liberation of Reality
+རྫོགས་པ་ཆེན་པོ་མཉམ་ཉིད་རང་གྲོལ་ལྡེབ་རེ་གསུམ་པའི་སྲིབ་ཕྲེང་ལྔ་པའི་ནང་བར་དང་། 376 Natural Liberation of Equalness (Root)
+མཉམ་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་རིན་ཆེན་སྙིང་པོ། ལྡེབ་དོན་གཅིག་པའི་སྲིབ་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 392 Jewel Essence: Practical Guide to Natural Liberation of Equalness
+བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་དོན་ཁྲིད་རིན་ཆེན་གྲུ་བོ་བཅས། 428 བྱོན། Jewel Ship: Practical Guide to The King That Creates All (Bodhichitta)
 

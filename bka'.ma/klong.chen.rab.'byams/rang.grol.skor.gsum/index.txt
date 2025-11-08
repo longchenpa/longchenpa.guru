@@ -1,28 +1,34 @@
-Трилогія самозвільнення རང་གྲོལ་སྐོར་གསུམ། rang grol skor gsum/
+@#/_/klong chen rab 'byams/ rang grol skor gsum dkar chag/ Трилогія самозвільнення
 
 Трилогія Самозвільнення дає настанови по розділу Семде.
+
+rtsa ba/ root
+don khrid/ practical guide
+spyi don/ general
 
 Самозвільнене мислення སེམས་ཉིད་རང་གྲོལ། sems nyid rang grol/ Три глави і настанови по Ламрім Нінгпо.
 Самозвільнена реальність ཆོས་ཉིད་རང་གྲོལ། chos nyid rang grol/ Три глави і настанов по Рінчен Нінгпо.
 Самозвільнена рівністність མཉམ་ཉིད་རང་གྲོལ། mnyam nyid rang grol/ Трьох глави по практиці Їдзін Нінгпо.
 
-@#/_/rdzogs pa chen po sems nyid rang grol zhes bya ba bzhugs so//_//
-@#/_/rdzogs pa chen po sems nyid rang grol gyi lam rim snying po' don khrid ces bya ba//_//
+001 rang grol skor gsum la (spyi don)/ Start of Rang Grol Korsum — On the Trilogy of Natural Liberation
+002 rdzogs pa chen po sems nyid rang grol gyi rtsa ba le'u gsum pa (rtsa ba)/ Natural Liberation of the Nature of Mind (Root, 3 chapters)
+003 de'i rjes 'brel rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid (don khrid)/ Practical Guide to the Stages of the Path: Essence of Natural Liberation of Mind
+004 sems nyid rang grol gyi gsol 'debs (gsol 'debs)/ Prayer for Natural Liberation of Mind
+005 rdzogs pa chen po chos nyid rang grol gyi rtsa ba le'u gsum pa (rtsa ba)/ Natural Liberation of Reality Itself (Root, 3 chapters)
+006 chos nyid rang grol gyi don khrid yid bzhin (don khrid)/ Wish-Fulfilling Practical Guide to Natural Liberation of Reality
+007 rdzogs pa chen po mnyam nyid rang grol (rtsa ba)/ Natural Liberation of Equalness (Root)
+008 mnyam nyid rang grol gyi don khrid rin chen snying po (don khrid)/ Jewel Essence: Practical Guide to Natural Liberation of Equalness
+009 byang chub kyi sems kun byed rgyal po'i don khrid rin chen gru bo bcas (don khrid)/ Jewel Ship: Practical Guide to The King That Creates All (Bodhichitta)
 
-ངལ་གསོ་སྐོར་གསུམ་ཨ་འཛོམ་སྤར་ལྟར་བསྐྲུན་པའི་དཀར་ཆག 1 ཐ
-རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་རྩ་བ་གནས་གསུམ་པ། ལྡེབ་བཅུ་གསུམ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 25
-བསམ་གཏན་ངལ་གསོའི་བསྡུས་དོན་པུཎྜ་རི་ཀའི་ཕྲེང་བ་བཅས། 34 35
-རྫོགས་པ་ཆེན་པོ་བསམ་གཏན་ངལ་གསོའི་འགྲེལ་པ་ཤིང་རྟ་རྣམ་དག་ལྡེབ་ཞེ་དྲུག་པའི་སྲིབ་ཕྲེང་གཉིས་པའི་བར་དང་། 126
-བསམ་གཏན་ངལ་གསོའི་དོན་ཁྲིད་སྙིང་པོ་བཅུད་བསྡུས་བཅས། 130 131
-སྤྱི་དོན་ལེགས་བཤད་རྒྱ་མཚོ་ལྡེབ་པ་བདུན་པའི་སྲིབ་ཕྲེང་དྲུག་པ་བར་དང་། 244
-ངལ་གསོ་སྐོར་གསུམ་གྱི་དཀར་ཆག་པདྨསྟོང་ལྡན་བཅས་ 250 ༈
+།རང་གྲོལ་སྐོར་གསུམ་ལ། 251 ཐ་
+རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཅུ་བདུན་པའི་སྲིབ་ཕྲེང་བཞི་པའི་བར་དང་། 284 Natural Liberation of the Nature of Mind (Root, 3 chapters)
+དེའི་རྗེས་འབྲེལ་རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་ལམ་རིམ་སྙིང་པོའི་དོན་ཁྲིད་ལྡེབ་ཉེར་བརྒྱད་པའི་སྲིབ་ཕྲེང་དང་པོའི་བར་དང་། 306 Practical Guide to the Stages of the Path: Essence of Natural Liberation of Mind
+སེམས་ཉིད་རང་གྲོལ་གྱི་གསོལ་འདེབས། ལྡེབ་སུམ་ཅུའི་སྲིབ་ཕྲེང་བཞི་པའི་ནང་བར་དང་། 310 Prayer for Natural Liberation of Mind
+རྫོགས་པ་ཆེན་པོ་ཆོས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཞི་བཅུའི་ཉིན་ཕྲེང་གཉིས་པའི་བར་དང་། 329 Natural Liberation of Reality Itself (Root, 3 chapters)
+ཆོས་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་ཡིད་བཞིན་ལྡེབ་ལྔ་བཅུ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 349 Wish-Fulfilling Practical Guide to Natural Liberation of Reality
+རྫོགས་པ་ཆེན་པོ་མཉམ་ཉིད་རང་གྲོལ་ལྡེབ་རེ་གསུམ་པའི་སྲིབ་ཕྲེང་ལྔ་པའི་ནང་བར་དང་། 376 Natural Liberation of Equalness (Root)
+མཉམ་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་རིན་ཆེན་སྙིང་པོ། ལྡེབ་དོན་གཅིག་པའི་སྲིབ་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 392 Jewel Essence: Practical Guide to Natural Liberation of Equalness
+བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་དོན་ཁྲིད་རིན་ཆེན་གྲུ་བོ་བཅས། 428 བྱོན། Jewel Ship: Practical Guide to The King That Creates All (Bodhichitta)
 
-།རང་གྲོལ་སྐོར་གསུམ་ལ། 251 ཐ
-རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཅུ་བདུན་པའི་སྲིབ་ཕྲེང་བཞི་པའི་བར་དང་། 284
-དེའི་རྗེས་འབྲེལ་རྫོགས་པ་ཆེན་པོ་སེམས་ཉིད་རང་གྲོལ་གྱི་ལམ་རིམ་སྙིང་པོའི་དོན་ཁྲིད་ལྡེབ་ཉེར་བརྒྱད་པའི་སྲིབ་ཕྲེང་དང་པོའི་བར་དང་། 306
-སེམས་ཉིད་རང་གྲོལ་གྱི་གསོལ་འདེབས། ལྡེབ་སུམ་ཅུའི་སྲིབ་ཕྲེང་བཞི་པའི་ནང་བར་དང་། 310
-རྫོགས་པ་ཆེན་པོ་ཆོས་ཉིད་རང་གྲོལ་གྱི་རྩ་བ་ལེའུ་གསུམ་པ། ལྡེབ་བཞི་བཅུའི་ཉིན་ཕྲེང་གཉིས་པའི་བར་དང་། 329
-ཆོས་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་ཡིད་བཞིན་ལྡེབ་ལྔ་བཅུ་པའི་ཉིན་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 349
-རྫོགས་པ་ཆེན་པོ་མཉམ་ཉིད་རང་གྲོལ་ལྡེབ་རེ་གསུམ་པའི་སྲིབ་ཕྲེང་ལྔ་པའི་ནང་བར་དང་། 376
-མཉམ་ཉིད་རང་གྲོལ་གྱི་དོན་ཁྲིད་རིན་ཆེན་སྙིང་པོ། ལྡེབ་དོན་གཅིག་པའི་སྲིབ་ཕྲེང་གསུམ་པའི་ནང་བར་དང་། 392
-བྱང་ཆུབ་ཀྱི་སེམས་ཀུན་བྱེད་རྒྱལ་པོའི་དོན་ཁྲིད་རིན་ཆེན་གྲུ་བོ་བཅས། 428 བྱོན།
+2005 (c) Лонгчен Осал
+
