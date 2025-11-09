@@ -28,7 +28,7 @@ ngal gso skor gsum [sec]
 
 rang grol skor gsum [sec]
 
-001 rang grol skor gsum la/ Start of Rang Grol Korsum — On the Trilogy of Natural Liberation
+001 rdzogs pa chen po rang grol skor gsum la/ Start of Rang Grol Korsum — On the Trilogy of Natural Liberation
 002 rdzogs pa chen po sems nyid rang grol gyi rtsa ba le'u gsum pa/ ldeb bcu bdun pa'i srib phreng bzhi pa/ Natural Liberation of the Nature of Mind (Root)
 003 rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid ldeb nyer brgyad pa'i srib phreng dang po/ Practical Guide to the Stages of the Path: Essence of Natural Liberation of Mind
 004 rdzogs pa chen po sems nyid rang grol gyi gsol 'debs/ ldeb sum cu'i srib phreng bzhi pa'i nang bar dang/ Prayer for Natural Liberation of Mind
