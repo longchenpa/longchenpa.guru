@@ -6,12 +6,13 @@ tshig 'grel/ dictionary explanation
 sa bcad/ structure
 
 001 yid bzhin mdzod/ Скарбниця виконання бажань
-002 drub mtha' mdzod/ Скарбниця філософських систем
-003 man ngag mdzod/ Скарбниця таємних настанов
-004 chos dbying mdzod/ Скарбниця Дхармадхату
-005 gnas lugs mdzod/ Скарбниця природньої довершеності
-006 tshig don mdzod/ Скарбниця слова і суті
-007 theg mchog mdzod/ Скарбниця вищої колісниці
+002 man ngag mdzod/ Скарбниця таємних настанов
+003 chos dbying mdzod/ Скарбниця Дхармадхату
+004 tshig don mdzod/ Скарбниця слова і суті
+005 theg mchog mdzod/ Скарбниця вищої колісниці
+006 drub mtha' mdzod/ Скарбниця філософських систем
+007 gnas lugs mdzod/ Скарбниця природньої довершеності
+008 mdzod bdun la blta bar bskul ba aang mdzod bstod/
 
 2025 (с) Лонгчен Осал
 
