@@ -8,18 +8,18 @@ spyi don/ general
 
 001 (NYA) rdzogs pa chen po bsam gtan ngal gso zhes bya ba bzhugs so (rtsa ba)/ Resting in Contemplation
 002 (TA) rdzogs pa chen po sems nyid ngal gso zhes bya ba (rtsa ba)/ Resting in the Nature of Mind
-003 (TA/THA) rdzogs pa chen po sgyu ma ngal gso zhes bya ba bzhugs so/ Resting in Illusion
+003 (TA/THA) rdzogs pa chen po sgyu ma ngal gso zhes bya ba bzhugs so (rtsa ba)/ Resting in Illusion
 004 (NYA) rdzogs pa chen po bsam gtan ngal gso'i 'grel pa shing rta rnam par dag pa dge ba zhes bya ba bzhugs so ('grel pa)/ The Completely Pure Virtuous Chariot
 005 (TA) rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po zhes bya ba bzhugs so ('grel pa)/ The Great Chariot
-006 (THA) sgyu ma ngal gso'i 'grel pa shing rta bzang po ('grel pa)/ The Excellent Chariot
+006 (THA) rdzogs pa chen po sgyu ma ngal gso'i 'grel pa shing rta bzang po ('grel pa)/ The Excellent Chariot
 007 (THA) bsam gtan ngal gso'i bsdus don puṇḍa ri ka'i phreng ba bcas (bsdus don)/ Pundarika Garland
 008 (TA) rdzogs pa chen po sems nyid ngal gso'i 'grel pa shing rta chen po'i bsdus don padma dkar po'i phreng ba (bsdus don)/ White Lotus Garland
 009 (TA) rdzogs pa chen po sgyu ma ngal gso'i bsdus don maṇḍa ra ba'i phreng ba bcas (bsdus don)/ Mandarava Garland
 010 (THA) bsam gtan ngal gso'i don khrid snying po bcud bsdus bcas (don khrid)/ Essence Extract
 011 (TA) rdzogs pa chen po sems nyid ngal gso'i gnas gsum dge ba gsum gyi don khrid byang chub lam bzang (don khrid)/ Excellent Path to Enlightenment
-012 (THA) sgyu ma ngal gso'i don khrid yid bzhin nor bu bcas (don khrid)/ Wish-Fulfilling Jewel
+012 (THA) rdzogs pa chen po sgyu ma ngal gso'i don khrid yid bzhin nor bu bcas (don khrid)/ Wish-Fulfilling Jewel
 013 (THA) ngal gso skor gsum gyi spyi don legs bshad rgya mtsho zhes bya ba bzhugs so (spyi don)/ Ocean of Excellent Explanations
-014 (THA) ngal gso skor gsum gyi dkar chag padma stong ldan bcas (dkar chag)/ Thousand-Petaled Lotus Table of Contents
+014 (THA) rdzogs pa chen po ngal gso skor gsum gyi dkar chag padma stong ldan bcas (dkar chag)/ Thousand-Petaled Lotus Table of Contents
 
 NYA
 ངལ་གསོ་སྐོར་གསུམ་ཨ་འཛོམ་སྤར་ལྟར་བསྐྲུན་པའི་དཀར་ཆག་དགོད་པ་ལ། 1 ཉ་
