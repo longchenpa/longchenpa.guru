@@ -1,110 +1,71 @@
-https://library.bdrc.io/show/bdr:MW1PD8
+@#/_/klong chen rab 'byams/ mdzod bdun dkar chag a 'dzom par ma/ Зміст Семи Скабниць Лонгченпи видання Адзом Чогара https://library.bdrc.io/show/bdr:MW1PD8
 
 mdzod bdun (a 'dzom par ma)
 klong chen rab 'byams pa dri med 'od zer
 a 'dzom chos sgar par khang
 
-COL
-mdzod bdun (a 'dzom par ma)
+mdzod bdun (a 'dzom par ma) [col]
 
-SEC
-yid bzhin mdzod/ (1)
+yid bzhin mdzod/ (1) [sec]
 
-VOL
-01) pod dang po/ yid bzhin mdzod/ e (1)
-TXT
-yid bzhin mdzod rtsa ba
-TXT
-yid bzhin mdzod 'grel pa
+01) pod dang po/ yid bzhin mdzod/ e (1) [vol]
 
-VOL
-02) pod gnyis pa/ yid bzhin mdzod/ waM (2)
-TXT
-yid bzhin mdzod 'grel pa
-TXT
-yid bzhin mdzod kyi don khrid
-TXT
-yid bzhin mdzod kyi sa bcad
-TXT
-yid bzhin mdzod kyi grub mtha' bsdus pa
-TXT
-yid bzhin mdzod kyi dka' 'grel
-TXT
-yid bzhin mdzod kyi dka' 'grel kha skong
-TXT
-le'u bco brgyad pa'i tshig 'grel
-TXT
-gsung ston pa bzhi ldan gyi tshul la bstod pa
-TXT
-rdzogs chen par ma'i par byang smon tshig
-TXT
-a 'dzom par ma'i par byang smon tshig
+001 yid bzhin mdzod rtsa ba/
+002 yid bzhin mdzod 'grel pa/
 
-SEC
-man ngag mdzod/ (2)
+02) pod gnyis pa/ yid bzhin mdzod/ waM (2) [vol]
 
-VOL
-01) pod gsum pa/ (3-1)
-TXT
-man ngag mdzod(ka)
+003 yid bzhin mdzod 'grel pa/
+004 yid bzhin mdzod kyi don khrid/
+005 yid bzhin mdzod kyi sa bcad/
+006 yid bzhin mdzod kyi grub mtha' bsdus pa/
+007 yid bzhin mdzod kyi dka' 'grel/
+008 yid bzhin mdzod kyi dka' 'grel kha skong/
+009 le'u bco brgyad pa'i tshig 'grel/
+010 gsung ston pa bzhi ldan gyi tshul la bstod pa/
+011 rdzogs chen par ma'i par byang smon tshig/
+012 a 'dzom par ma'i par byang smon tshig/
 
-SEC
-chos dbyings mdzod kyi skor/ (3)
+man ngag mdzod/ (2) [sec]
+01) pod gsum pa/ (3-1) [vol]
 
-VOL
-01) pod gsum pa/ (3-2)
-TXT
-chos dbyings mdzod kyi rtsa ba (ga)
-TXT
-chos dbyingsmdzod kyi 'grel pa
-TXT
-par byang smon tshig
+013 man ngag mdzod (ka)/
 
-SEC
-tshig don mdzod/ (4)
+chos dbyings mdzod kyi skor/ (3) [sec]
+01) pod gsum pa/ (3-2) [vol]
 
-VOL
-01) pod bzhi pa/ (4)
-TXT
-tshig don mdzod
+014 chos dbyings mdzod kyi rtsa ba (ga)/
+015 chos dbyingsmdzod kyi 'grel pa/
+016 par byang smon tshig/
 
-SEC
-theg mchog mdzod/ (5)
+tshig don mdzod/ (4) [sec]
+01) pod bzhi pa/ (4) [vol]
 
-VOL
-01) pod lnga pa/ theg mchog mdzod/ e (5)
-TXT
-theg mchog mdzod
+017 tshig don mdzod/
 
-VOL
-02) pod lnga pa/ theg mchog mdzod/ waM (6)
-TXT
-theg mchog mdzod
+theg mchog mdzod/ (5) [sec]
+01) pod lnga pa/ theg mchog mdzod/ e (5) [vol]
 
-SEC
-grub mtha' mdzod/ (6)
+018 theg mchog mdzod/
 
-VOL
-01) pod bdun pa/ (7-1)
-TXT
-grub mtha' mdzod
+02) pod lnga pa/ theg mchog mdzod/ waM (6) [vol]
 
-SEC
-gnas lugs mdzod/ (7)
+019 theg mchog mdzod/
 
-VOL
-01) pod bdun pa/ (7-2)
-TXT
-gnas lugs mdzod kyi rtsa ba
-TXT
-gnas lugs mdzod kyi 'grel pa
+grub mtha' mdzod/ (6) [sec]
+01) pod bdun pa/ (7-1) [vol]
 
-SEC
-mdzod bdun la blta bar bskul ba aang mdzod bstod
+020 grub mtha' mdzod/
 
-VOL
-01) pod bdun pa/ (7-3)
-TXT
-mdzod bdun la blta bar bskul ba
-TXT
-mdzod bstod
+gnas lugs mdzod/ (7) [sec]
+01) pod bdun pa/ (7-2) [vol]
+
+021 gnas lugs mdzod kyi rtsa ba/
+022 gnas lugs mdzod kyi 'grel pa/
+
+mdzod bdun la blta bar bskul ba aang mdzod bstod [sec]
+01) pod bdun pa/ (7-3) [vol]
+
+023 mdzod bdun la blta bar bskul ba/
+024 mdzod bstod/
+
