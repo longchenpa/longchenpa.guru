@@ -1,4 +1,4 @@
-@#/_/klong chen rab 'byams pa dri med 'od zer/ mdzod bdun dkar chag rgyud 'bum ling/ Сім Скарбниць Г'юд Бум Лінг
+@#/_/klong chen rab 'byams pa dri med 'od zer/ mdzod bdun dkar chag a 'dzom par ma/ Зміст Семи Скабниць Лонгченпи видання Адзом Чогара https://library.bdrc.io/show/bdr:MW1PD8
 
 rtsa ba/ root
 'grel pa/ commentary
@@ -12,7 +12,76 @@ sa bcad/ structure
 005 theg mchog mdzod/ Текчхок Дзо: Скарбниця вищої колісниці
 006 drub mtha' mdzod/ Групта Дзо: Скарбниця філософських систем
 007 gnas lugs mdzod/ Нелук Дзо: Скарбниця природньої довершеності
-008 mdzod bdun la blta bar bskul ba aang mdzod bstod/
+008 mdzod bdun la blta bar bskul ba dang mdzod bstod/
 
 2025 (с) Лонгчен Осал
+
+mdzod bdun (a 'dzom par ma)
+klong chen rab 'byams pa dri med 'od zer
+a 'dzom chos sgar par khang
+
+mdzod bdun (a 'dzom par ma) [col]
+
+yid bzhin mdzod/ (1) [sec]
+
+01) pod dang po/ yid bzhin mdzod/ e (1) [vol]
+
+001 yid bzhin mdzod rtsa ba/
+002 yid bzhin mdzod 'grel pa/
+
+02) pod gnyis pa/ yid bzhin mdzod/ waM (2) [vol]
+
+003 yid bzhin mdzod 'grel pa/
+004 yid bzhin mdzod kyi don khrid/
+005 yid bzhin mdzod kyi sa bcad/
+006 yid bzhin mdzod kyi grub mtha' bsdus pa/
+007 yid bzhin mdzod kyi dka' 'grel/
+008 yid bzhin mdzod kyi dka' 'grel kha skong/
+009 le'u bco brgyad pa'i tshig 'grel/
+010 gsung ston pa bzhi ldan gyi tshul la bstod pa/
+011 rdzogs chen par ma'i par byang smon tshig/
+012 a 'dzom par ma'i par byang smon tshig/
+
+man ngag mdzod/ (2) [sec]
+01) pod gsum pa/ (3-1) [vol]
+
+013 man ngag mdzod (ka)/
+
+chos dbyings mdzod kyi skor/ (3) [sec]
+01) pod gsum pa/ (3-2) [vol]
+
+014 chos dbyings mdzod kyi rtsa ba (ga)/
+015 chos dbyingsmdzod kyi 'grel pa/
+016 par byang smon tshig/
+
+tshig don mdzod/ (4) [sec]
+01) pod bzhi pa/ (4) [vol]
+
+017 tshig don mdzod/
+
+theg mchog mdzod/ (5) [sec]
+01) pod lnga pa/ theg mchog mdzod/ e (5) [vol]
+
+018 theg mchog mdzod/
+
+02) pod lnga pa/ theg mchog mdzod/ waM (6) [vol]
+
+019 theg mchog mdzod/
+
+grub mtha' mdzod/ (6) [sec]
+01) pod bdun pa/ (7-1) [vol]
+
+020 grub mtha' mdzod/
+
+gnas lugs mdzod/ (7) [sec]
+01) pod bdun pa/ (7-2) [vol]
+
+021 gnas lugs mdzod kyi rtsa ba/
+022 gnas lugs mdzod kyi 'grel pa/
+
+mdzod bdun la blta bar bskul ba dang mdzod bstod [sec]
+01) pod bdun pa/ (7-3) [vol]
+
+023 mdzod bdun la blta bar bskul ba/
+024 mdzod bstod/
 
