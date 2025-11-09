@@ -1,74 +1,40 @@
 @#/_/klong chen rab 'byams pa dri med 'od zer/ snying thig ya bzhi/ a 'dzom chos sgar/ Індекс Нінгтік Ябжі колекції Адзом Чогара
 
-Title: snying thig ya bzhi/ (a 'dzom par ma/)
-Author: klong chen rab 'byams pa dri med 'od zer
-Gar: a 'dzom chos sgar par khang
+title: snying thig ya bzhi/ a 'dzom par ma/
+author: klong chen rab 'byams pa dri med 'od zer/
+publisher: a 'dzom chos sgar par khang/
+volumes: 13
 
-Volume 1
-(ka) Lama Yangtik (part 1) (Part e)
+snying thig ya bzhi [col]
 
-1. (dbang bsgrigs) bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge/ p.1-73, by Adzom Drukpa
+bla ma yang tig [sec]
+bla ma yang tig (e) [sec]
+01) pod dang po/ bla ma yang tig (e) [vol] Volume 1 (ka) Lama Yangtik (part 1) (Part e)
 
-Instructions for conferring the abhisheka of the Lama Yangtik practice; written by Adzom Drukpa in 1903 at the behest of Drubwang Shakya Shri.
-
-2. kha byang nyi ma'i snying po/ p.75-134, written by Longchenpa.
-
-a. Circle of the Sun, Inventory to the Lama Yangtik, by Longchen Rabjam (ཁ་བྱང་ཉི་མའི་སྙིང་པོ་བཞུགས་སོ།, (kha byang) kha byang nyi ma'i snying po) (76-84)
-English translation:  Circle of the Sun, Inventory to the Lama Yangtik, translated by Adam Pearcey, 2024.
-Colophon: This concludes the inventory entitled Circle of the Sun, composed at the place of Orgyen Dzong on the slopes of Gangri Thökar by Longchen Rabjam, a yogin of the supreme vehicle. The thirty-five sections of the teachings outlined in this inventory are hereby entrusted to the glorious Mantra Protectress,[5] the planetary spirit Rāhula and Damchen Dorje Lekpa. Should the texts become corrupted, inflict punishment and slaughter! Do not divulge this to those who lack fortune. Entrust it to the fortunate! Samaya. Virtue! Virtue! Virtue!
-
-b. (lo rgyus) lo rgyus rin po che'i phreng ba/ p.84-134
-Biography of Gyalwa Zhangtön, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རྒྱལ་བ་ཞང་སྟོན་གྱི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (103-107)
-English translation:  Biography of Gyalwa Zhangtön, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Biography of Khepa Nyibum, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། མཁས་པ་ཉི་འབུམ་གྱི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (107-109)
-English translation:  Biography of Khepa Nyibum, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Biography of Guru Jober, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། གུ་རུ་ཇོ་འབེར་གྱི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (109-111)
-English translation:  Biography of Guru Jober, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Biography of Biography of Trulzhik Sengge Gyabpa, from The Jewel Rosary History, by Longchen Rabjam (འཁྲུལ་ཞིག་སེངྒེ་རྒྱབ་པའི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (111-113)
-English translation:  Biography of Trulzhik Sengge Gyabpa, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Biography of Melong Dorje, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། མེ་ལོང་རྡོ་རྗེའི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (113-117)
-English translation:  Biography of Melong Dorje, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Biography of Kumārādza, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རིག་འཛིན་ཆེན་པོ་ཀུ་མ་རཱ་ཛའི་རྣམ་ཐར, (lo rgyus) lo rgyus rin po che'i phreng ba) (117-127)
-English translation:  Biography of Kumārādza, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-Autobiography of Longchen Rabjam, from The Jewel Rosary History, by Longchen Rabjam (ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། ཀློང་ཆེན་པའི་རང་རྣམ།, (lo rgyus) lo rgyus rin po che'i phreng ba) (127-133)
-English translation:  Autobiography of Longchen Rabjam, from The Jewel Rosary History, translated by Adam Pearcey, 2024.
-
-3. bla ma yang tig gi brgyud pa'i phyag 'tshal byin brlabs sprin tshogs/ p.135-173, written by Longchenpa.
-
-a. Clouds of Blessings, Homage to the Lineage of Lama Yangtik, by Longchen Rabjam (བླ་མ་ཡང་ཏིག་གི་བརྒྱུད་པའི་ཕྱག་འཚལ་བྱིན་བརླབས་སྤྲིན་ཚོགས་བཞུགས་སོ།, (phyag 'tshal) phyag 'tshal byin rlabs sprin tshogs)) (136-149)
-English translation:  Clouds of Blessings, Homage to the Lineage of Lama Yangtik, translated by Adam Pearcey, 2023.
-Colophon: This concludes the homage to the heart-essence lineage entitled Clouds of Blessings composed by Longchen Rabjam, a yogin of the supreme vehicle. This form of Dharma was set down, In the Lharing cave at the sublime Padma hermitage, In response to the appeal to Drimé Özer, Made by the noble student Zhönnu Sangye. Let it be virtuous! (Virtuous in the beginning) Virtuous! (Virtuous in the middle) Virtuous! (Virtuous at the end)
-
-b. Clouds of Nectar, A Prayer to the Lineage of Lama Yangtik, by Longchen Rabjam (བླ་མ་ཡང་ཏིག་གི་གསོལ་འདེབས་བདུད་རྩིའི་སྤྲིན་ཚོགས་བཞུགས་སོ, (gsol 'debs) bla yang tig gi gsol 'debs bdud rtsi'i sprin tshogs) (149-160)
-English translation:  Clouds of Nectar, A Prayer to the Lineage of Lama Yangtik, translated by Adam Pearcey, 2024.
-Colophon: Longchen Rabjam, a yogin of the supreme vehicle, rich with the treasure of learning and possessed of unshakeable faith in the sublime masters of this approach, composed this and prayed at Lharing Drak, residence of Self-Arisen Padma. May auspiciousness reign throughout the whole of space and time! Let it be virtuous! Virtuous! Virtuous!
-
-c.Clouds of Twofold Accumulation, A Maṇḍala Offering Ritual, by Longchen Rabjam (མཎྜལ་འབུལ་བའི་ཆོ་ག་ཚོགས་གཉིས་སྤྲིན་ཚོགས་བཞུགས་སོ, maN Dal 'bul ba’i cho ga tshogs gnyis sprin tshogs) (160-166)
-English translation:  Clouds of Twofold Accumulation, A Maṇḍala Offering Ritual, translated by Adam Pearcey, 2024.
-Colophon: This concludes the maṇḍala offering ritual entitled "Clouds of Twofold Accumulation" composed by Longchen Rabjam, a yogin of the supreme vehicle. May it be virtuous! Virtuous! Virtuous!
-
-d.Enlightened Body, Speech and Mind Maṇḍala Offering, by Longchen Rabjam (སྐུ་གསུང་ཐུགས་ཀྱི་མཎྜལ་, (mandal) sku gsung thugs kyi mandal) (166-173)
-English translation:  Enlightened Body, Speech and Mind Maṇḍala Offering, translated by Adam Pearcey, 2024.
-Colophon: Thus, you visualize the maṇḍalas of the three-kāya realms and make offerings three times. Let it be virtuous! Virtuous! Virtuous!
-
-4. spros bcas kyi dbang chog tshangs pa'i drwa ba/ p.173, written by Longchenpa.
-
-a. (spros bcas) spros bcas kyi dbang chog tshangs pa'i drwa ba/ p.176-200
-
-b. Clarification of the Names for the Elaborate Maṇḍala, by Longchen Rabjam (དཀྱིལ་འཁོར་སྤྲོས་བཅས་མིང་གི་རིམ་པ་གསལ་བར་བྱེད་པ, (ming yig) dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa) (200-204)
-English translation:  Clarification of the Names for the Elaborate Maṇḍala, translated by Adam Pearcey, 2023.
-Colophon: This concludes the secret crucial instruction on names composed by Longchen Rabjam, a yogin of the self-liberation of manifold perception (Natsok Rangdrol), in the place of the Self-Arisen Padma. May it be virtuous! Virtuous! Virtuous!
-
-c. (spros med) spros med kyi dbang chog rin po che'i drwa ba/ p.204-230
-
-d. (gnad yig) gnad yig bum pa'i brda don/ p.230-234
-
-e. Cloud Banks of Blessings, The Descent of the Wisdom Deities, by Longchen Rabjam (བྱིན་རླབས་སྤྲིན་ཕུང་ཡེ་ཤེས་འབེབས་པ་བཞུགས་སོ།, (byin 'bebs) byin rlabs sprin phung ye shes 'bebs pa) (234-237)
-English translation:  Cloud Banks of Blessings, The Descent of the Wisdom Deities, translated by Adam Pearcey, 2024.
-Colophon: Longchen Rabjam, a yogin of the self-liberation of the manifold, composed this according to the noble guru’s tradition, in the place of the Self-Arisen Padma. May it be virtuous! Virtuous! Virtuous!
-
-f. (shin tu spros med) shin tu spros med kyi dbangs chog padma'i drwa ba/ p.237-257
-
+001 (dbang bsgrigs) bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge/ [txt] (1-73) Instructions for conferring the abhisheka of the Lama Yangtik practice. Written by Adzom Drukpa in 1903 at the behest of Drubwang Shakya Shri.
+002 kha byang nyi ma'i snying po/ [txt] (75-134)
+--- (kha byang) kha byang nyi ma'i snying po/ [cha] (76-84) Circle of the Sun, Inventory to the Lama Yangtik ཁ་བྱང་ཉི་མའི་སྙིང་པོ་བཞུགས་སོ།
+--- (lo rgyus) lo rgyus rin po che'i phreng ba/ [cha] (84-134) The Jewel Rosary History
+--- (rnam thar) rgyal ba zhang ston gyi rnam thar/ [cha] (103-107) Biography of Gyalwa Zhangtön ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རྒྱལ་བ་ཞང་སྟོན་གྱི་རྣམ་ཐར
+--- (rnam thar) mkhas pa nyi 'bum gyi rnam thar/ [cha] (107-109) Biography of Khepa Nyibum ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། མཁས་པ་ཉི་འབུམ་གྱི་རྣམ་ཐར
+--- (rnam thar) gu ru jo 'ber gyi rnam thar/ [cha] (109-111) Biography of Guru Jober ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། གུ་རུ་ཇོ་འབེར་གྱི་རྣམ་ཐར
+--- (rnam thar) 'khrul zhig seng+ge rgyab pa'i rnam thar/ [cha] (111-113) Biography of Trulzhik Sengge Gyabpa འཁྲུལ་ཞིག་སེངྒེ་རྒྱབ་པའི་རྣམ་ཐར
+--- (rnam thar) me long rdo rje'i rnam thar/ [cha] [cha] (113-117) Biography of Melong Dorje ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། མེ་ལོང་རྡོ་རྗེའི་རྣམ་ཐར
+--- (rnam thar) rig 'dzin chen po ku ma rA dza'i rnam thar/ [cha] (117-127) Biography of Kumārādza ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རིག་འཛིན་ཆེན་པོ་ཀུ་མ་རཱ་ཛའི་རྣམ་ཐར
+--- (rnam thar) klong chen pa'i rang rnam/ [cha] (127-133) Autobiography of Longchen Rabjam ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། ཀློང་ཆེན་པའི་རང་རྣམ།
+003 bla ma yang tig gi brgyud pa'i phyag 'tshal byin brlabs sprin tshogs/ [txt] (135-173)
+--- (phyag 'tshal) phyag 'tshal byin rlabs sprin tshogs/ [cha] (136-149) Clouds of Blessings, Homage to the Lineage of Lama Yangtik བླ་མ་ཡང་ཏིག་གི་བརྒྱུད་པའི་ཕྱག་འཚལ་བྱིན་བརླབས་སྤྲིན་ཚོགས་བཞུགས་སོ།
+--- (gsol 'debs) bla yang tig gi gsol 'debs bdud rtsi'i sprin tshogs/ [cha] (149-160) Clouds of Nectar, A Prayer to the Lineage of Lama Yangtik བླ་མ་ཡང་ཏིག་གི་གསོལ་འདེབས་བདུད་རྩིའི་སྤྲིན་ཚོགས་བཞུགས་སོ།
+--- maN Dal 'bul ba’i cho ga tshogs gnyis sprin tshogs/ [cha] (160-166) Clouds of Twofold Accumulation, A Maṇḍala Offering Ritual མཎྜལ་འབུལ་བའི་ཆོ་ག་ཚོགས་གཉིས་སྤྲིན་ཚོགས་བཞུགས་སོ།
+--- (mandal) sku gsung thugs kyi mandal/ [cha] (166-173) Enlightened Body, Speech and Mind Maṇḍala Offering སྐུ་གསུང་ཐུགས་ཀྱི་མཎྜལ།
+004 spros bcas kyi dbang chog tshangs pa'i drwa ba/ [txt] (173) by Longchenpa
+--- (spros bcas) spros bcas kyi dbang chog tshangs pa'i drwa ba/ [cha] (176-200)
+--- (ming yig) dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa/ [cha] (200-204) Clarification of the Names for the Elaborate Maṇḍala དཀྱིལ་འཁོར་སྤྲོས་བཅས་མིང་གི་རིམ་པ་གསལ་བར་བྱེད་པ།
+--- (spros med) spros med kyi dbang chog rin po che'i drwa ba/ p.204-230
+--- (gnad yig) gnad yig bum pa'i brda don/ p.230-234
+--- (byin 'bebs) byin rlabs sprin phung ye shes 'bebs pa/ (234-237) Cloud Banks of Blessings, The Descent of the Wisdom Deities བྱིན་རླབས་སྤྲིན་ཕུང་ཡེ་ཤེས་འབེབས་པ་བཞུགས་སོ།
+--- (shin tu spros med) shin tu spros med kyi dbangs chog padma'i drwa ba/ p.237-257
+---
 g. Adornment of the Four Continents, A Maṇḍala Offering, by Longchen Rabjam (གླིང་བཞི་རྒྱན་གྱུར་གྱི་མཎྜལ་བཞུགས་སོ། །, (mandal) gling bzhi rgyan gyur gyi mandal) (257-263)
 English translation:  Adornment of the Four Continents, A Maṇḍala Offering, translated by Adam Pearcey, 2024.
 Colophon: Make offerings while reciting these verses melodiously three times. This should be done only before a great empowerment or teaching; it is not for ordinary situations. It is said that one such offering will perfect the two accumulations and bring about an experience of the twenty-five kinds of primordial wisdom. This concludes the maṇḍala offering entitled Adornment of the Four Continents, composed by Longchen Rabjampa, a yogin of the supreme vehicle. May it be virtuous! Virtuous! Virtuous!
