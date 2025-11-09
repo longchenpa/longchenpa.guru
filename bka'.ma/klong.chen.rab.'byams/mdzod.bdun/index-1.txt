@@ -1,0 +1,110 @@
+https://library.bdrc.io/show/bdr:MW1PD8
+
+mdzod bdun (a 'dzom par ma)
+klong chen rab 'byams pa dri med 'od zer
+a 'dzom chos sgar par khang
+
+COL
+mdzod bdun (a 'dzom par ma)
+
+SEC
+yid bzhin mdzod/ (1)
+
+VOL
+01) pod dang po/ yid bzhin mdzod/ e (1)
+TXT
+yid bzhin mdzod rtsa ba
+TXT
+yid bzhin mdzod 'grel pa
+
+VOL
+02) pod gnyis pa/ yid bzhin mdzod/ waM (2)
+TXT
+yid bzhin mdzod 'grel pa
+TXT
+yid bzhin mdzod kyi don khrid
+TXT
+yid bzhin mdzod kyi sa bcad
+TXT
+yid bzhin mdzod kyi grub mtha' bsdus pa
+TXT
+yid bzhin mdzod kyi dka' 'grel
+TXT
+yid bzhin mdzod kyi dka' 'grel kha skong
+TXT
+le'u bco brgyad pa'i tshig 'grel
+TXT
+gsung ston pa bzhi ldan gyi tshul la bstod pa
+TXT
+rdzogs chen par ma'i par byang smon tshig
+TXT
+a 'dzom par ma'i par byang smon tshig
+
+SEC
+man ngag mdzod/ (2)
+
+VOL
+01) pod gsum pa/ (3-1)
+TXT
+man ngag mdzod(ka)
+
+SEC
+chos dbyings mdzod kyi skor/ (3)
+
+VOL
+01) pod gsum pa/ (3-2)
+TXT
+chos dbyings mdzod kyi rtsa ba (ga)
+TXT
+chos dbyingsmdzod kyi 'grel pa
+TXT
+par byang smon tshig
+
+SEC
+tshig don mdzod/ (4)
+
+VOL
+01) pod bzhi pa/ (4)
+TXT
+tshig don mdzod
+
+SEC
+theg mchog mdzod/ (5)
+
+VOL
+01) pod lnga pa/ theg mchog mdzod/ e (5)
+TXT
+theg mchog mdzod
+
+VOL
+02) pod lnga pa/ theg mchog mdzod/ waM (6)
+TXT
+theg mchog mdzod
+
+SEC
+grub mtha' mdzod/ (6)
+
+VOL
+01) pod bdun pa/ (7-1)
+TXT
+grub mtha' mdzod
+
+SEC
+gnas lugs mdzod/ (7)
+
+VOL
+01) pod bdun pa/ (7-2)
+TXT
+gnas lugs mdzod kyi rtsa ba
+TXT
+gnas lugs mdzod kyi 'grel pa
+
+SEC
+mdzod bdun la blta bar bskul ba aang mdzod bstod
+
+VOL
+01) pod bdun pa/ (7-3)
+TXT
+mdzod bdun la blta bar bskul ba
+TXT
+mdzod bstod
