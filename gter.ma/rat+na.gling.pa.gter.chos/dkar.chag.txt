@@ -1,20 +1,19 @@
-rat+na gling pa gter chos/
+@#/_/rat+na gling pa gter chos/ dkar chag/ Зібрання творів Ранта Лінгпи
 
-1 (ka)
-::rat+na gling pa'i rnam thar rgyas pa
+1 (ka) rat+na gling pa'i rnam thar rgyas pa [vol]
+
 rat+na gling pa'i rnam thar rdo rje'i gsung rab zung 'jug sku bzhi'i byin rlabs dbang bzhi'i chu bo yon tan bdud rtsi'i rgya mtsho/
 
-2 (kha)
-::gter 'byung chen mo gsal ba'i sgron me
+2 (kha) gter 'byung chen mo gsal ba'i sgron me [vol]
+
 gter 'byung chen mo gsal ba'i sgron me
 rat+na gling pa'i rnam thar tshigs bcad chung ngu
 rat+na gling pa'i rnam thar tshigs su bcad pa rin po che'i phreng ba 'od 'bar ba zhes bya ba 'gro ba ma lus pa'i ri ba bskang nas bde ba la bkod pa
 rat+na gling pa'i rnam thar tshigs bcad 'bring po
 rat+na gling pa'i rnam thar skyes rabs 'bring po tshigs su bcad pa
 
-3 (ga)
+3 (ga) thugs sgrub yang snying 'dus pa'i chos skor [vol]
 
-::thugs sgrub yang snying 'dus pa'i chos skor
 bka' rgya them byang rin chen sgrom bu
 bla ma sku gsum bsgrub pa'i khog dbub pra khrid
 sprul sku'i sgrub thabs shin tu zab skor
@@ -57,9 +56,8 @@ mkha' 'gro'i yang bzlog gnam lcags spu gri
 mkha' 'gro'i zhus lan gong ma sun bzlog bcas
 mkha' 'gro'i zhus len 'og ma
 
-4 (nga)
+4 (nga) thugs sgrub yang snying 'dus pa'i chos skor [vol]
 
-::thugs sgrub yang snying 'dus pa'i chos skor
 zhal gdams gnad kyi phreng ba
 gdams gtad rgya'i cho ga yid bzhin nor bu
 stobs ldan rlung gi 'khor lo/ de'i gnad them man ngag zhal shes dang bcas pa
@@ -102,9 +100,8 @@ bla ma sku gsum gyi srog 'khor bltas chog
 o rgyan tshes bcu'i bskul thabs
 bka' babs chen mo gser gyi spyi chings gser gyi thur ma
 
-5 (ca)
+5 (ca) gu ru drag po me rlung 'khyil ba'i chos skor [vol]
 
-::gu ru drag po me rlung 'khyil ba'i chos skor
 gu drag me rlung 'khyil ba'i gzhung pod glegs bam gyi bzhugs byang
 gu ru drag po dmar nag me phreng can gyi them yig bka' rgya can
 lo rgyus gsang ba snying gi ti ka
@@ -169,9 +166,8 @@ phan byed za yig skor
 sde brgyad rgyal bsen 'byung po la springs yig phyag rtags rdo rje
 bla ma drag po'i brgyud pa'i gsol 'debs yid bzhin nor bu'i don gsal
 
-6 (cha)
+6 (cha) thugs rje chen po gsang ba 'dus pa'i chos skor [vol]
 
-::thugs rje chen po gsang ba 'dus pa'i chos skor
 thugs rje chen po gsang ba 'dus pa'i them byang gser gyi bum pa
 thugs rje gsang 'dus las lo rgyus yid bzhin nor bu
 thugs rje chen po gsang ba 'dus pa'i rgyud
@@ -201,9 +197,8 @@ thugs chen gsang ba 'dus pa'i sku gdung sA ts+tsha'i rim pa
 thugs chen gsang 'dus btags grol
 thugs chen gsang 'dus btags grol rgya yig ma
 
-7 (ja)
+7 (ja) thugs rje chen po gsang ba 'dus pa'i chos skor [vol]
 
-::thugs rje chen po gsang ba 'dus pa'i chos skor
 thugs rje chen po gsang ba 'dus pa'i bdun tshigs thugs rje'i phreng ba
 thugs rje chen po bdun tshigs zhal gdams lhan thabs gter ston phyag bzhes
 zas gtad che ba rin chen gter mdzod
@@ -249,9 +244,8 @@ tshe sgrub gsang 'dus las bstod pa thugs dam bskul ba zur du bkod pa las byang g
 ting nge 'dzin gyi dmigs rim bsdus pa
 zhabs brtan gsol 'debs 'chi med bdud rtsi'i phreng ba
 
-8 (nya)
+8 (nya) rta mgrin gsang ba 'dus pa'i chos skor [vol]
 
-::rta mgrin gsang ba 'dus pa'i chos skor
 yang gsang khros pa'i sgrub mchod
 rta nag las mtha' phung gtad zhur thum nag po
 rta mgrin nag po'i las mtha' sbyor ba shin tu zab pa
@@ -309,9 +303,8 @@ dbang chen yab yum bstod pa rngams pa'i nga ro
 las byang rin po che'i phreng ba
 dug srung yid bzhin nor bu
 
-9 (ta)
+9 (ta) rta mgrin gsang ba 'dus pa'i chos skor [vol]
 
-::rta mgrin gsang ba 'dus pa'i chos skor
 gsang bdag rdo rje gtum po'i dbang chen 'od zer phreng ba
 gsang bdag rdo rje gtum po'i gsang sgrub me'i 'khor lo
 gsang bdag thugs kyi 'khor lo kun thub chen mo
@@ -377,9 +370,8 @@ chos rje kar+ma pa mthong ba don ldan gyis sgos lung
 za yig them med
 las sbyor cog brdung nag po
 
-10 (tha)
+10 (tha) phur pa yang gsang bla med kyi chos skor [vol]
 
-::phur pa yang gsang bla med kyi chos skor
 phur pa yang gsang bla med don gyi snying po'i them byang phrin las kyi gter mdzod
 phur pa yang gsang bla med don gyi snying po'i sgrub khog chen mo
 bai ro 'bum sde'i yang snying phur pa gsang ba snying po phrin las kyi rgyud
@@ -409,9 +401,8 @@ phur pa yang gsang don gyi snying po'i bsnyen pa'i lag len gsal byed
 gsang ba'i phyag mtshan gyi rnam thar
 phur pa yang gsang bla med kyi las tshogs lde'u kha bcu gnyis pa
 
-11 (da)
+11 (da) rdzogs chen klong gsal snying thig gi chos skor [vol]
 
-::rdzogs chen klong gsal snying thig gi chos skor
 zab gter gnyen gyi them yig snying gi dum bu nyi ma'i snying po
 dam chos klong gsal snying thig gi sngon 'gro ru nan dbye ba
 dam chos klong gsal snying thig gi brgyud pa'i lo rgyus
@@ -459,9 +450,8 @@ sbas chos yang tig gi btags grol rgyud dang gcig shes kun grol
 gu ru'i thugs sgrub las: thod phreng rtsal gyi gsang sgrub
 zhi khro ngo sprod gsang ba'i lag khrid snying gi dum bu
 
-12 (na)
+12 (na) rdzogs chen klong gsal snying thig gi chos skor: le tshan sna tshogs [vol]
 
-::rdzogs chen klong gsal snying thig gi chos skor: le tshan sna tshogs
 tshe sgrub gsang ba srog gi 'khor lo 'chi med yang zab
 mun khrid yang gces kyi bogs 'don gnad kyi yig chung
 gsang dbang shes rab ye shes kyi dbang
@@ -502,9 +492,8 @@ dbang gsum gyi dkyil 'khor dpe'u chung
 brjod par dka' ba them yig med pa'i skor
 bla ma'i gtor dbang yid bzhin nor bu
 
-13 (pa)
+13 (pa) snyan brgyud dang dag snang skor [vol]
 
-::snyan brgyud dang dag snang skor
 thun min snyan rgyud gsang ba'i rgya can
 snyan brgyud rin po che'i phreng ba mdzod khang skabs gnyis pa
 snyan brgyud yid bzhin nor bu mdzod khang skabs gsum pa
@@ -531,11 +520,15 @@ brtan bzhugs gsol 'debs
 brgyud pa drin can gsum la gsol ba 'debs pa byin rlabs chu rgyun
 thun mong sngon 'gro bzhi sbyor nye mkho mdor bsdus
 snyan brgyud rin po che'i phreng ba zhes bya ba rat+na gling pa'i khyad chos
-::tshe dbang rdo rje'i phreng ba'i skor
+
+tshe dbang rdo rje'i phreng ba'i skor [sec]
+
 tshe dbang rdo rje phreng ba
 tshe dbang rdo rje phreng ba'i sta gon gi dbang byang bkol ba
 tshe dbang rdo rje phreng ba'i bdag 'jug slob dpon gyi rang dbang
-::tshe sgrub gsang ba 'dus pa'i skor
+
+tshe sgrub gsang ba 'dus pa'i skor [sec]
+
 yang gsang tshe'i sgrub pa las phyi sgrub rdo rje'i phreng ba
 yang gsang tshe'i sgrub pa las shin tu zab pa nang sgrub rdo rje phreng ba
 yang zab tshe yi sgrub pa las gsang sgrub rdo rje phreng ba
@@ -549,9 +542,8 @@ tshe sgrub gsang 'dus las brda rtags gsal ba'i me long
 tshe sgrub gsang 'dus las 'chi med bdud rtsi'i bcud len
 gsang ba'i tshe yi khrid yig rdo rje'i phreng ba shin tu zab pa'i cho ga
 
-14 (pha)
+14 (pha) chos srung nor lha yul lha bcas kyi sgrub skor [vol]
 
-::chos srung nor lha yul lha bcas kyi sgrub skor
 rta mgrin nag po lcags ral gyi dbang dang sgrub snod las tshogs dang bcas pa
 rgyud la las sbyor drag po'i bzlog pa
 thun gtor mjug tu sbyor rgyu
@@ -603,9 +595,8 @@ lha sman bkra shis tshe ring mched lnga'i gtor chog
 phur pa yang gsang bla med kyi las byang phrin las spu gri kha 'phang rnams dkyus su bkod pa
 phur pa yang gsang bla med don gyi snying po'i dbang bskur chen mo khyer bder bkod pa phrin las rnam par rol pa
 
-15 (ba)
+15 (ba) bka' thang chen mo/ kha skong sna tshogs skor [vol]
 
-bka' thang chen mo : kha skong sna tshogs skor
 o rgyan gu ru pad+ma 'byung gnas kyi rnam thar gser gyi phreng ba
 thugs sgrub yang snying 'dus pa'i sngon 'gro chos spyod skyabs 'gro sems bskyed kyi rim pa dang/ las byang rin po che'i phreng ba bcas
 de'i cha lag bla ma brgyud pa'i kha bsngos
@@ -618,9 +609,8 @@ dpal ye shes mgon po ma ning nag po'i las byang gi rim pa mgon po mnyes byed rin
 nang mchod byin rlabs ldeb byang
 char 'bebs yid bzhin nor bu dang/ drag 'bebs/ charbsrung ba dang bcas gung thang mkhar gyi gter ma
 
-16 (ma)
+16 (ma) rin chen gter mdzod chen mor bzhugs pa : thugs sgrub yang snying 'dus pa [vol]
 
-::rin chen gter mdzod chen mor bzhugs pa : thugs sgrub yang snying 'dus pa
 rtsa gsum 'bras bu'i don khrid kyi them byang
 rtsa gsum don khrid kyi gsol 'debs
 rtsa gsum 'bras bu'i don khrid las don bsdus nor bu'i gsang khrid
@@ -643,9 +633,12 @@ thugs sgrub yang snying 'dus pa las: tha ma brtan sbyor brtan ma'i sun zlog
 mkha' 'gro'i yang zlog gnam lcags spu gri
 gnam chos thugs kyi gter kha las gu ru rat+na gling pa'i sgrub pa
 
-17 (tsa)
+17 (tsa) rin chen gter mdzod chen mor bzhugs pa [vol]
 
-::rin chen gter mdzod chen mor bzhugs pa : gu ru drag po me rlung 'khyil ba'i chos skor : thug rje chen po gsang ba 'dus pa'i chos skor : tshe dbang rdo rje'i phreng ba'i skor
+gu ru drag po me rlung 'khyil ba'i chos skor [sec]
+thug rje chen po gsang ba 'dus pa'i chos skor [sec]
+she dbang rdo rje'i phreng ba'i skor [sec]
+
 gu ru drag po'i las byang me rlung 'khyil ba
 gu drag me rlung 'khyil pa'i dbang rgyas pa rdo rje phreng ba bltas chog tu bkod pa khrag 'thung thugs kyi snying po
 gu drag me rlung 'khyil pa'i don dbang nor bu lugs su bskur ba'i tshul ye shes bcud kyi snying po
@@ -665,9 +658,8 @@ thugs gsan tshe tshad dang gar skye brtags pa
 tshe sgrub rdo rje phreng ba'i lo rgyus nyi ma'i snying po
 tshe khrid rdo rje phreng ba'i nang sgrub kyi phrin las dbang chog dang bcas pa rdo rje pha lam gyi rgyan
 
-18 (tsha)
+18 (tsha) rin chen gter mdzod chen mor bzhugs pa: rta mgrin gsang ba 'dus pa'i chos skor: phur pa yang gsang bla med kyi chos skor [vol]
 
-::rin chen gter mdzod chen mor bzhugs pa: rta mgrin gsang ba 'dus pa'i chos skor: phur pa yang gsang bla med kyi chos skor
 rta mgrin gsang 'dus kyi las byang rin po che'i phreng ba
 dpal chen rta mgrin nag po'i sgrub thabs de nyid snying po
 rta mgrin nag po lcags ral can gyi sgrub skor me yi phreng ba lho gter 'bras bu'i tshul du sbas pa
@@ -708,9 +700,11 @@ phur pa'i gtor zor gyi gleng gzhi
 phur pa'i dbal mdos kyi bzlog pa chen po
 gtad zlog man ngag rgyal po bka' rgya ma
 
-19 (dza)
+19 (dza) rin chen gter mdzod chen mor bzhugs pa [vol]
 
-::rin chen gter mdzod chen mor bzhugs pa: rdzogs chen klong gsal snying thig gi chos skor: kha skong sna thogs skor: dpe'u ris skor
+rdzogs chen klong gsal snying thig gi chos skor [sec]
+kha skong sna thogs skor: dpe'u ris skor [sec]
+
 dzam lha phyi nang gsang gsum gyi sgrub pa tsit+ta rin po che'i srog gi sgrub pa
 rta mgrin gsang ba'i las byang
 rtsa gsum gtor dbang dri med nor bu'i snying po
@@ -730,3 +724,4 @@ sngags byang
 zhwa bzo
 dkyil 'khor 'grel chung gser gyi yang zhun
 gtor ma dang bskang rdzas 'khor lo sogs kyi dpe'u ris
+
