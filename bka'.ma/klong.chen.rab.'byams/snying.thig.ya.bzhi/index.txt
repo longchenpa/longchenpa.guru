@@ -11,8 +11,9 @@ bla ma yang tig [sec]
 bla ma yang tig (e) [sec]
 01) pod dang po/ bla ma yang tig (e) [vol] Volume 1 (ka) Lama Yangtik (part 1) (Part e)
 
-001 (dbang bsgrigs) bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge/ [txt] (1-73) Instructions for conferring the abhisheka of the Lama Yangtik practice. Written by Adzom Drukpa in 1903 at the behest of Drubwang Shakya Shri.
-002 kha byang nyi ma'i snying po/ [txt] (75-134)
+001 pod dang po'i dkar chag/ [toc]
+002 (dbang bsgrigs) bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge/ [txt] (1-73) Instructions for conferring the abhisheka of the Lama Yangtik practice. Written by Adzom Drukpa in 1903 at the behest of Drubwang Shakya Shri.
+003 kha byang nyi ma'i snying po/ [txt] (75-134)
 --- (kha byang) kha byang nyi ma'i snying po/ [cha] (76-84) Circle of the Sun, Inventory to the Lama Yangtik ཁ་བྱང་ཉི་མའི་སྙིང་པོ་བཞུགས་སོ།
 --- (lo rgyus) lo rgyus rin po che'i phreng ba/ [cha] (84-134) The Jewel Rosary History
 --- (rnam thar) rgyal ba zhang ston gyi rnam thar/ [cha] (103-107) Biography of Gyalwa Zhangtön ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རྒྱལ་བ་ཞང་སྟོན་གྱི་རྣམ་ཐར
@@ -22,108 +23,65 @@ bla ma yang tig (e) [sec]
 --- (rnam thar) me long rdo rje'i rnam thar/ [cha] [cha] (113-117) Biography of Melong Dorje ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། མེ་ལོང་རྡོ་རྗེའི་རྣམ་ཐར
 --- (rnam thar) rig 'dzin chen po ku ma rA dza'i rnam thar/ [cha] (117-127) Biography of Kumārādza ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། རིག་འཛིན་ཆེན་པོ་ཀུ་མ་རཱ་ཛའི་རྣམ་ཐར
 --- (rnam thar) klong chen pa'i rang rnam/ [cha] (127-133) Autobiography of Longchen Rabjam ལོ་རྒྱུས་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས། ཀློང་ཆེན་པའི་རང་རྣམ།
-003 bla ma yang tig gi brgyud pa'i phyag 'tshal byin brlabs sprin tshogs/ [txt] (135-173)
+004 bla ma yang tig gi brgyud pa'i phyag 'tshal byin brlabs sprin tshogs/ [txt] (135-173)
 --- (phyag 'tshal) phyag 'tshal byin rlabs sprin tshogs/ [cha] (136-149) Clouds of Blessings, Homage to the Lineage of Lama Yangtik བླ་མ་ཡང་ཏིག་གི་བརྒྱུད་པའི་ཕྱག་འཚལ་བྱིན་བརླབས་སྤྲིན་ཚོགས་བཞུགས་སོ།
 --- (gsol 'debs) bla yang tig gi gsol 'debs bdud rtsi'i sprin tshogs/ [cha] (149-160) Clouds of Nectar, A Prayer to the Lineage of Lama Yangtik བླ་མ་ཡང་ཏིག་གི་གསོལ་འདེབས་བདུད་རྩིའི་སྤྲིན་ཚོགས་བཞུགས་སོ།
 --- maN Dal 'bul ba’i cho ga tshogs gnyis sprin tshogs/ [cha] (160-166) Clouds of Twofold Accumulation, A Maṇḍala Offering Ritual མཎྜལ་འབུལ་བའི་ཆོ་ག་ཚོགས་གཉིས་སྤྲིན་ཚོགས་བཞུགས་སོ།
 --- (mandal) sku gsung thugs kyi mandal/ [cha] (166-173) Enlightened Body, Speech and Mind Maṇḍala Offering སྐུ་གསུང་ཐུགས་ཀྱི་མཎྜལ།
-004 spros bcas kyi dbang chog tshangs pa'i drwa ba/ [txt] (173) by Longchenpa
+005 spros bcas kyi dbang chog tshangs pa'i drwa ba/ [txt] (173) by Longchenpa
 --- (spros bcas) spros bcas kyi dbang chog tshangs pa'i drwa ba/ [cha] (176-200)
 --- (ming yig) dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa/ [cha] (200-204) Clarification of the Names for the Elaborate Maṇḍala དཀྱིལ་འཁོར་སྤྲོས་བཅས་མིང་གི་རིམ་པ་གསལ་བར་བྱེད་པ།
---- (spros med) spros med kyi dbang chog rin po che'i drwa ba/ p.204-230
---- (gnad yig) gnad yig bum pa'i brda don/ p.230-234
---- (byin 'bebs) byin rlabs sprin phung ye shes 'bebs pa/ (234-237) Cloud Banks of Blessings, The Descent of the Wisdom Deities བྱིན་རླབས་སྤྲིན་ཕུང་ཡེ་ཤེས་འབེབས་པ་བཞུགས་སོ།
---- (shin tu spros med) shin tu spros med kyi dbangs chog padma'i drwa ba/ p.237-257
----
-g. Adornment of the Four Continents, A Maṇḍala Offering, by Longchen Rabjam (གླིང་བཞི་རྒྱན་གྱུར་གྱི་མཎྜལ་བཞུགས་སོ། །, (mandal) gling bzhi rgyan gyur gyi mandal) (257-263)
-English translation:  Adornment of the Four Continents, A Maṇḍala Offering, translated by Adam Pearcey, 2024.
-Colophon: Make offerings while reciting these verses melodiously three times. This should be done only before a great empowerment or teaching; it is not for ordinary situations. It is said that one such offering will perfect the two accumulations and bring about an experience of the twenty-five kinds of primordial wisdom. This concludes the maṇḍala offering entitled Adornment of the Four Continents, composed by Longchen Rabjampa, a yogin of the supreme vehicle. May it be virtuous! Virtuous! Virtuous!
+--- (spros med) spros med kyi dbang chog rin po che'i drwa ba/ [cha] (204-230)
+--- (gnad yig) gnad yig bum pa'i brda don/ [cha] (230-234)
+--- (byin 'bebs) byin rlabs sprin phung ye shes 'bebs pa/ [cha] (234-237) Cloud Banks of Blessings, The Descent of the Wisdom Deities བྱིན་རླབས་སྤྲིན་ཕུང་ཡེ་ཤེས་འབེབས་པ་བཞུགས་སོ།
+--- (shin tu spros med) shin tu spros med kyi dbangs chog padma'i drwa ba/ [cha] (237-257)
+--- (mandal) gling bzhi rgyan gyur gyi mandal/ [cha] (257-263) Adornment of the Four Continents, A Maṇḍala Offering གླིང་བཞི་རྒྱན་གྱུར་གྱི་མཎྜལ་བཞུགས་སོ།
+--- (rab tu spros med) rab tu spros med kyi dbang chog 'od kyi drwa ba/ [cha] (263-279)
+--- (mandal) lnga tshan lnga'i mandal 'bul ba'i cho ga yid bzhin drwa ba/ [cha] (279-281) The Wish-Fulfilling Web, A Maṇḍala Offering in Five Sets of Five ལྔ་ཚན་ལྔའི་མཎྜལ་འབུལ་བའི་ཆོ་ག་ཡིད་བཞིན་དྲྭ་བ་བཞུགས་སོ།
+--- (dam tshig) dam tshig gi rim pa rnam grol rgya mtsho/ [cha] (283-296) Ocean of Liberation, The Aspects of Samaya དམ་ཚིག་གི་རིམ་པ་རྣམ་གྲོལ་རྒྱ་མཚོ་བཞུགས་སོ།
+--- (tshogs mchod) tshogs mchod kyi rim pa yid bzhin rgya mtsho/ [cha] (297-313)
+--- (bla ma'i rim pa) bla ma'i rim pa dngos grub rgya mtsho/ [cha] (313-323) Ocean of Siddhis, The Stages of Guru Service ླ་མའི་རིམ་པ་དངོས་གྲུབ་རྒྱ་མཚོ།
+--- (sems sbyong) sngon 'gro sems sbyong bdun gyi don khrid/ [cha] (323-332) The Essential Instruction on the Preliminary, Sevenfold Mind Training སྔོན་འགྲོ་སེམས་སྦྱོང་བདུན་གྱི་དོན་ཁྲིད།
+006 dngos gzhi 'od gsal snying po'i don khrid/ [txt] (333-450) Continued in Volume 2
+--- (don khrid) dngos gzhi 'od gsal snying po'i don khrid/ [cha] (334-371)
+--- (don khrid) khregs chod ye babs sor bzhag gi don khrid/ [cha] (371-388) The Essential Instruction on Trekchö, Revitalization in the Primordial State ཁྲེགས་ཆོད་ཡེ་བབས་སོར་གཞག་གི་དོན་ཁྲིད།
+--- (rgyab yig) khregs chod kyi rgyabs yig nam mkha' dri med/ [cha] (388-421)
+--- (thod rgal yig) thod rgal gyi rgyab yig nyi zla gza' skar/ [cha] (421-450) continued in volume 2 of the snying thig ya bzhi
 
-h. (rab tu spros med) rab tu spros med kyi dbang chog 'od kyi drwa ba/ p. 263-279
+02) bla ma yang tig (wM) [vol] Volume 2 (kha) Lama Yangtik (part 2) (part e)
 
-i. The Wish-Fulfilling Web, A Maṇḍala Offering in Five Sets of Five, by Longchen Rabjam (ལྔ་ཚན་ལྔའི་མཎྜལ་འབུལ་བའི་ཆོ་ག་ཡིད་བཞིན་དྲྭ་བ་བཞུགས་སོ, (mandal) lnga tshan lnga'i mandal 'bul ba'i cho ga yid bzhin drwa ba) (279-281)
-English translation:  The Wish-Fulfilling Web, A Maṇḍala Offering in Five Sets of Five, translated by Adam Pearcey, 2023.
-Colophon: This ritual for offering the maṇḍala entitled The Wish-Fulfilling Web composed by Longchen Rabjam, a yogin of the supreme vehicle, is hereby complete. Let it be virtuous! Virtuous! Virtuous!
+007 pod gnyis pa'i dkar chag/ [toc]
+008 dngos gzhi 'od gsal snying po'i don khrid/ [cha] (1-143) cont'd. from vol 1
+--- (thod rgal rgyab yig) thod rgal gyi rgyab yig nyi zla gza' skar (cont'd. from vol. 1) p.1-29
+--- (btags grol rgyab yig) btags grol gyi rgyab yig yid bzhin lhun grub/ p.29-63
+--- (khregs chod yang yig) khregs chod kyi yang yig nam kha' klong yangs/ p.63-78
+--- (thod rgal yang yig) thod rgal gyi yang yig nam kha' kong gsal/ p.78-91
+--- (gnyis ka'i yang yig) gnyis ka'i yang yig nam kha' klong chen/ p.91-113
+--- (gnyis ka'i yang yig) nam kha' klong chen gyi bsdus don 'od kyi phreng ba/ p.113-117
+--- (bde stong bdud rtsi) bde stong bdud rtsi'i sprin phung/ p.117-127
+--- (ye shes sprin phung) rlung sbyor ye shes sprin phung/ p.127-135
+--- (nam kha' sprin phung) rtog med nam mkha'i sprin phung/ p.135-143
 
-j. Ocean of Liberation, The Aspects of Samaya, by Longchen Rabjam (དམ་ཚིག་གི་རིམ་པ་རྣམ་གྲོལ་རྒྱ་མཚོ་བཞུགས་སོ, (dam tshig) dam tshig gi rim pa rnam grol rgya mtsho) (283-296)
-English translation:  Ocean of Liberation, The Aspects of Samaya, translated by Adam Pearcey, 2023.
-Colophon: This concludes the text entitled Ocean of Liberation: The Aspects of Samaya from the supremely secret instructions of the secret heart-essence composed by Longchen Rabjam, a yogin of the supreme vehicle. Let it be virtuous! Virtuous! Virtuous!
+bla ma yang tig (wM) [sec]
+01) pod gnyis pa/ bla ma yang tig (wM) [vol] Volume 3 (ka) Lama Yangtik (part 1) (Part e)
 
-k. (tshogs mchod) tshogs mchod kyi rim pa yid bzhin rgya mtsho/ p.297-313
-
-l. Ocean of Siddhis, The Stages of Guru Service, by Longchen Rabjam (བླ་མའི་རིམ་པ་དངོས་གྲུབ་རྒྱ་མཚོ་, (bla ma'i rim pa) bla ma'i rim pa dngos grub rgya mtsho) (313-323)
-English translation:  Ocean of Siddhis, The Stages of Guru Service, translated by Adam Pearcey, 2023.
-Colophon: This completes the stages of following a guru of the secret heart-essence, entitled Ocean of Siddhis, composed on the slopes of Gangri Thökar by Longchen Rabjam, a yogin of the supreme vehicle. Let it prove virtuous! Let it prove virtuous! Let it prove virtuous!
-
-m.The Essential Instruction on the Preliminary, Sevenfold Mind Training, by Longchen Rabjam (སྔོན་འགྲོ་སེམས་སྦྱོང་བདུན་གྱི་དོན་ཁྲིད, (sems sbyong) sngon 'gro sems sbyong bdun gyi don khrid) (323-332)
-English translation:  The Essential Instruction on the Preliminary, Sevenfold Mind Training, translated by Adam Pearcey, 2024.
-Colophon: This completes the Essential Instruction on the Preliminary, Sevenfold Mind Training, composed on the slopes of Gangri Thökar by Longchen Rabjam, a yogin of the supreme vehicle. Since this is entrusted to the glorious protectress of mantra, Za Rāhula, and the Oath-Bound One should any corruption or emendation occur, inflict severe punishment! Conceal this from the unworthy! Transmit it to the fortunate! Sealed! Samaya! Samaya! Let it be virtuous! Virtuous! Virtuous!
-
-5. dngos gzhi 'od gsal snying po'i don khrid/ p.333-450 (Continued in Volume 2), written by Longchenpa.
-
-a. (don khrid) dngos gzhi 'od gsal snying po'i don khrid/ p.334-371
-
-b.The Essential Instruction on Trekchö, Revitalization in the Primordial State, by Longchen Rabjam (ཁྲེགས་ཆོད་ཡེ་བབས་སོར་གཞག་གི་དོན་ཁྲིད, (don khrid) khregs chod ye babs sor bzhag gi don khrid) (371-388)
-English translation:  The Essential Instruction on Trekchö, Revitalization in the Primordial State, translated by Adam Pearcey, 2024.
-Colophon: Through thus revealing these key points of profound instruction, May the fortunate be naturally freed from their dualistic grasping, And may all beings spontaneously gain accomplishment In the state of Samantabhadra, primordial and self-arisen.
-This Essential Instruction on Trekchö, Revitalization in the Primordial State set out by Longchen Rabjam, a yogin of the supreme vehicle, is hereby complete. Let it be virtuous! Virtuous! Virtuous!
-
-c. (rgyab yig) khregs chod kyi rgyabs yig nam mkha' dri med/ p. 388-421
-
-d. (thod rgal yig) thod rgal gyi rgyab yig nyi zla gza' skar/ p.421-450 (continued in volume 2 of the snying thig ya bzhi)
-
-Volume 2
-(kha) Lama Yangtik (part 2) (part e)
-
-6. dngos gzhi 'od gsal snying po'i don khrid/ (cont'd. from vol 1) p.1-143
-
-d. (thod rgal rgyab yig) thod rgal gyi rgyab yig nyi zla gza' skar (cont'd. from vol. 1) p.1-29
-
-e. (btags grol rgyab yig) btags grol gyi rgyab yig yid bzhin lhun grub/ p.29-63
-
-f. (khregs chod yang yig) khregs chod kyi yang yig nam kha' klong yangs/ p.63-78
-
-g.(thod rgal yang yig) thod rgal gyi yang yig nam kha' kong gsal/ p.78-91
-
-h. (gnyis ka'i yang yig) gnyis ka'i yang yig nam kha' klong chen/ p.91-113
-
-i. (gnyis ka'i yang yig) nam kha' klong chen gyi bsdus don 'od kyi phreng ba/ p.113-117
-
-j. (bde stong bdud rtsi) bde stong bdud rtsi'i sprin phung/ p.117-127
-
-k. (ye shes sprin phung) rlung sbyor ye shes sprin phung/ p.127-135
-
-l. (nam kha' sprin phung) rtog med nam mkha'i sprin phung/ p.135-143
-
-(Part wam)
-
-7. gzhi snang ye shes sgron me/ p.145-417 Written by klong chen rab 'byams pa.
-
-a. (ye shes gron me) gzhi snang ye shes sgron me/ p.146-164
-
-b. (gsal byed gron me) dpe don gsal byed sgron me/ p.164-179
-
-c. (gnad sgron) nyams len gnad kyi sgron me/ p.179-218
-
-d. ('od gsal byin rlabs kyi gnad yig) bdud rtsi ljon shing 'od gsal gyi gnad yig/ p.218-227
+009 gzhi snang ye shes sgron me/ [txt] (145-417)
+--- (ye shes gron me) gzhi snang ye shes sgron me/ p.146-164
+--- (gsal byed gron me) dpe don gsal byed sgron me/ p.164-179
+--- (gnad sgron) nyams len gnad kyi sgron me/ p.179-218
+--- ('od gsal byin rlabs kyi gnad yig) bdud rtsi ljon shing 'od gsal gyi gnad yig/ p.218-227
 
 e./ p. Immaculate Nectar, by Longchen Rabjam (བདུད་རྩི་དྲི་མེད་བཞུགས་སོ, (od gsal sgom pa'i gnad yig) bdud rtsi dri med) (227-230)
 English translation:  Immaculate Nectar, translated by Adam Pearcey, 2024.
 Colophon: This concludes the instruction for meditating on clear light entitled Immaculate Nectar composed by Longchen Rabjam, a yogin of the supreme vehicle.
 
-f. 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po/ p.230-233
-
-g. gnad gsum chos nyid kyi 'khor lo/ p.233-260
-
-h. nyin tshan 'od gsal gyi 'khor lo/ p.260-265
-
-i. yang zab ye shes 'khor lo/ p.265-276
-
-j. rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing/ p.276-282
-
-k. brten pa sgo'i gegs sel gron ma snang byed/ p.282-288
-
-l. rig pa sems kyi gegs sel ye shes dri med/ p.288-294
+--- 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po/ p.230-233
+--- gnad gsum chos nyid kyi 'khor lo/ p.233-260
+--- nyin tshan 'od gsal gyi 'khor lo/ p.260-265
+--- yang zab ye shes 'khor lo/ p.265-276
+--- rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing/ p.276-282
+--- brten pa sgo'i gegs sel gron ma snang byed/ p.282-288
+--- rig pa sems kyi gegs sel ye shes dri med/ p.288-294
 
 m. The Wish-Fulfilling Jewel Guru Practice, by Longchen Rabjam (བླ་མ་ཡིད་བཞིན་ནོར་བུ་བཞུགས་སོ, (bla ma'i thugs sgrub) bla ma yid bzhin nor bu) (294-298)
 English translation:  The Wish-Fulfilling Jewel Guru Practice, translated by Adam Pearcey, 2024.
@@ -149,56 +107,37 @@ r. Transference: The Essence of Clear Light, by Longchen Rabjam (འཕོ་བ
 English translation:  Transference: The Essence of Clear Light, translated by Adam Pearcey, 2024.
 Colophon: This concludes the transference entitled Essence of Clear Light, composed by Longchen Rabjam, a yogin of the supreme vehicle, in the place of the Supreme Wish-Fulfilling Secret. May it be virtuous! Virtuous! Virtuous!
 
-s. ngo sprod dran pa'i me long/ p. 316-331
-
-t. 'chi ltas dran pa'i me long/ p. 331-338
-
-u. 'chi bslu dran pa'i me long/ p. 338-347
-
-v. The Self-Manifestation of Primordial Wisdom, A Short Teaching from the Whispered Transmission, by Longchen Rabjam (སྙན་བརྒྱུད་ཆུང་ངུ་ཡེ་ཤེས་རང་སྣང, snyan brgyud chung ngu ye shes rang snang) (347-361)
-English translation:  The Self-Manifestation of Primordial Wisdom, A Short Teaching from the Whispered Transmission, translated by Adam Pearcey, 2024.
-Colophon: This concludes Self-Manifestation of Primordial Wisdom, a short teaching from the Whispered Transmission of the Supremely Secret Essence, composed by Longchen Rabjam, a yogin of the supreme vehicle that distills the wisdom of Vimala, on the slopes of Gangri Tökar. May it be virtuous! Virtuous! Virtuous!
-
-w. snyan brgyud 'bring po bar do 'od gsal rang snang/ p.361-379
-
-x. snyan brgyud chen mo nges don mngon sum rang snang/ p.379-418
-
-8. dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu/ p.419-429. Written by klong chen rabs 'byams pa.
-
-9. ra hu la'i gsang sgrub snying gi dum bu/ p.431-439/40. Written by klong chen rabs 'byams pa.
-
-10. gza bdud kyi gsang sgrub me rlung 'khyil ba/ p.441-450. Written by klong chen rabs 'byams pa.
-
-11. dam can gyi gsang sgrub snying gi dum bu/ p.451-463. Written by klong chen rab 'byams pa.
-
-12. The Essence of Luminosity, Inventory to the Lama Yangtik, by Longchen Rabjam (ཁ་བྱང་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།, kha byang 'od gsal snying po) (465-481)
+--- ngo sprod dran pa'i me long/ p. 316-331
+--- 'chi ltas dran pa'i me long/ p. 331-338
+--- 'chi bslu dran pa'i me long/ p. 338-347
+--- snyan brgyud chung ngu ye shes rang snang/ [cha] (347-361) The Self-Manifestation of Primordial Wisdom, A Short Teaching from the Whispered Transmission སྙན་བརྒྱུད་ཆུང་ངུ་ཡེ་ཤེས་རང་སྣང
+--- snyan brgyud 'bring po bar do 'od gsal rang snang/ p.361-379
+--- snyan brgyud chen mo nges don mngon sum rang snang/ p.379-418
+010 dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu/ [txt] (419-429)
+011 ra hu la'i gsang sgrub snying gi dum bu/ p.431-439/40. Written by klong chen rabs 'byams pa.
+012 gza bdud kyi gsang sgrub me rlung 'khyil ba/ p.441-450. Written by klong chen rabs 'byams pa.
+013 dam can gyi gsang sgrub snying gi dum bu/ p.451-463. Written by klong chen rab 'byams pa.
+014 The Essence of Luminosity, Inventory to the Lama Yangtik, by Longchen Rabjam (ཁ་བྱང་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།, kha byang 'od gsal snying po) (465-481)
 
 English translation:  The Essence of Luminosity, Inventory to the Lama Yangtik, translated by Adam Pearcey, 2024.
 Colophon: This concludes the inventory entitled Essence of Luminosity, composed at the secluded place of Orgyen Dzong on the slopes of Gangri Thökar, where glorious gods descend from heaven, by Longchen Rabjam, a yogin of the supreme vehicle. This was composed in response to a request From the excellent student Zhönnu Sangye. Generate devotion and offer heartfelt prayer. Boundless blessings and realization will arise from within. As everyone laughs in the great performance of illusion, Ha! Ha! Let the mind burst into laughter too. Let it be virtuous! Virtuous! Virtuous!
 
-Volume 3
-(ga) bi ma snying thig (Part 1)
+bi ma snying thig [sec]
+01) pod gsum pa/ bi ma snying thig (e) Volume 4 (ga) bi ma snying thig (Part 1)
 
-1. ka/ rdzogs pa chen po gsang ba snying thig man ngag zab po ti bzhi'i kha byang nyi mas brgyan pa/ p.1-72
-
-a. kha byang/ p.1-37
-
-b. gser yig can/ (gser yig) bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ p.37-72
-
-2. kha byang nyi ma'i snying po/ p.73-134, written by Longchenpa.
-
-a. (kha byang) kha byang nyi ma'i snying po/ p.76-84
-
-b. (lo rgyus) lo rgyus rin po che'i phreng ba/ p.84-134
-
-2. kha/ gser yig can/ (gser yig) btags pas grol bar stan pa bu gcig gi gsang 'grel slob dpon dga' rab rdo rjes mdzad pa/ Caption title: sangs rgyas thams cad kyi sras gcig po/ gsang ba byod pa sa bon gyi 
-rgyud kyi don gsal bar bstan pa/ p.73-272
-
-3. ga/ gser yig can/ (gser yig) rdo rje chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ p.273-344
-
-a. sangs rgyas thams cad kyi sras gcig gi rgyud kyi man ngag/ p.273-287
-
-b. sangs rgyas kyi 'das rjes gsum/ p.287-304
+015 pod gsum pa'i dkar chag/ [toc]
+016 publishers note/ [txt]
+017 pod gsum pa bi ma snying thig e rtags can gyi dkar chag/ [toc]
+018 ka/ rdzogs pa chen po gsang ba snying thig man ngag zab po ti bzhi'i kha byang nyi mas brgyan pa/ [txt] (1-72)
+--- kha byang/ [cha] (1-37)
+--- gser yig can/ (gser yig) bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ [cha] (37-72)
+019 kha byang nyi ma'i snying po/ [txt] (73-134)
+--- (kha byang) kha byang nyi ma'i snying po/ [cha] (76-84)
+--- (lo rgyus) lo rgyus rin po che'i phreng ba/ [cha] (84-134)
+020 kha/ gser yig can/ (gser yig) btags pas grol bar stan pa bu gcig gi gsang 'grel slob dpon dga' rab rdo rjes mdzad pa/ sangs rgyas thams cad kyi sras gcig po/ gsang ba byod pa sa bon gyi rgyud kyi don gsal bar bstan pa/ [txt] (73-272)
+021 ga/ gser yig can/ (gser yig) rdo rje chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ [txt] (273-344)
+--- sangs rgyas thams cad kyi sras gcig gi rgyud kyi man ngag/ p.273-287
+--- sangs rgyas kyi 'das rjes gsum/ p.287-304
 
 Second Testament of the Buddha, from the Vima Nyingtik, by Longchen Rabjam (སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་གཉིས་པ་ཞེས་བྱ་བ་བཞུགས་སོ, (sangs rgyas kyi zhal chems gnyis pa zhes bya ba) (289-292)
 English translation:  Second Testament of the Buddha, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
