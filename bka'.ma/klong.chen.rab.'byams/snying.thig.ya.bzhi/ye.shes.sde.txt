@@ -149,22 +149,20 @@ mkha' 'gro yang tig gi them byang dpag bsam ljon shing
 
 mkha' 'gro snying thig glegs bam e pa (sec) Кхандро Нінгтік
 
-1mkha' 'gro snying thig gi kha sbyang
-2rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus
-3btags grol rgyud drug (btags grol snying po'i rgyud/)
-
-4gcig shes kun grol gyi rgyud
-5yang ti gser gyi 'bru gcig pa'i rgyud
-6sras gcig sa bon gyi rgyud
-7rang byung rig pa'i rgyud
-8'bras bu yongs rjogs chen po'i rgyud
-9btags grol snying po'i ti ka
-10gcig shes kun grol gyi ti ka
-11yang ti gser gyi 'bru gcig ti ka
-12sras gcig sa bon rgyud kyi gsal byed nor bu'i phreng ba
-13rang byung rig pa'i rgyud kyi ti ka gsal byed dung gi spar khab
-14'bras bu yongs rjogs rgyud kyi ti ka gsal byed dri med snying po
-
+mkha' 'gro snying thig gi kha sbyang
+rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus
+btags grol rgyud drug (btags grol snying po'i rgyud/)
+gcig shes kun grol gyi rgyud
+yang ti gser gyi 'bru gcig pa'i rgyud
+sras gcig sa bon gyi rgyud
+rang byung rig pa'i rgyud
+'bras bu yongs rjogs chen po'i rgyud
+btags grol snying po'i ti ka
+gcig shes kun grol gyi ti ka
+yang ti gser gyi 'bru gcig ti ka
+sras gcig sa bon rgyud kyi gsal byed nor bu'i phreng ba
+rang byung rig pa'i rgyud kyi ti ka gsal byed dung gi spar khab
+'bras bu yongs rjogs rgyud kyi ti ka gsal byed dri med snying po
 mkha' 'gro snying thig gi lo rgyus
 sangs rgyas kyi 'das rjes dang po
 sangs rgyas kyi 'das rjes gnyis pa
