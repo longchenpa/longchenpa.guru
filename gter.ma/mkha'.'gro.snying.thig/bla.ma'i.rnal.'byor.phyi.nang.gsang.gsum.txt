@@ -269,7 +269,7 @@ bla ma'i rnal 'byor phyi nang gsang gsum rdzogs so:
 
 !_/de nas gsol ba gdab pa ni/
 
-waM_@#/_/dngos med mtha' bral ka dag chos kyi sku/_/rang rig gsal dwangs lhun grub longs spyod rdzogs/_/kun khyab shar grol snatshogs sprul pa'i sku/_/
+/dngos med mtha' bral ka dag chos kyi sku/_/rang rig gsal dwangs lhun grub longs spyod rdzogs/_/kun khyab shar grol snatshogs sprul pa'i sku/_/
 bla ma'idus gsum rang rig bla ma rnams la 'dud/_/dmigs med chos dbyings dag pa'i pho brang du/_/kun bzang yab yum nyidal gsol ba 'debs/_/ngo bo ka dag 
 brgyartogs par byin gyis rlobs/_/lhun grub rang gsal 'od kyi gzhal yas su/_/longs sku zhi khro'i tshogs la gsol ba'adebs/_/rig pa sku ru smin par byin gyis 
 nga gcig rlobs/_/thugs rje phyogs ris med pa'i pho brang du/_/sprul sku rdo rje 'chang la gsol ba 'debs/_/snang sems 'dzin pa stongs par byin gyis rlobs/_/dur khrod 
@@ -279,9 +279,8 @@ shrI sing ha nyid la gsol ba 'debs/_/bde chen 'du 'bral med par byin gyis rlobs/
 wA_'debs/_/'chi med rig 'dzin 'grub par byin gyis rlobs/_/gzho stod ti sgro brag gi pho brang du/_/ye shes mkha' 'gro ma la gsol ba'adebs/_/_chos nyid 
 mngon sum mthong bar byin gyis rlobs/_/mkha' spyod rig 'dzin dag pa'i pho brang du/_/pad+ma las 'brel rtsal la gsol ba 'debs/_/_ba don dgongs pa rtogs _:
 grwapar byin gyis rlobs/_/byar yul gros lung gi dgon pa ru/_/rgyal sras legs ldan pa la gsol ba 'debs/_/bdag gzhan don gnyis 'grub par byin gyis 
-rlobs/_/largyab lhun grub steng gi gdan sa ru/_/rang byung rdo rje'i zhabs la gsol ba 'debs/_/'gro don lhun gyis 'grub par byin gyis rlobs/_/rnam dag 
-
-@#/_/lhun gyis grub pa'i gzhal yas su/_/dar ma rdo rje'i zhabs la gsol ba 'debs/_/'khrul pa rang sar dag par byin gyis rlobs/
+rlobs/_/largyab lhun grub steng gi gdan sa ru/_/rang byung rdo rje'i zhabs la gsol ba 'debs/_/'gro don lhun gyis 'grub par byin gyis rlobs/
+/rnam dag lhun gyis grub pa'i gzhal yas su/_/dar ma rdo rje'i zhabs la gsol ba 'debs/_/'khrul pa rang sar dag par byin gyis rlobs/
 /gar bzhugs dag pa chos kyi pho brang na/_/nam mkha' rdo rje'i zhabs la gsol ba 'debs/_/chos nyid bden pa mthong bar byin gyis rlobs/
 /bskyed rdzogs brtan pa thob pa'i pho brang na/
 /tshul khrims 'bum pa'i zhabs la gsol ba 'debs/
@@ -310,12 +309,9 @@ zab don snying po lon par byin gyis rlobs/
 /nyams snang gong du 'phel bar byin gyis rlobs/
 /chos nyid zad sar 'khyol bar byin gyis rlobs/
 /bden pa mngon du mthong bar byin gyis rlobs/
-/g+har dam pa'i sgrub gzhas shugatshar dpal gyi dgon par bdag 'phags pa dbon po dar
+/g+har dam pa'i sgrub gzhas shugatshar dpal gyi dgon par bdag 'phags pa dbon po dar ma bzang bos/
 
-@#/_/ma bzang bos/_'gro ba rnams bde chen rtogs pa'i sems bskyed
-dang ldan pas snying tig gi yig cha cha tshang bar bzhengs pa 'di'i
-dge bas sangs rgyas kyi bstan pa dar zhing rgyas te 'khor ba sdug
-bsngal gyi rgyalatshochen po myur du skems par shog cig/_//dge'o//_//
+'gro ba rnams bde chen rtogs pa'i sems bskyed dang ldan pas snying tig gi yig cha cha tshang bar bzhengs pa 'di'i dge bas sangs rgyas kyi bstan pa dar zhing rgyas te 'khor ba sdug bsngal gyi rgyalatshochen po myur du skems par shog cig/_//dge'o//_//
 
 Preliminary Context
 
