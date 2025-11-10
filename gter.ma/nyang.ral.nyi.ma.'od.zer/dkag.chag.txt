@@ -1,0 +1,293 @@
+@#/_/nyang ral nyi ma 'od.zer/ bka' brgyad bde bshegs 'dus pa'i chos skor dkar chag/ Цикл вчень про Союз Восьмеричного Благого
+
+01) glegs bam ka pa/(1) [vol] Перший том
+
+001 glegs bam ka pa/(1) [txt] Опис розміщення першого тому
+002 preface [txt] Передмова
+003 gas bam ka pa'i bzhugs byang [txt] Опис розміщення наступного тому
+004 sprul sku mnga' bdag dag chen po'i skyes rabs rnams thar dri ma med pa'i bka' rgya can [txt] Життєпис Великого Ньялпо Ньянґ Рал Ньїма Осера, бездоганного та запечатаного
+005 bka' brgyad bde gshegs 'dus pa'i 'chad thabs mun sel nyi zla'i 'khor lo [txt] Метод читання Союзу Восьмеричного Благого, що розсіює темряву, як колесо сонця та місяця
+006 bde gshegs 'dus pa'i bka' byung tshul [txt] Походження вчень Союзу Благого
+007 bka' brgyad bde gshegs 'dul pa las/ rtsa ba'i rgyud kyi rgyal po [txt] Королівська основна тантра з Союзу Восьмеричного Благого
+008 bcom ldan 'das bde bar gshegs pa thams cad 'dus pa phyi ma'i rgyud [txt] Зовнішня тантра Збірки всіх Благозвучних
+009 bcom ldan 'das bde gshegs 'dus pa'i sngags rgyud phyi ma phyi ma'i rgyud [txt] Зовнішня зовнішня тантра мантр Союзу Благозвучних
+010 yang sngags byang [txt] Додатковий текст мантр
+011 bka' brgyad bde gshegs 'dus pa las/ ma tshang ba kha skong ba'i rgyud [txt] Тантра, що доповнює неповні частини з Союзу Восьмеричного Благого
+012 bka' brgyad bder gshegs 'dus pa las/ dkar chag gsal ba'i sgron me [toc] Зміст, що освітлює, як лампа, з Союзу Восьмеричного Благого
+
+02) glegs bam kha pa/(2) [vol] Другий том
+
+013 glegs bam kha pa'i bzhugs byang [txt] Опис розміщення другого тому
+014 bde bar gshegs pa 'dus pa'i rgyud rab tu 'byed pa la [txt] До розрізнення тантри Збірки Благозвучних
+015 bsgrub pa bka' brgyad 'dus pa'i rgyud/ 'byed pa lde'u bar migs gi rgyud/ bder gshegs 'dus pa'i rgyud/ dngos grub gter gyi rgyud/ dpal kun tu bzang po'i dgongs pa bkod pa'i mdo [txt] Тантра практики Союзу Восьмеричного; Тантра розрізнення, як ключ; Тантра Союзу Благозвучних; Тантра скарбів досягнень; Сутра, що виражає намірство Кунтузангпо
+016 zhi ba 'dus pa rtsa ba'i rgyud [txt] Основна тантра Збірки Спокою
+017 che mchog 'dus pa rtsa ba'i rgyud/ mnga' bdag myong gi gter ma yang dag pa'o [txt] Основна тантра Збірки Найвищого; справжній терма Ньялпо Мьон
+
+03) glegs bam ga pa/(3) [vol] Третій том
+
+018 glegs bam ga pa'i bzhugs byang [txt] Опис розміщення третього тому
+019 dpal khrag 'thung 'dus pa rtsa ba'i rgyud/ mnga' 'dag myang gi gter ma'o [txt] Основна тантра Збірки Кровопивця; терма Ньялпо Мьян
+020 bcom ldan 'das dpal gshin rje gshed 'dus pa rtsa ba'i rgyud [txt] Основна тантра Збірки Славного Ямантакі
+021 dpal bcom ldan 'das dbang chen 'dus pa rtsa ba'i rgyud [txt] Основна тантра Збірки Великої Слави Могутнього
+022 bde bar gshegs pa thams cad kyi phrin las 'dus pa phur ba rtsa ba'i rgyud [txt] Основна тантра Збірки Дійовості всіх Благозвучних, Кіла
+023 ma mo 'dus pa rtsa ba'i rgyud [txt] Основна тантра Збірки Матерів
+024 rig pa 'dzin pa 'dus pa rtsa ba'i rgyud [txt] Основна тантра Збірки Володаря Мудрості
+025 'jig rten mtshod bstod sgrub pa rtsa ba'i rgyud [txt] Основна тантра Практики Хвали Світу
+026 drag sngags 'dus pa rdo rje rtsa ba'i rgyud [txt] Основна тантра Збірки Жорстоких Мантр, Ваджра
+027 bka' brgyad bde gshegs 'dus pa las/ gsang ba gsal bar byed pa'i sgron ma/ mdo rgyud rtogs pa bsdus pa lung thams cad kyi rgyal po chen po lnga [txt] Лампа, що освітлює таємне, з Союзу Восьмеричного Благого; Збірка сутр-тантр, королі всіх вчень, п'ять великих
+
+04) glegs bam nga pa/(4) [vol] Четвертий том
+
+028 glegs bam nga pa'i bzhugs byang [txt] Опис розміщення четвертого тому
+029 bka' brgyad bde gshegs 'dus pa lasaH gsang sngags lung gi bang mdzod [txt] Скарбниця таємних мантр з Союзу Восьмеричного Благого
+030 gsang sngags bka'i tha ram [txt] Кінцевий текст таємних мантр
+031 bka' brgyad bde gshegs 'dus pa las/ gsang sngags bka'i lde mig [txt] Ключ до таємних мантр з Союзу Восьмеричного Благого
+032 bka' brgyad bde gshegs 'dus pa las/ gsang sngags lung gi bka' bsgo [txt] Наказ таємних вчень з Союзу Восьмеричного Благого
+033 bka' brgyad bde gshegs 'dus pa las/ sgrub pa lung gi bka' mgo [txt] Голова наказу практики вчень з Союзу Восьмеричного Благого
+034 bka' brgyad bde gshegs 'dus pa las/ rgyud kyi spyi chings lda [txt] Загальне правило тантри з Союзу Восьмеричного Благого
+035 dri med rgyal po bshags ba'i rgyud kyi 'grel pa don gsal sgron me [txt] Коментар до Тантри Короля Безсумнівного, Лампа, що освітлює сенс
+
+05) glegs bam ca pa/(5) [vol] П'ятий том
+
+036 glegs bam ca pa'i bzhugs byang [txt] Опис розміщення п'ятого тому
+037 bka' brgyad bde gshegs 'dus pa las/ brgyud pa'i byin rlabs gsol 'debs chen mo/ (tshangs pa lha'i me tog gis sbyang ba'o//） [txt] Велика молитва благословення лінії передачі з Союзу Восьмеричного Благого (очищена квітами бога Брахми)
+038 bka' brgyad bde gshegs 'dus pa las/ yang brgyud pa'i byin brlabs gsol 'debs chen mo/（tshangab lha yi me tog gi dbu'o//） [txt] Додаткова велика молитва благословення лінії передачі з Союзу Восьмеричного Благого (голова квітів бога Брахми)
+039 bde gshegs bsgrub pa bka' brgyad las/ bka' brgyad bde gshegs 'dus pa las/ zhi ba'i las byang [txt] Текст дій Спокою з Союзу Восьмеричного Благого
+040 bka' brgyad bde gshegs 'dus pa las/ dam parigs brgya'i bsgom rim [txt] Етапи медитації ста родів обітниць з Союзу Восьмеричного Благого
+041 bka' brgyad bde gshegs 'dus pa las/ bde gshegs 'dus pa dam pa rigs brgya'i lag len mchod sgrigs rin chen sgron ma'o [txt] Практика та аранжування подяк для ста родів Благого з Союзу Восьмеричного Благого, коштовна лампа
+042 bka' brgyad bde gshegs 'dus pa las/ dam pa rigs brgya'i dkyil 'khor thig gi cho ga [txt] Ритуал діаграми мандали для ста родів з Союзу Восьмеричного Благого
+043 bka' brgyad bde gshegs 'dus pa las/ bzung ba dkyil 'khor gyi cho ga [txt] Ритуал мандали захоплення з Союзу Восьмеричного Благого
+044 bka' brgyad bde gshegs 'dus pa las/ zhi ba'i chos skor rim pa dbang gi las [txt] Дії посвячення послідовних циклів Спокою з Союзу Восьмеричного Благого
+045 bka' brgyad bde gshegs 'dus pa las/ byin brlabs rab gnas kyi cho ga [txt] Ритуал благословення та встановлення з Союзу Восьмеричного Благого
+046 bka' brgyad bde gshegs 'dus pa las/ zhi ba ro bsreg gi las rim [txt] Етапи дій спалення плоті Спокою з Союзу Восьмеричного Благого
+047 bka' brgyad bde gshegs 'dus pa las/ lho sgo mtshan byang gi cho ga la [txt] До ритуалу знаків південних дверей з Союзу Восьмеричного Благого
+048 bka' brgyad bde gshegs 'du pa las/ zhi ba dam pa rigs brgya'i gshin po'i rjes 'dzin [txt] Наслідування суті ста родів Спокою з Союзу Восьмеричного Благого
+049 bka' brgyad bde gshegs 'dus pa las/ mnyes pa mchod pa'i cho ga [txt] Ритуал милостивого подякування з Союзу Восьмеричного Благого
+050 bka' brgyad bde gshegs 'dus pa las/ rigs brgya'i gtor ma cha gsum [txt] Три частини торми для родів з Союзу Восьмеричного Благого
+051 bka' brgyad bde gshegs 'du pa las/ zhi ba'i mchod mgron gtor ma'i las rim cha gsum [txt] Три частини етапів торми подякування Спокою з Союзу Восьмеричного Благого
+052 bka' brgyad bde gshegs 'du pa las/ mchod sbyin chug tor gyi las rim [txt] Етапи дій торми подякування з Союзу Восьмеричного Благого
+053 bde gshegs bsgrub pa bka' brgyad las/ bka' brgyad bde gshegs 'dus pa las/ sku gdung tsha tsha'i las rim [txt] Етапи дій реліквійних статуеток з Союзу Восьмеричного Благого
+
+06) glegs bam cha pa/(6) [vol] Шостий том
+
+054 glegs bam cha pa'i bzhugs byang [txt] Опис розміщення шостого тому
+055 bka' brgyad bde gshegs 'dus pa/ zhi basbyin sreg gi cho ga'i rim pa [txt] Етапи ритуалу благословення вогню Спокою з Союзу Восьмеричного Благого
+056 bka' brgyad bde gshegs 'dus pa las/ zhi ba bzhi bcu rtsa gnyis kyi sgrub thabs [txt] Методи практики сорока двох Спокою з Союзу Восьмеричного Благого
+057 bka' brgyad bde gshegs 'dus pa las/ zhi ba bzhi bcu rtsa gnyis kyi sgom rim [txt] Етапи медитації сорока двох Спокою з Союзу Восьмеричного Благого
+058 bka' brgyad bde gshegs 'dus pa las/ zhi ba'i bsgyed rdzogs chung du/ zhi ba de nyid rigs lnga'i sgrub thabs [txt] Методи практики п'яти родів самого Спокою в короткій формі генерації та завершення з Союзу Восьмеричного Благого
+059 bka' brgyad bde gshegs 'du pa las/ gsang chen rigs gcig [txt] Один рід Великої Таємниці з Союзу Восьмеричного Благого
+060 bka' brgyad bde gshegs 'dus pa las/ gsang chen rigs gcig [txt] Один рід Великої Таємниці з Союзу Восьмеричного Благого
+061 bka' brgyad bde gshegs 'dus pa las/ sku gsung thugs kyi phrin las thams cad kyi phreng ba'i rgyud/ （zhi ba gsang chen rigs gcig go//） [txt] Тантра намиста всіх дій тіла, мови та розуму (Спокій, один рід Великої Таємниці) з Союзу Восьмеричного Благого
+062 bka' brgyad bde gshegs 'dus pa las/ sku gsung thugs kyi las thams cad kyi phrengaba'i rgyud las gnod bya'i las tshogs/ mngon spyod mthu'i las tshogs [txt] Збірка дій шкідників та збірка магічних дій з Тантри намиста всіх дій тіла, мови та розуму з Союзу Восьмеричного Благого
+063 bka' brgyad bde gshegs 'dus pa las/ zhi ba'i tshe sgrub tshe lung bdun pa [txt] Сім життєвих вдувань практики життя Спокою з Союзу Восьмеричного Благого
+064 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chen mo'i ti ka [txt] Нотатки до великої генерації та завершення з Союзу Восьмеричного Благого
+065 bka' bgyad bde gshegs 'dus pa las/ bskyed rdzogs chen mo'i sgom khog（bka' brgyad gcig tu bsgrub pa'i thabs kyi rtsa ba/ rin po che'i phrengab yang zer ro//） [txt] Внутрішня медитація великої генерації та завершення (основний метод практики восьми в одному, також називається коштовним намистом) з Союзу Восьмеричного Благого
+066 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chen mo'i lhan thabs sgom khog chen mo [txt] Велика внутрішня медитація об'єднаного методу великої генерації та завершення з Союзу Восьмеричного Благого
+067 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chen mo rgya che rol pa [txt] Розгортання великої генерації та завершення з Союзу Восьмеричного Благого
+068 bka' brgyad bde gshegs 'dus pa las/ sgrub pa bka' brgyad kyi mngon rtogs rgyas pa [txt] Розширена безпосередня реалізація практики Восьмеричного з Союзу Благого
+069 bka' brgyad bde gshegs 'dus pa las/ dzab bsnyen [txt] Глибоке повторювання з Союзу Восьмеричного Благого
+
+07) glegs bam ja pa/(7) [vol] Сьомий том
+
+070 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs 'bring po'i sngon 'gro las bdun [txt] Сім попередніх дій середньої генерації та завершення з Союзу Восьмеричного Благого
+071 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs 'bring po'i mngon rtogs/（myong gi gter ma'o//） [txt] Безпосередня реалізація середньої генерації та завершення (терма Мьон) з Союзу Восьмеричного Благого
+072 bka' brgyad bde gshegs 'dus pa las/ lus dkyil mdo skyags/ mnga' bdag （myong gi gter ma'o//） [txt] Центральна сутра тіла / Ньялпо (терма Мьон) з Союзу Восьмеричного Благого
+073 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chung ngu'i las byang [txt] Текст дій короткої генерації та завершення з Союзу Восьмеричного Благого
+074 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chung ngu'i mngon rtogs [txt] Безпосередня реалізація короткої генерації та завершення з Союзу Восьмеричного Благого
+075 bka' brgyad bde gshegs 'dus pa las/ sngags sgrub nang ma'i bsgom thabs/（mnga' bdag myang gi gter ma'o//） [txt] Метод медитації внутрішньої практики мантр (терма Ньялпо Мьян) з Союзу Восьмеричного Благого
+076 bka' brgyad bde gshegs 'dus pa las/ rgyun gyi rnal 'byor gyi sgrub thabs [txt] Метод практики поточного йоги з Союзу Восьмеричного Благого
+077 bde gshegs 'dus pa'i hUM bsgrub [txt] Практика ХУМ Союзу Благого
+078 bka' brgyad bde gshegs 'dus pa las/ yo ga rnam pa gsum gyi sgrub thabs/（mnga' bdag gi gter ma'o//） [txt] Методи практики трьох видів йоги (терма Ньялпо) з Союзу Восьмеричного Благого
+079 bka' brgyad bde gshegs 'dus pa las/ dus kyi bsnyen pa'i bsgrubs pa [txt] Практики повторювання за сезонами з Союзу Восьмеричного Благого
+080 bka' brgyad bde gshegs 'dus pa las/ sgrub pa bka' brgyad kyi bsnyen sgrub chen mo'i pra khrid [txt] Вступ до великої практики повторювання Восьмеричного з Союзу Благого
+
+08) glegs bam nya pa/(8) [vol] Восьмий том
+
+081 glegs bam nya pa'i bzhugs byang [txt] Опис розміщення восьмого тому
+082 bka' brgyad bde gshegs 'dus pa las/ stod las byang chub sgrub pa'i cha rkyen dur khrod chas brgyad kyi byin dbab [txt] Злив благословень восьми цвинтарів як умов для практики просвітлення, початкові дії з Союзу Восьмеричного Благого
+083 bka' brgyad bde gshegs 'dus pa las/ stod las byang chub bsgrub pa'i cha rkyen dur khrod brgyad kyi byin dbab [txt] Злив благословень восьми цвинтарів як умов для практики просвітлення, початкові дії з Союзу Восьмеричного Благого
+084 bka' brgyad bde gshegs 'dus pa las/ bsgom khog gi spyi khog cos kyang bya pra khrig gsang sngags lag len gsal sgron [txt] Загальна та приватна внутрішня медитація, лампа, що освітлює практику таємних мантр з Союзу Восьмеричного Благого
+085 zhi khro bka' brgyad bde gshegs 'dus pa'i bsnyen sgrub kyi ti ka [txt] Нотатки до повторювання та практики Спокою та Гніву Восьмеричного Союзу Благого
+086 bka' brgyad bde gshegs 'dus pa las/ bdud rtsi sman gyi las rim/ bi va las mdzad pa'i khro bo'i sgos sgrub [txt] Етапи дій амрита-ліків; досягнення гнівних від Бівви з Союзу Восьмеричного Благого
+087 bka' brgyad bde gshegs 'dus pa las/ mchod rdzas bdud rtsi'i sgrub skor [txt] Цикл практики амрита-подяк з Союзу Восьмеричного Благого
+088 bka' brgyad bde gshegs 'dus pa'i dbang gi rtsa ba [txt] Основи посвячення Союзу Восьмеричного Благого
+089 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs chen po'i dbang chog [txt] Ритуал великої посвячення генерації та завершення з Союзу Восьмеричного Благого
+090 bka' brgyad bde gshegs 'dus pa las/ dbang gi mdo byang chen mo'i ti ka [txt] Нотатки до великої сутри посвячення з Союзу Восьмеричного Благого
+091 bka' brgyad dbade gshegs 'dus pa las/ dam tshig gsal ba'i sgron me/ dam tshig gi rim pa slob dpon pad+ma 'byung gnas kyi mdzad pa [txt] Лампа, що освітлює обітниці; етапи обітниць, складені учителем Падмасамбхава з Союзу Восьмеричного Благого
+
+09) glegs bam ta pa/(9) [vol] Дев'ятий том
+
+092 glegs bam ta pa'i bzhugs byang [txt] Опис розміщення дев'ятого тому
+093 bka' brgyad bde gshegs 'dus pa las/ bkra shes tshe'i sgrub pa la [txt] До практики просвітленого життя з Союзу Восьмеричного Благого
+094 bka' brgyad bde gshegs 'dus pa las/ byin rlabs phrur pa'i sgrub pa [txt] Практика викиду благословення з Союзу Восьмеричного Благого
+095 bka' brgyad bde gshegs 'dus pa las/ dam rdzas bam gyi las [txt] Дії баму обітницьких речовин з Союзу Восьмеричного Благого
+096 bka' brgyad bde gshegs 'dus pa las/ sreg sbyang ro'i las [txt] Дії спалення очищеної плоті з Союзу Восьмеричного Благого
+097 bka' brgyad bde gshegs 'dus pa las/ tshe 'das gshen gyi las [txt] Дії богів після смерті життя з Союзу Восьмеричного Благого
+098 bka' brgyad bde gshegs 'dus pa las/ 'dul ba gri'i las [txt] Дії гачка приборкання з Союзу Восьмеричного Благого
+099 bka' brgyad bde gshegs 'dus pa las/ sgrol brgyu'i las [txt] Дії ілюзорного звільнення з Союзу Восьмеричного Благого
+100 bka' brgyad bde gshegs 'dus pa las/ srung ba 'khor lo'i gzer ka/ brda yig gis go chod par 'gyur [txt] Основа колеса захисту, що стає зрозумілим через символи з Союзу Восьмеричного Благого
+101 bka' brgyad bde gshegs 'dus pa las/ gtor ma la brten nas bzlog pa'i gzer/ smrer chen mo'i gtor bzlog gi gzhung [txt] Основа відбиття на основі торми; текст великого тор-відбиття з Союзу Восьмеричного Благого
+102 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i man ngag gces pa'i lde'u mig [txt] Драгоценний ключ наставлень Гнівного Танцю з Союзу Восьмеричного Благого
+103 bka' brgyad bde gshegs 'dus pa las/ bya khyung rgya mtsho zhes bya ba'i gzer ka'i man ngag [txt] Настанови основи, названої Озеро Гаральда з Союзу Восьмеричного Благого
+
+10) glegs bam tha pa/(10) [vol] Десятий том
+
+104 glegs bam tha pa'i bzhugs byang [txt] Опис розміщення десятого тому
+105 bka' brgyad bde gshegs 'dus pa las/ mngon spyod drag po'i gzu dpang [txt] Марка жорстокої магії з Союзу Восьмеричного Благого
+106 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i gser skyems [txt] Золота зрошення Гнівного Танцю з Союзу Восьмеричного Благого
+107 bka' brgyad bde gshegs 'dus pa las/ khro bo rol ba'i cha rkyen bla 'gugs [txt] Вступ умов Гнівного Танцю з Союзу Восьмеричного Благого
+108 'gugs pa [txt] Вступ
+109 bka' brgyad bde gshegs 'dus pa las/ drang srong gi dmod pa [txt] Зваблення мудреця з Союзу Восьмеричного Благого
+110 ltas ngan ngos 'dzin bder 'dus cha lag ni [txt] Частина об'єднання поганих знаків у визнання з Союзу Благого
+111 bka' brgyad bde gshegs 'dus pa las/ gtor ma la brten nas bzlog pa'i bsgral las don brgyad ma [txt] Вісім сенсів дій звільнення відбиття на основі торми з Союзу Восьмеричного Благого
+112 bka' brgyad bde gshegs 'dus pa las/ gzer kha'i lhan thabs spu gri ka ma la [txt] Об'єднаний метод основи, кинджал Камару з Союзу Восьмеричного Благого
+113 bka' brgyad bde gshegs 'dus pa las/ nyams lan mthil gyi gzer ka'i man ngag [txt] Настанови основи середнього досвіду та відповіді з Союзу Восьмеричного Благого
+114 bka' brgyad bde gshegs 'dus pa las/ rig 'dzin spyi bskul [txt] Загальне закликання Володарів Мудрості з Союзу Восьмеричного Благого
+115 bka' brgyad bde gshegs 'dus pa las/ gab sbas don gyi snying po [txt] Суть прихованого сенсу з Союзу Восьмеричного Благого
+116 bde gshegs sgrub pa bka' brgyad kyiHbsgral las khyad par can gab pa don snying dang 'brel ba [txt] Зв'язок з суттю сенсу прихованого, особлива дія звільнення практики Благого Восьмеричного
+117 bka' brgyad bde gshegs 'dus pa las/ khro bo rol ba'i las mtha'i rnga mong khyung gzhon gyi bzlog pa [txt] Відбиття молодого гаральда, кінцеві дії Гнівного Танцю з Союзу Восьмеричного Благого
+118 bka' brgyad bde gshegs 'dus pa las/ rnga mong khyung bzlog gi gshoms kyi bca' gzhi ste bzlog pa'i smreng [txt] Основа рішення відбиття барабана та гаральда, намисто відбиття з Союзу Восьмеричного Благого
+119 bka' brgyad bde gshegs 'dus pa las/ dam can spyi bskul [txt] Загальне закликання обітників з Союзу Восьмеричного Благого
+120 bka' brgyad bde gshegs 'dus pa las/ dam can sgos su bskul ba/ dam can sgos su bskul pa bka' brgyad bde gshegs 'dus pa'i cha lags yin [txt] Закликання обітників на мету, частина Союзу Восьмеричного Благого з Союзу Восьмеричного Благого
+121 dam can sgos bskul bsdus pa bde gshegs 'dus pa'i cha lag [txt] Збірка закликань обітників на мету, частина Союзу Благого
+122 bka' brgyad bde gshegs 'dus pa las/ gtor bzlog gzer kha'i lhan thabs rgyal mtshan rnam pa dgu'i bzlog gzhung [txt] Текст відбиття дев'яти форм перемоги, об'єднаний метод основи тор-відбиття з Союзу Восьмеричного Благого
+123 bka' brgyad bde gshags 'dus pa las/ khro bo rol pa'i cha rkyen rgyal mtshan dgu'i bzlog pa [txt] Відбиття дев'яти знаків перемоги, умови Гнівного Танцю з Союзу Восьмеричного Благого
+124 rgyal mtshan dgu yi man ngag gud du gab pa [txt] Приховані настави дев'яти знаків перемоги
+125 bka' brgyad bde gshegs 'dus pa las/ mthar gtor ma gcig tu sgril ba'i man ngag lag len gyi bskul pa dang bcas pa [txt] Закликання з наставленнями практики збирання в одну кінцеву торму з Союзу Восьмеричного Благого
+126 bka' brgyad bde gshegs 'dus pa las/ pho nya bskul cing zor 'phang ba'i 'phyong dbu phyogs [txt] Верхня частина викиду закликання хлопця та дівчини з Союзу Восьмеричного Благого
+127 bka' brgyad bde gshegs 'dus pa las/ gzer kha'i 'phyong smad bskul gyi byang bu [txt] Нижня частина основи, текст закликання викиду з Союзу Восьмеричного Благого
+
+nang gi sgo dbye la [sec] Поділ внутрішніх дверей
+
+128 bka' brgyad bde gshegs 'dus pa las/ gzer kha'i 'phyong sgo 'byed zor 'phon [txt] Відкриття дверей викиду основи, звук викиду з Союзу Восьмеричного Благого
+129 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i zor gyi lam sel gser sgyems 'debs [txt] Зрошення золотом, що очищує шлях викиду Гнівного Танцю з Союзу Восьмеричного Благого
+130 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i 'debs kya'i bzlog byang [txt] Текст відбиття вхідного викиду Гнівного Танцю з Союзу Восьмеричного Благого
+131 bka' brgyad bde gshegs 'dus pa las/ 'debs kha dgu'i gzer kha dang las phran bcu gcig [txt] Дев'ять входів основи та одинадцять другорядних дій з Союзу Восьмеричного Благого
+132 bka' brgyad bde gshegs 'dus pa las/ kha bsgyur bcu gnyis gzer kha'i skor/ phyi nang gsangs gsum gtor ma'i bzlog pa/ （sprul sku myang gi gter ma'o/） [txt] Дванадцять змін рота основи; відбиття трьох зовнішнього, внутрішнього та таємного торми (терма аватара Мьян)
+133 bka' brgyad bde gshegs 'dus pa las/ kha bsgyur bcu gsum gyi gzer kha'i 'phyongs [txt] Викид тринадцяти змін рота основи з Союзу Восьмеричного Благого
+134 bde gshegs 'dus pa'i khro rol gtor bzlog gi las phran lhan thabs khro bcu'i rdzas bzlog [txt] Об'єднаний метод другорядних дій тор-відбиття Гнівного Ролі Союзу Благого, відбиття речовин десяти гнівних
+135 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i man ngag gi 'phyong [txt] Викид наставлень Гнівного Танцю з Союзу Восьмеричного Благого
+136 bka' brgyad bde gshegs 'dus pa las/ bsad pa thun gyi gzer ka [txt] Основа щоденного вбивства з Союзу Восьмеричного Благого
+137 bka' brgyad bde gshegs 'dus pa las/ drag po'i hom la brten te bsreg pa'i gzer kha dbu phyogs [txt] Верхня частина основи спалення на основі жорстокого вогню з Союзу Восьмеричного Благого
+138 bka' brgyad bde gshegs 'dus pa las/ thod pa la brten te mnan pa'i gzer ka [txt] Основа придушення на основі черепа з Союзу Восьмеричного Благого
+
+11) glegs bam da pa/(11) [vol] Одинадцятий том
+
+139 glegs bam da pa'i bzhugs byang [txt] Опис розміщення одинадцятого тому
+140 bka' brgyad bde gshegs 'dus pa las/ mchod pa phud kyi skongs [txt] Доповнення крихітної подяки з Союзу Восьмеричного Благого
+141 bde gshegs sgrub pa bka' brgyad kyi mdangs bskang chen mo [txt] Велике очищення образів практики Благого Восьмеричного
+142 bka' brgyad bde gshegs 'dus pa las/ srog chags rgyu'i skong ba [txt] Доповнення привороту життя з Союзу Восьмеричного Благого
+143 bka' brgyad bde gshegs 'dus pa las/ bskang ba mdos kyi cho ga [txt] Ритуал очищення стріл з Союзу Восьмеричного Благого
+144 bka' brgyad bde gshegs 'dus pa las/ 'khyon tshangs bshags pa'i bskang ba [txt] Очищення сповіді гріхів з Союзу Восьмеричного Благого
+145 bka' brgyad bde gshegs 'dus pa las/ gzhi bstod chen mo chos nyid don rtags la bstod pa [txt] Велика похвала основи, похвала сутності дхарми та знаків сенсу з Союзу Восьмеричного Благого
+146 bka' brgyad bde gshegs 'dus pa las/ gtso bo dgu'i bstod pa chos nyid don rtags la bstod pa [txt] Похвала дев'яти головних, похвала сутності дхарми та знаків сенсу з Союзу Восьмеричного Благого
+147 zhi khro bka' brgyad kyi lha tshogs la bstod pa bstod 'bum ltar du bstod pa [txt] Похвала натовпу божеств Спокою та Гніву Восьмеричного, як сто тисяч похвал
+148 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i stod las zhi ba gzhi bstod [txt] Початкова похвала основи Спокою Гнівного Танцю з Союзу Восьмеричного Благого
+149 bka' brgyad bde gshegs 'dus pa las/ bskul chen lha'i sku mdog phyag mtshan nas bskul ba [txt] Велике закликання від форми, кольору та атрибутів божеств з Союзу Восьмеричного Благого
+150 bka' brgyad bde gshegs 'dus pa las/ dkon mchog spyi bskul 'bring po/ mtshan nas bskul ba'o [txt] Середнє загальне закликання Трьох Драгоценностей за знаками з Союзу Восьмеричного Благого
+151 bka' brgyad bde gshegs 'dus pa las/ spyi bskul chung ba'i byang bu [txt] Короткий текст загального закликання з Союзу Восьмеричного Благого
+152 bka' brgyad bde gshegs 'dus pa las/ bskyed rdzogs gsum gyi gdams pa [txt] Настанови трьох генерацій та завершення з Союзу Восьмеричного Благого
+153 bka' brgyad bde gshegs 'dus pa las/ sngags kyi yan lag lnga / thog mar sngags bsgrub pa'i man ngag rin po che'i phreng ba [txt] П'ять гілок мантр; спочатку коштовне намисто наставлень практики мантр з Союзу Восьмеричного Благого
+154 bka' brgyad bde gshegs 'dus pa las/ thun mong gi rnal 'byor lnga la/ thog mar chos spyod nar ma'i rnal 'byor yan lag 'dun pa [txt] П'ять загальних йог; спочатку шоста гілка йоги поведінки дхарми з Союзу Восьмеричного Благого
+
+12) glegs bam na pa/(12) [vol] Дванадцятий том
+
+155 glegs bam na pa'i bzhugs byang [txt] Опис розміщення дванадцятого тому
+156 bka' brgyad bde gshegs 'dus pa las/ khyad par gnad kyi rdzogs rin lnga/ thog mar lha la brten te bskyed pa'i rdzogs rims [txt] П'ять ключових завершення; спочатку етапи завершення, що спираються на божество для генерації з Союзу Восьмеричного Благого
+157 bka' brgyad bde gshegs 'dus pa las/ sku gsum gyi gzer lnga / yi dam gyi lha la gzer gdabs pa sku gsum gyi man ngag [txt] П'ять основ трьох тіл; наставлення трьох тіл, що покривають основу божества-їдама з Союзу Восьмеричного Благого
+158 bka' brgyad bde gshegs 'dus pa las/ drag sngags 'bring po'i sgrub thabs gtor 'bul dbang chog rang 'khor srung ba mdzog sob dang drag sngags rnams [txt] Середні жорстокі мантри, ритуал подання торми, повне охоронне коло, завершення та жорстокі мантри з Союзу Восьмеричного Благого
+159 bka' brgyad bde gshegs 'dus pa las/ drag sngags kyi sngags 'bum chen mo [txt] Велике ста тисяч мантр жорстоких мантр з Союзу Восьмеричного Благого
+160 bka' brgyad bde gshegs 'dus pa las/ drag sngags chung pa [txt] Короткі жорстокі мантри з Союзу Восьмеричного Благого
+161 bka' brgyad bde gshegs 'dus pa las/ sngags sgrub nang ma'i dbang chog pad+ma shel phug [txt] Ритуал посвячення внутрішньої практики мантр, кришталева печера Падми з Союзу Восьмеричного Благого
+162 'dzab bstod bsdus pa [txt] Збірка глибоких похвал
+163 bka' brgyad bde gshegs 'dus pa las/ khab sgyur drug pa'i phrin las [txt] Шість змін кордонів дій з Союзу Восьмеричного Благого
+164 bka' brgyad bde gshegs 'dus pa las/ bka'i bstan srung gi skor [txt] Цикл охорони вчень з Союзу Восьмеричного Благого
+165 dpal ldan mgon po bston bsrungs yongs rdzog kyi phrin las [txt] Повні дії славного захисника вчень
+166 bde gshegs bsgrub pa bka' brgyad kyi srin mo nyer brgyad kyi spyan 'dren [txt] Притягання двадцяти восьми срімо практики Благого Восьмеричного
+167 bka' brgyad bde gshegs 'dus pa las/ dregs pa'i sde dpon sum cu'i las tshogs sgrub thabs dbang chog dang bcas pa [txt] Збірка дій тридцяти ватажків перешкодників з практикою та ритуалом посвячення з Союзу Восьмеричного Благого
+168 bka' brgyad bde gshegs 'dus pa'i bka' srung gter srung chen po bsnyon ka'i gsol mchod [txt] Велике моління охоронця вчень та скарбів Союзу Восьмеричного Благого
+169 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen sman rag gtor ma 'bul pa'i mchod phreng [txt] Намисто подання торми ліків та крові, умови Гнівного Танцю з Союзу Восьмеричного Благого
+170 bka' brgyad bde gshegs 'dus pa las/ tshig bzhi dang drug pa'i bstod pa dang bskul ba [txt] Похвали та закликання чотирьох і шести слів з Союзу Восьмеричного Благого
+171 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i stod las khyung gi las byang [txt] Текст дій гаральда, початкові дії Гнівного Танцю з Союзу Восьмеричного Благого
+172 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen dbang bcol gsol ba [txt] Молитва прохання благословення, умови Гнівного Танцю з Союзу Восьмеричного Благого
+173 bsgrub pa bka' brgyad kyi gab don bdun bsdus pa [txt] Збірка семи прихованих сенсів практики Восьмеричного
+174 mtshams lha bskyed pa [txt] Генерація божеств проміжків
+175 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i e khang bskyed pa [txt] Генерація дому Е Гнівного Танцю з Союзу Восьмеричного Благого
+176 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i bar las ling ga brid pa [txt] Середні дії, чотири перерви Гнівного Танцю з Союзу Восьмеричного Благого
+177 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i las mtha' phur pa che bskyed [txt] Генерація великого викиду, кінцеві дії Гнівного Танцю з Союзу Восьмеричного Благого
+178 bka' brgyad bde gshegs 'dus pa'i lha la phyag 'tshal lo/ phur skor la [txt] Преклоніння перед божествами Союзу Восьмеричного Благого / Цикл кіл
+179 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen zil gnon che ba bskyed pa [txt] Генерація великого придушення, умови Гнівного Танцю з Союзу Восьмеричного Благого
+
+thun dbab pa'i las [sec] Дії щоденного спуску
+
+180 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i bar las tshe lung dang khrus lung [txt] Середні дії вдухання життя та очищення Гнівного Танцю з Союзу Восьмеричного Благого
+181 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i man ngag gab pa don bdun 'bring po [txt] Середні сім прихованих сенсів наставлень Гнівного Танцю з Союзу Восьмеричного Благого
+182 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i gyer don bdun bsdus pa [txt] Збірка семи танцювальних сенсів Гнівного Танцю з Союзу Восьмеричного Благого
+183 bka' brgyad bde gshegs 'dus pa las/ dpal dgya'i 'khor lo'i ma phyi [txt] Зовнішня мати колеса Дґя з Союзу Восьмеричного Благого
+184 bka' brgyad bde gshegs 'dus pa las/ khyung gi lto 'khor gud du sbas pa'i man ngag [txt] Приховані наставлення кола серця гаральда з Союзу Восьмеричного Благого
+185 bka' brgyad bde gshegs 'dus pa las/ bya khyung rgyal po'i lo rgyus dang bstod bskul [txt] Історія короля гаральда та похвала-закликання з Союзу Восьмеричного Благого
+
+13) glegs bam pa pa/(13) [vol] Тринадцятий том
+
+186 glegs bam pa pa'i bzhugs byang [txt] Опис розміщення тринадцятого тому
+187 bka' brgyad bde gshegs 'dus pa las/ khyung gi lus la lha bkod/ gzer ka'i man ngag bya lung nas byung ba [txt] Розміщення божеств у тілі гаральда; наставлення основи, що виникли з пір'я птахів з Союзу Восьмеричного Благого
+188 bka' brgyad bde gshegs 'dus pa las/ khyung gi spyan 'dren mchod bstod [txt] Притягання, подяка та похвала гаральда з Союзу Восьмеричного Благого
+189 dpal chen khyung dgu'i bzlog pa [txt] Відбиття дев'яти великих гаральдів
+190 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i khyung bzlog gi lhan thabs [txt] Об'єднаний метод відбиття гаральда Гнівного Танцю з Союзу Восьмеричного Благого
+191 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen bya khyung gi bzlog pa [txt] Відбиття птаха-гаральда, умови Гнівного Танцю з Союзу Восьмеричного Благого
+192 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i lhan thabs mdun bskyed gru chad dgu pa [txt] Дев'ять перерв генерації переднього об'єднаного методу Гнівного Танцю з Союзу Восьмеричного Благого
+193 bka' brgyad khro rol gyi bcas chog chen mo phrin las myur 'gyur kyi nang nas btus pa'i gdab las zor gyi bskul ba [txt] Закликання викиду дій покриття, зібране зсередини великого ритуалу прискорених дій ролі Гніву Восьмеричного
+194 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i bzlog gzhung chung ngu [txt] Короткий текст відбиття Гнівного Танцю з Союзу Восьмеричного Благого
+195 khro bo rol ba'i bzlog slob dpon pad+mas mdzad pa'i dbu phyogs [txt] Верхня частина відбиття ролі Гнівного, складена учителем Падмою
+196 bka' brgyad bde gshegs 'dus pa'i gtor ma la brten pa'i gzer kha las bsad bzlog 'khor lo khyung [txt] Колесо вбивства-відбиття від основи на основі торми Союзу Восьмеричного Благого, гаральд
+197 bka' brgyad bde gshegs 'dus pa'i sngags bzlog chen mo khro bo rol pa'i gdab sngags drag po [txt] Велике відбиття мантр Союзу Восьмеричного Благого, жорстокі покривні мантри ролі Гнівного
+198 bka' brgyad bde gshegs 'dus pa las/ gtor bzlog gi gzer las sngags 'bum bzlog byed las kyi ti ka [txt] Нотатки до дій відбиття ста тисяч мантр від основи тор-відбиття з Союзу Восьмеричного Благого
+199 bde gshegs bsgrub pa bka' brgyad kyi gtor bzalog ltas ngan dmigs bsgral [txt] Звільнення фокусу поганих знаків тор-відбиття практики Благого Восьмеричного
+200 bka' brgyas bde gshegs 'dus pa las/ hUM mdzad than bzlog gi gtor ma [txt] Торма відбиття дії ХУМ з Союзу Восьмеричного Благого
+201 khro bo rol pa'i than bzlog gi las mtha'aH mi chen yo lde [txt] Кінцеві дії великого йоги відбиття дії ролі Гнівного
+202 bka' brgyad bde gshegs 'dus pa las/ ltas ngan nad bdag mo'i bzlog pa [txt] Відбиття богині хвороби поганих знаків з Союзу Восьмеричного Благого
+203 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen dregs pa sde brgyad kyi bzlog pa [txt] Відбиття восьми груп перешкодників, умови Гнівного Танцю з Союзу Восьмеричного Благого
+204 bka' brgyad bde gshegs 'dus pa las/ bzlog pa'i las mde'u sde brgyadadril bzlog [txt] Відбиття восьми груп куль відбиття дій з Союзу Восьмеричного Благого
+205 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen brtan ma bcu gnyis kyi bzlog pa [txt] Відбиття дванадцяти стабільних матерів, умови Гнівного Танцю з Союзу Восьмеричного Благого
+
+sngags bzlog [sec] Відбиття мантр
+
+206 bka' brgyad bde gshegs 'dus pa las/ khro bo rol man ngag bka' srung kyi sngags byang [txt] Текст мантр охорони вчень наставлень ролі Гнівного з Союзу Восьмеричного Благого
+207 bde gshegs sgrub pa bka' brgyad las/ khro bo rol pa'i ltas ngan bzlog pa'i las mtha' snying gi dum bu [txt] Кінцеві дії відбиття поганих знаків ролі Гнівного практики Благого Восьмеричного, серцевий шматок
+208 ltas ngan brgyad cu'i bzlog pa [txt] Відбиття вісімдесяти поганих знаків
+209 bka' brgyad bde gshegs 'dus pa las/ drag bo sngags kyi bzlog pa [txt] Відбиття жорстоких мантр з Союзу Восьмеричного Благого
+210 bde gshegs bsgrub pa bka' brgyad kyi zhi bzlog bcol gdams chos nyid rang grol [txt] Настанови очищення відбиття Спокою практики Благого Восьмеричного, сутність дхарми саморозв'язання
+211 bde gshegs sgrub pa brgyad las/ srin mo za lam gyi bzlog bskul chen mo [txt] Велике закликання відбиття шляху їжі срімо практики Восьмеричного Благого
+
+'dir khro bo rol pa'i ltas ngan dmigs sogs dang srin mo'i zas sogs/ thul pa can nyi shu rtsa gcig yod [sec] Тут погані знаки фокусу ролі Гнівного тощо та їжа срімо тощо; двадцять одна груба
+
+212 bde gshegs bsgrub pa bka' brgyad kyi gtor bzlog las/ srin mo za lam gyi gsol kha [txt] Молитва шляху їжі срімо з тор-відбиття практики Благого Восьмеричного
+213 sgrub pa bka' brgyad kyis dmod byang ; [txt] Текст зваблення практики Восьмеричного
+214 bka' brgyad bde gshegs 'dus pa las/ rtsang byin rlabs dang bzlog pa gtor 'bul [txt] Повне подання торми благословення та відбиття з Союзу Восьмеричного Благого
+
+khyung gi rgyal mtshan gyi bskul [sec] Закликання знаку перемоги гаральда
+
+215 bka' brgyad bde gshegs 'dus pa las/ smrer chen mo gtor bzlog gi bka' brgyad khro bo rol pa'i gtor ma la brten pa'i bzlog pa'i gzhung chen mo [txt] Великий текст відбиття на основі торми ролі Гнівного Восьмеричного тор-відбиття великого з Союзу Восьмеричного Благого
+216 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen bong zhon bzlog pa [txt] Відбиття бонґ-жон, умови Гнівного Танцю з Союзу Восьмеричного Благого
+217 bka' brgyad bde gshegs 'dus pa las/ kho bo rol pa'i cha rol pa'i cha rkyen he la 'bar ma'i bzlog pa [txt] Відбиття палаючої хела, умови ролі Кхо з Союзу Восьмеричного Благого
+218 bka' brgyad bde gshegs 'dus pa las/ dpal dgu'i khram bzlog brgya can thun mong ma yin pa'i las rim [txt] Етапи дій особливого відбиття громівниці дев'яти славних з Союзу Восьмеричного Благого
+219 bde gshegs sgrub pa bka' brgyad kyi bden stobs [txt] Сила істини практики Благого Восьмеричного
+
+zor bskyed pa [sec] Генерація викиду
+
+220 bka' brgyad bde gshegs 'dus pa las/ kho bo rol pa'i las mtha' zor gyi spyan 'dren [txt] Притягання викиду, кінцеві дії ролі Кхо з Союзу Восьмеричного Благого
+221 bka' brgyad bde gshegs 'dus pa las/ kho bo rol pa'i las mtha' zor gyi dbang bskur [txt] Посвячення викиду, кінцеві дії ролі Кхо з Союзу Восьмеричного Благого
+222 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i las mtha' zor gyi bka' bsgo [txt] Наказ викиду, кінцеві дії Гнівного Танцю з Союзу Восьмеричного Благого
+223 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i las mtha' zor bskang [txt] Очищення викиду, кінцеві дії Гнівного Танцю з Союзу Восьмеричного Благого
+224 bka' brgyad bde gshegs 'dus pa las/ zor las gnam lcags thog mda'i las rim [txt] Етапи дій блискавичної стріли викиду з Союзу Восьмеричного Благого
+225 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i zor las b+h+yo 'phen [txt] Викид бхьо дій викиду Гнівного Танцю з Союзу Восьмеричного Благого
+226 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen ngar bzlog [txt] Відбиття нґар, умови Гнівного Танцю з Союзу Восьмеричного Благого
+
+khro rol las/ zor las zor bzlog gi rim pa [sec] З ролі Гніву / Етапи відбиття викиду викиду
+de nas phyi lam bcad pa [sec] Потім зовнішній шлях відрізаний
+
+227 bde gshegs bsgrub pa bka' brgyad las/ khro bo rol pa'i zor bskul mda' zor [txt] Стріла закликання викиду ролі Гнівного практики Благого Восьмеричного
+228 bka' brgyad bde gshegs 'dus pa las/ zor mda' dgra bgegs snying gzer gyi bskul ba [txt] Закликання серцевої стріли викиду ворогів та перешкод з Союзу Восьмеричного Благого
+229 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen sngags pa rgyal rtags [txt] Знаки перемоги мантр, умови Гнівного Танцю з Союзу Восьмеричного Благого
+230 bka' brgyad bde gshegs 'dus pa las/ khro bo rol pa'i cha rkyen dngos grub len chog [txt] Дозвіл на взяття досягнень, умови Гнівного Танцю з Союзу Восьмеричного Благого
+
