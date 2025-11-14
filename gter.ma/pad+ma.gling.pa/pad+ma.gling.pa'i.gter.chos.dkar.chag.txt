@@ -34,7 +34,7 @@ padma gu ru'i lo rgyus dkar chag [sec] Зміст історії Падма Гу
 
 026 dbang bshad dgos 'dod kun 'byung [txt] Посвята — джерело всіх потреб
 027 dbang bshad nor bu'i phreng ba bdag padma gling pas sbyar ba [txt] Посвята — намисто коштовностей, складене Падма Лінгпою
-028 gu ru'i tshes bcu'i phan yon [txt] Користь десятої дня гуру
+028 gu ru'i tshes bcu'i phan yon [txt] Користь десятого дня гуру
 029 lha bsangs bar chad kun sel [txt] Очищення перешкод у димовому підношенні
 030 bsang gi lhan thabs padma gling pas sbyar ba [txt] Доповнення до димового підношення, складене Падма Лінгпою
 031 dbang gi chu bo bzhi'i gsang 'grel yang gsang [txt] Таємний коментар до чотирьох потоків посвяту
