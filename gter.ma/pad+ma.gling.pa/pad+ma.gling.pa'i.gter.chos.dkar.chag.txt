@@ -746,7 +746,7 @@ tshe khrid rdo rje phreng ba [sec] Настанова життя: ваджрне
 
 dbang gi mtshams sbyor [sec] Межові поєднання посвячень
 
-bla ma nor bu rgya mtsho [sec] Гуру Озеро Коштовностей
+bla ma nor bu rgya mtsho [sec] Лама Норбу Г'яцо
 
 608 sta gon dbang gi mtshams sbyor skal ldan sdig sgrib sreg pa'i me char [txt] Межове поєднання першого посвячення: злива вогню, що спалює гріхи щасливих
 609 rab 'byams bka' dbang gi mtshams sbyor khrom shog ma skal ldan 'dod 'jo [txt] Межове поєднання словесного посвячення безмежного: папір ринку, що доїть бажання щасливих
@@ -817,7 +817,7 @@ tshe khrid rdo rje phreng ba [sec] Настанова життя ваджрне 
 
 20) pod wa pa/ (20) [vol]
 
-bla ma nor bu rgya mtsho'i kha skong [sec] Доповнення до Гуру Озера Коштовностей
+bla ma nor bu rgya mtsho'i kha skong [sec] Доповнення до Лама Норбу Г'яцо
 
 644 bsangs chog bar chad kun sel lhan thabs dang bcas pa [txt] Ритуал очищення диму: усуває всі перешкоди з одночасним методом
 645 las byang padma'i ljon shing kha skong nag 'gros bklags chog mar sgrigs pa [txt] Доповнення до запису дій дерева лотоса: чорний крок, зібране для читання
