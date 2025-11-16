@@ -210,8 +210,8 @@ la la'i dka' thub la la'i chos dang nor/
 /sbyor rjes gnyis dang mi ldan nus pa chung/
 /rtsa ba sman du mchis na myu gu'ang sman/
 /rtsa ba dug yin myu gu smos cig dgos/
-/bsam pa dge dang mi dge'i 'phen byed las//
-dge sde gzugs brnyan che chung rjes mi 'gro/
+/bsam pa dge dang mi dge'i 'phen byed las/
+/dge sde gzugs brnyan che chung rjes mi 'gro/
 /'di ltar rtag dang mngon zhes gnyen po med/
 /yon tan gtso ldan gzhi las byung ba'i las/
 /rnam pa lnga po dge sdig lci yang gi/
@@ -350,10 +350,10 @@ tshogs sbyor mthong sgom mi slob lam lngas bsdus/
 /dam la ma bzhag 'khor ba yod ma yin/
 /phung dkrol bskyed la mgo 'phang bstod pa yi/
 /ma rungs 'dod pa'i gdon dang yul gyi dug/
-phan tshun 'dzings shing gtugs pa'i btson ra nas/
+/phan tshun 'dzings shing gtugs pa'i btson ra nas/
 /thar pa'i skabs med nyam thag skyo ba 'phel/
 /bde ba 'dod la mngon sbyor brtson pa dag/
-gti mug mthus non sdug bsngal rgyu 'bras kyis/
+/gti mug mthus non sdug bsngal rgyu 'bras kyis/
 /mtshon cha rnon po'i dbal la brten byas pas/
 /gnod pa'i gnas su rang nyid yang dag sbyar/
 /mar me'i gzugs dang phye ma leb bzhin du/
@@ -471,7 +471,7 @@ rba rlabs ca co sgrog 'di ma bzlog na/
 /ma rig rnam shes khu khrag dbus na brten/
 /mer mer nur nur ltar ltar mkhrang gor nya/
 /rus sbal bzhin te bdun phrag bdun rtsa drug/
-gnas 'gyur yid mi 'ong ba'i rnam pa la/
+/gnas 'gyur yid mi 'ong ba'i rnam pa la/
 /dbang po yan lag ba spu la sogs 'grub/
 /bdun phrag sum cu rtsa bdun grangs snyed tshe/
 /brtas dang cher bskyed g.yo zhing chor bas gdung/
@@ -808,7 +808,7 @@ de las reg pa reg las tshor ba ste/
 /sngon chad bsod nams la gus mngon rtags yin/
 /ma bsgom pas ni rig pa 'joms shing 'ong/
 /rgyags pa rgyas pas dpal 'byor 'joms shing 'ong/
-/rnam par sdang bas legs tshogs 'joms shing 'ong/ 
+/rnam par sdang bas legs tshogs 'joms shing 'ong/
 
 /chags pas yang dag mtho ba 'joms shing 'ong/
 /gang phyir las dang nyon mongs sdig pa yis/
@@ -1324,7 +1324,7 @@ des kyang mtshon par dpe med yid kyis sprul/
 /skya rengs mdun du nam mkha'i snying po la/
 /bos nas yan lag bdun pas ltung ba dang/
 /bdag bde gzhan la yang dag spo ba dang/
-\/gzhan gyi sdug bsngal bdag gi khur bzod pa'i/
+/gzhan gyi sdug bsngal bdag gi khur bzod pa'i/
 /gtong len snying stobs rmad byung 'du byed cing/
 /byang chub bar du mi 'bral phyi phyir smon/
 
