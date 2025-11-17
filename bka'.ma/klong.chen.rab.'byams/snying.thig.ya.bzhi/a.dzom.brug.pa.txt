@@ -70,11 +70,7 @@ bla ma yang tig (wM) [sec]
 --- (gsal byed gron me) dpe don gsal byed sgron me/ p.164-179
 --- (gnad sgron) nyams len gnad kyi sgron me/ p.179-218
 --- ('od gsal byin rlabs kyi gnad yig) bdud rtsi ljon shing 'od gsal gyi gnad yig/ p.218-227
-
-e./ p. Immaculate Nectar, by Longchen Rabjam (བདུད་རྩི་དྲི་མེད་བཞུགས་སོ, (od gsal sgom pa'i gnad yig) bdud rtsi dri med) (227-230)
-English translation:  Immaculate Nectar, translated by Adam Pearcey, 2024.
-Colophon: This concludes the instruction for meditating on clear light entitled Immaculate Nectar composed by Longchen Rabjam, a yogin of the supreme vehicle.
-
+--- (od gsal sgom pa'i gnad yig) bdud rtsi dri med) (227-230) Immaculate Nectar བདུད་རྩི་དྲི་མེད་བཞུགས་སོ
 --- 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po/ p.230-233
 --- gnad gsum chos nyid kyi 'khor lo/ p.233-260
 --- nyin tshan 'od gsal gyi 'khor lo/ p.260-265
@@ -82,31 +78,12 @@ Colophon: This concludes the instruction for meditating on clear light entitled 
 --- rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing/ p.276-282
 --- brten pa sgo'i gegs sel gron ma snang byed/ p.282-288
 --- rig pa sems kyi gegs sel ye shes dri med/ p.288-294
-
-m. The Wish-Fulfilling Jewel Guru Practice, by Longchen Rabjam (བླ་མ་ཡིད་བཞིན་ནོར་བུ་བཞུགས་སོ, (bla ma'i thugs sgrub) bla ma yid bzhin nor bu) (294-298)
-English translation:  The Wish-Fulfilling Jewel Guru Practice, translated by Adam Pearcey, 2024.
-Colophon: This concludes the heart-practice of the guru called The Wish-Fulfilling Jewel composed by Longchen Rabjam, a yogin of the supreme vehicle. Let it be virtuous! Virtuous! Virtuous!
-
-n.The Wish-Fulfilling Jewel Yidam Practice, by Longchen Rabjam (ཡི་དམ་ཡིད་བཞིན་ནོར་བུ, (yi dam gyi tshe sgrub) yi dam yid bzhin nor bu) (298-302)
-English translation:  The Wish-Fulfilling Jewel Yidam Practice, translated by Adam Pearcey, 2024.
-Colophon: This concludes the long-life practice of the yidam called The Wish-Fulfilling Jewel composed by Longchen Rabjam, a yogin of the supreme vehicle. Let it be virtuous! Virtuous! Virtuous!
-
-o. The Wish-Fulfilling Jewel Ḍākinī Practice, by Longchen Rabjam (མཁའ་འགྲོ་ཡིད་བཞིན་ནོར་བུ, mkha' 'gro yid bzhin nor bu) (302-206)
-English translation:  The Wish-Fulfilling Jewel Ḍākinī Practice, translated by Adam Pearcey, 2024.
-Colophon: This concludes The Wish-Fulfilling Jewel Ḍākinī Practice, composed by Longhen Rabjam, a yogin of the supreme vehicle. May it be virtuous! Virtuous! Virtuous!
-
-p. The Definitive Essence of Awakening, by Longchen Rabjam (ངེས་དོན་བྱང་ཆུབ་སྙིང་པོ, nges don byang chub snying po) (306-309)
-English translation:  The Definitive Essence of Awakening, translated by Adam Pearcey, 2024.
-Colophon: This concludes The Definitive Essence of Awakening composed by Longchen Rabjam, a yogin of the supreme vehicle, at the site of glorious inconceivability. May it be virtuous! Virtuous! Virtuous!
-
-q.The Ultimate Wish-Fulfilling Essence, by Longchen Rabjam (མཐར་ཐུག་ཡིད་བཞིན་སྙིང་པོ, mthar thug yid bzhin snying po) (309-313)
-English translation:  The Ultimate Wish-Fulfilling Essence, translated by Adam Pearcey, 2024.
-Colophon: This concludes The Ultimate Wish-Fulfilling Essence composed by Longchen Rabjam, a yogin of the supreme vehicle. Let it be virtuous! Virtuous! Virtuous!
-
-r. Transference: The Essence of Clear Light, by Longchen Rabjam (འཕོ་བ་འོད་གསལ་སྙིང་པོ, pho ba 'od gsal snying po) (313-316)
-English translation:  Transference: The Essence of Clear Light, translated by Adam Pearcey, 2024.
-Colophon: This concludes the transference entitled Essence of Clear Light, composed by Longchen Rabjam, a yogin of the supreme vehicle, in the place of the Supreme Wish-Fulfilling Secret. May it be virtuous! Virtuous! Virtuous!
-
+--- (bla ma'i thugs sgrub) bla ma yid bzhin nor bu) (294-298) The Wish-Fulfilling Jewel Guru Practice བླ་མ་ཡིད་བཞིན་ནོར་བུ་བཞུགས་སོ
+--- (yi dam gyi tshe sgrub) yi dam yid bzhin nor bu) (298-302) The Wish-Fulfilling Jewel Yidam Practice ཡི་དམ་ཡིད་བཞིན་ནོར་བུ
+--- mkha' 'gro yid bzhin nor bu (302-206) The Wish-Fulfilling Jewel Ḍākinī Practice མཁའ་འགྲོ་ཡིད་བཞིན་ནོར་བུ
+--- nges don byang chub snying po (306-309) The Definitive Essence of Awakening ངེས་དོན་བྱང་ཆུབ་སྙིང་པོ
+--- mthar thug yid bzhin snying po (309-313) The Ultimate Wish-Fulfilling Essence མཐར་ཐུག་ཡིད་བཞིན་སྙིང་པོ
+--- pho ba 'od gsal snying po (313-316) Transference: The Essence of Clear Light འཕོ་བ་འོད་གསལ་སྙིང་པོ
 --- ngo sprod dran pa'i me long/ p. 316-331
 --- 'chi ltas dran pa'i me long/ p. 331-338
 --- 'chi bslu dran pa'i me long/ p. 338-347
@@ -114,13 +91,10 @@ Colophon: This concludes the transference entitled Essence of Clear Light, compo
 --- snyan brgyud 'bring po bar do 'od gsal rang snang/ p.361-379
 --- snyan brgyud chen mo nges don mngon sum rang snang/ p.379-418
 010 dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu/ [txt] (419-429)
-011 ra hu la'i gsang sgrub snying gi dum bu/ p.431-439/40. Written by klong chen rabs 'byams pa.
-012 gza bdud kyi gsang sgrub me rlung 'khyil ba/ p.441-450. Written by klong chen rabs 'byams pa.
-013 dam can gyi gsang sgrub snying gi dum bu/ p.451-463. Written by klong chen rab 'byams pa.
-014 The Essence of Luminosity, Inventory to the Lama Yangtik, by Longchen Rabjam (ཁ་བྱང་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།, kha byang 'od gsal snying po) (465-481)
-
-English translation:  The Essence of Luminosity, Inventory to the Lama Yangtik, translated by Adam Pearcey, 2024.
-Colophon: This concludes the inventory entitled Essence of Luminosity, composed at the secluded place of Orgyen Dzong on the slopes of Gangri Thökar, where glorious gods descend from heaven, by Longchen Rabjam, a yogin of the supreme vehicle. This was composed in response to a request From the excellent student Zhönnu Sangye. Generate devotion and offer heartfelt prayer. Boundless blessings and realization will arise from within. As everyone laughs in the great performance of illusion, Ha! Ha! Let the mind burst into laughter too. Let it be virtuous! Virtuous! Virtuous!
+011 ra hu la'i gsang sgrub snying gi dum bu/ p.431-439/40
+012 gza bdud kyi gsang sgrub me rlung 'khyil ba/ p.441-450
+013 dam can gyi gsang sgrub snying gi dum bu/ p.451-463
+014 kha byang 'od gsal snying po (465-481) The Essence of Luminosity, Inventory to the Lama Yangtik ཁ་བྱང་འོད་གསལ་སྙིང་པོ་བཞུགས་སོ།
 
 bi ma snying thig [sec]
 01) pod gsum pa/ bi ma snying thig (e) Volume 4 (ga) bi ma snying thig (Part 1)
@@ -136,711 +110,404 @@ bi ma snying thig [sec]
 --- (lo rgyus) lo rgyus rin po che'i phreng ba/ [cha] (84-134)
 020 kha/ gser yig can/ (gser yig) btags pas grol bar stan pa bu gcig gi gsang 'grel slob dpon dga' rab rdo rjes mdzad pa/ sangs rgyas thams cad kyi sras gcig po/ gsang ba byod pa sa bon gyi rgyud kyi don gsal bar bstan pa/ [txt] (73-272)
 021 ga/ gser yig can/ (gser yig) rdo rje chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ [txt] (273-344)
---- sangs rgyas thams cad kyi sras gcig gi rgyud kyi man ngag/ p.273-287
---- sangs rgyas kyi 'das rjes gsum/ p.287-304
+--- sangs rgyas thams cad kyi sras gcig gi rgyud kyi man ngag/ (273-287)
+--- sangs rgyas kyi 'das rjes gsum/ (287-304)
+--- sangs rgyas kyi zhal chems gnyis pa zhes bya ba (289-292) Second Testament of the Buddha, from the Vima Nyingtik སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་གཉིས་པ་ཞེས་བྱ་བ་བཞུགས་སོ
+--- sangs rgyas kyi 'das rjes gsum pa zhes bya ba (292-295) Third Testament of the Buddha, from the Vima Nyingtik སངས་རྒྱས་ཀྱི་འདས་རྗེས་གསུམ་པ་ཞེས་བྱ་བ་བཞུགས་སོ
+--- sangs rgyas kyi zhal chems dang po (295-297) First Testament of the Buddha, from the Vima Nyingtik སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་དང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+--- sangs rgyas kyi zhal chems gnyis pa/ (297-299)
+--- sangs rgyas kyi zhal chems gsum pa/ (299-304)
+--- rigs 'dzin gyi 'das rjes bzhi zhar 'byung dang bcas pa/ p.304-331 Rigdzin Testametns
+--- dga' rab rdo rje'i tshig gsum gnad du brdeg pa) (304-310) Striking the Vital Point in Three Statements, Garab Dorje’s Final Testament རིག་འཛིན་བཞིའི་ཞལ་ཆེམས་འདས་རྗེས་ཀྱི་ཡི་གེ་ལས༔ དགའ་རབ་རྡོ་རྗེའི་ཞལ་ཆེམས་ཚིག་གསུམ་གནད་དུ་བརྡེག་པ
+--- 'jam dpal bshes gnyen gyi sgom nyams drug pa/ (310-318)
+--- shri sing ha'i gzer bu bdun pa) (318-324) The Seven Nails, Śrī Siṃha’s Final Testament ཤྲཱི་སིཾ་ཧའི་ཞལ་ཆེམས་གཟེར་བུ་བདུན་པ
+--- ye shes mdo'i bzhag thabs bzhi/ (324-331)
+--- mkhas pa bye ma la'i zhal chems/ (331-344)
+022 nga/ zangs yig can/ (zangs yig) rdzogs pa chen po gsang ba snying this gi man ngag rin po che zangs yig can bzhugs so/ spros gcod dum bu bcu drug them med bzhi dang nyi shy/ (345-438)
+--- spros pa gcod pa'i sgron ma/ p.345-373
+--- (lta sgom 'byed pa'i lde mig sbas pa mig 'byed) dran pa gnad kyi gal mdo/ p. 373-378
+--- spyod pa bsdus pa'i sgron ma / p.378-381
+--- bsgom pa bsdud pa'i sgron ma/ p.381-383
+--- lta ba bsdud pa'i sgron ma/ p.383-386
+--- 'bras bu bsdud pa'i sgron ma/ p.386-390
+--- gsang ba'i yang bcud/ nyams su blang ba'i gal mdo/ p.391-397
+--- lus bcos pa'i gnad kyi man ngag gsang ba mchog tu zab pa/ p.397-399
+--- rig pa rgan mo mdzub tshugs su bstan pa'i man ngag mchog tu zab pa/ p.399-404
+--- rig pa sbar 'dzin gyi man ngag/ p.404-412
+--- rig pa'i rgyab brten bcud rnams bsdud pa'i snying po/ p.412-414
+--- 'gal ba bsdud pa'i sgron ma/ p.414-415
+--- gzhan 'dod bsdud pa'i gcud phur/p.415-419
+--- rig pa bsdud pa'i gron ma/ p.419-424
+--- rig pa sky gsum du gtan la dbab pa sku gsum bsdud pa'i gron ma/ p.424-426
+--- lta sgom spyod pa bsdud pa'i sgron ma/ p.426-427
+--- rig pa thig le nyag gcig tu gtan la phab pa nyag gcig bsdud pa'i sgron ma/ p.427-429
+--- dge sdig bsdud pa'sgron ma/ p.429-438
+
+(nga) bi ma snying thig (part 2) Volume 4
+
+023 ca/ phra yig/ (phra yig) rin po che rlung gi pra khrid/ (1-262)
+--- rin po che rlung gi phra khrid/ (1-20)
+--- gsang ba yi ge ma ru'i yang tig/ nyams len bsdud pa'i sna khrid/ yang gsang sbas pa'i ti ka/ gsang ba yi ge dmar ru'i yang tig/ (20-28)
+--- gnas pa lus kyi gnad yig yang tig gsang ba/ (28-30)
+--- nyams su blangs pas zag med du mya ngan las 'das pa'i man ngag mchog gi snying po/ (30-38)
+--- yang 'byed sbas pa'i nyams su len pa dngos gzhi'i gnad yid chen mo/ (38-42)
+--- man ngag mdo byang bsdud pa'i sgron ma/ (42-47)
+--- dmigs gtad gsal ba'i sgron me/ (47-53)
+--- gsang ba chen po'i rtags kyi yi ge/ (53-75)
+--- gsang ba chen po'i tshad kyi ge/ (75-91)
+--- mngon sum snying thig gsang ba'i yi ge dmar ru'i rgyab yig/ stod cha/ (91-106)
+--- zangs yig can gyi snang byed sgron ma/ rgyab yig gi smad cha/ (106-150)
+--- gsang ba bla med sgron ma dgu skor gyi gdams pa/ (150-237)
+--- yang snying bcud kyi dum bu/ (237-250)
+--- yang snying 'phrul gyi dum bu/ (251-262)
+024 cha/ dung yig can/ (dung yig) dung yig can rgyud kyi khong don bsdud pa sgron ma snang byed/ (263-422)
+--- mdo rgyud kun gyi don gsal bar byed pa/ (263-368)
+--- dung yig can gyi rgyab yig ste gnad kyi yi ge/ rgyud kyi gnad yig gsang ba/ (368-408)
+--- dung yig can rgyud kyi khong snying bsdebs pa/ (408-422)
+025 ja/ g.yu yig/ (g.yu yig) g.yu yig can po ti smug chung gi skor/ ma yig bu yig bsdoms pas skabs don bcu gnyis dang thor bu'i skor/ (423-586)
+
+(ca) bi ma snying thig (Part 3) Volume 5
+
+026 nya/ (kha byang) man ngag nges pa'i kha byang ming rnam par khod pa/ (1-10)
+027 ta/ man ngag dum dum khrigs dum bu bdun cu rtsa bzhi pa/ (11-426)
+--- (dum dum khrigs) yang gsang dum dum khrigs khrid gsang ba'i them yig gnad kyi gal mdo/ p.11-52
+--- (khyung chen mkha' lding) khyung chen mkha' lding/ khregs chod kyi yi ge/ man ngag zhe bzhi pa/ p.52-63
+--- (sems dmigs rnams bshad) sems kyi dmigs drug gi rnam par bshad pa/ man ngag zhe dgu pa/ p.63-246
+--- (spros med dbang tig) spros med dbang gi ti ka/ man ngag nga bzhi pa/ p.246-266
+--- (spros med dbang tig) dbang bskur rim par 'jug pa'i dus bshad pa/ p.266-275
+--- (ru shan pra khrid) shin tu spros med kyi dbang 'khor 'das ru shyan dbye ba'i lag len pra khrid/ man ngag nga drug pa/ p.275-282
+--- (dbang gi phra tig) shin tu spros pa med pa'i dbang gi phra tig/ man ngag nga drug pa/ p.283-334
+--- (rab tu spros med dbang) rab tu spros med pa'i dbang/ man ngag nga drug pa/ p.334-345
+--- (dbang bzhi'i rim pa) zangs yig can gyi dbangs bzhi'i rim pa ston pa'i gnad rnams/ lung med/ p.345-364
+--- (spros med dbang chog) spros med kyi dbang chog/ p.364-391
+--- (dam tshig rab 'byed) dam tshig rab 'byed/ man ngag nga brgyad pa/ p.391-427
+028 tha/ (lo rgyus chen mo) rdzogs pa chen po snying tig gi los rgyus chen mo/ man ngag brgya bcu dgu'i nang tshan dgu bcu pa/ (427-606)
+--- lo rgyus chen mo/ (427-510)
+--- (lo rgyus smad pa) lo rgyus chen mo'i smad cha/ gnas ' byed bdun pa/ (510-606)
+
+(cha) Vima Nyingtik (Part 4) Volume 6
+
+029 da/ sangs rgyas kyi 'das rjes gsum gyi rgyud/ man ngag go gcig pa/ (1-316)
+--- ('das rjes) dga' ldan gnas su sangs rgyas kyi zhal chems dang po'i rgyud/ (1-10)
+--- ('das rjes) dga' ldan gyi gnas sangs rgyas kyi zhal chems gnyis pa'i rgyud/ (10-14)
+--- ('das rjes) dga' ldan su sangs rgyas kyi zhal chems gsum pa'i rgyud/ p.14-18
+--- (rgya mtsho ar gtad) rang gnas chen po rgya mtsho ar la gtad pa/ man ngag brgya bcu bzhi pa/ p.18-24
+--- (ar gtad man ngag) rgya mtsho ar la gtad pa'i man ngag snang ba 'dus pa'i gal mdo/ man ngag brgya bcu bzhi pa'i nang tshan/ p.24-32
+--- (bdud rtsi snying thig) bdud rtsi snying gi thigs pa/ man ngag brgya bcu bzhi'i nang tshan/ p.32-42
+--- (rig pa'i gnad don) rig pa'i gnad don lta ba/ man ngag brgya bcu bzhi'i nang tshan/ p.42-46
+--- (thod rgal bogs 'don) thod rgal gyi bogs 'don ar gtad kyi gdams pa snying gi yang zhun/ man ngag brgya bcu bzhi'i dgongs 'grel gyi nang tshan/ p.46-61
+--- (smug nag khros ma) smug nag khros ma rag gdong ma'i dus gnad nges pa/ p.61-70
+--- (zab don bzhi'i debs) zab pa pod bzhi'i ngo bo nyid kyi debs/ lung med/ p.70-72
+--- (them byang) man ngag brgya bcu dgu'i them byang/ p.72-78
+--- (dbang khrid) spros bcas dbang gi phyag bzhes dang po'i dpe las lag len khrigs su debs pa lce btsun senge dbang phyug gis mdzad pa/ man ngag gnyis pa nang tshan gyi dgongs 'grel/ p.78-96
+--- (spros med dbang bkod) spros pa med pa'i dbang bskur ba rin po che'i bkod pa/ man ngag nga bzhi pa/ p.96-106
+--- (spros med dbang bskur) spros med dbang bskur rin chen bkod pa'i gnad kyi yi ge dam pa/ man ngag nga bzhi pa'i gras/ p.106-112
+--- (dbang gi bum this) spros med dbang gi bum thig dang dag pa sbyar la/ lung med/ p.112-116
+--- (shin tu spros med) shin tu spros med pa'i skal ldan gyi dbang/ lung med/ p.116-128
+--- (dbang gi ti ka) spros med dbang gi ti ka/ lung med/ p.128-157
+--- (spros dbang) rdzogs pa chen po snying thig spros bcas kyi dbang lce btsun gyis mdzad pa/ p. 157-176
+--- (dbang gsum) rdzogs pa chen po'i dbang gsum/ p.176-193
+--- (spros med) shin tu spros med kyi dbang/ p.193-206
+--- (rab tu sprod med) rab tu spros med kyi dbang/ p.206-218
+--- (phra Tig) dbang bzhi'i dus dang mtshan ma bstan pa'i phra Tig/ p.218-230
+--- (lags khrigs) nyams len lag khrigs ma'i khrid ngo mtshar can/ p.230-291
+--- (rgyab yig) gcud phur gsum gyi rgyab yig gsang ba'i man ngag/ p.291-298
+--- (gnad sgron) gcud phur gsum gyi rgyab yig gnad bsdud sgron/ p.298-306
+--- (mig sgron) bsam gtan mig gi sgron ma/ p.306-312
+--- (lce btsun mgur) nye/ rten 'brel bsdud pa'i sgron ma dang/ nyo/ rdor sems dmigs drug rtsa ba bcas dpe mdon slar 'dir 'jug/ p.312-313
+--- (dkyil 'khor bri tshul) bi ma snying thig gi spros med dbang dkyil…/ p.313-316 Song of Realization by Chetsün Sengé Wangchuk ལྕེ་བཙུན་གྱི་མགུར
+030 na/ (tshig don bcu pa) bla ma'i rim pa tshig don bcu pa/ p.317-340
+031 pa/ tshig don bcu gcig pa/ p.341-406.
+032 pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa/ p.407-424
+--- pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa) (416-420) Biography of Zhang Nyibum, from the Vima Nyingtik, by Longchen Rabjam ཞང་ཉི་འབུམ་གྱི་རྣམ་ཐར་བཞུགས།
+--- pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa) (420-423) Biography of the Dharma Lord Guru Jober, from the Vima Nyingtik, by Longchen Rabjam ཆོས་བདག་གུ་རུ་ཇོ་འབེར་གྱི་རྣམ་ཐར་བཞུགས།
+033 ba/ (seng ge) 'khrul zhig seng ge rgyab pa'i rnam thar/ p.425-446
+--- (above work) p. 425-432
+--- (seng ge) grub thob me long rdo rje'i rnam thar/ p.432-446
+034 ma/ (me long) grub thob me long rdo rje'nam thar dri log ma/ p.447-454
+035 tsa/ (ku ma) rig 'dzin chen po ku ma ra dza'i rnam thar lo rgyus dang bcas pa/ p.455-498
+036 tsha/ (kun khyen) kun khyen dri med 'od zer gyi rnam thar mthong ba don ldan/ 499-590 
+037 dza/ ('od gsal) rin po che 'od gsal rang grol gyi rnam thar par/ p.591-610
+038 wa/ ('khrul zhig) 'khrul zhig sangs rgyas dbon po'i rnam thar nyid kyis mdzad pa nor bu'i gsal byed/ p.611-665
+039 zha (grags pa) chos kyi rje mtshungs med grags pa rgya mtsho'i rnam thar me tog gi phreng ba/ p.666-714
+
+(ja) mkha' 'gro yang tig (Part 1) Volume 7 (om)
+
+040 (them byang) them byang rin chen ljon shing/ p.1-14
+041 gter 'byung rin po che'i lo rgyus (i.e. rin chen shog skya'i skor)/ p.15-499
+--- (lo rgyus) gter 'byung rin po che'i lo rgyus/ p.16-120
+--- (dbang phreng) rin po che dbang gi phreng ba/ p.121-226
+--- (bdag 'jug) bdag 'jug padma klong yangs/ p.226-254
+--- (tshogs mchod) tshogs mchod rgya mtsho'i sprin/ p.254-276
+--- (phyag 'tshal) phyag 'tshal dri med zla rgyas/ rin chen shog 'dra (276-282) Immaculate Full Moon Homage, by Longchen Rabjam ཕྱག་འཚལ་དྲི་མེད་ཟླ་རྒྱས་བཞུགས
+--- (gsol 'debs) gsol 'debs bdud rtsi'i chu rgyun) (282-287) The Constant Flow of Nectar Prayer, by Longchen Rabjam །གསོལ་འདེབས་བདུད་རྩིའི་ཆུ་རྒྱུན་བཞུགས
+--- (nor lugs) mkha' 'gro snying tig gi khrid yig nor bu lugs/ p.287-311
+--- (nyi zla) khrid yig nyi zla gza' skar lugs su gdab pa) (311-316) The Sun, Moon, Planet and Stars Instruction, by Longchen Rabjam ཁྲིད་ཡིག་ཉི་ཟླ་གཟའ་སྐར་བཞུགས་པ་ལགས་སོ
+--- (rab 'byed) zab mo rab 'byed (316-320) Analysis of the Profound, by Longchen Rabjam ཟབ་མོ་རབ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ
+--- tshogs bsag pa (320-322) Gathering the Accumulations, by Longchen Rabjam ཚོགས་བསགས་པ་བཞུགས
+--- (gser phreng) khrid yig rin po che gser gyi phreng ba/ p.322-394
+--- (nam rab) nam mkha' skor gsum las/ nam mkha' rab 'byams (khregs chod kyi yi ge)/ p.395-409
+--- (nam klong) nam mkha' klong yangs/ p.409-424
+--- (nam dri) nam mkha' dri med/ p.425-441
+--- (gser sgrom) man ngag rin po che gser gyi sgrom bu/ p.441-458
+--- (tshig don) tshig don rin po che'i bang mdzod/ p. 459-499
+042 (khrid yig)/ p.501-506. Written by gter bdag gling pa 'gyur med rdo rje
+043 (khrid yig) rdzogs pa chen po mkha' 'gro snying thig gi khrid yig zab lam gsal byed/ p.507-635. Written by gter bdag gling pa 'gyur med rdo rje at the behest of me rag chos rje padma phrin las dbang  phyug at smin grol gling
+
+(nya) mkha 'gro yang tig (Part 2) Volume 8 (ah)
+
+044 (zab don) zab don rgya mtsho'i sprin zhes bya ba bzhugs so/ shog skya'i skor/ p.1-488 An Ocean of Clouds of the Profound Reality
+045 rin chen shog skya'i skor las/ mkhagro snying tig gi man ngag zab don rgya mtsho'i khog dbub sa bcad bsdud don don gsal nyi ma'i 'od zer/ p.489-525
+--- (sa bcad) sa bcad bsdud don don gsal nyi ma'i 'od gser/ p.489-503
+--- (gsang spyod) gsang spyod rdo rje lam bstan/ p.503-525
+
+(ta) mkha' 'gro yang tig (Part 3) Volume 9 (hung)
+
+046 nges don snying po (i.e. rin chen shog ser kor)/ p.1-285
+--- (nges snying) nges don snying po/ p.2-12
+--- (thugs sgrub) byin rlabs thugs sgrub/ p.12-23
+--- (mchog sgrub) rig 'dzin mchog sgrub/ p.23-34
+--- (bskyed rim) mkha' 'gro bde chen rgya mtsho (bskyed rim yid bzhin nor bu)/ p.35-41
+--- rdzogs rim/ p.41-44
+--- (rlung drug) rlung drug rdo rje'chings/ p.44-47
+--- (rlung sbyor) rlung sbyor ye shes drwa ba/ p.47-54
+--- (zab lam) zab lam bde chen rgya mtsho/ p.54-62
+--- ('od gsal) 'od gsal 'khor lo/ p.62-74
+--- (gzhi snang) ngo sprod/ p.75-81
+--- (sbubs 'jug) 'od gsal sbubs 'jug/ p.81-92
+--- (sgron bzhi) sgron ma bzhi skor/ p.92-102
+--- (gzhi grol) 'khrul snang ngo sprod/ p.102-108
+--- (rmi lam) rmi lam sbubs 'jug/ p.108-116
+--- (dbyings snang) dbyings snang ngo sprod/ p.116-125
+--- (zab don) zab don gnad kyi lde mig/ p.125-142
+--- (pra khrid) 'od gsal pra khrid/ p.142-154
+--- (gsang lam) gsang lam rin po che'i ngo sprod/ 154-162
+--- (zab snying) zab don snying po/ p.162-170
+--- (kun 'dus) kun 'dus rin po che'i ngo sprod/ p.170-178
+--- (bar do) bar do sbubs 'jug/ p.178-185
+--- (gnad sgron) bar do gnad kyi sgron me/ p.185-195
+--- (gnad gsum) gnad gsum sgron me/ p.195-203
+--- ('od drwa) mthong snang rin po che 'od kyi drwa ba/ p.203-266 Immaculate Radiance, A Testament, by Longchen Rabjam (ཞལ་ཆེམས་དྲི་མ་མེད་པའི་འོད་ཅེས་བྱ་བ་བཞུགས་སོ། །
+--- (zhal chems) zhal chems dri ma med pa'i 'od) (266-281) Immaculate Light
+--- (zhal chems) zhal chems gnad kyi me long/ p.281-283 
+--- (zhal chems) zhal chems mthar thug gcig ma) (283-285) Ultimate Testament by Longchen Rabjam ཞལ་ཆེམས་མཐར་ཐུག་གཅིག་མ་
+047 bde gshegs rigs lnga'i sgrub thabs padma stong ldan (i.e. rin chen shog 'dra'i skor/ p.287-544
+--- (sgrub thabs) bde shegs rigs lnga sgrub thabs padma stong ldan/ p.287-299
+--- (bcud len) rigs lnga'i bcud len bdud rtsi'i thigs pa/ p.299-320
+--- (bdud rtsi sprin phung) bdud rtsi sprin phung/ p.320-339
+--- 'chi ba brtag bslu'i man ngag nyi zla gza' bral/ p.339-353
+--- (brtags grol) btags grol rgyud kyi man ngag rin chen snying po/ p.353-364
+--- (sreg sbyong) sreg sbyong 'od kyi snye ma/ p.364-376
+--- (gzhan phan) gzhan phan 'od kyi 'khor lo/ p.376-450
+--- (gnad yig) phyag rgya bzhi mchod 'od kyi 'khor lo'i gnad yig/ p.450-460
+--- (mchod rten) shog skya'i skor/ mchod rten rab gnas rin chen drwa ba/ 461-472
+--- (rab gnas) rin chen shog skya'i skor/ rab tu gnas pa'i cho ga ye shes dri med/ p.472-475
+--- (mthong snang) mthong snang rin chen gser gyi drwa ba/ p.475-486
+--- (chos srung) rin chen shog 'dra/ rdo rje g.yu sgron ma'sgrub thabs zla ba 'dod 'jo/ p.486-495
+--- (chos srung) rin chen shog 'dra/ gza' bdud gsang sgrub sdug gi spu gri/ p.495-504
+--- (chos srung) shog 'dra'i skor/ gnod sbyin dmar nag gi sgrub pa me rlung 'khyil pa/ p.504-517
+--- (chos srung) shog 'dra'i skor/ shan pa srog sgrub nag mo'i gsang sgrub dug mda' nag mo/ p.517-528
+--- (them byang) mkha' 'gro yang tig gi them byang dpag bsam ljon shing/ p.529-544
+
+Khandro Nyingtik (mkha' gro snying tig) (Part 1) Volume 10 (e)
+
+048 (kha byang) mkha' 'gro snying thig gi kha byang/ p.1-10
+049 (bla brgyud lo rgyus) rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus/ p.11-531
+--- bla brgyud lo rgyus) (11-16) History of the Lineage of Gurus of the Great Perfection’s Heart-Essence of the Ḍākinīs, by Pema Ledrel Tsal རྫོགས་པ་ཆེན་པོ་མཁའ་འགྲོ་སྙིང་ཐིག་གི་བླ་མ་བརྒྱུད་པའི་ལོ་རྒྱུས་བཞུགས་སོ༔
+--- btags grol gyi rgyud drug/ p.16-25
+--- btags grol snying po'i rgyud (16-17) Tantra of the Essence of Liberation Through Wearing, by Pema Ledrel Tsal བཏགས་གྲོལ་སྙིང་པོའི་རྒྱུད་བཞུགས་སོ༔
+--- (btags grol rgyud drug) gcig shes kun grol gyi rgyud (17-19) Tantra of the Singular Knowledge That Brings Universal Freedom, by Pema Ledrel Tsal གཅིག་ཤེས་ཀུན་གྲོལ་གྱི་རྒྱུད་བཞུགས་སོ༔
+--- (btags grol rgyud drug) gser gyi 'bru gcig pa'i rgyud (19-20) Tantra of the Unique Golden Syllable of Yangti, by Pema Ledrel Tsal ཡང་ཏི་གསེར་གྱི་འབྲུ་གཅིག་པའི་རྒྱུད་བཞུགས་སོ༔
+--- sras gcig sa bon gyi rgyud (20) The Seed Tantra That Is the Buddhas’ Only Child, by Pema Ledrel Tsal སྲས་གཅིག་ས་བོན་གྱི་རྒྱུད་བཞུགས་སོ༔
+--- (btags grol rgyud drug) rang byung rig pa'i rgyud) (20) The Tantra of Self-Emergent Awareness, by Pema Ledrel Tsal རང་བྱུང་རིག་པའི་རྒྱུད་བཞུགས་སོ༔,
+--- (btags grol rgyud drug) rang byung rig pa'i rgyud) (21-25) The Tantra of the Great Consummate Fruition, by Pema Ledrel Tsal འབྲས་བུ་ཡོངས་རྫོགས་ཆེན་པོའི་རྒྱུད་བཞུགས་སོ༔
+--- (btags grol rgyud tig) btags grol snying po'i rgyud kyi ti ka/ p.25-69 Commentary on the Essence of Liberation Through Wearing, by Pema Ledrel Tsal བཏགས་གྲོལ་སྙིང་པོའི་ཏི་ཀ་བཞུགས་སོ༔
+--- (btags grol rgyud tig) btags grol snying po'i rgyud kyi ti ka) (25-32)
+--- (btags grol rgyud tig gcig shes kun grol gyi rgyud kyi ti ka/ p.32-45
+--- (btags grol rgyud tig yang gi gser gyi 'bru gcig gi ti ka/ / p.45-48
+--- (btags grol rgyud tig) sras gcig sa bon rgyud kyi ti ka gsal byed nor bu'i phreng ba/ p.48-53
+--- (btags grol rgyud tig) rang byung rig pa'i rgyud kyi ti ka gsal byed dung gi spar khab/ p.53-57
+--- (btags grol rgyud tig) 'bras bu yongs rdzogs rgyud kyi ti ka gsal byed dri med snying po/ p.57-69
+--- (lo rgyus) kha' 'gro snying thig gi lo rgyus/ p.69-74
+--- ('das rjes gsum pa) sangs rgyas kyi 'das rjes gsum pa/ p.74-82 
+--- sangs rgyas kyi 'das rjes dang po) (74-76) First Testament of the Buddhas, by Pema Ledrel Tsal སངས་རྒྱས་ཀྱི་འདས་རྗེས་དང་པོ་བཞུགས་སོ༔
+--- sangs rgyas kyi 'das rje gnyis pa) (77-80) Second Testament of the Buddhas, by Pema Ledrel Tsal སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་གཉིས་པ་ཞེས་བྱ་བ་བཞུགས་སོ
+--- sangs rgyas kyi 'das rjes gsum pa) (80-82) Third Testament of the Buddhas, by Pema Ledrel Tsal སངས་རྒྱས་ཀྱི་འདས་རྗེས་གསུམ་པ་བཞུགས་སོ
+--- (btags grol don khrid) btags grol don khrid/ p82-106
+--- (rig lnga'i phyi sgrub) bde gshegs rig lnga'i phyi sgrub/ p.106-110
+--- (rig nga'i nang sgrub) rig lnga nang gi sgrub pa (110-112) The Inner Practice of the Five Families, from the Khandro Nyingtik, by Pema Ledrel Tsal རིགས་ལྔ་ནང་གི་སྒྲུབ་པ
+--- (spros bcas bum dbang) smin byed don gsal sgron me zhes bya ba spros bcas bum pa'i dbang/ p.112-173
+--- (gsang dbang) dbang khrid nor bu sgron gsal/ gsang dbang/ p.173-178
+--- (sher dbang) shes rab yum gyi mkha' ngo sprod/ p.178-182
+--- (tshig dbang) tshig dbang rin po che/ 182-189
+--- gsang dbang lus dkyil ngo sprod/ p.190-191
+--- (dbang bzhi) shes rab yum gyi mkha' ngo sprod/ p.191-193
+--- (dbang bzhi) dbang gi rgyab yig lag len/ p.193-198
+--- (dbang 'grel) dbang gong ma gsum gyi sa ma 'grel/ p.199-208
+--- gsang dbang gi sa ma 'grel/ p.199-202
+--- shes rab ye shes kyi sa ma 'grel/ p.202-205
+--- tshig dbang gi sa ma 'grel/ p.205-208
+--- (dbang 'grel) bde gshegs rigs lnga' mchod 'bum/ p.208-217
+--- (mchod 'bum) rigs lnga'i gtor ma'i lag len/ p.217-227
+--- (tshogs mchod) rigs lnga'i tshogs mchod/ p.221-225
+--- (las byang) mkha' 'gro'i las byang tshogs mchod rtsar phreng/ p.225-261
+--- dbang sgrub dang bum pa sgrub thabs/ p.261-264
+--- dkyil 'khor rnam dag/ p.264-267
+--- (dbang gi rgyab yig) snying thig gsang ba bla med kyi dbang don gsal ba rgyab yig gsang ba/ p.267-274
+--- (dbang gi tho yig) dbang bzhi'i go rim tho yig) (274-275) Notes on the Sequence of the Four Empowerments, by Pema Ledrel Tsal དབང་བཞིའི་གོ་རིམ་ཐོ་ཡིག་བཞུགས་སོ
+--- dbang gi rim pa khrid du bskur lugs (276) How to Bestow the Empowerments as Thematic Guidance, by Pema Ledrel Tsal དབང་གི་རིམ་པ་ཁྲིད་དུ་བསྐུར་ལུགས་བཞུགས་སོ
+--- (rtsal dbang ti ka) rtsal dbang ti ka rig pa'i sgron ma/ p.276-284
+--- (thod rgal dbang lnga) thod rgal phyad par dbang lnga/ p.284-287
+--- (thod rgal dbang lnga) ngo 'phrad nas spro ba bskyed pa'i chos bshad/ p.288-290
+--- (thod rgal dbang lnga) pra khrid chos thun khrid kyi zhag grangs/ p.290-293
+--- (dakki'i gtor ma) dakki'i gtor ma'i rim pa/ p.293-297
+--- (dakki'i tshogs mchod) dakki'i tshogs mchod/ p.297-305
+--- dbang gi rgyab yig/ p.305-311
+--- dbang gi tho yig (311-312) Notes on the Empowerments, by Pema Ledrel Tsal དབང་གི་ཐོ་ཡིག་བཞུགས་སོ
+--- (gsang dbang lhan thabs) mkha' 'gro snying thig gsang dbang gi lhan thabs/ p.312-317
+--- (dakki'i dus gnad) dakki'i dus gnad gnad 'bebs shi sa spyi gnad bla rdo/ p.317-321
+--- (nor sgrub) mkha' 'gro ma'i nor sgrub gter gyi bum pa/ p.321-328
+--- (thod rgal don khrid) thod rgal gyi don khrid nor bu'i snying po/ p.328-336
+--- (snying po gsal me) snying po gsal ba'i me long zhes bya ba'i khrid/ p.336-378
+--- (khrid rgyab) khrid rgyab lung gi phreng ba/ p.378-401
+--- (khrid rgyab) lag khrid gnad kyi man ngag phra khrid du bstan pa/ p.401-404
+--- (rtags tshad) mkha' 'gro snying tig gi rtags yig tshad yig/ p.404-411
+--- (rgyab chos) snying thig chen mo'i rgyab chos kyi rtsa ba/ p.411-474
+--- (gsang ba'i yang bcud) snying thig gsang ba'i yang bcud snying po gsal ba'i me long/ p.475-515
+--- (lta ba'i rnal 'byor) rnal 'byor bzhi/ p.515-531
+--- lta ba'i rnal 'byor (515-520) The Yoga of the View, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal རྣལ་འབྱོར་བཞི་ལས་ལྟ་བའི་རྣལ་འབྱོར་བཞུགས་སོ༔
+--- thun bzhi'i rnal 'byor las/ sgom pa'i rnal 'byor) (520-523) The Yoga of the Meditation, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal །ཐུན་བཞིའི་རྣལ་འབྱོར་ལས༔ སྒོམ་པའི་རྣལ་འབྱོར་བཞུགས་པ་ལགས་སོ
+--- rnal 'byor bzhi las/ spyod pa'i rnal byor dang) (523-526) The Yoga of the Conduct, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal རྣལ་འབྱོར་བཞི་ལས༔ སྤྱོད་པའི་རྣལ་འབྱོར་བཞུགས་སོ༔
+--- rnal 'byor bzhi las/ 'bras bu'i rnal 'byor gnyis) (526-529) The Yoga of the Fruition, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal རྣལ་འབྱོར་བཞི་ལས༔ འབྲས་བུའི་རྣལ་འབྱོར་བཞུགས་སོ༔
+
+Khandro Nyingtik (mkha' gro snying tig) (Part2) Volume 11 (wam)
+
+050 zhus len bdud rtsi gser phreng/ p.1-507
+--- (zhus len) zhus len bdud rtsi gser phreng/ p.1-34
+--- (zhal gdams) zhal gdams gsang ba'i dum bu/ p.34-70
+--- (gnad gdams) gnad kyi gdams pa lnga pa/ p.70-94
+--- (lam 'bras) dakki'i lam 'bras kyi skor/ p.94-105
+--- (lag 'grig) lag 'grig/ p.105-110
+--- (gnad thig) dakki'i gnad thig/ p.110-129
+--- (rdo rje chu 'thung) rdo rje chu 'thung/ p.129-133
+--- (zhi ba bar do) zhi ba bar do lam gyi tshan nyid/ p.133-154
+--- (khro bo bar do) khro bo bar do gnad kyi gron ma/ p.154-174
+--- (rtags rim) bar do'i gdams pa 'byung ba 'dus pa 'bral ba rtags kyi rim pa/ p.175-183
+--- (gsal 'debs) 'chi kha bar do'i gsal 'debs/ bar do gnad dum/ p.183-191
+--- (bar do'i yon tan) chos nyid bar do'i yon tan/ p.191-195
+--- (ngo sprod) bar do ngo sprod/ p.195-198
+--- ('od gsal) 'od gsal/ p.198-201
+--- (gtum mo) mkha' 'gro'i gtum mo khyed par can/ p.201-205
+--- (bcud len) 'byung ba rdo'i bcud len/ 205-211
+--- (srog sgrub) dhakki snying tig gi bkha' srung dpal srog sgrub nag mo'i srog len spu gri'i rgyud/ p.212-218
+--- (sgrub thabs) srog sgrub nag mo'i sgrubs thabs/ p.218-225
+--- (thun drug) 'gyu dus thun drug/ p.225-230
+--- (spyi gnad) spyi gnad/ p.230-234
+--- (thun drug) 'gyu dus thun drug/ p.234-235
+--- (srog sgrub) bka' srung srog sgrub nag mo'i srog dbang/ p.235-238
+--- (bla ma'i rnal byor) snying tig bla ma'i rnal byor/ p.238-246
+--- (bla ma'i rnal byor) bla ma'i rnal byor phyi nang gsang gsum/ p.246-256
+--- (ngo phrod) khregs chod ngo phrod mtha' grol klong yangs (256-266) Vast Openness Free from Extremes, An Introduction to Trekchö, by Pema Ledrel Tsal ཁྲེགས་ཆོད་ངོ་སྤྲོད་མཐའ་གྲོལ་ཀློང་ཡངས་བཞུགས་སོ
+--- (rtsal dbang) rtsal dbang/ p.267-268
+--- rgyud kyi bcangs thabs/ p.268
+--- gzhan don/ p.268-269
+--- rtags bstan/ p.269-270
+--- yon tan 'byung tshul/ p.270
+--- che ba bstan pa/ p.270-273
+--- (rigs rgyud) thigs le dwangs snyigs 'byed pa dang/ rigs rgyud gzhag thabs lag len/ p.273-280
+--- (bar do'i ngo sprod) bar do'i ngo sprod/ p.280-287
+--- mngon sum ngo sprod/ p.287-288
+--- (bar do'i mtshan nyid) bar do'i mtshan nyid bshad pa dang skye gnas rnams kyi rgyu bstan pa/ :p.288-297
+--- (btags grol) brtags grol phran drug gi ti ka/ p.297-230
+--- rtsal dbang gi ti ka rig pa'i sgron me/ p.297-305
+--- btags grol bcangs thabs kyi ti ka/ p.305-307
+--- gzhan don gyi ti ka/ p.307-308
+--- rtags bstan gyi ti ka/ p.309-313
+--- yon tan 'byung tshuul gyi ti ka/ p.313-315
+--- che ba bstan pa'i ti ka/ p.315-320
+--- (mgrin dkyil) rta mgrin yab yum gyi luis dkyil/ p.320-322
+--- (dakki'i rkyang sgrub) dakki'i rkyang sgrub/ p.322-328
+--- (dakki'i rkyang sgrub) mkha' 'gro ma'i srong gi snying po/ p.328-331
+--- (snags kyi lde bu mig) mkha' 'gro snags kyi lde mig/ p.331-333
+--- (bdud rtsi phyag mchod) snying thig gi bdud rtsi phyag mchod/ p.333-335
+--- (rtags yig) rtags yig dang tshad kyi yi ge/ p.335-342
+--- (dakki dril sgrub) dakki dril sgrub gsang be snying gi dum bu/ p.342-361
+--- (lus dkyil) dakki'i lus dkyil chen mo/ p.361-377
+--- (lung bstan) padma las 'brel rtsal gyi skyes rabs dang/ lung bstan/ p.377-394
+--- (kha byang) gter gyi kha byang/ p.394-396
+--- (lung bstan) rgyal sras legs pa'i lung bstan/ p.396-398
+--- (zhal gdams) zhal gdams gnad kyi phreng ba/ p.398-405
+--- (lo rgyus) lo rgyus rgyal ba g.yung gis mdzad pa/ p.405-422
+--- (phyag 'tshal) g.yung ston pas gsungs pa'i phyag 'tshal/ p.422-426
+--- (g.yung lo rgyus) g.yung gi lo rgyus/ p.426-431
+--- 'pho ba/ p.431-435
+--- (sgrub thabs) gter srung ldang lha'i sgrub thabs/ p.435-439
+--- (gsol 'debs) zab gsang mkha' 'gro snying thig gi gsol 'debs (440-441) Prayer of the Profound and Secret Heart-Essence of the Ḍākinīs, by Pema Ledrel Tsal ཟབ་གསང་མཁའ་འགྲོ་སྙིང་ཐིག་གི་གསོལ་འདེབས
+--- (lung bstan) brgyud 'dzin gyi slob bu'i lung bstan/ p.441-446
+--- (tshe sgrub) lha mo lnga'i tshe srgub/ p.446-450
+--- (sprul sku lung bstan) sprul sku legs pa lung bstan/ p.451
+--- (gtor dbang) mkha' 'gro snying thig las srog sgrub nag mo'i gtor dbang/ p.452-454
+--- (dbang gi lag len) mkha' 'gro yang tig gi dbang skur ba'i lag len/ mkha' 'gro snying thig gi dkyil 'khor bri tshul/ p.455-465
+--- (lo rgyus) mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba/ p.465-507
+
+Zabmo Yangtik (part 1) Volume 12 (e) bshad rgyud
+
+051 lo rgyus rin po che 'od kyi phreng ba/ p.1-477
+--- (lo rgyus) lo rgyus rin po che 'od kyi phreng ba/ p.2-30
+--- (phyag 'tshal) phyag 'tshal yid bzhin nor bu (30-39) The Wish-Fulfilling Jewel Homage, by Longchen Rabjam ཕྱག་འཚལ་ཡིད་བཞིན་ནོར་བུ་
+--- (gsol 'debs) gsol 'debs bdud rtsi'i chu rgyun) (39-45) The Constant Stream of Nectar Prayer, by Longchen Rabjam གསོལ་འདེབས་བདུད་རྩིའི་ཆུ་རྒྱུན
+--- (mandal) mandal 'bul ba'i cho ga gling bzhi'i rgyan gyur) (45-51) Adornment of the Four Continents: A Maṇḍala Offering Rite, by Longchen Rabjam མཎྜལ་འབུལ་བའི་ཆོ་ག་གླིང་བཞིའི་རྒྱན་གྱུར་བཞུགས་སོ
+--- (bi ma sgrub) gu ru bi ma la sgrub pa'i rim pa (51-56) The Stages of Accomplishment of Guru Vimalamitra, from the Zabmo Yangtik, by Longchen Rabjam ཁྱུང་ཆེན་གཤོག་རྫོགས་བཞུགས་སོ
+--- (bla sgrub) snying po ye shes kyi bla ma sgrub pa/ p.56-64
+--- (dbang chog) spros bcas kyi dbang chog dngos grub chu bo/ p.64-93
+--- (ming rim) dkyil 'khor spros bcas ming gi rim pa (93-101) List of the Names for the Elaborate Maṇḍala, by Longchen Rabjam དཀྱིལ་འཁོར་སྤྲོས་བཅས་མིང་གི་རིམ་པ
+--- (spros dbang) spros med kyi dbang chog klong gsal chu bo/ p.102-130
+--- (brda don) bum pa'i brda don/ p.130-134
+--- (spros med) shin tu spros pa med pa'i dbang chog ye shes chu bo/ p.135-153
+--- (dbang byin) rab tu spros pa med pa'i dbang chog ye shes chu bo/ p.153-163
+--- (dam bkod) dam tshig gsum bkod/ p.163-191
+--- (sngon 'gro) thun mong gi sngon 'gro rin po che'i pra khrid) (191-197) Precious Instructions on the Common Preliminaries, by Longchen Rabjam ཐུན་མོང་གི་སྔོན་འགྲོ་རིན་པོ་ཆེའི་པྲ་ཁྲིད་བཞུགས་སོ
+--- (khrid yig) khrid yig sangs rgyas mnyam sbyor/ p.197-253
+--- (ngo sprod) gzhi ma bcos ji bzhin du ngo sprod pa'i rim pa/ p.253-259) Stages of Introduction to the Unaltered Ground Just As It Is, by Longchen Rabjam གཞི་མ་བཅོས་ཇི་བཞིན་དུ་ངོ་སྤྲོད་པའི་རིམ་པ
+--- (mun khrid) rgya mtsho ar gtad kyi mun khrid 'od gsal 'khorlo/ p.259-267
+--- (gshog rdzogs) khyung chen gshog rdzogs/ khregs chod don gyi mdo chings) (267-276) The Fully Fledged Garuḍa, by Longchen Rabjam ཁྱུང་ཆེན་གཤོག་རྫོགས་བཞུགས་སོ
+--- (bsdud don) khyung chen gshog rdzogs kyi bsdud don) (276-280) Synopsis of the Fully Fledged Garuḍa, by Longchen Rabjam ཟབ་མོ་བཅུད་བསྡུས
+--- (gsang spyi) gsang ba bla med spyi babs/ p.280-285 
+--- (bcud bsdus) zab mo bcud bsdus) (285-288) Encapsulation of the Profound, by Longchen Rabjam ཟབ་མོ་བཅུད་བསྡུས
+--- (don bsdud) snying po don bsdus/ p.288-290
+--- ('od snying) 'od gsal snying po (291-293) The Heart of Definitive Meaning, by Longchen Rabjam ངེས་དོན་སྙིང་པོ
+--- (don snying) nges don snying po/ p.293-295
+--- (don snying) mthar thug don gyi snying po/ p.295-309
+--- (gzhi 'bras) gzhi lam 'bras bu'i gnas gsal ba/ p.310-323
+--- (gzhi rim) rnal 'byor bzhi'i rim pa/ p.323-371
+--- (zab pra) zab mo pra khrid/ p.371-391
+--- (yang bcud) snying po'i yang bcud/ p.391-400
+--- (brtul spyod) rig pa brtul zhugs kyi spyod pa/ p.400-406
+--- (dus gsal) dus kyi gsal byed/ p.406-420
+--- (man ngag) 'da' kha don gyi man ngag/ p.420-437
+--- (man ngag) btags grol snying po/ p.437-445
+--- (zab don) zab don snying po/ p.446-467
+--- (tshig don) tshig don snying po/ p.467-468
+--- (gdams khrid) gdams khrid don gyi mdo chings/ p.468-477
+
+zab mo yang tig (Part 2) This volume is devoted to the whispered lineage (nyengyu) Volume 13 (wam)
+
+052 (mdo chings) snyan brgyud gnad kyi mdo chings/ p.1-11
+053 (phyag 'tshal) brgyud pa'i phyag 'tshal byin rlabs sprin phung/ p.11-18
+054 (dgongs brgyud) dgongs brgyud gsol 'debs/ p.18-23
+055 (gsol 'debs) gsang skor bla brgyud gsol 'debs) (23-27) Prayer to the Lineage of Gurus of the Secret Cycle, by Longchen Rabjam གསང་སྐོར་བླ་མ་བརྒྱུད་རིམ་གྱི་གསོལ་འདེབས་སོ
+056 (gsol 'debs) gsol 'debs dngos grub kun 'byung) (27-33) Prayer Which Is the Source of All Attainments, by Longchen Rabjam གསོལ་འདེབས་དངོས་གྲུབ་ཀུན་འབྱུང་བཞུགས་སོ
+057 (dbang gi lag len) dbang gi lag len gsal ba'i sgron me/ p.33-51
+058 (lam khrid) mchog gsang lam khrid chen mo (51-55) Great Guide to the Supreme Secret Path, by Longchen Rabjam མཆོག་གསང་ལམ་ཁྲིད་ཆེན་མོ
+059 (ye grol sor bzhag) ye grol sor bzhag/ p.55-67
+060 (snyan brgyud) snyan brgyud thugs kyi me long/ p.67-84
+063 (snyan brgyud) snyan brgyud don gyi me long/ p.84-147
+064 (lag khrid) lag khrid snying po/ p.147-153
+065 (rgyab chos) rgyab chos zab don gnad kyi me long/ p.153-494
+066 (bka' srung) zab mo yang tig gi bka' srung drag po sum sgril/ p.495-504
+067 (skong gso) skong gso dngos grub char 'bebs/ p.504-553
+068 (dkar chag) dkar chag nyi zla gza' skar) (535-563) Sun, Moon, Planets and Stars, Catalogue of the Zabmo Yangtik, by Longchen Rabjam ཟབ་མོ་ཡང་ཏིག་གི་དཀར་ཆག་ཉི་ཟླ་གཟའ་སྐར་ཞེས་བྱ་བ་བཞུགས་སོ། །
+
+2025 (c) Лонгчен Осал
 
-Second Testament of the Buddha, from the Vima Nyingtik, by Longchen Rabjam (སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་གཉིས་པ་ཞེས་བྱ་བ་བཞུགས་སོ, (sangs rgyas kyi zhal chems gnyis pa zhes bya ba) (289-292)
-English translation:  Second Testament of the Buddha, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-Third Testament of the Buddha, from the Vima Nyingtik, by Longchen Rabjam (སངས་རྒྱས་ཀྱི་འདས་རྗེས་གསུམ་པ་ཞེས་བྱ་བ་བཞུགས་སོ, (sangs rgyas kyi 'das rjes gsum pa zhes bya ba) (292-295)
-English translation:  Third Testament of the Buddha, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-Colophon: This blessed text of spontaneously arisen blessings, a naturally arisen expression of all the teachings,[5] appeared when the Teacher demonstrated passing into nirvāṇa on Vulture Peak Mountain to the south of Rājgṛha and Garab Dorje cried out in anguish. It is the spontaneously arisen text made of five precious jewels, which descended into the palm of Garab Dorje’s right hand, the final testament of the Buddha, the sole heir of all the teachings. Samaya. Gya. Gya. Gya.
-
-1. First Testament of the Buddha, from the Vima Nyingtik, by Longchen Rabjam (སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་དང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ༔, (sangs rgyas kyi zhal chems dang po) (295-297)
-English translation:  First Testament of the Buddha, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-
-2. sangs rgyas kyi zhal chems gnyis pa/ p.297-299
-
-3. sangs rgyas kyi zhal chems gsum pa/ p.299-304
-
-c. rigs 'dzin gyi 'das rjes bzhi zhar 'byung dang bcas pa/ p.304-331
-1. Striking the Vital Point in Three Statements, Garab Dorje’s Final Testament, from the Vima Nyingtik, by Garab Dorje (རིག་འཛིན་བཞིའི་ཞལ་ཆེམས་འདས་རྗེས་ཀྱི་ཡི་གེ་ལས༔ དགའ་རབ་རྡོ་རྗེའི་ཞལ་ཆེམས་ཚིག་གསུམ་གནད་དུ་བརྡེག་པ, dga' rab rdo rje'i tshig gsum gnad du brdeg pa) (304-310)
-English translation:  Striking the Vital Point in Three Statements, Garab Dorje’s Final Testament, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2025.
-
-2. 'jam dpal bshes gnyen gyi sgom nyams drug pa/ p.310-318
-
-3. The Seven Nails, Śrī Siṃha’s Final Testament, from the Vima Nyingtik, by Śrī Siṃha (ཤྲཱི་སིཾ་ཧའི་ཞལ་ཆེམས་གཟེར་བུ་བདུན་པ, shri sing ha'i gzer bu bdun pa) (318-324)
-English translation:  The Seven Nails, Śrī Siṃha’s Final Testament, from the Vima Nyingtik, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2025.
-Colophon: This concludes The Seven Nails, Śrī Siṃha’s final testament, which was imparted at Gateway to Abundant Auspiciousness and is comparable to a guide for the blind.
-
-4. ye shes mdo'i bzhag thabs bzhi/ p.324-331
-d. mkhas pa bye ma la'i zhal chems/ p.331-344
-
-4. nga/ zangs yig can/ (zangs yig) rdzogs pa chen po gsang ba snying this gi man ngag rin po che zangs yig can bzhugs so/ spros gcod dum bu bcu drug them med bzhi dang nyi shy/ p. 345-438
-
-a. spros pa gcod pa'i sgron ma/ p.345-373
-
-b. (lta sgom 'byed pa'i lde mig sbas pa mig 'byed) dran pa gnad kyi gal mdo/ p. 373-378
-
-c. spyod pa bsdus pa'i sgron ma / p.378-381
-
-d. bsgom pa bsdud pa'i sgron ma/ p.381-383
-
-e. lta ba bsdud pa'i sgron ma/ p.383-386
-
-f. 'bras bu bsdud pa'i sgron ma/ p.386-390
-
-g. gsang ba'i yang bcud/ nyams su blang ba'i gal mdo/ p.391-397
-
-h. lus bcos pa'i gnad kyi man ngag gsang ba mchog tu zab pa/ p.397-399
-
-i. rig pa rgan mo mdzub tshugs su bstan pa'i man ngag mchog tu zab pa/ p.399-404
-
-j. rig pa sbar 'dzin gyi man ngag/ p.404-412
-
-k. rig pa'i rgyab brten bcud rnams bsdud pa'i snying po/ p.412-414
-
-l. 'gal ba bsdud pa'i sgron ma/ p.414-415
-
-m. gzhan 'dod bsdud pa'i gcud phur/p.415-419
-
-n. rig pa bsdud pa'i gron ma/ p.419-424
-
-o. rig pa sky gsum du gtan la dbab pa sku gsum bsdud pa'i gron ma/ p.424-426
-
-p. lta sgom spyod pa bsdud pa'i sgron ma/ p.426-427
-
-q. rig pa thig le nyag gcig tu gtan la phab pa nyag gcig bsdud pa'i sgron ma/ p.427-429
-
-r. dge sdig bsdud pa'sgron ma/ p.429-438
-
-Volume 4
-(nga) bi ma snying thig (part 2)
-
-5. ca/ phra yig/ (phra yig) rin po che rlung gi pra khrid/ p.1-262
-
-a. rin po che rlung gi phra khrid/ p.1-20
-
-b. gsang ba yi ge ma ru'i yang tig/ nyams len bsdud pa'i sna khrid/ yang gsang sbas pa'i ti ka/ gsang ba yi ge dmar ru'i yang tig/ p.20-28
-
-c. gnas pa lus kyi gnad yig yang tig gsang ba/ p.28-30
-
-d. nyams su blangs pas zag med du mya ngan las 'das pa'i man ngag mchog gi snying po/ p.30-38
-
-e. yang 'byed sbas pa'i nyams su len pa dngos gzhi'i gnad yid chen mo/ p.38-42
-
-f. man ngag mdo byang bsdud pa'i sgron ma/ p.42-47
-
-g. dmigs gtad gsal ba'i sgron me/ p.47-53
-
-h. gsang ba chen po'i rtags kyi yi ge/ p.53-75
-
-i. gsang ba chen po'i tshad kyi ge/ p.75-91
-
-j. mngon sum snying thig gsang ba'i yi ge dmar ru'i rgyab yig/ stod cha/ p.91-106
-
-k. zangs yig can gyi snang byed sgron ma/ rgyab yig gi smad cha/ p.106-150
-
-l. gsang ba bla med sgron ma dgu skor gyi gdams pa/ p.150-237
-
-m. yang snying bcud kyi dum bu/ p.237-250
-
-n. yang snying 'phrul gyi dum bu/ p.251-262
-
-6. cha/ dung yig can/ (dung yig) dung yig can rgyud kyi khong don bsdud pa sgron ma snang byed/ p.263-422
-
-a. mdo rgyud kun gyi don gsal bar byed pa/ p.263-368
-
-b. dung yig can gyi rgyab yig ste gnad kyi yi ge/ rgyud kyi gnad yig gsang ba/ p.368-408
-
-c. dung yig can rgyud kyi khong snying bsdebs pa/ p.408-422
-
-7. ja/ g.yu yig/ (g.yu yig) g.yu yig can po ti smug chung gi skor/ ma yig bu yig bsdoms pas skabs don bcu gnyis dang thor bu'i skor/ p.423-586
-
-Volume 5
-(ca) bi ma snying thig (Part 3)
-
-1. nya/ (kha byang) man ngag nges pa'i kha byang ming rnam par khod pa/ p.1-10
-
-2. ta/ man ngag dum dum khrigs dum bu bdun cu rtsa bzhi pa/ p.11-426
-
-a. (dum dum khrigs) yang gsang dum dum khrigs khrid gsang ba'i them yig gnad kyi gal mdo/ p.11-52
-
-b. (khyung chen mkha' lding) khyung chen mkha' lding/ khregs chod kyi yi ge/ man ngag zhe bzhi pa/ p.52-63
-
-c. (sems dmigs rnams bshad) sems kyi dmigs drug gi rnam par bshad pa/ man ngag zhe dgu pa/ p.63-246
-
-d. (spros med dbang tig) spros med dbang gi ti ka/ man ngag nga bzhi pa/ p.246-266
-
-e. (spros med dbang tig) dbang bskur rim par 'jug pa'i dus bshad pa/ p.266-275
-
-f. (ru shan pra khrid) shin tu spros med kyi dbang 'khor 'das ru shyan dbye ba'i lag len pra khrid/ man ngag nga drug pa/ p.275-282
-
-g. (dbang gi phra tig) shin tu spros pa med pa'i dbang gi phra tig/ man ngag nga drug pa/ p.283-334
-
-h. (rab tu spros med dbang) rab tu spros med pa'i dbang/ man ngag nga drug pa/ p.334-345
-
-i. (dbang bzhi'i rim pa) zangs yig can gyi dbangs bzhi'i rim pa ston pa'i gnad rnams/ lung med/ p.345-364
-
-j. (spros med dbang chog) spros med kyi dbang chog/ p.364-391
-
-k. (dam tshig rab 'byed) dam tshig rab 'byed/ man ngag nga brgyad pa/ p.391-427
-
-3. tha/ (lo rgyus chen mo) rdzogs pa chen po snying tig gi los rgyus chen mo/ man ngag brgya bcu dgu'i nang tshan dgu bcu pa/ p.427-606
-
-a. lo rgyus chen mo/ p.427-510
-
-b. (lo rgyus smad pa) lo rgyus chen mo'i smad cha/ gnas ' byed bdun pa/ p.510-606
-English translation: Partially translated by Erik Pema Kunsang in Great Perfection: The Lives and Insights of the Early Masters (1st edition. Hong Kong: North Atlantic Books, 2007, pages 123-142.)
-
-Volume 6
-(cha) Vima Nyingtik (Part 4)
-
-1. da/ sangs rgyas kyi 'das rjes gsum gyi rgyud/ man ngag go gcig pa/ p.1-316
-
-a. ('das rjes) dga' ldan gnas su sangs rgyas kyi zhal chems dang po'i rgyud/ p.1-10
-
-b. ('das rjes) dga' ldan gyi gnas sangs rgyas kyi zhal chems gnyis pa'i rgyud/ p.10-14
-
-c. ('das rjes) dga' ldan su sangs rgyas kyi zhal chems gsum pa'i rgyud/ p.14-18
-
-d. (rgya mtsho ar gtad) rang gnas chen po rgya mtsho ar la gtad pa/ man ngag brgya bcu bzhi pa/ p.18-24
-
-e. (ar gtad man ngag) rgya mtsho ar la gtad pa'i man ngag snang ba 'dus pa'i gal mdo/ man ngag brgya bcu bzhi pa'i nang tshan/ p.24-32
-
-f. (bdud rtsi snying thig) bdud rtsi snying gi thigs pa/ man ngag brgya bcu bzhi'i nang tshan/ p.32-42
-
-g. (rig pa'i gnad don) rig pa'i gnad don lta ba/ man ngag brgya bcu bzhi'i nang tshan/ p.42-46
-
-h. (thod rgal bogs 'don) thod rgal gyi bogs 'don ar gtad kyi gdams pa snying gi yang zhun/ man ngag brgya bcu bzhi'i dgongs 'grel gyi nang tshan/ p.46-61
-
-i. (smug nag khros ma) smug nag khros ma rag gdong ma'i dus gnad nges pa/ p.61-70
-
-j. (zab don bzhi'i debs) zab pa pod bzhi'i ngo bo nyid kyi debs/ lung med/ p.70-72
-
-k. (them byang) man ngag brgya bcu dgu'i them byang/ p.72-78
-
-l. (dbang khrid) spros bcas dbang gi phyag bzhes dang po'i dpe las lag len khrigs su debs pa lce btsun senge dbang phyug gis mdzad pa/ man ngag gnyis pa nang tshan gyi dgongs 'grel/ p.78-96
-
-m. (spros med dbang bkod) spros pa med pa'i dbang bskur ba rin po che'i bkod pa/ man ngag nga bzhi pa/ p.96-106
-
-n. (spros med dbang bskur) spros med dbang bskur rin chen bkod pa'i gnad kyi yi ge dam pa/ man ngag nga bzhi pa'i gras/ p.106-112
-
-o. (dbang gi bum this) spros med dbang gi bum thig dang dag pa sbyar la/ lung med/ p.112-116
-
-p. (shin tu spros med) shin tu spros med pa'i skal ldan gyi dbang/ lung med/ p.116-128
-
-q. (dbang gi ti ka) spros med dbang gi ti ka/ lung med/ p.128-157
-
-r. (spros dbang) rdzogs pa chen po snying thig spros bcas kyi dbang lce btsun gyis mdzad pa/ p. 157-176
-
-s. (dbang gsum) rdzogs pa chen po'i dbang gsum/ p.176-193
-
-t. (spros med) shin tu spros med kyi dbang/ p.193-206
-
-u. (rab tu sprod med) rab tu spros med kyi dbang/ p.206-218
-
-v. (phra Tig) dbang bzhi'i dus dang mtshan ma bstan pa'i phra Tig/ p.218-230
-
-w. (lags khrigs) nyams len lag khrigs ma'i khrid ngo mtshar can/ p.230-291
-
-x. (rgyab yig) gcud phur gsum gyi rgyab yig gsang ba'i man ngag/ p.291-298
-
-y. (gnad sgron) gcud phur gsum gyi rgyab yig gnad bsdud sgron/ p.298-306
-
-z. (mig sgron) bsam gtan mig gi sgron ma/ p.306-312
-
-a'. (lce btsun mgur) nye/ rten 'brel bsdud pa'i sgron ma dang/ nyo/ rdor sems dmigs drug rtsa ba bcas dpe mdon slar 'dir 'jug/ p.312-313
-
-b'. (dkyil 'khor bri tshul) bi ma snying thig gi spros med dbang dkyil…/ p.313-316’
-Song of Realization, by Chetsün Sengé Wangchuk (ལྕེ་བཙུན་གྱི་མགུར, …) (312-313)
-English translation:  Song of Realization, translated by Adam Pearcey, 2024.
-Colophon: This is Chetsün’s song of realization. Ithi. Jayantu
-
-2. na/ (tshig don bcu pa) bla ma'i rim pa tshig don bcu pa/ p.317-340
-
-3. pa/ tshig don bcu gcig pa/ p.341-406.
-
-4. pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa/ p.407-424
-
-Biography of Zhang Nyibum, from the Vima Nyingtik, by Longchen Rabjam (ཞང་ཉི་འབུམ་གྱི་རྣམ་ཐར་བཞུགས།, pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa) (416-420)
-English translation:  Biography of Zhang Nyibum, from the Vima Nyingtik, translated by Adam Pearcey, 2024.
-Colophon: Kyema kyihü! May the precious one named Nyima, the Sun, Look with eyes of wisdom, pure and bright, At the dense dark of saṃsāra’s six classes, And, with the lantern of five-coloured light, Illuminate in a mere instant This darkness, so empty and intense. It is complete.
-Biography of the Dharma Lord Guru Jober, from the Vima Nyingtik, by Longchen Rabjam (ཆོས་བདག་གུ་རུ་ཇོ་འབེར་གྱི་རྣམ་ཐར་བཞུགས།, pha/ (zhang chen) bla ma rgyal ba zhang chen po'i rnam par thar pa) (420-423)
-English translation:  Biography of the Dharma Lord Guru Jober, from the Vima Nyingtik, translated by Adam Pearcey, 2024.
-Colophon: Ema! Wondrous and amazing, this flourishing Dharma, Which stops the six classes of rebirth in this very lifetime, And instantly banishes hopes and fears for saṃsāra and nirvāṇa— Precious guru, holder of this supreme, definitive lineage, Great sovereign, reveal the light of primordial wisdom.
-
-5. ba/ (seng ge) 'khrul zhig seng ge rgyab pa'i rnam thar/ p.425-446
-
-a. (above work) p. 425-432
-
-b. (seng ge) grub thob me long rdo rje'i rnam thar/ p.432-446
-
-6. ma/ (me long) grub thob me long rdo rje'nam thar dri log ma/ p.447-454
-
-7. tsa/ (ku ma) rig 'dzin chen po ku ma ra dza'i rnam thar lo rgyus dang bcas pa/ p.455-498
-
-8. tsha/ (kun khyen) kun khyen dri med 'od zer gyi rnam thar mthong ba don ldan/ 499-590
-English translation: Translated by Shinichi Tsumagari, in Meaningful to behold: A Critical edition and Annotated Translation of Longchenpa’s biography. (CreateSpace Independent Publishing Platform, 2016)
-
-9. dza/ ('od gsal) rin po che 'od gsal rang grol gyi rnam thar par/ p.591-610
-
-10. wa/ ('khrul zhig) 'khrul zhig sangs rgyas dbon po'i rnam thar nyid kyis mdzad pa nor bu'i gsal byed/ p.611-665
-
-11. zha (grags pa) chos kyi rje mtshungs med grags pa rgya mtsho'i rnam thar me tog gi phreng ba/ p.666-714
-
-Volume 7
-(ja) mkha' 'gro yang tig (Part 1)
-
-(om)
-
-1. (them byang) them byang rin chen ljon shing/ p.1-14
-
-2. gter 'byung rin po che'i lo rgyus (i.e. rin chen shog skya'i skor)/ p.15-499
-
-a. (lo rgyus) gter 'byung rin po che'i lo rgyus/ p.16-120
-
-b. (dbang phreng) rin po che dbang gi phreng ba/ p.121-226
-
-c. (bdag 'jug) bdag 'jug padma klong yangs/ p.226-254
-
-d. (tshogs mchod) tshogs mchod rgya mtsho'i sprin/ p.254-276
-
-e. Immaculate Full Moon Homage, by Longchen Rabjam (ཕྱག་འཚལ་དྲི་མེད་ཟླ་རྒྱས་བཞུགས, ((phyag 'tshal) phyag 'tshal dri med zla rgyas/ rin chen shog 'dra) (276-282)
-English translation:  Immaculate Full Moon Homage, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-Colophon: This homage for the Heart-Essence of the Ḍākinīs entitled Immaculate Full Moon, composed in Gangri Thökar by Drimé Özer, a yogin whose lotus-mind was touched by the light-rays of Orgyen Padma’s wisdom mind, is hereby complete
-
-f. The Constant Flow of Nectar Prayer, by Longchen Rabjam (།གསོལ་འདེབས་བདུད་རྩིའི་ཆུ་རྒྱུན་བཞུགས, (gsol 'debs) gsol 'debs bdud rtsi'i chu rgyun) (282-287)
-English translation:  The Constant Flow of Nectar Prayer, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2023.
-Colophon: This prayer entitled Constant Flow of Nectar was composed by Drimé Özer, a yogin of the Khandro Nyingtik, on the slopes of Gangri Tökar at the time of autumn when there are flowers and ripe fruits. May it prove virtuous
-
-g. (nor lugs) mkha' 'gro snying tig gi khrid yig nor bu lugs/ p.287-311
-h. The Sun, Moon, Planet and Stars Instruction, by Longchen Rabjam (ཁྲིད་ཡིག་ཉི་ཟླ་གཟའ་སྐར་བཞུགས་པ་ལགས་སོ, (nyi zla) khrid yig nyi zla gza' skar lugs su gdab pa) (311-316)
-English translation:  The Sun, Moon, Planet and Stars Instruction, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2025.
-Colophon: This instruction manual for the Heart-Essence of the Ḍākinīs entitled Sun, Moon, Planet and Stars Instruction, composed by Pema Ledrel Tsal in Gangri Thökar, is hereby complete.
-
-i. Analysis of the Profound, by Longchen Rabjam (ཟབ་མོ་རབ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ, (rab 'byed) zab mo rab 'byed) (316-320)
-English translation:  Analysis of the Profound, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-Colophon: Analysis of the Profound, composed by the yogin of the Heart-Essence of the Ḍākinīs, Pema Ledrel Tsal, during autumn when flowers and fruit are ripening, is hereby complete. May it prove virtuous and auspicious!
-
-j. Gathering the Accumulations, by Longchen Rabjam (ཚོགས་བསགས་པ་བཞུགས, tshogs bsag pa) (320-322)
-English translation:  Gathering the Accumulations, translated by Adam Pearcey with the generous support of the Tsadra Foundation, 2024.
-Colophon: This approach was properly set out by Drimé Özer, a yogin of the supreme vehicle, at Gangri Thökar. May virtue and excellence abound!
-
-k. (gser phreng) khrid yig rin po che gser gyi phreng ba/ p.322-394
-
-l. (nam rab) nam mkha' skor gsum las/ nam mkha' rab 'byams (khregs chod kyi yi ge)/ p.395-409
-
-m. (nam klong) nam mkha' klong yangs/ p.409-424
-
-n. (nam dri) nam mkha' dri med/ p.425-441
-
-o. (gser sgrom) man ngag rin po che gser gyi sgrom bu/ p.441-458
-
-p. (tshig don) tshig don rin po che'i bang mdzod/ p. 459-499
-
-3. (khrid yig)/ p.501-506. Written by gter bdag gling pa 'gyur med rdo rje
-
-4. (khrid yig) rdzogs pa chen po mkha' 'gro snying thig gi khrid yig zab lam gsal byed/ p.507-635. Written by gter bdag gling pa 'gyur med rdo rje at the behest of me rag chos rje padma phrin las dbang 
-phyug at smin grol gling
-
-Volume 8
-(nya) mkha 'gro yang tig (Part 2)
-
-(ah)
-
-1. An Ocean of Clouds of the Profound Reality (zab don) zab don rgya mtsho'i sprin zhes bya ba bzhugs so/ shog skya'i skor/ p.1-488
-
-2. rin chen shog skya'i skor las/ mkhagro snying tig gi man ngag zab don rgya mtsho'i khog dbub sa bcad bsdud don don gsal nyi ma'i 'od zer/ p.489-525
-
-a. (sa bcad) sa bcad bsdud don don gsal nyi ma'i 'od gser/ p.489-503
-
-b. (gsang spyod) gsang spyod rdo rje lam bstan/ p.503-525
-
-Volume 9
-(ta) mkha' 'gro yang tig (Part 3)
-
-(hung)
-
-1. nges don snying po (i.e. rin chen shog ser kor)/ p.1-285
-a. (nges snying) nges don snying po/ p.2-12
-b. (thugs sgrub) byin rlabs thugs sgrub/ p.12-23
-c. (mchog sgrub) rig 'dzin mchog sgrub/ p.23-34
-d. (bskyed rim) mkha' 'gro bde chen rgya mtsho (bskyed rim yid bzhin nor bu)/ p.35-41
-e. rdzogs rim/ p.41-44
-f. (rlung drug) rlung drug rdo rje'chings/ p.44-47
-g. (rlung sbyor) rlung sbyor ye shes drwa ba/ p.47-54
-h. (zab lam) zab lam bde chen rgya mtsho/ p.54-62
-i. ('od gsal) 'od gsal 'khor lo/ p.62-74
-j. (gzhi snang) ngo sprod/ p.75-81
-k. (sbubs 'jug) 'od gsal sbubs 'jug/ p.81-92
-l. (sgron bzhi) sgron ma bzhi skor/ p.92-102
-m. (gzhi grol) 'khrul snang ngo sprod/ p.102-108
-n. (rmi lam) rmi lam sbubs 'jug/ p.108-116
-o. (dbyings snang) dbyings snang ngo sprod/ p.116-125
-p. (zab don) zab don gnad kyi lde mig/ p.125-142
-q. (pra khrid) 'od gsal pra khrid/ p.142-154
-r. (gsang lam) gsang lam rin po che'i ngo sprod/ 154-162
-s. (zab snying) zab don snying po/ p.162-170
-t. (kun 'dus) kun 'dus rin po che'i ngo sprod/ p.170-178
-u. (bar do) bar do sbubs 'jug/ p.178-185
-v. (gnad sgron) bar do gnad kyi sgron me/ p.185-195
-w. (gnad gsum) gnad gsum sgron me/ p.195-203
-x. ('od drwa) mthong snang rin po che 'od kyi drwa ba/ p.203-266
-y. Immaculate Radiance, A Testament, by Longchen Rabjam (ཞལ་ཆེམས་དྲི་མ་མེད་པའི་འོད་ཅེས་བྱ་བ་བཞུགས་སོ། །, (zhal chems) zhal chems dri ma med pa'i 'od) (266-281)
-English translation:  Immaculate Radiance, A Testament, translated by Adam Pearcey, 2024.
-Colophon: This concludes the advice from Drimé Özer entitled "Immaculate Radiance: A Testament". May it be auspicious!
-English translation: Immaculate Light translated by David Christensen, in The Fearless Lion’s Roar - Profound Instructions on Dzogchen, the Great Perfection Shambhala Publications (2015).
-z. (zhal chems) zhal chems gnad kyi me long/ p.281-283
-a'. Ultimate Testament, by Longchen Rabjam (ཞལ་ཆེམས་མཐར་ཐུག་གཅིག་མ་, (zhal chems) zhal chems mthar thug gcig ma) (283-285)
-English translation:  Ultimate Testament, translated by Adam Pearcey, 2025.
-2. bde gshegs rigs lnga'i sgrub thabs padma stong ldan (i.e. rin chen shog 'dra'i skor/ p.287-544
-a. (sgrub thabs) bde shegs rigs lnga sgrub thabs padma stong ldan/ p.287-299
-b. (bcud len) rigs lnga'i bcud len bdud rtsi'i thigs pa/ p.299-320
-c. (bdud rtsi sprin phung) bdud rtsi sprin phung/ p.320-339
-d. 'chi ba brtag bslu'i man ngag nyi zla gza' bral/ p.339-353
-e. (brtags grol) btags grol rgyud kyi man ngag rin chen snying po/ p.353-364
-f. (sreg sbyong) sreg sbyong 'od kyi snye ma/ p.364-376
-g. (gzhan phan) gzhan phan 'od kyi 'khor lo/ p.376-450
-h. (gnad yig) phyag rgya bzhi mchod 'od kyi 'khor lo'i gnad yig/ p.450-460
-i. (mchod rten) shog skya'i skor/ mchod rten rab gnas rin chen drwa ba/ 461-472
-j. (rab gnas) rin chen shog skya'i skor/ rab tu gnas pa'i cho ga ye shes dri med/ p.472-475
-k. (mthong snang) mthong snang rin chen gser gyi drwa ba/ p.475-486
-l. (chos srung) rin chen shog 'dra/ rdo rje g.yu sgron ma'sgrub thabs zla ba 'dod 'jo/ p.486-495
-m. (chos srung) rin chen shog 'dra/ gza' bdud gsang sgrub sdug gi spu gri/ p.495-504
-n. (chos srung) shog 'dra'i skor/ gnod sbyin dmar nag gi sgrub pa me rlung 'khyil pa/ p.504-517
-o. (chos srung) shog 'dra'i skor/ shan pa srog sgrub nag mo'i gsang sgrub dug mda' nag mo/ p.517-528
-p. (them byang) mkha' 'gro yang tig gi them byang dpag bsam ljon shing/ p.529-544
-
-Volume 10
-Khandro Nyingtik (mkha' gro snying tig) (Part 1)
-
-(e)
-
-1. (kha byang) mkha' 'gro snying thig gi kha byang/ p.1-10.
-
-2. (bla brgyud lo rgyus) rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus/ p.11-531
-
-a. History of the Lineage of Gurus of the Great Perfection’s Heart-Essence of the Ḍākinīs, by Pema Ledrel Tsal (རྫོགས་པ་ཆེན་པོ་མཁའ་འགྲོ་སྙིང་ཐིག་གི་བླ་མ་བརྒྱུད་པའི་ལོ་རྒྱུས་བཞུགས་སོ༔,་ bla brgyud lo rgyus) (11-16)
-English translation:  History of the Lineage of Gurus of the Great Perfection’s Heart-Essence of the Ḍākinīs, translated by Adam Pearcey, 2023.
-Colophon: This is the sequence of the lineage of gurus. Ithi. May it be virtuous!
-b. btags grol gyi rgyud drug/ p.16-25
-
-1'. Tantra of the Essence of Liberation Through Wearing, by Pema Ledrel Tsal (བཏགས་གྲོལ་སྙིང་པོའི་རྒྱུད་བཞུགས་སོ༔, btags grol snying po'i rgyud) (16-17)
-English translation:  Tantra of the Essence of Liberation Through Wearing, translated by Adam Pearcey, 2025.
-Colophon: This concludes the Seven-Line Tantra of the Essence of Liberation Through Wearing, which spontaneously arose from the expanse of Samantabhadra and Samantabhadrī. Bearing the seal of enlightened body, the seal of enlightenment speech, and the seal of enlightened mind. Samaya. Gya. Gya. Gya. Ithi.
-
-2'. Tantra of the Singular Knowledge That Brings Universal Freedom, by Pema Ledrel Tsal (གཅིག་ཤེས་ཀུན་གྲོལ་གྱི་རྒྱུད་བཞུགས་སོ༔, (btags grol rgyud drug) gcig shes kun grol gyi rgyud) (17-19)
-English translation:  Tantra of the Singular Knowledge That Brings Universal Freedom, translated by Adam Pearcey, 2025.
-Colophon: This concludes the Tantra of the Singular Knowledge That Brings Universal Freedom, a concentrated drop, the heart’s essence, which arose spontaneously from the sole, all-embracing tila expanse of dharmakāya. It bears the seal of enlightened body, the seal of enlightenment speech, and the seal of enlightened mind. Samaya. Gya. Gya. Gya. May virtue abound!
-
-3'. Tantra of the Unique Golden Syllable of Yangti, by Pema Ledrel Tsal (ཡང་ཏི་གསེར་གྱི་འབྲུ་གཅིག་པའི་རྒྱུད་བཞུགས་སོ༔, (btags grol rgyud drug) gser gyi 'bru gcig pa'i rgyud) (19-20)
-English translation:  Tantra of the Unique Golden Syllable of Yangti, translated by Adam Pearcey, 2025.
-Colophon: This concludes the Tantra of the Essence of Yangti. It bears the seal of enlightened body, the seal of enlightenment speech, and the seal of enlightened mind. Gya. Gya.
-
-4'. The Seed Tantra That Is the Buddhas’ Only Child, by Pema Ledrel Tsal (སྲས་གཅིག་ས་བོན་གྱི་རྒྱུད་བཞུགས་སོ༔, sras gcig sa bon gyi rgyud) (20)
-English translation:  The Seed Tantra That Is the Buddhas’ Only Child, translated by Adam Pearcey, 2025.
-Colophon: This concludes the Seed Tantra That Is the Buddhas’ Only Child. It bears the seal of enlightened body, the seal of enlightenment speech, and the seal of enlightened mind. Gya. Gya. Gya.
-
-5'. The Tantra of Self-Emergent Awareness, by Pema Ledrel Tsal (རང་བྱུང་རིག་པའི་རྒྱུད་བཞུགས་སོ༔, (btags grol rgyud drug) rang byung rig pa'i rgyud) (20)
-English translation:  The Tantra of Self-Emergent Awareness, translated by Adam Pearcey, 2025.
-Colophon: This concludes the Tantra of Self-Emergent Awareness. It bears the seal of enlightened body, the seal of enlightenment speech, and the seal of enlightened mind. May it meet with the destined one in future! Gya. Gya. Gya.
-
-6'. The Tantra of the Great Consummate Fruition, by Pema Ledrel Tsal (འབྲས་བུ་ཡོངས་རྫོགས་ཆེན་པོའི་རྒྱུད་བཞུགས་སོ༔, (btags grol rgyud drug) rang byung rig pa'i rgyud) (21-25)
-English translation:  The Tantra of the Great Consummate Fruition, translated by Adam Pearcey, 2025.
-Colophon: Thus concludes the Tantra of the Great Consummate Fruition. Gya. Gya. Gya. Samaya. Let it be virtuous!
-
-c. (btags grol rgyud tig) btags grol snying po'i rgyud kyi ti ka/ p.25-69
-
-1'. Commentary on the Essence of Liberation Through Wearing, by Pema Ledrel Tsal (བཏགས་གྲོལ་སྙིང་པོའི་ཏི་ཀ་བཞུགས་སོ༔, (btags grol rgyud tig) btags grol snying po'i rgyud kyi ti ka) (25-32)
-English translation:  Commentary on the Essence of Liberation Through Wearing, translated by Adam Pearcey, 2025.
-Colophon: May this commentary on the Essence of Liberation Through Wearing, the Consummate Fruition, in which the essence of its meaning is clarified, meet with the destined one. Samaya. Gya. Gya. Gya.
-
-2'. (btags grol rgyud tig gcig shes kun grol gyi rgyud kyi ti ka/ p.32-45
-
-3'. (btags grol rgyud tig yang gi gser gyi 'bru gcig gi ti ka/ / p.45-48
-
-4'. (btags grol rgyud tig) sras gcig sa bon rgyud kyi ti ka gsal byed nor bu'i phreng ba/ p.48-53
-
-5'. (btags grol rgyud tig) rang byung rig pa'i rgyud kyi ti ka gsal byed dung gi spar khab/ p.53-57
-
-6'. (btags grol rgyud tig) 'bras bu yongs rdzogs rgyud kyi ti ka gsal byed dri med snying po/ p.57-69
-
-d. (lo rgyus) kha' 'gro snying thig gi lo rgyus/ p.69-74
-
-e. ('das rjes gsum pa) sangs rgyas kyi 'das rjes gsum pa/ p.74-82
-First Testament of the Buddhas, by Pema Ledrel Tsal (སངས་རྒྱས་ཀྱི་འདས་རྗེས་དང་པོ་བཞུགས་སོ༔, sangs rgyas kyi 'das rjes dang po) (74-76)
-English translation:  First Testament of the Buddhas, translated by Adam Pearcey, 2024.
-Second Testament of the Buddhas, by Pema Ledrel Tsal (སངས་རྒྱས་ཀྱི་ཞལ་ཆེམས་གཉིས་པ་ཞེས་བྱ་བ་བཞུགས་སོ, sangs rgyas kyi 'das rje gnyis pa) (77-80)
-English translation:  Second Testament of the Buddhas, translated by Adam Pearcey, 2024.
-Third Testament of the Buddhas, by Pema Ledrel Tsal (སངས་རྒྱས་ཀྱི་འདས་རྗེས་གསུམ་པ་བཞུགས་སོ, sangs rgyas kyi 'das rjes gsum pa) (80-82)
-English translation:  Third Testament of the Buddhas, translated by Adam Pearcey, 2024.
-
-f. (btags grol don khrid) btags grol don khrid/ p82-106
-
-g. (rig lnga'i phyi sgrub) bde gshegs rig lnga'i phyi sgrub/ p.106-110
-
-h. The Inner Practice of the Five Families, from the Khandro Nyingtik, by Pema Ledrel Tsal (རིགས་ལྔ་ནང་གི་སྒྲུབ་པ, (rig nga'i nang sgrub) rig lnga nang gi sgrub pa) (110-112)
-
-English translation:  The Inner Practice of the Five Families, from the Khandro Nyingtik, translated by Adam Pearcey, 2025.
-Colophon: May this inner practice of the five families meet with the one who has the right karmic destiny. Samaya. Gya. Gya. Gya. Khathaṃ. Ithi. Let it be virtuous!
-
-i. (spros bcas bum dbang) smin byed don gsal sgron me zhes bya ba spros bcas bum pa'i dbang/ p.112-173
-
-j. (gsang dbang) dbang khrid nor bu sgron gsal/ gsang dbang/ p.173-178
-
-k. (sher dbang) shes rab yum gyi mkha' ngo sprod/ p.178-182
-
-l. (tshig dbang) tshig dbang rin po che/ 182-189
-
-m. gsang dbang lus dkyil ngo sprod/ p.190-191
-
-n. (dbang bzhi) shes rab yum gyi mkha' ngo sprod/ p.191-193
-
-o. (dbang bzhi) dbang gi rgyab yig lag len/ p.193-198
-
-p. (dbang 'grel) dbang gong ma gsum gyi sa ma 'grel/ p.199-208
-
-1'. gsang dbang gi sa ma 'grel/ p.199-202
-
-2'. shes rab ye shes kyi sa ma 'grel/ p.202-205
-
-3'. tshig dbang gi sa ma 'grel/ p.205-208
-
-q. (dbang 'grel) bde gshegs rigs lnga' mchod 'bum/ p.208-217
-
-r. (mchod 'bum) rigs lnga'i gtor ma'i lag len/ p.217-227
-
-s. (tshogs mchod) rigs lnga'i tshogs mchod/ p.221-225
-
-t. (las byang) mkha' 'gro'i las byang tshogs mchod rtsar phreng/ p.225-261
-
-u. dbang sgrub dang bum pa sgrub thabs/ p.261-264
-
-v. dkyil 'khor rnam dag/ p.264-267
-
-w. (dbang gi rgyab yig) snying thig gsang ba bla med kyi dbang don gsal ba rgyab yig gsang ba/ p.267-274
-
-x. Notes on the Sequence of the Four Empowerments, by Pema Ledrel Tsal (དབང་བཞིའི་གོ་རིམ་ཐོ་ཡིག་བཞུགས་སོ, (dbang gi tho yig) dbang bzhi'i go rim tho yig) (274-275)
-English translation:  Notes on the Sequence of the Four Empowerments, translated by Adam Pearcey, 2024.
-Colophon: I, Padma of Oḍḍiyāna have here set out some notes on the sequence of the four empowerments. Khathaṃ. Gya. Gya. Gya. May they meet with one who has the karmic destiny. Samaya. Ithi. Let it be virtuous!
-
-y. How to Bestow the Empowerments as Thematic Guidance, by Pema Ledrel Tsal (དབང་གི་རིམ་པ་ཁྲིད་དུ་བསྐུར་ལུགས་བཞུགས་སོ, dbang gi rim pa khrid du bskur lugs) (276)
-English translation:  How to Bestow the Empowerments as Thematic Guidance, translated by Adam Pearcey, 2024.
-Colophon: Samaya. Gya. Gya. Gya. Ithi.
-
-z. (rtsal dbang ti ka) rtsal dbang ti ka rig pa'i sgron ma/ p.276-284
-
-a'. (thod rgal dbang lnga) thod rgal phyad par dbang lnga/ p.284-287
-
-b'. (thod rgal dbang lnga) ngo 'phrad nas spro ba bskyed pa'i chos bshad/ p.288-290
-
-c'. (thod rgal dbang lnga) pra khrid chos thun khrid kyi zhag grangs/ p.290-293
-
-d'. (dakki'i gtor ma) dakki'i gtor ma'i rim pa/ p.293-297
-
-e'. (dakki'i tshogs mchod) dakki'i tshogs mchod/ p.297-305
-
-f'. dbang gi rgyab yig/ p.305-311
-
-g'. Notes on the Empowerments, by Pema Ledrel Tsal (དབང་གི་ཐོ་ཡིག་བཞུགས་སོ, dbang gi tho yig) (311-312)
-English translation:  Notes on the Empowerments, translated by Adam Pearcey, 2024.
-Colophon: I, Padma of Oḍḍiyāna have here set out some notes on the sequence of the four empowerments. Khathaṃ. Gya. Gya. Gya. May they meet with one who has the karmic destiny. Samaya. Ithi. Let it be virtuous!
-
-h'. (gsang dbang lhan thabs) mkha' 'gro snying thig gsang dbang gi lhan thabs/ p.312-317
-
-i'. (dakki'i dus gnad) dakki'i dus gnad gnad 'bebs shi sa spyi gnad bla rdo/ p.317-321
-
-j'. (nor sgrub) mkha' 'gro ma'i nor sgrub gter gyi bum pa/ p.321-328
-
-k'. (thod rgal don khrid) thod rgal gyi don khrid nor bu'i snying po/ p.328-336
-
-l'. (snying po gsal me) snying po gsal ba'i me long zhes bya ba'i khrid/ p.336-378
-
-m'. (khrid rgyab) khrid rgyab lung gi phreng ba/ p.378-401
-
-n'. (khrid rgyab) lag khrid gnad kyi man ngag phra khrid du bstan pa/ p.401-404
-
-o'. (rtags tshad) mkha' 'gro snying tig gi rtags yig tshad yig/ p.404-411
-
-p'. (rgyab chos) snying thig chen mo'i rgyab chos kyi rtsa ba/ p.411-474
-
-q'. (gsang ba'i yang bcud) snying thig gsang ba'i yang bcud snying po gsal ba'i me long/ p.475-515
-
-r'. (lta ba'i rnal 'byor) rnal 'byor bzhi/ p.515-531
-
-1'. The Yoga of the View, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal (རྣལ་འབྱོར་བཞི་ལས་ལྟ་བའི་རྣལ་འབྱོར་བཞུགས་སོ༔, lta ba'i rnal 'byor) (515-520)
-English translation:  The Yoga of the View, from the Four Yogas of the Khandro Nyingtik, translated by Adam Pearcey, 2025.
-Colophon: That is the yoga of the view. Ithi.
-
-2'. The Yoga of the Meditation, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal (།ཐུན་བཞིའི་རྣལ་འབྱོར་ལས༔ སྒོམ་པའི་རྣལ་འབྱོར་བཞུགས་པ་ལགས་སོ༔, thun bzhi'i rnal 'byor las/ sgom pa'i rnal 'byor) (520-523)
-English translation:  The Yoga of the Meditation, from the Four Yogas of the Khandro Nyingtik, translated by Adam Pearcey, 2025.
-Colophon: This is the yoga of the continuous application of meditation. Ithi. Samaya. Gya. Gya. Gya. Let it be virtuous!
-
-3'. The Yoga of the Conduct, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal (རྣལ་འབྱོར་བཞི་ལས༔ སྤྱོད་པའི་རྣལ་འབྱོར་བཞུགས་སོ༔, rnal 'byor bzhi las/ spyod pa'i rnal byor dang) (523-526)
-English translation:  The Yoga of the Conduct, from the Four Yogas of the Khandro Nyingtik, translated by Adam Pearcey, 2025.
-
-3'. The Yoga of the Fruition, from the Four Yogas of the Khandro Nyingtik, by Pema Ledrel Tsal (རྣལ་འབྱོར་བཞི་ལས༔ འབྲས་བུའི་རྣལ་འབྱོར་བཞུགས་སོ༔, rnal 'byor bzhi las/ 'bras bu'i rnal 'byor gnyis) (526-529)
-English translation:  The Yoga of the Fruition, from the Four Yogas of the Khandro Nyingtik, translated by Adam Pearcey, 2025.
-Colophon: These four yogas to be taken as the path, From the heart essence of secret mantra, Are hereby entrusted to you, Yeshe Tsogyal. May they meet with the destined one! Samaya. Gya. Gya. Gya. This concludes the instruction on the four yogas.
-
-Volume 11
-Khandro Nyingtik (mkha' gro snying tig) (Part2)
-
-(wam)
-
-1. zhus len bdud rtsi gser phreng/ p.1-507
-a. (zhus len) zhus len bdud rtsi gser phreng/ p.1-34
-b. (zhal gdams) zhal gdams gsang ba'i dum bu/ p.34-70
-c. (gnad gdams) gnad kyi gdams pa lnga pa/ p.70-94
-d. (lam 'bras) dakki'i lam 'bras kyi skor/ p.94-105
-e. (lag 'grig) lag 'grig/ p.105-110
-f. (gnad thig) dakki'i gnad thig/ p.110-129
-g. (rdo rje chu 'thung) rdo rje chu 'thung/ p.129-133
-h. (zhi ba bar do) zhi ba bar do lam gyi tshan nyid/ p.133-154
-i. (khro bo bar do) khro bo bar do gnad kyi gron ma/ p.154-174
-j. (rtags rim) bar do'i gdams pa 'byung ba 'dus pa 'bral ba rtags kyi rim pa/ p.175-183
-k. (gsal 'debs) 'chi kha bar do'i gsal 'debs/ bar do gnad dum/ p.183-191
-l. (bar do'i yon tan) chos nyid bar do'i yon tan/ p.191-195
-m. (ngo sprod) bar do ngo sprod/ p.195-198
-n. ('od gsal) 'od gsal/ p.198-201
-o. (gtum mo) mkha' 'gro'i gtum mo khyed par can/ p.201-205
-p. (bcud len) 'byung ba rdo'i bcud len/ 205-211
-q. (srog sgrub) dhakki snying tig gi bkha' srung dpal srog sgrub nag mo'i srog len spu gri'i rgyud/ p.212-218
-r. (sgrub thabs) srog sgrub nag mo'i sgrubs thabs/ p.218-225
-s. (thun drug) 'gyu dus thun drug/ p.225-230
-t. (spyi gnad) spyi gnad/ p.230-234
-u. (thun drug) 'gyu dus thun drug/ p.234-235
-v. (srog sgrub) bka' srung srog sgrub nag mo'i srog dbang/ p.235-238
-w. (bla ma'i rnal byor) snying tig bla ma'i rnal byor/ p.238-246
-x. (bla ma'i rnal byor) bla ma'i rnal byor phyi nang gsang gsum/ p.246-256
-y. Vast Openness Free from Extremes, An Introduction to Trekchö, by Pema Ledrel Tsal (ཁྲེགས་ཆོད་ངོ་སྤྲོད་མཐའ་གྲོལ་ཀློང་ཡངས་བཞུགས་སོ, (ngo phrod) khregs chod ngo phrod mtha' grol klong yangs) (256-266)
-English translation:  Vast Openness Free from Extremes, An Introduction to Trekchö, translated by Adam Pearcey, 2024.
-Colophon: This advice on introduction was imparted to the ḍākinī Yeshe Tsogyal. May it meet with future individuals who possess the requisite fortune! Samaya. Gya. Gya. Gya. Ithi.
-z. (rtsal dbang) rtsal dbang/ p.267-268
-a'. rgyud kyi bcangs thabs/ p.268
-b'. gzhan don/ p.268-269
-c'. rtags bstan/ p.269-270
-d'. yon tan 'byung tshul/ p.270
-e'. che ba bstan pa/ p.270-273
-f'. (rigs rgyud) thigs le dwangs snyigs 'byed pa dang/ rigs rgyud gzhag thabs lag len/ p.273-280
-g'. (bar do'i ngo sprod) bar do'i ngo sprod/ p.280-287
-h'. mngon sum ngo sprod/ p.287-288
-i'. (bar do'i mtshan nyid) bar do'i mtshan nyid bshad pa dang skye gnas rnams kyi rgyu bstan pa/ :p.288-297
-j'. (btags grol) brtags grol phran drug gi ti ka/ p.297-230
-1'. rtsal dbang gi ti ka rig pa'i sgron me/ p.297-305
-2'. btags grol bcangs thabs kyi ti ka/ p.305-307
-3'. gzhan don gyi ti ka/ p.307-308
-4'. rtags bstan gyi ti ka/ p.309-313
-5'. yon tan 'byung tshuul gyi ti ka/ p.313-315
-6'. che ba bstan pa'i ti ka/ p.315-320
-k'. (mgrin dkyil) rta mgrin yab yum gyi luis dkyil/ p.320-322
-l'. (dakki'i rkyang sgrub) dakki'i rkyang sgrub/ p.322-328
-m'. (dakki'i rkyang sgrub) mkha' 'gro ma'i srong gi snying po/ p.328-331
-n'. (snags kyi lde bu mig) mkha' 'gro snags kyi lde mig/ p.331-333
-o'. (bdud rtsi phyag mchod) snying thig gi bdud rtsi phyag mchod/ p.333-335
-p'. (rtags yig) rtags yig dang tshad kyi yi ge/ p.335-342
-q'. (dakki dril sgrub) dakki dril sgrub gsang be snying gi dum bu/ p.342-361
-r'. (lus dkyil) dakki'i lus dkyil chen mo/ p.361-377
-s'. (lung bstan) padma las 'brel rtsal gyi skyes rabs dang/ lung bstan/ p.377-394
-t'. (kha byang) gter gyi kha byang/ p.394-396
-u'. (lung bstan) rgyal sras legs pa'i lung bstan/ p.396-398
-v'. (zhal gdams) zhal gdams gnad kyi phreng ba/ p.398-405
-w'. (lo rgyus) lo rgyus rgyal ba g.yung gis mdzad pa/ p.405-422
-x'. (phyag 'tshal) g.yung ston pas gsungs pa'i phyag 'tshal/ p.422-426
-y'. (g.yung lo rgyus) g.yung gi lo rgyus/ p.426-431
-z'. 'pho ba/ p.431-435
-a . (sgrub thabs) gter srung ldang lha'i sgrub thabs/ p.435-439
-b . Prayer of the Profound and Secret Heart-Essence of the Ḍākinīs, by Pema Ledrel Tsal (ཟབ་གསང་མཁའ་འགྲོ་སྙིང་ཐིག་གི་གསོལ་འདེབས, (gsol 'debs) zab gsang mkha' 'gro snying thig gi gsol 'debs) (440-441)
-English translation:  Prayer of the Profound and Secret Heart-Essence of the Ḍākinīs, translated by Adam Pearcey, 2023.
-c. (lung bstan) brgyud 'dzin gyi slob bu'i lung bstan/ p.441-446
-d. (tshe sgrub) lha mo lnga'i tshe srgub/ p.446-450
-e. (sprul sku lung bstan) sprul sku legs pa lung bstan/ p.451
-f. (gtor dbang) mkha' 'gro snying thig las srog sgrub nag mo'i gtor dbang/ p.452-454
-g. (dbang gi lag len) mkha' 'gro yang tig gi dbang skur ba'i lag len/ mkha' 'gro snying thig gi dkyil 'khor bri tshul/ p.455-465
-h. (lo rgyus) mkha' 'gro snying thig gi lo rgyus rin po che'i phreng ba/ p.465-507
-
-Volume 12
-Zabmo Yangtik (part 1)
-
-(e) bshad rgyud
-
-1. lo rgyus rin po che 'od kyi phreng ba/ p.1-477
-a. (lo rgyus) lo rgyus rin po che 'od kyi phreng ba/ p.2-30
-b. The Wish-Fulfilling Jewel Homage, by Longchen Rabjam (ཕྱག་འཚལ་ཡིད་བཞིན་ནོར་བུ་, (phyag 'tshal) phyag 'tshal yid bzhin nor bu) (30-39)
-English translation:  The Constant Stream of Nectar Prayer, translated by Adam Pearcey, 2025.
-Colophon: This prayer to the lineage of gurus entitled Wish-Fulfilling Jewel was composed at Chimphu, a splendid place of retreat, by Tsultrim Lodrö, the one from glorious Samyé, who possesses unshakeable faith in the sublime gurus and is an exponent of Dharma for whom the light of intelligent understanding of scripture, reasoning and pith instructions ever waxes. May it be virtuous! Virtuous! Virtuous!
-c. The Constant Stream of Nectar Prayer, by Longchen Rabjam (གསོལ་འདེབས་བདུད་རྩིའི་ཆུ་རྒྱུན, (gsol 'debs) gsol 'debs bdud rtsi'i chu rgyun) (39-45)
-English translation:  The Constant Stream of Nectar Prayer, translated by Adam Pearcey, 2023.
-Colophon: The stages of accomplishment for Guru Vimalamitra was composed by Longchen Rabjam, a yogin of the vast expanse in which there is nothing to do, at the glorious hermitage of Chimphu. May this bring benefit to numerous sentient beings! Let it be virtuous! Virtuous! Virtuous!
-d. Adornment of the Four Continents: A Maṇḍala Offering Rite, by Longchen Rabjam (མཎྜལ་འབུལ་བའི་ཆོ་ག་གླིང་བཞིའི་རྒྱན་གྱུར་བཞུགས་སོ, (mandal) mandal 'bul ba'i cho ga gling bzhi'i rgyan gyur) (45-51)
-English translation:  Adornment of the Four Continents: A Maṇḍala Offering Rite, translated by Adam Pearcey, 2025.
-Colophon: This concludes the maṇḍala offering rite entitled Adornment of the Four Continents, composed by Natsok Rangdrol in the place of the Self-Arisen Padma. May it be virtuous! Virtuous! Virtuous!
-e. The Stages of Accomplishment of Guru Vimalamitra, from the Zabmo Yangtik, by Longchen Rabjam (ཁྱུང་ཆེན་གཤོག་རྫོགས་བཞུགས་སོ, (bi ma sgrub) gu ru bi ma la sgrub pa'i rim pa) (51-56)
-English translation:  The Stages of Accomplishment of Guru Vimalamitra, from the Zabmo Yangtik, translated by Adam Pearcey, 2023.
-Colophon: The stages of accomplishment for Guru Vimalamitra was composed by Longchen Rabjam, a yogin of the vast expanse in which there is nothing to do, at the glorious hermitage of Chimphu. May this bring benefit to numerous sentient beings! Let it be virtuous! Virtuous! Virtuous!
-f. (bla sgrub) snying po ye shes kyi bla ma sgrub pa/ p.56-64
-g. (dbang chog) spros bcas kyi dbang chog dngos grub chu bo/ p.64-93
-h. List of the Names for the Elaborate Maṇḍala, by Longchen Rabjam (དཀྱིལ་འཁོར་སྤྲོས་བཅས་མིང་གི་རིམ་པ, (ming rim) dkyil 'khor spros bcas ming gi rim pa) (93-101)
-English translation:  List of the Names for the Elaborate Maṇḍala, translated by Adam Pearcey, 2025.
-Colophon: This concludes the list of names for generating the supremely secret wisdom from the oceanic rivers of empowerment that accord with basic space, as explained in detail by Natsok Rangdrol, a yogin who has reached the culmination of the supreme vehicle. May it be virtuous! Virtuous! Virtuous!
-i. (spros dbang) spros med kyi dbang chog klong gsal chu bo/ p.102-130
-j. (brda don) bum pa'i brda don/ p.130-134
-k. (spros med) shin tu spros pa med pa'i dbang chog ye shes chu bo/ p.135-153
-l. (dbang byin) rab tu spros pa med pa'i dbang chog ye shes chu bo/ p.153-163
-m. (dam bkod) dam tshig gsum bkod/ p.163-191
-n. Precious Instructions on the Common Preliminaries, by Longchen Rabjam (ཐུན་མོང་གི་སྔོན་འགྲོ་རིན་པོ་ཆེའི་པྲ་ཁྲིད་བཞུགས་སོ, (sngon 'gro) thun mong gi sngon 'gro rin po che'i pra khrid) (191-197)
-English translation:  Precious Instructions on the Common Preliminaries, translated by Adam Pearcey, 2024.
-Colophon: This precious instruction on the common preliminaries arranged by Natsok Rangdrol, a yogin of the sovereign vehicle, in the palace of Samantabhadra within the forest of radiant clouds on the slopes of Gangri Tökar by the light of a crystal moon, is hereby complete. Let it be virtuous! Virtuous! Virtuous!
-o. (khrid yig) khrid yig sangs rgyas mnyam sbyor/ p.197-253
-p. Stages of Introduction to the Unaltered Ground Just As It Is, by Longchen Rabjam (གཞི་མ་བཅོས་ཇི་བཞིན་དུ་ངོ་སྤྲོད་པའི་རིམ་པ, (ngo sprod) gzhi ma bcos ji bzhin du ngo sprod pa'i rim pa/ p.253-259)
-English translation:  Stages of Introduction to the Unaltered Ground Just As It Is, translated by Adam Pearcey, 2025.
-Colophon: This concludes the method for introducing the unaltered ground just as it is, which was composed by the yogin Jarmé Long-yang, who experienced intense faith at the immaculate lotus feet of the sublime guru. May it be virtuous! Virtuous! Virtuous!
-q. (mun khrid) rgya mtsho ar gtad kyi mun khrid 'od gsal 'khorlo/ p.259-267
-r. The Fully Fledged Garuḍa, by Longchen Rabjam (ཁྱུང་ཆེན་གཤོག་རྫོགས་བཞུགས་སོ, (gshog rdzogs) khyung chen gshog rdzogs/ khregs chod don gyi mdo chings) (267-276)
-English translation:  The Fully Fledged Garuḍa, translated by Adam Pearcey, 2023.
-Colophon: This concludes The Fully Fledged Garuḍa, composed by the yogin of the vast expanse of non-action, Longchen Rabjam, at the glorious retreat place of Chimphu. Let it be virtuous! Virtuous! Virtuous!
-s. Synopsis of the Fully Fledged Garuḍa, by Longchen Rabjam (ཟབ་མོ་བཅུད་བསྡུས, (bsdud don) khyung chen gshog rdzogs kyi bsdud don) (276-280)
-English translation:  Synopsis of the Fully Fledged Garuḍa, translated by Adam Pearcey, 2024.
-Colophon: This synopsis of the Fully Fledged Garuḍa, a summary of Trekchö, was composed by Longchen Rabjam, a yogin of the nature of reality. Let it be virtuous! Virtuous! Virtuous!
-t. (gsang spyi) gsang ba bla med spyi babs/ p.280-285
-u. Encapsulation of the Profound, by Longchen Rabjam (ཟབ་མོ་བཅུད་བསྡུས, (bcud bsdus) zab mo bcud bsdus) (285-288)
-English translation:  Encapsulation of the Profound, translated by Adam Pearcey, 2023.
-Colophon: This Encapsulation of the Profound was composed by Natsok Rangdrol, a yogin of the supreme vehicle, on the slopes of Gangri Thökar. Let it be virtuous! Virtuous! Virtuous!
-v. (don bsdud) snying po don bsdus/ p.288-290
-w. The Heart of Definitive Meaning, by Longchen Rabjam (ངེས་དོན་སྙིང་པོ, ('od snying) 'od gsal snying po) (291-293)
-English translation:  The Heart of Definitive Meaning, translated by Adam Pearcey, 2025.
-Colophon: This concludes The Heart of Definitive Meaning composed by the yogin Natsok Rangdrol on the slopes of Gangri Thökar. May it prove virtuous! Virtuous! Virtuous!
-x. (don snying) nges don snying po/ p.293-295
-y. (don snying) mthar thug don gyi snying po/ p.295-309
-z. (gzhi 'bras) gzhi lam 'bras bu'i gnas gsal ba/ p.310-323
-a'. (gzhi rim) rnal 'byor bzhi'i rim pa/ p.323-371
-b'. (zab pra) zab mo pra khrid/ p.371-391
-c'. (yang bcud) snying po'i yang bcud/ p.391-400
-d'. (brtul spyod) rig pa brtul zhugs kyi spyod pa/ p.400-406
-e'. (dus gsal) dus kyi gsal byed/ p.406-420
-f'. (man ngag) 'da' kha don gyi man ngag/ p.420-437
-g'. (man ngag) btags grol snying po/ p.437-445
-h'. (zab don) zab don snying po/ p.446-467
-i'. (tshig don) tshig don snying po/ p.467-468
-j'. (gdams khrid) gdams khrid don gyi mdo chings/ p.468-477
-
-Volume 13
-zab mo yang tig (Part 2) (Note: this volume is devoted to the whispered lineage (nyengyu).)
-
-(wam)
-
-(mdo chings) snyan brgyud gnad kyi mdo chings/ p.1-11
-(phyag 'tshal) brgyud pa'i phyag 'tshal byin rlabs sprin phung/ p.11-18
-(dgongs brgyud) dgongs brgyud gsol 'debs/ p.18-23
-Prayer to the Lineage of Gurus of the Secret Cycle, by Longchen Rabjam (གསང་སྐོར་བླ་མ་བརྒྱུད་རིམ་གྱི་གསོལ་འདེབས་སོ, (gsol 'debs) gsang skor bla brgyud gsol 'debs) (23-27)
-English translation:  Prayer to the Lineage of Gurus of the Secret Cycle, translated by Adam Pearcey, 2024.
-Colophon: Let it be virtuous! Virtuous!
-Prayer Which Is the Source of All Attainments, by Longchen Rabjam (གསོལ་འདེབས་དངོས་གྲུབ་ཀུན་འབྱུང་བཞུགས་སོ, (gsol 'debs) gsol 'debs dngos grub kun 'byung) (27-33)
-English translation:  Prayer Which Is the Source of All Attainments, translated by Adam Pearcey, 2024.
-Colophon: The Prayer which is called The Source of All Attainments was composed at Gangri Thökar by Longchen Rabjam, a yogin of the supreme vehicle. Let it be virtuous! Virtuous! Virtuous!
-(dbang gi lag len) dbang gi lag len gsal ba'i sgron me/ p.33-51
-Great Guide to the Supreme Secret Path, by Longchen Rabjam (མཆོག་གསང་ལམ་ཁྲིད་ཆེན་མོ, (lam khrid) mchog gsang lam khrid chen mo) (51-55)
-English translation:  Great Guide to the Supreme Secret Path, translated by Adam Pearcey, 2025.
-Colophon: This concludes Great Guide to the Supremely Secret and Unwritten Whispered Transmission by Natsok Rangdrol, a yogin of the natural Great Perfection. May it be virtuous! Virtuous! Virtuous!
-(ye grol sor bzhag) ye grol sor bzhag/ p.55-67
-(snyan brgyud) snyan brgyud thugs kyi me long/ p.67-84
-(snyan brgyud) snyan brgyud don gyi me long/ p.84-147
-(lag khrid) lag khrid snying po/ p.147-153
-(rgyab chos) rgyab chos zab don gnad kyi me long/ p.153-494
-(bka' srung) zab mo yang tig gi bka' srung drag po sum sgril/ p.495-504
-(skong gso) skong gso dngos grub char 'bebs/ p.504-553
-Sun, Moon, Planets and Stars, Catalogue of the Zabmo Yangtik, by Longchen Rabjam (ཟབ་མོ་ཡང་ཏིག་གི་དཀར་ཆག་ཉི་ཟླ་གཟའ་སྐར་ཞེས་བྱ་བ་བཞུགས་སོ། །, (dkar chag) dkar chag nyi zla gza' skar) (535-563)
-English translation:  Sun, Moon, Planets and Stars, Catalogue of the Zabmo Yangtik, translated by Adam Pearcey, 2025.
-Colophon: This concludes the catalogue to Zabmo Yangtik called Sun, Moon, Planets and Stars, which was composed by Natsok Rangdrol, a yogin of the sovereign vehicle, who possesses the broad intellect of one who has heard much on the topics of the Sugata’s teachings and the eyes of insight that come from a thorough training in the definitive tantras, commentaries and pith instructions of the great secret approach. The text was written on the slopes of Gangri Tökar, in the palace of Samantabhadra, which is bathed in the light of a crystal moon and elevated by the victory banner of clusters of jewelled light, during the autumn time when flowers and fruit are ripe. May it prove virtuous! Virtuous! Virtuous!
-(Wylie outline originally created by Adam Pearcey)
 
