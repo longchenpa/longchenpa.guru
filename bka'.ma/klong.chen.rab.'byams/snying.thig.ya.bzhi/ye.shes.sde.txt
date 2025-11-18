@@ -2,101 +2,101 @@
 
 01) glegs bam dang po/ (1) Перший том
 
-bla ma yang tig glegs bam e pa (sec) Лама Янгтік
+bla ma yang tig glegs bam e pa [sec] Лама Янгтік (7-742)
 
-001 bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge
-002 kha byang nyi ma'i snying po
-003 lo rgyus rin po che'i phreng ba
-004 bla ma yang tig gi brgyud pa'i phyag 'tshal byin rlabs sprin tshogs
-005 bla ma yang tig gi gsol 'debs bdud rtsi'i sprin tshogs
-006 maN+Dal 'bul ba'i cho ga tshogs gnyis sprin tshogs
-007 sku gsung thugs kyi maN+Dal
-008 spros bcas kyi dbang chog tshangs pa'i drwa ba
-009 dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa
-010 spros med kyi dbang chog rin po che'i drwa ba
-011 gnad yig bum pa'i brda don
-012 byin rlabs sprin phung ye shes 'bebs pa
-013 shin tu spros med kyi dbang chog pad+ma'i drwa ba
-014 gling bzhi rgyan gyur gyi maN+Dal
-015 rab tu spros med kyi dbang chog 'od kyi drwa ba
-016 lnga tshan lnga'i maN+Dal 'bul ba'i cho ga yid bzhin drwa ba
-017 dam tshig gi rim pa rnam grol rgya mtsho
-018 tshogs mchod kyi rim pa yid bzhin rgya mtsho
-019 bla ma'i rim pa dngos grub rgya mtsho
-020 sngon 'gro sems sbyong bdun gyi don khrid
-021 dngos gzhi 'od gsal snying po'i don khrid
-022 khregs chod ye babs sor bzhag gi don khrid ~:[Інструкція з Трекчо]
-023 khregs chod kyi rgyab yig nam mkha' dri med
-024 thod rgal gyi rgyab yig nyi zla gza' skar
-025 btags grol gyi rgyab yig yid bzhin lhun grub
-026 khregs chod kyi yang yig nam mkha' klong yangs
-027 thod rgal gyi yang yig nam mkha' klong gsal
-028 khregs chod dang thod rgal gnyis ka'i yang yig nam mkha' klong chen
-029 nam mkha' klong chen gyi bsdus don 'od kyi phreng ba
-030 bde stong bdud rtsi'i sprin phung
-031 rlung sbyor ye shes sprin phung
-032 rtog med nam mkha'i sprin phung
+001 bla ma yang tig yid bzhin nor bu'i dbang bskur gyi zin tho skal bzang dga' ba'i mgul rgyan don la rton pa'i yi ge (7-86)
+002 kha byang nyi ma'i snying po (87-100)
+003 lo rgyus rin po che'i phreng ba (100-164)
+004 bla ma yang tig gi brgyud pa'i phyag 'tshal byin rlabs sprin tshogs (165-216)
+005 bla ma yang tig gi gsol 'debs bdud rtsi'i sprin tshogs (184-199)
+006 maN+Dal 'bul ba'i cho ga tshogs gnyis sprin tshogs (199-207)
+007 sku gsung thugs kyi maN+Dal (207-216)
+008 spros bcas kyi dbang chog tshangs pa'i drwa ba (217-406)
+009 dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa (245-250)
+010 spros med kyi dbang chog rin po che'i drwa ba (250-281)
+011 gnad yig bum pa'i brda don (281-286)
+012 byin rlabs sprin phung ye shes 'bebs pa (286-290)
+013 shin tu spros med kyi dbang chog pad+ma'i drwa ba (290-315)
+014 gling bzhi rgyan gyur gyi maN+Dal (315-323)
+015 rab tu spros med kyi dbang chog 'od kyi drwa ba (323-341)
+016 lnga tshan lnga'i maN+Dal 'bul ba'i cho ga yid bzhin drwa ba (341-344)
+017 dam tshig gi rim pa rnam grol rgya mtsho (344-362)
+018 tshogs mchod kyi rim pa yid bzhin rgya mtsho (362-380)
+019 bla ma'i rim pa dngos grub rgya mtsho (380-394)
+020 sngon 'gro sems sbyong bdun gyi don khrid (394-406)
+021 dngos gzhi 'od gsal snying po'i don khrid (407-742)
+022 khregs chod ye babs sor bzhag gi don khrid (454-475) Інструкція з Трекчо
+023 khregs chod kyi rgyab yig nam mkha' dri med (475-517)
+024 thod rgal gyi rgyab yig nyi zla gza' skar (517-595)
+025 btags grol gyi rgyab yig yid bzhin lhun grub (595-637)
+026 khregs chod kyi yang yig nam mkha' klong yangs (637-656)
+027 thod rgal gyi yang yig nam mkha' klong gsal (657-673)
+028 khregs chod dang thod rgal gnyis ka'i yang yig nam mkha' klong chen (673-702)
+029 nam mkha' klong chen gyi bsdus don 'od kyi phreng ba (702-706)
+030 bde stong bdud rtsi'i sprin phung (706-720)
+031 rlung sbyor ye shes sprin phung (720-731)
+032 rtog med nam mkha'i sprin phung (731-742)
 
-bla ma yang tig glegs bam waM pa (sec) Лама Янгтік
+bla ma yang tig glegs bam waM pa [sec] Лама Янгтік
 
-033 gzhi snang ye shes sgron me
-034 nyams len gnad kyi sgron me
-035 bdud rtsi ljon shing 'od gsal gyi gnad yig
-036 bdud rtsi dri med ~:[Непорочний Нектар]
-037 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po
-038 gnad gsum chos nyid kyi 'khor lo
-039 nyin mtshan 'od gsal gyi 'khor lo
-040 yang zab ye shes 'khor lo
-041 rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing
-042 brten pa sgo'i gegs sel sgron ma snang byed
-043 rig pa sems kyi gegs sel ye shes dri med
-044 bla ma yid bzhin nor bu
-045 yi dam yid bzhin nor bu
-046 mkha' 'gro yid bzhin nor bu
-047 nges don byang chub snying po ~:[Визначальна сутність пробудження]
-048 mthar thug yid bzhin snying po ~:[Остаточний нектар виконання бажань]
-049 'pho ba 'od gsal snying po ~:[Пхова: перенос сутності чистого світла]
-050 ngo sprod dran pa'i me long
-051 'chi ltas dran pa'i me long
-052 'chi bslu dran pa'i me long
-053 snyan brgyud chung ngu ye shes rang snang
-054 snyan brgyud 'bring po bar do 'od gsal rang snang
-055 snyan brgyud chen mo nges don mngon sum rang snang
-056 dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu
-057 rA hu la'i gsang sgrub snying gi dum bu
-058 gza' bdud kyi gsang sgrub me rlung 'khyil pa
-059 dam can gyi gsang sgrub snying gi dum bu
-060 kha byang 'od gsal snying po
+033 gzhi snang ye shes sgron me (743-1080)
+034 nyams len gnad kyi sgron me (787-837)
+035 bdud rtsi ljon shing 'od gsal gyi gnad yig (837-850)
+036 bdud rtsi dri med (850-853) Непорочний Нектар
+037 'od gsal spyod pa'i gnad yig bdud rtsi rgyal po (853-857)
+038 gnad gsum chos nyid kyi 'khor lo (857-890)
+039 nyin mtshan 'od gsal gyi 'khor lo (890-896)
+040 yang zab ye shes 'khor lo (896-909)
+041 rten gzhi lus kyi gegs sel bdud rtsi'i ljon shing (909-916)
+042 brten pa sgo'i gegs sel sgron ma snang byed (916-923)
+043 rig pa sems kyi gegs sel ye shes dri med (923-930)
+044 bla ma yid bzhin nor bu (930-935)
+045 yi dam yid bzhin nor bu (935-939)
+046 mkha' 'gro yid bzhin nor bu (939-944)
+047 nges don byang chub snying po (944-948) Визначальна сутність пробудження
+048 mthar thug yid bzhin snying po (948-953) Остаточний нектар виконання бажань
+049 'pho ba 'od gsal snying po (953-956) Пхова: перенос сутності чистого світла
+050 ngo sprod dran pa'i me long (956-974)
+051 'chi ltas dran pa'i me long (974-983)
+052 'chi bslu dran pa'i me long (983-993)
+053 snyan brgyud chung ngu ye shes rang snang (993-1011)
+054 snyan brgyud 'bring po bar do 'od gsal rang snang (1011-1033)
+055 snyan brgyud chen mo nges don mngon sum rang snang (1033-1080)
+056 dpal sngags kyi bdag mo'i sgrub thabs snying gi dum bu (1081-1092)
+057 rA hu la'i gsang sgrub snying gi dum bu (1093-1102)
+058 gza' bdud kyi gsang sgrub me rlung 'khyil pa (1103-1112)
+059 dam can gyi gsang sgrub snying gi dum bu (1113-1128)
+060 kha byang 'od gsal snying po (1129-1150)
 
 02) glegs bam gnyis pa/ (2) Другий том
 
-mkha' 'gro yang thig glegs bam oM pa/ rin chen shog skya'i skor (sec) Кхандро Янгтік
+mkha' 'gro yang thig glegs bam oM pa/ rin chen shog skya'i skor [sec] Кхандро Янгтік (5-656)
 
-061 them byang rin chen ljon shing
-062 gter 'byung rin po che'i lo rgyus
-063 rin po che dbang gi phreng ba/ rin chen shog skya'i skor
-064 bdag 'jug pad+ma klong yangs/ rin chen shog skya'i skor
-065 shog skya'i skor las/ tshogs mchod rgya mtsho'i sprin
-066 phyag 'tshal dri med zla rgyas/ rin chen shog 'dra
-067 rin chen shog 'dra/ gsol 'debs bdud rtsi'i chu rgyun
-068 khrid yig nor bu lugs/ rin chen shog 'dra
-069 khrid yig nyi zla gza' skar/ rin chen shog 'dra'i skor
-070 zab mo rab 'byed/ tshogs bsag pa yang yod/ rin chen shog 'dra'i skor
-071 tshogs bsag pa
-072 khrid yig rin po che gser gyi phreng ba/ rin chen shog 'dra'i skor
-073 nam mkha' skor gsum las/ nam mkha' rab 'byams/ rin chen shog skya'i skor rgyab chos kyi rim pa las
-074 nam mkha' klong yangs/ rin chen shog skya'i skor
-075 nam mkha' dri med/ rin chen shog skya'i skor
-076 man ngag rin po che gser gyi sgrom bu/ rin chen shog skya'i skor
-077 tshig don rin po che'i bang mdzod/ shog skya'i skor
+061 them byang rin chen ljon shing (5-22)
+062 gter 'byung rin po che'i lo rgyus (23-157)
+063 rin po che dbang gi phreng ba/ rin chen shog skya'i skor (157-297)
+064 bdag 'jug pad+ma klong yangs/ rin chen shog skya'i skor (297-335)
+065 shog skya'i skor las/ tshogs mchod rgya mtsho'i sprin (335-364)
+066 phyag 'tshal dri med zla rgyas/ rin chen shog 'dra (364-373)
+067 rin chen shog 'dra/ gsol 'debs bdud rtsi'i chu rgyun (373-380)
+068 khrid yig nor bu lugs/ rin chen shog 'dra (380-414)
+069 khrid yig nyi zla gza' skar/ rin chen shog 'dra'i skor (414-421)
+070 zab mo rab 'byed/ tshogs bsag pa yang yod/ rin chen shog 'dra'i skor (421-427)
+071 tshogs bsag pa (427-430)
+072 khrid yig rin po che gser gyi phreng ba/ rin chen shog 'dra'i skor (430-530)
+073 nam mkha' skor gsum las/ nam mkha' rab 'byams/ rin chen shog skya'i skor rgyab chos kyi rim pa las (530-549)
+074 nam mkha' klong yangs/ rin chen shog skya'i skor (550-571)
+075 nam mkha' dri med/ rin chen shog skya'i skor (571-590)
+076 man ngag rin po che gser gyi sgrom bu/ rin chen shog skya'i skor (590-610)
+077 tshig don rin po che'i bang mdzod/ shog skya'i skor ( 610-656)
 
-mkha' 'gro yang thig glegs bam AHpa/ rin chen shog skya'i skor (sec) Кхандро Янтік
+mkha' 'gro yang thig glegs bam AHpa/ rin chen shog skya'i skor [sec] Кхандро Янтік
 
 078 zab don rgya mtsho'i sprin zhes bya ba/ shog skya'i skor
 079 rin chen shog skya'i skor las/ mkha'a'agro snying tig gi man ngag zab don rgya mtsho'i khog dbub sa bcad bsdud don don gsal nyi ma'i 'od zer
 080 gsang spyod rdo rje lam bstan
 
-mkha' 'gro yang thig glegs bam hU~M pa/ rin chen shog ser skor (sec) Кхандро Янгтік
+mkha' 'gro yang thig glegs bam hU~M pa/ rin chen shog ser skor [sec] Кхандро Янгтік
 
 081 nges don snying po zhes bya ba/ rin chen shog ser skor
 082 shog ser skor las/ byin rlabs thugs sgrub
@@ -128,7 +128,7 @@ mkha' 'gro yang thig glegs bam hU~M pa/ rin chen shog ser skor (sec) Кханд�
 
 03) glegs bam gsum pa/ (3)
 
-mkha' 'gro yang tig glegs bam hUM pa/ rin chen shog 'dra'i skor (sec) Кхандро Янгтік
+mkha' 'gro yang tig glegs bam hUM pa/ rin chen shog 'dra'i skor [sec] Кхандро Янгтік
 
 108 bde gshegs rigs lnga'i sgrub thabs pad+ma stong ldan/ rin chen shog 'dra'i skor
 109 rigs lnga'i bcud len bdud rtsi'i thigs pa/ rin chen shog 'dra'i skor
@@ -147,7 +147,7 @@ mkha' 'gro yang tig glegs bam hUM pa/ rin chen shog 'dra'i skor (sec) Кханд
 122 shog 'dra'i skor/ shan pa srog sgrub nag mo'i gsang sgrub
 123 mkha' 'gro yang tig gi them byang dpag bsam ljon shing
 
-mkha' 'gro snying thig glegs bam e pa (sec) Кхандро Нінгтік
+mkha' 'gro snying thig glegs bam e pa [sec] Кхандро Нінгтік
 
 124 mkha' 'gro snying thig gi kha sbyang
 125 rdzogs pa chen po mkha' 'gro snying tig gi bla ma brgyud pa'i lo rgyus
@@ -210,7 +210,7 @@ mkha' 'gro snying thig glegs bam e pa (sec) Кхандро Нінгтік
 182 thun bzhi'i rnal 'byor las/ sgom pa'i rnal 'byor
 183 rnal 'byor bzhi las/ spyod pa'i rnal 'byor dang / 'bras bu'i rnal 'byor gnyis
 
-mkha' 'gro snying tig glegs bam waM pa (sec) Кхандро Нінгтік
+mkha' 'gro snying tig glegs bam waM pa [sec] Кхандро Нінгтік
 
 184 zhus len bdud rtsi gser phreng
 185 mkha' 'gro snying gi ti ka las/ zhal gdams gsang ba'i dum bu
@@ -280,7 +280,7 @@ mkha' 'gro snying tig glegs bam waM pa (sec) Кхандро Нінгтік
 
 04) glegs bam bzhi pa/(4)
 
-bi ma snying thig (sec) Віма Нінгтік
+bi ma snying thig [sec] Віма Нінгтік
 
 249 ka) rdzogs pa chen po gsang ba snying thig gi man ngag zab pa po ti bzhi'i kha byang nyi mas brgyan pa
 250 ka) shog tshad nges pa'i kha byang sgron ma rang gsal
@@ -363,7 +363,7 @@ bi ma snying thig (sec) Віма Нінгтік
 
 05) glegs bam lnga pa/ (5)
 
-zab mo yang tig glegs bam e pa (sec) Забмо Янгтік
+zab mo yang tig glegs bam e pa [sec] Забмо Янгтік
 
 327 lo rgyus rin po che 'od kyi phreng ba
 328 phyag 'tshal yid bzhin nor bu
@@ -401,7 +401,7 @@ zab mo yang tig glegs bam e pa (sec) Забмо Янгтік
 361 zab mo yang tig las/ tshig don snying po
 362 zab mo yang tig las/ gdams khrid don gyi mdo chings
 
-zab mo yang tig glegs bam waM pa (sec) Забмо Янгтік
+zab mo yang tig glegs bam waM pa [sec] Забмо Янгтік
 
 363 snyan brgyud gnad kyi mdo chings
 364 gsang skor brgyud pa'i phyag 'tshal byin rlabs sprin phung
@@ -431,14 +431,14 @@ zab mo yang tig glegs bam waM pa (sec) Забмо Янгтік
 388 khrid kyi rgyab yig gnad 'gags bdun pa/ bka' rgya ma'o/ bi ma snying thig kha skong
 389 rdzogs pa chen po mkha' 'gro snying tig gi khrid yig zab lam gsal byed/ mkha' 'gro snying thig kha skong
 
-bi ma snying thig kha skong (sec) Віма Нінгтік
+bi ma snying thig kha skong [sec] Віма Нінгтік
 
 390 rdzogs chen b+hi ma snying tig gi g.yu yig can las/ 'chi blu yi glud rabs dang lag len 'khor lo lnga yi dpe bris/ bi ma snying thig kha skong
 391 zhal chems gsang ba'i gnad 'dus 'gur dang bcas/ lce btsun seng ge dbang phyug gis
 392 man ngag mngon sum gyi gnad yig yod/ rgyab yig gsang ba/ bi ma snying thig kha skong
 393 rdzogs pa chen po bi ma snying tig ma bu'i sngon 'gro tshogs bsags kyi dmigs rim ngag 'don mdor bsdus pa gdod ma'i gsang lam
 
-mkha' 'gro snying thig kha skong (sec) Кхандро Нінгтік
+mkha' 'gro snying thig kha skong [sec] Кхандро Нінгтік
 
 394 man ngag snying gi dgongs pa'i rgyud/ mkha' 'gro snying thig kha skong
 395 mkha' 'gro snying thig gi gsol 'debs/ mkha' 'gro snying thig kha skong
@@ -450,5 +450,5 @@ mkha' 'gro snying thig kha skong (sec) Кхандро Нінгтік
 
 Джерело: https://library.bdrc.io/show/bdr:MW1KG12048
 
-2025 (c) Лонченг Осал 
+2025 (c) Лонгчен Осал
 
