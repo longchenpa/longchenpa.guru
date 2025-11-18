@@ -1,82 +1,82 @@
 @#/_/shAkya shrI/ dkar chag/ Зібрання творів Тогдена Шак'я Шрі
 
-001 rig 'dzin grub dbang shAkya shrI'i bka' 'bum bzhugs byang (dkar chag)
-002 rje btsun bla ma rdo rje 'chang chen po shAkya shrI dz+nyA na'i rnam thar me tog phreng ba (shAkya shrI grub dbang rnam thar)
-003 rig 'dzin grub pa'i dbang po'i rnam thar gyi tshul la gsol ba 'debs pa byin rlabs nyin byed 'dren pa'i shing rta
-004 bde chen zhing gi gsol 'debs byin rlabs sprin phung
-005 bde gshegs snang mtha'i sgrub thabs nyung ngu bde chen zhing sgrub shing rta'i 'khor lo (snang mtha')
-006 'od dpag med kyi dbang bskur ba'i cho ga bde chen 'dren pa'i shing rta ('od dpag dbang dpe)
-007 'phags mchog thugs rje chen po'i gsol 'debs byin rlabs char 'bebs
-008 'phags mchog thugs rje chen po'i sgrub thabs yang zab bcud kyi thig le (thugs chen sgrub thabs)
-009 thugs rje chen po 'phags pa spyan ras gzigs kyi smin byed kyi dbang bskur mdor bsdus pa mthong thos dran grol chen po (thugs chen dbang chog)
-010 bla ma gu ru bde ba chen po'i gsol 'debs byin rlabs sprin gyi phung po
-011 theg pa'i rtse rgyal a ti rdzogs pa chen po las: lam zab bla ma'i sgrub pa mthar thug dum bu dang po snying gi thig le (bla sgrub las byang)
-012 bde chen bla ma'i tshe sgrub khol du phyung ba 'chi med bcud kyi dwangs ma
-013 sman mchod
-014 rtsa gsum zhi khro'i skang ba don dam rdo rje'i thol glu (don bskang)
-015 bka' srung gtor 'bul rgyun khyer phrin las thogs med (bka' srung)
-016 theg pa'i rtse rgyal a ti rdzogs pa chen po las: lam zab bla ma sgrub pa'i smin byed dbang gi rim pa mthong grol ye shes snying po (bla sgrub dbang dpe)
-017 las bum bskyed chog
-018 gur drag brgyud 'debs
-019 gur drag bde gshegs 'dus pa'i tshe 'gugs dbang gi lcags kyu (gur drag tshe 'gugs)
-020 gur drag bde gshegs 'dus pa'i las byang pad+ma'i thugs tig (gur drag las byang)
-021 gur drag bder gshegs 'dus pa las: yang gsang tshe'i bsgrub pa (tshe sgrub
-022 bla ma bde gshegs 'dus pa'i tshogs (gur drag)
-023 gur drag bde gshegs 'dus pa las: bsgral las bstan dgra sgrol ba'i spu gri (gur drag
-024 rdzogs chen bla ma rnams la gsol 'debs byin rlabs char 'bebs (gsol 'debs)
-025 bla ma kun bzang zhi khro'i las byang snying po rang gsal
-026 'jam dpal rdzogs chen snying po'i rgyun khyer ('jam dpal)
-027 'jam dpal rig gtad las skyabs sems ('jam dpal rig gtad)
-028 'phags pa 'jam dpal nag po'i sgrub thabs nyung bsdus dngos grub mchog ster ('jam dpal nag po)
-029 gdod nas ngo bo stong gsal gyi gdangs las 'gag med du shar ba'i rtsa gsum spyi dang khyad par du a ti zhi khro'i dkyil 'khor gang rung la sbyar chog pa'i spros med don gyi tshogs mchod
-030 sgrol ma'i tshe dbang
-031 zhabs brtan gsol 'debs
-032 gzhan phan bka' sgo
-033 rdo rje gzhon nu snying po'i nyams len
-034 dpal rdo rje gzhon nu'i bzlog bsdus gnam lcags ral gri pha rol mtha' dmag g.yul 'joms (phur pa'i bzlog bsdus)
-035 lus sbyin 'khrul snang dbyings gcod rang rig gcer mthong
-036 snyan brgyud gsang ba'i mthar thug lam zab 'pho ba'i gdams pa snying gi thig le ('pho ba)
-037 skyabs sdom mdor bsdus
-038 gu ru'i tshig bdun gsol 'debs dang 'brel ba'i bla sgrub byin rlabs char 'bebs
-039 rdor sems tshogs bsdus
-040 rtsa gsum tshogs rgyas bsdus
-041 tsaN+Da lI tshogs bsdus pa
-042 bla ma bde mchog 'khor lo'i sman sgrub khol du phyung ba bdud rtsi'i snying po (sman sgrub)
-043 'chi med tsaN+Da lI'i tshe dbang grangs gsog gi don dbang snying por dril ba mi shigs rdo rje'i snying po (don dbang)
-044 pad+ma tshe'i snying tig las: ye shes kyi mkha' 'gro tsaN+Da lI'i 'chi med tshe yi dbang bskur rdo rje'i snying bcud (tsaN+Da lI dbang dpe)
-045 dpal 'bar ma ning gi gsol kha rig pa'i rang rtsal (ma ning)
-046 rdzogs pa chen po'i bka' srung e ka dza Ti'i gsol mchod phrin bcol dang bcas pa phrin las thogs med (phrin bcol)
-047 drang srong khyab 'jug chen po'i dgug gzhug myur mgyogs glog gi zhags pa (khyab 'jug dgug gzhug)
-048 drang srong khyab 'jug chen po'i gser skyems 'dod yon gyi phung po (khyab 'jug gser skyems)
-049 dam can mgar ba nag po'i gsol mchod phrin las thogs med myur mgyogs glog gi zhags pa (mgar nag gsol mchod)
-050 rgyal ba'i bka' srung dpal zhing skyong yab yum gyi gsol kha 'phrin las myur 'grub (zhing skyong)
-051 tshe ring mched lnga'i 'phrin bcol
-052 gnas bdag ye brdzu'i phrin bcol 'phrin las myur sgrub (ye brdzu'i 'phrin bcol)
-053 ye brdzu'i gsol bsdus
-054 ye brdzu'i bsangs mchod
-055 rig 'dzin grub pa'i dbang po'i rnam thar gyi tshul la gsol ba 'debs pa byin rlabs nyin byed dren pa'i shing rta (rnam thar gsol 'debs)
-056 kun bzang thugs tig gi sngon 'gro kun tu bzang po'i dgongs pa'i rgyan
-057 thugs rje chen po pad+ma rgyal po'i sngon 'gro'i rim pa rnams
-058 gu ru bde ba chen po las/ sngon du 'gro ba'i lam rim thar gling 'jug sgo
-059 thugs rje chen po pad+ma rgyal po'i gsol 'debs mthong ba rang grol
-060 bla rdzogs thugs gsum 'dus pa'i zab don kun dril yid bzhin nor bu las bsnyen sgrub khyer bde khol du phyung ba mthong ba rang grol (gter gzhung)
-061 gsol 'debs le tshan rnams dang/ nyams mgur gyi skor
-062 thugs rje chen po'i bdag skyed nyung bsdus rgyun khyer (thugs rje chen po bdag bskyed)
-063 kun bzang bla ma'i rnal 'byor zab gsang snying gi ti ka
-064 theg pa'i rtse rgyal a ti rdzogs pa chen po las: khregs chod kyi gsang lam snying gi dum bu gnyis pa rig pa gcer mthong gi gdams pa (khregs chod)
-065 thun mong ma yin pa sems khrid nyung bsdus thar pa'i sgo 'byed
-066 zhal gdams
-067 bcud len gyi rim pa lam gong 'phel ba'i gdams pa
-068 tsaN+Da lI brgyud 'debs
-069 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i gdams pa (tshe yum)
-070 pad+ma tshe yi snying tig las: 'chi med mkha' 'gro'i rgyud bskul (tshe yum rgyud bskul)
-071 pad+ma tshe yi snying tig las: 'chi med mkha' 'gro'i bskang bshags (tshe yum bskang ba)
-072 ris med bstan 'dzin yongs kyi gtsug nor dkyil 'khor rgya mtsho'i bdag nyid skyabs gnas khams sprul bstan pa'i nyi ma rdo rje 'chang chen po'i sprul sku myur byon drang srong bden tshig
-073 snyan brgyud skor dkar chag zur gsal ltar chos tshan bcu gcig
-074 mkha' 'gro snyan brgyud kyi yab bka' bde mchog lhan skyes kyi sgrub thabs nyung ngu tshogs mchod bcas khrigs su bkod pa (bde mchog)
-075 grub chen shAkya shrI'i dgongs gter gu drag bde gshegs 'dus pa'i gtor bzlog nag 'gros su bkod pa (gu drag chog khrigs gtor bzlog)
-076 rig 'dzin grub dbang shAkya shrI dz+nyA na'i dgongs gter dang gsung thor bu'i dkar chag rdo rje nor bu'i phreng ba
-077 dpar byang smon tshig
+001 rig 'dzin grub dbang shAkya shrI'i bka' 'bum bzhugs byang [toc] Вступний зміст Зібрання творів
+002 rje btsun bla ma rdo rje 'chang chen po shAkya shrI dzanyA na'i rnam thar me tog phreng ba [txt] Намтар Його Високоповажності Великого Ваджрадхари Шак'я Шрі «Гірлянда квітів»
+003 rig 'dzin grub pa'i dbang po'i rnam thar gyi tshul la gsol ba 'debs pa byin rlabs nyin byed 'dren pa'i shing rta [txt] Молитва до біографії Володаря сиддхів Рігдзіна з проханням про благословення «Колісниця, що веде сонце благословень»
+004 bde chen zhing gi gsol 'debs byin rlabs sprin phung [txt] Молитва до Сукхаваті «Хмара благословень»
+005 bde gshegs snang mtha'i sgrub thabs nyung ngu bde chen zhing sgrub shing rta'i 'khor lo [txt] Коротка садхана Сукхаваті «Колесо колісниці, що здійснює землю Великого Блаженства»
+006 'od dpag med kyi dbang bskur ba'i cho ga bde chen 'dren pa'i shing rta [txt] Ритуал посвяти Амітабхи «Колісниця, що веде до Великого Блаженства»
+007 'phags mchog thugs rje chen po'i gsol 'debs byin rlabs char 'bebs [txt] Молитва до Вищого Авалокітешвари «Злива благословень»
+008 'phags mchog thugs rje chen po'i sgrub thabs yang zab bcud kyi thig le [txt] Дуже глибока садхана Вищого Авалокітешвари «Крапля сутності»
+009 thugs rje chen po 'phags pa spyan ras gzigs kyi smin byed kyi dbang bskur mdor bsdus pa mthong thos dran grol chen po [txt] Коротка посвята дозрівання Авалокітешвари «Велике звільнення через бачення, слухання та спогад»
+010 bla ma gu ru bde ba chen po'i gsol 'debs byin rlabs sprin gyi phung po [txt] Молитва до Гуру Великого Блаженства «Хмара благословень»
+011 theg pa'i rtse rgyal a ti rdzogs pa chen po las: lam zab bla ma'i sgrub pa mthar thug dum bu dang po snying gi thig le [txt] З Аті-йоги, царя вчень: Остання частина глибокого пути — садхана Лами, перша частина «Крапля серця»
+012 bde chen bla ma'i tshe sgrub khol du phyung ba 'chi med bcud kyi dwangs ma [txt] Практика довгого життя Лами Великого Блаженства «Чиста есенція безсмертного нектару»
+013 sman mchod [txt] Медицина-менде та цог
+014 rtsa gsum zhi khro'i skang ba don dam rdo rje'i thol glu [sec] Заповнення для мирних і гнівних божеств трьох коренів «Пісня ваджри остаточного сенсу»
+015 bka' srung gtor 'bul rgyun khyer phrin las thogs med [txt] Щоденне підношення торма захисникам Дхарми «Діяльність без перешкод»
+016 theg pa'i rtse rgyal a ti rdzogs pa chen po las: lam zab bla ma sgrub pa'i smin byed dbang gi rim pa mthong grol ye shes snying po [txt] З Аті-йоги: Етапи посвяти дозрівання глибокої садхани Лами «Самозвільнення через бачення — серце первинної мудрості»
+017 las bum bskyed chog [txt] Ритуал генерування ста тисяч дій
+018 gur drag brgyud 'debs [txt] Лінія молитви гнівного Гуру
+019 gur drag bde gshegs 'dus pa'i tshe 'gugs dbang gi lcags kyu [txt] Гак для виклику життя з гнівного зібрання суґат
+020 gur drag bde gshegs 'dus pa'i las byang pad+ma'i thugs tig [txt] Практичний текст гнівного зібрання суґат «Серцева крапля лотоса»
+021 gur drag bder gshegs 'dus pa las: yang gsang tshe'i bsgrub pa [txt] З гнівного зібрання суґат: Найтаємніша практика довгого життя
+022 bla ma bde gshegs 'dus pa'i tshogs [txt] Цог Лами Зібрання суґат
+023 gur drag bde gshegs 'dus pa las: bsgral las btan dgra sgrol ba'i spu gri [txt] З гнівного зібрання суґат: Кинджал для вбивства ворогів вчення
+024 rdzogs chen bla ma rnams la gsol 'debs byin rlabs char 'bebs [txt] Молитва до лам Дзогчену «Злива благословень»
+025 bla ma kun bzang zhi khro'i las byang snying po rang gsal [txt] Практичний текст мирно-гнівного Кунзанг «Самосвітла суть»
+026 'jam dpal rdzogs chen snying po'i rgyun khyer [txt] Щоденна практика сутності Манджушрі Дзогчен
+027 'jam dpal rig gtad las skyabs sems [txt] Передача усвідомлення Манджушрі як притулок і бодхічітта
+028 'phags pa 'jam dpal nag po'i sgrub thabs nyung bsdus dngos grub mchog ster [txt] Коротка садхана Чорного Манджушрі «Дарувальник вищих сиддхі»
+029 gdod nas ngo bo stong gsal gyi gdangs las 'gag med du shar ba'i rtsa gsum spyi dang khyad par du a ti zhi khro'i dkyil 'khor gang rung la sbyar chog pa'i spros med don gyi tshogs mchod [txt] Безприкрашене підношення цог для будь-якого мандалу мирно-гнівних Аті, що невпинно виникає з первинного сяйва порожньої сутності
+030 sgrol ma'i tshe dbang [txt] Посвята довгого життя Тари
+031 zhabs brtan gsol 'debs [txt] Молитва довгого життя
+032 gzhan phan bka' sgo [txt] Відкриття вчення на благо інших
+033 rdo rje gzhon nu snying po'i nyams len [txt] Практика сутності Ваджракумари
+034 dpal rdo rje gzhon nu'i bzlog bsdus gnam lcags ral gri pha rol mtha' dmag g.yul 'joms [txt] Коротке відбиття Ваджракумари «Меч блискавки, що перемагає ворожі армії»
+035 lus sbyin 'khrul snang dbyings gcod rang rig gcer mthong [txt] Чод, що розтинає ілюзорні появи тілом «Голе бачення власного усвідомлення»
+036 snyan brgyud gsang ba'i mthar thug lam zab 'pho ba'i gdams pa snying gi thig le [txt] Остаточна таємна усна передача глибокого переносу свідомості «Крапля серця»
+037 skyabs sdom mdor bsdus [txt] Короткі притулок і обітниці
+038 gu ru'i tshig bdun gsol 'debs dang 'brel ba'i bla sgrub byin rlabs char 'bebs [txt] Молитва семи рядків Гуру разом з садханою Лами «Злива благословень»
+039 rdor sems tshogs bsdus [txt] Короткий цог Ваджрасаттви
+040 rtsa gsum tshogs rgyas bsdus [txt] Розширено-скорочений цог трьох коренів
+041 tsaN+Da lI tshogs bsdus pa [txt] Короткий цог Чандалі
+042 bla ma bde mchog 'khor lo'i sman sgrub khol du phyung ba bdud rtsi'i snying po [txt] Практика благословення ліків колеса Верховного Блаженства «Суть нектару»
+043 'chi med tsaN+Da lI'i tshe dbang grangs gsog gi don dbang snying por dril ba mi shigs rdo rje'i snying po [txt] Посвята довгого життя безсмертної Чандалі «Незнищенна ваджрна суть»
+044 pad+ma tshe'i snying tig las: ye shes kyi mkha' 'gro tsaN+Da lI'i 'chi med tshe yi dbang bskur rdo rje'i snying bcud [txt] З Серцевої краплі довгого життя Падми: Посвята безсмертного життя мудрої дакині Чандалі «Ваджрна есенція»
+045 dpal 'bar ma ning gi gsol kha rig pa'i rang rtsal [txt] Молитва до славного Палбарма Нінг «Власна сила усвідомлення»
+046 rdzogs pa chen po'i bka' srung e ka dza Ti'i gsol mchod phrin bcol dang bcas pa phrin las thogs med [txt] Підношення і доручення діяльності захиснику Дзогчену Екадзаті «Діяльність без перешкод»
+047 drang srong khyab 'jug chen po'i dgug gzhug myur mgyogs glog gi zhags pa [txt] Швидкий гак і виклик великого ріші Вішну «Петля блискавки»
+048 drang srong khyab 'jug chen po'i gser skyems 'dod yon gyi phung po [txt] Золоте питво-змішування бажаних якостей великого ріші Вішну
+049 dam can mgar ba nag po'i gsol mchod phrin las thogs med myur mgyogs glog gi zhags pa [txt] Підношення клятвопорушнику Чорному Ковалю «Швидка петля блискавки без перешкод»
+050 rgyal ba'i bka' srung dpal zhing skyong yab yum gyi gsol kha 'phrin las myur 'grub [txt] Молитва до славного захисника полів ядам «Швидке здійснення діяльності»
+051 tshe ring mched lnga'i 'phrin bcol [txt] Доручення діяльності п'яти сестрам довгого життя
+052 gnas bdag ye brdzu'i phrin bcol 'phrin las myur sgrub [txt] Доручення діяльності первинному гнівному Єбрзу «Швидке здійснення діяльності»
+053 ye brdzu'i gsol bsdus [txt] Коротка молитва Єбрзу
+054 ye brdzu'i bsangs mchod [txt] Очищення димом для Єбрзу
+055 rig 'dzin grub pa'i dbang po'i rnam thar gyi tshul la gsol ba 'debs pa byin rlabs nyin byed dren pa'i shing rta [txt] Молитва до біографії Володаря сиддхів «Колісниця, що веде сонце благословень»
+056 kun bzang thugs tig gi sngon 'gro kun tu bzang po'i dgongs pa'i rgyan [txt] Нгьондро Серцевої краплі Кунзанг «Прикраса наміру Самантабхадри»
+057 thugs rje chen po pad+ma rgyal po'i sngon 'gro'i rim pa rnams [txt] Етапи попередніх практик Авалокітешвари Падма Ґ'ялпо
+058 gu ru bde ba chen po las/ sngon du 'gro ba'i lam rim thar gling 'jug sgo [txt] З Гуру Великого Блаженства: Етапи попередніх практик «Вхідні ворота до звільнення»
+059 thugs rje chen po pad+ma rgyal po'i gsol 'debs mthong ba rang grol [txt] Молитва до Авалокітешвари Падма Ґ'ялпо «Самозвільнення через бачення»
+060 bla rdzogs thugs gsum 'dus pa'i zab don kun dril yid bzhin nor bu las bsnyen sgrub khyer bde khol du phyung ba mthong ba rang grol [txt] З глибокого сенсу зібрання трьох коренів Лама-Рігдзін-Тугдже «Легке для практики самозвільнення через бачення»
+061 gsol 'debs le tshan rnams dang/ nyams mgur gyi skor [sec] Розділи молитов та пісні досвіду
+062 thugs rje chen po'i bdag skyed nyung bsdus rgyun khyer [txt] Коротке щоденне самогенерування Авалокітешвари
+063 kun bzang bla ma'i rnal 'byor zab gsang snying gi ti ka [txt] Дуже таємний коментар до йоги Лами Кунзанг
+064 theg pa'i rtse rgyal a ti rdzogs pa chen po las: khregs chod kyi gsang lam snying gi dum bu gnyis pa rig pa gcer mthong gi gdams pa [txt] З Аті-йоги, царя вчень: Друга частина таємного пути трекчо «Настанова голого бачення усвідомлення»
+065 thun mong ma yin pa sems khrid nyung bsdus thar pa'i sgo 'byed [txt] Незвичайне коротке керівництво розумом «Відкривач дверей звільнення»
+066 zhal gdams [txt] Усні настанови
+067 bcud len gyi rim pa lam gong 'phel ba'i gdams pa [txt] Етапи практики витягу сутності «Настанова поступового піднесення пути»
+068 tsaN+Da lI brgyud 'debs [txt] Лінія молитви Чандалі
+069 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i gdams pa [txt] З Серцевої краплі довгого життя Падми: Настанова безсмертної дакині
+070 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i rgyud bskul [txt] Заклик лінії безсмертної дакині
+071 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i bskang bshags [txt] Заповнення та очищення безсмертної дакині
+072 ris med bstan 'dzin yongs kyi gtsug nor dkyil 'khor rgya mtsho'i bdag nyid skyabs gnas khams sprul bstan pa'i nyi ma rdo rje 'chang chen po'i sprul sku myur byon drang srong bden tshig [txt] Слова істини від швидкоповерненого тулку Великого Ваджрадхари Бстанпа Ньїма
+073 snyan brgyud skor dkar chag zur gsal ltar chos tshan bcu gcig [toc] Зміст кола усної передачі — одинадцять тем вчень
+074 mkha' 'gro snyan brgyud kyi yab bka' bde mchog lhan skyes kyi sgrub thabs nyung ngu tshogs mchod bcas khrigs su bkod pa [txt] Коротка садхана з цогом спонтанно-присутнього Верховного Блаженства з чоловічої частини усної передачі дакинь
+075 grub chen shAkya shrI'i dgongs gter gu drag bde gshegs 'dus pa'i gtor bzlog nag 'gros su bkod pa [txt] З ґонґтер Великого Сиддхи Шак'я Шрі: Відбиття торма гнівного зібрання суґат у формі чорного ґрос
+076 rig 'dzin grub dbang shAkya shrI dzanyA na'i dgongs gter dang gsung thor bu'i dkar chag rdo rje nor bu'i phreng ba [toc] Зміст ґонґтерів та розкиданих вчень Рігдзіна Ґрубванґ Шак'я Шрі «Гірлянда ваджрних коштовностей»
+077 dpar byang smon tshig [txt] Колофон та побажання
 
 Джерело: https://library.bdrc.io/show/bdr:MW23563
 
