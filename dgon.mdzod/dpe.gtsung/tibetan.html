@@ -36,7 +36,8 @@
           padding: 22mm 18mm;
           background: var(--paper);
           box-shadow: var(--shadow);
-          font-size: 15.5pt;
+          font-size: 11pt;
+          border-radius: 4px;
           line-height: 1.26;
         }
         body.a4 #a4-view { display: block; }
@@ -97,28 +98,22 @@
     <script>
         const TEXT_URL = 'https://osal.longchenpa.guru/lam.rim.txt';
         const linesPerPecha = 18;
+        const mode = 'pecha';
 
         let fullText = '';
         let lines = [];
 
-        // Завантажуємо текст ТІЛЬКИ ОДИН РАЗ
         async function loadText() {
             const loading = document.getElementById('loading');
             const contentEl = document.getElementById('text-content');
-
             try {
                 const resp = await fetch(TEXT_URL + '?t=' + Date.now());
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 fullText = await resp.text();
                 lines = fullText.split('\n');
-
-                // Заповнюємо A4-режим
                 contentEl.textContent = fullText;
-
                 loading.remove();
-
-                // Стартуємо з A4
-                setMode('a4');
+                setMode(mode);
             } catch (e) {
                 console.error(e);
                 contentEl.textContent = 'Помилка завантаження: ' + e.message;
@@ -128,37 +123,27 @@
 
         function setMode(mode) {
             document.body.className = mode;
-
-            // Оновлюємо активну кнопку
             document.querySelectorAll('.mode-toggle button').forEach(b => b.classList.remove('active'));
             document.querySelector(`[onclick="setMode('${mode}')"]`).classList.add('active');
-
-            if (mode === 'pecha') {
-                buildPechas();
-            }
+            if (mode === 'pecha') { buildPechas(); }
         }
 
         function buildPechas() {
             document.querySelectorAll('.pecha-container').forEach(el => el.remove());
-
             let chunk = [];
             let index = 1;
-
             lines.forEach((line, i) => {
                 chunk.push(line);
                 if (chunk.length >= linesPerPecha || i === lines.length - 1) {
                     const div = document.createElement('div');
                     div.className = 'pecha-container';
-
                     const pre = document.createElement('pre');
                     pre.textContent = chunk.join('\n');
                     div.appendChild(pre);
-
                     const num = document.createElement('div');
                     num.className = 'pecha-number';
                     num.textContent = 'Pecha ' + index++;
                     div.appendChild(num);
-
                     document.body.appendChild(div);
                     chunk = [];
                 }
