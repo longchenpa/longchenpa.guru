@@ -7,16 +7,14 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tibetan:wght@400;700&display=swap">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
-
         :root {
           --paper: #fdfaf2;
           --ink: #1e1209;
           --red: #b22222;
           --gold: #c9a227;
           --shadow: 8px 14px 28px rgba(0,0,0,0.22), 0 0 40px rgba(0,0,0,0.15) inset;
-          --grain: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9 numOctaves="4" stitchTiles="stitch"/><feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.03 0"/></filter><rect width="300" height="300" filter="url(%23n)" opacity="0.6"/></svg>');
+          --grain: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9 numOctaves="4" stitchTiles="stitch"/><feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.03 0"/></filter><rect width="300" height="300" filter="url(%23n)" opacity="0.6"/></svg>');
         }
-
         html { background: #0f0b08; height: 100%; }
         body {
           margin: 0;
@@ -30,18 +28,9 @@
           align-items: center;
           padding: 2vh 1vw;
         }
-
-        pre {
-          margin: 0;
-          font: inherit;
-          color: inherit;
-          white-space: pre;
-          overflow: hidden;
-        }
-
-        /* ==== A4 MODE ==== */
-        body.a4 #a4-view {
-          display: block;
+        pre { margin: 0; font: inherit; color: inherit; white-space: pre; overflow: hidden; }
+        #a4-view {
+          display: none;
           width: 310mm;
           min-height: 297mm;
           padding: 22mm 18mm;
@@ -49,20 +38,13 @@
           box-shadow: var(--shadow);
           font-size: 15.5pt;
           line-height: 1.26;
-          overflow: hidden;
         }
+        body.a4 #a4-view { display: block; }
 
-        /* ==== PECHA MODE ==== */
-        body.pecha {
-          gap: 3vh;
-          padding: 3vh 2vw;
-        }
-
+        body.pecha { gap: 3vh; padding: 3vh 2vw; }
         .pecha-container {
-          width: 96vw;
-          max-width: 1100px;
-          height: 38vh;
-          min-height: 120px;
+          width: 96vw; max-width: 1100px;
+          height: 38vh; min-height: 120px;
           background: var(--paper);
           padding: 3.8vh 5vw;
           box-shadow: var(--shadow);
@@ -71,132 +53,120 @@
           border-radius: 4px;
           display: none;
         }
-
-        body.pecha .pecha-container {
-          display: flex;
-        }
-
+        body.pecha .pecha-container { display: flex; }
         .pecha-number {
-          position: absolute;
-          top: 1.6vh;
-          right: 3vw;
-          font-size: 0.9em;
-          color: var(--gold);
-          opacity: 0.6;
+          position: absolute; top: 1.6vh; right: 3vw;
+          font-size: 0.9em; color: var(--gold); opacity: 0.6;
         }
-
-        /* Paper texture + ambient light */
         .pecha-container::before {
-          content: '';
-          position: absolute;
-          inset: 0;
+          content: ''; position: absolute; inset: 0;
           background: linear-gradient(135deg, rgba(255,255,255,0.07) 0%, transparent 40%),
                       linear-gradient(315deg, rgba(0,0,0,0.04) 0%, transparent 60%);
           pointer-events: none;
         }
-
-        /* Toggle */
         .mode-toggle {
-          position: fixed;
-          top: 1.5vh;
-          right: 2vw;
-          z-index: 1000;
-          background: rgba(0,0,0,0.4);
-          padding: 0.6em 1em;
-          border-radius: 6px;
-          backdrop-filter: blur(6px);
+          position: fixed; top: 1.5vh; right: 2vw; z-index: 1000;
+          background: rgba(0,0,0,0.4); padding: 0.6em 1em; border-radius: 6px; backdrop-filter: blur(6px);
         }
         .mode-toggle button {
-          background: none;
-          border: 1px solid white;
-          color: white;
-          padding: 0.5em 1em;
-          margin: 0 0.3em;
-          border-radius: 4px;
-          cursor: pointer;
-          font-family: inherit;
+          background: none; border: 1px solid white; color: white;
+          padding: 0.5em 1em; margin: 0 0.3em; border-radius: 4px; cursor: pointer;
         }
-        .mode-toggle button.active {
-          background: var(--red);
-          border-color: var(--red);
+        .mode-toggle button.active { background: var(--red); border-color: var(--red); }
+        #loading {
+          position: fixed; top: 50%; left: 50%; transform: translate(-50%,-50%);
+          background: rgba(0,0,0,0.8); color: white; padding: 2em 3em; border-radius: 10px; z-index: 2000;
+          font-size: 1.2em;
         }
-
-#a4-view { display: none; }
-body.a4 #a4-view { display: block; }
-body.pecha #a4-view { display: none !important; }
-
     </style>
 </head>
 <body class="a4">
+
+    <div id="loading">Завантажую текст…</div>
 
     <div class="mode-toggle">
         <button onclick="setMode('a4')" class="active">A4</button>
         <button onclick="setMode('pecha')">Pecha</button>
     </div>
 
+    <!-- A4 view – завжди є в DOM, просто ховається/показується -->
     <div id="a4-view">
-        <pre id="text-content"> 123 </pre>
+        <pre id="text-content"></pre>
     </div>
 
-<script>
-  const linesPerPecha = 18;
+    <script>
+        const TEXT_URL = 'https://osal.longchenpa.guru/lam.rim.txt';
+        const linesPerPecha = 18;
 
-  function buildPechas() {
-    document.querySelectorAll('.pecha-container').forEach(el => el.remove());
+        let fullText = '';
+        let lines = [];
 
-    let chunk = [];
-    lines.forEach((line, i) => {
-      chunk.push(line);
-      if (chunk.length >= linesPerPecha || i === lines.length - 1) {
-        const div = document.createElement('div');
-        div.className = 'pecha-container';
-        const pre = document.createElement('pre');
-        pre.textContent = chunk.join('\n');
-        div.appendChild(pre);
-        const num = document.createElement('div');
-        num.className = 'pecha-number';
-        num.textContent = 'Pecha ' + (Math.floor(i / linesPerPecha) + 1);
-        div.appendChild(num);
-        document.body.appendChild(div);
-        chunk = [];
-      }
-    });
-  }
+        // Завантажуємо текст ТІЛЬКИ ОДИН РАЗ
+        async function loadText() {
+            const loading = document.getElementById('loading');
+            const contentEl = document.getElementById('text-content');
 
+            try {
+                const resp = await fetch(TEXT_URL + '?t=' + Date.now());
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                fullText = await resp.text();
+                lines = fullText.split('\n');
 
-  const TEXT_URL = 'https://osal.longchenpa.guru/lam.rim.txt';
+                // Заповнюємо A4-режим
+                contentEl.textContent = fullText;
 
-  let fullText = '';
-  let lines = [];
+                loading.remove();
 
-  async function loadText() {
-    const loadingEl = document.getElementById('loading');
-    const contentEl = document.getElementById('a4-content'); // ← правильний id
-
-    try {
-        const resp = await fetch(TEXT_URL + '?nocache=' + Date.now());
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        fullText = await resp.text();
-        lines = fullText.split('\n');
-        if (contentEl) contentEl.textContent = fullText;
-        if (loadingEl) loadingEl.remove();
-    } catch (e) {
-        console.error(e);
-        if (contentEl) {
-            contentEl.textContent = '⚠  Помилка завантаження тексту:\n' + e.message;
+                // Стартуємо з A4
+                setMode('a4');
+            } catch (e) {
+                console.error(e);
+                contentEl.textContent = 'Помилка завантаження: ' + e.message;
+                if (loading) loading.textContent = 'Не вдалося завантажити';
+            }
         }
-        if (loadingEl) {
-            loadingEl.textContent = 'Не вдалося завантажити текст';
+
+        function setMode(mode) {
+            document.body.className = mode;
+
+            // Оновлюємо активну кнопку
+            document.querySelectorAll('.mode-toggle button').forEach(b => b.classList.remove('active'));
+            document.querySelector(`[onclick="setMode('${mode}')"]`).classList.add('active');
+
+            if (mode === 'pecha') {
+                buildPechas();
+            }
         }
-    }
-  }
 
-  function setMode(mode) {
-    document.body.className = mode;
-    if (mode === 'pecha') buildPechas();
-    loadText();
-  }
+        function buildPechas() {
+            document.querySelectorAll('.pecha-container').forEach(el => el.remove());
 
-  setMode('pecha');
+            let chunk = [];
+            let index = 1;
 
-</script></body></html>
+            lines.forEach((line, i) => {
+                chunk.push(line);
+                if (chunk.length >= linesPerPecha || i === lines.length - 1) {
+                    const div = document.createElement('div');
+                    div.className = 'pecha-container';
+
+                    const pre = document.createElement('pre');
+                    pre.textContent = chunk.join('\n');
+                    div.appendChild(pre);
+
+                    const num = document.createElement('div');
+                    num.className = 'pecha-number';
+                    num.textContent = 'Pecha ' + index++;
+                    div.appendChild(num);
+
+                    document.body.appendChild(div);
+                    chunk = [];
+                }
+            });
+        }
+
+        // Запускаємо завантаження при старті сторінки
+        loadText();
+    </script>
+</body>
+</html>
