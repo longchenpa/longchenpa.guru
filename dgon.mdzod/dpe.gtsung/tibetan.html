@@ -97,7 +97,7 @@
     </div>
 
     <script>
-        const TEXT_URL = 'https://osal.longchenpa.guru/lam.rim.txt';
+        const TEXT_URL = 'https://osal.longchenpa.guru/';
         const linesPerPecha = 18;
         const mode = 'pecha';
 
@@ -108,7 +108,9 @@
             const loading = document.getElementById('loading');
             const contentEl = document.getElementById('text-content');
             try {
-                const resp = await fetch(TEXT_URL + '?t=' + Date.now());
+                const params = new URLSearchParams(window.location.search);
+                let text = params.get('text');
+                const resp = await fetch(TEXT_URL + text + "?t=" + Date.now());
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 fullText = await resp.text();
                 lines = fullText.split('\n');
