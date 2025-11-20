@@ -102,8 +102,8 @@
     <div id="loading">Завантажую текст…</div>
 
     <div class="mode-toggle">
-        <button onclick="setMode('a4')" class="active">A4</button>
-        <button onclick="setMode('pecha')">Pecha</button>
+        <button onclick="setMode('a4')">A4</button>
+        <button onclick="setMode('pecha')" class="active">Pecha</button>
     </div>
 
     <div id="a4-view">
@@ -159,7 +159,7 @@
                     div.appendChild(pre);
                     const num = document.createElement('div');
                     num.className = 'pecha-number';
-                    num.textContent = 'Pecha ' + index++;
+                    num.textContent = 'dpe cha ' + index++;
                     div.appendChild(num);
                     document.body.appendChild(div);
                     chunk = [];
@@ -167,7 +167,6 @@
             });
         }
 
-        // Запускаємо завантаження при старті сторінки
         loadText();
     </script>
 </body>
