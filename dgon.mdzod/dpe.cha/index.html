@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Pecha Viewer</title>
+    <title>དཔེ་ཆ་ཡི་གེ་ལྟ་བྱེད།</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tibetan:wght@400;700&display=swap">
     <style>
 
@@ -31,16 +31,16 @@
           display: flex;
           flex-direction: column;
           align-items: center;
-          padding: 2vh 1vw;
+          padding: 2vh 2vw;
         }
 
         pre { margin: 0; font: inherit; color: inherit; white-space: pre; overflow: hidden; }
 
         #a4-view {
           display: none;
-          width: 300mm;
+          width: 1000pt;
           min-height: 297mm;
-          padding: 22mm 18mm;
+          padding: 5vh 5vw;
           background: var(--paper);
           box-shadow: var(--shadow);
           font-size: 11pt;
@@ -50,13 +50,13 @@
 
         body.a4 #a4-view { display: block; }
 
-        body.pecha { gap: 3vh; padding: 5vh 5vw; font-size: 11pt; }
+        body.pecha { gap: 3vh; padding: 2vh 2vw; font-size: 11pt; }
 
         .pecha-container {
-          width: 60vw;
+          width: 1000pt;
           background: var(--paper);
-          padding: 5vh 5vw;
           line-height: 1.26;
+          padding: 5vh 5vw;
           box-shadow: var(--shadow);
           position: relative;
           overflow: hidden;
@@ -68,24 +68,23 @@
 
         .pecha-number {
           position: absolute; top: 1.6vh; right: 1vw;
-          font-size: 0.9em; color: var(--gold); opacity: 0.6;
+          font-size: 0.7em; color: var(--gold); opacity: 0.6;
         }
 
         .pecha-container::before {
           content: ''; position: absolute; inset: 0;
-          background: linear-gradient(135deg, rgba(255,255,255,0.07) 0%, transparent 40%),
-                      linear-gradient(315deg, rgba(0,0,0,0.04) 0%, transparent 60%);
+          background: linear-gradient(135deg, rgba(255,255,255,0.07) 0%, transparent 40%), linear-gradient(315deg, rgba(0,0,0,0.04) 0%, transparent 60%);
           pointer-events: none;
         }
 
         .mode-toggle {
-          position: fixed; top: 1.5vh; right: 2vw; z-index: 1000;
-          background: rgba(0,0,0,0.4); padding: 0.6em 1em; border-radius: 6px; backdrop-filter: blur(6px);
+          position: fixed; top: 1vh; right: 1vw; z-index: 1000;
+          background: rgba(0,0,0,0.4); padding: 10px 10px; border-radius: 6px; backdrop-filter: blur(6px);
         }
 
         .mode-toggle button {
           background: none; border: 1px solid white; color: white;
-          padding: 0.5em 1em; margin: 0 0.3em; border-radius: 4px; cursor: pointer;
+          padding: 0.2em 1em; border-radius: 4px; cursor: pointer;
         }
 
         .mode-toggle button.active { background: var(--red); border-color: var(--red); }
@@ -102,8 +101,8 @@
     <div id="loading">Завантажую текст…</div>
 
     <div class="mode-toggle">
-        <button onclick="setMode('a4')">A4</button>
-        <button onclick="setMode('pecha')" class="active">Pecha</button>
+        <button onclick="setMode('pecha')" class="active">དཔེ་ཆ།</button>
+        <button onclick="setMode('a4')">དབྱིན་ཇི།</button>
     </div>
 
     <div id="a4-view">
