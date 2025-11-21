@@ -12,7 +12,7 @@
 **Вимоги**: акуратність, мінімальна кількість точок та сплайнів.
 **Об'єкти**: тханки, символіка, каліграфія, геральдика монастирських орденів, схематичні зображення.
 
-[Приклад](http://longchenpa.guru/dpe.mdzod/dpe.cha/sku.thang/index.htm)
+[Приклад](http://longchenpa.guru/dgon.mdzod/dpe.cha/sku.thang/index.html)
 
 Авторинг Текстів
 ----------------
@@ -21,7 +21,7 @@
 **Вимоги**: мінімум помилок, швидкодія, знання тибетської мови, UTF-8 кодування.
 **Об'єкти**: практики, скан-копії оригіналів з TBRC.
 
-[Приклад](http://longchenpa.guru/gter.ma/snying.thig.rtsa.pod/texts/thig.le'i.rgya.can.gyi.rjes.chog.tshogs.kyi.mchod.pa.txt)
+[Приклад](http://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.gyi.rjes.chog.tshogs.kyi.mchod.pa.txt)
 
 Переклад Текстів
 ----------------
