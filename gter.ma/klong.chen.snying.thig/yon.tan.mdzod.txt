@@ -4888,7 +4888,7 @@
 
 Оригінальний тибетський текст в wylie кодування:
 
-* https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yon.tan.mdzod.wylie.txt
+* https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yon.tan.mdzod.bo.txt
 
 2025 (с) Орджен Намдак Тонпа Дордже
 
