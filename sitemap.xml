@@ -46,7 +46,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://longchenpa.guru/dgon.mdzod/dpe.cha/sku.thang/index.htm</loc>
+  <loc>https://longchenpa.guru/dgon.mdzod/dpe.cha/sku.thang/index.html</loc>
   <lastmod>2025-11-16T05:30:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -73,11 +73,6 @@
 <url>
   <loc>https://longchenpa.guru/index.html</loc>
   <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/sngon.'gro.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -421,7 +416,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/index.htm</loc>
+  <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/index.html</loc>
   <lastmod>2025-11-16T05:30:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
