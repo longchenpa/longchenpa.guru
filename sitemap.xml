@@ -1,1575 +1,856 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://longchenpa.guru/</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/sngon.'gro/index.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.cha/chos.mngon.pa/index.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.cha/sku.thang/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/'dzin.skyong.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/Реєстрація Релігійної Організації.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/Статут Релігійної Громади Лонгчена Рабджама.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/sa.khra.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/snying.thig.ya.bzhi/index.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/index.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/snying.thig.ya.bzhi/ye.shes.sde.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/ngal.gso.skor.gsum.dang.rang.grol.skor.gsum.bcas.pod.gsum.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/ngal.gso.skor.gsum/index.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/rang.grol.skor.gsum/index.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mun.sel.skor.gsum/index.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/yid.bzhin.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/man.ngag.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/chos.dbying.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/tshig.don.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/theg.mchog.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/drub.mtha'.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/mdzod.bdun/gnas.lugs.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/ngal.gso.skor.gsum/sems.nyid.ngal.gso.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/ngal.gso.skor.gsum/bsam.gtan.ngal.gso.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/ngal.gso.skor.gsum/sgyu.ma.ngal.gso.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/rang.grol.skor.gsum/sems.nyid.rang.grol.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/brgyud.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/man.ngag/index.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/klong.chen.snying.thig.gi.a.'dzom.'brug.pa'i.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/klong.chen.snying.thig.gi.dil.mgo.mkhyen.brtse'i.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/'jigs.med.gling.pa'i.gsung.'bum.gi.dge.rtse.paN.chen'i.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/klong.chen.snying.thig.gi.bzhugs.byang.rab.gsal.nyi.'od.rnam.par.snang.ba'i.rgyan.bzhugs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/pra.ni.dha.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/phyi.sgrub.bla.ma'i.rnal.'byor.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/gcod.yul.mkha.'gro'i.gad.rgyang.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/zangs.mdog.dpal.ri'i.smon.gsang.lam.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/brgyud.'debs.byin.rlabs.char.rgyun.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/tshe.sgrub.bdud.rtsi.bum.bcud.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/rdo.rje.lha.mo.bcu.drug.gi.mchod.phreng.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/nang.sgrub.rig.'dzin.'dus.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yum.ka'i.brgyud.'debs.bde.chen.char.'beb.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yum.bka'.bde.chen.rgyal.mo'i.dbang.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yum.ka'i.rtsa.ba'i.sgrub.pa.bde.chen.dpal.phreng.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/bla.ma.drag.po.rta.khyung.'bar.ba.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.gyi.brgyud.'debs.byin.rlabs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.gyi.rjes.chog.tshogs.kyi.mchod.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.gyi.bsnyen.yig.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/thig.le'i.rgya.can.gyi.smin.byed.ye.shes.mchog.sbyin.zhes.bya.ba.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/rdza.dpal.sprul/bskyed.rim.lha'i.khrid.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/ri.chos.zhal.gdams.ngo.mtshar.rgya.mtsho.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/gnas.lugs.rdo.rje'i.tshig.rkang.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/gzhi.lam.'bras.bu'i.smon.lam.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/yon.tan.mdzod.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/gdod.ma'i.mgon.po'i.lam.gyi.rim.pa.'i.khrid.yig.ye.shes.bla.ma.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/bla.brgyud.gsol.'debs.gsung.rgyun.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/brgyud.pa'i.gsol.'debs.byin.rlabs.sprin.mdzes.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/thon.mi.sam+b+ho.Ta/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/'jam.dpal.bshes.gnyen/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/zhi.ba.'tsho/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/bai.ro.tsa.na/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/pad+ma.'byung.gnas/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/ye.shes.gzhon.nu/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/gnubs.chen.sangs.rgyas.ye.shes/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/dri.med.bshes.gnyen/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/rong.zom.chos.kyi.bzang.po/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/rdza.dpal.sprul/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/'ju.mi.pham/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/bstan.'gyur/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rnying.ma.bka'.ma/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/snying.thig.ya.bzhi/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/nyang.ral.nyi.ma.'od.zer/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/chos.dbang.gter.ma/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/pad+ma.gling.pa/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/'ja'.tshon.pod.drug/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/bdud.'dul.rdo.rje/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.gsal.snying.po/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/a.paM.gter.chos/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/'jigs.bral.ye.shes.rdo.rje/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/shin.tu.rnal.'byor/brgyud.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/'khor.zhag/bod/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/'khor.zhag/rgya.gar/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/dgon.mdzod/dpe.gtsung/sangs.rgyas.stong.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/kaHthog.rdo.rje'i.gdan.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/smin.grol.gling.dgon.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/rdo.rje.brag.dgon.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/dpal.yul.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/rdzogs.chen.dgon.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/lo.rgyud/zhe.chen.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/rnal.'byor.chen.po/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/rjes.su.rnal.'byor/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/shin.tu.rnal.'byor/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rin.chen.gter.mdzod.chen.mo/index.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/gter.mdzod.chen.mo/index.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/ka+rma.gling.pa/index.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/sangs.rgyas.gling.pa/sangs.rgyas.gling.pa.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/rat+na.gling.pa/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/'gyur.med.rdo.rje/'gyur.med.rdo.rje.gsung.'bum.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/nyi.ma.grags.pa/nyi.ma.grags.pa.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/gnam.chos/mi.'gyur.rdo.rje.rnam.thar.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.'od.gsal.mkha'.'gro'i.snying.thig/index.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/bdud.'joms.gling.pa.gter.chos/index.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/se.ra.mkha'.'gro.kun.bzang/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/bka'.ma/klong.chen.rab.'byams/snying.thig.ya.bzhi/ye.shes.sde.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/bi.ma.sngon.'gro.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/bstan.pa.bu.gcig.gi.rgyud.gser.gyi.snying.po.nyi.ma.rab.tu.snang.byed.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/rigs.'dzin.gyi.'das.rjes.bzhi.zhar.'byung.dang.bcas.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/sgom.nyams.drug.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/shrI.sing.ha'i.gzer.bu.bdun.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/ye.shes.mdo'i.bzhag.thabs.bzhi.yod.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/bi.ma.snying.thig/rdo.rje.'chang.gis.gsungs.pa.mchod.'os.rang.bzhin.gyi.tshig.dus.gnad.nges.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/mkha'.'gro.snying.thig.gi.kha.sbyang.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/bla.brgyud.lo.rgyus.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/sangs.rgyas.kyi.'das.rje.gnyis.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/pad+ma.las.'brel.rtsa.skyes.rabs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/gcig.shes.kun.grol.gyi.rgyud.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/sras.gcig.sa.bon.gyi.rgyud.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/btags.grol.rgyud.tig.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/dbang.gi.tho.yig.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/gter.srung.ldang.lha'i.sgrub.thabs.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/lha.mo.lnga'i.tshe.sgrub.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/btags.grol.don.khrid.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/khregs.chod.ngo.sprod.mtha'.grol.klong.yangs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/'od.gsal.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/snying.tig.gi.bla.ma'i.rnal.'byor.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/bla.ma'i.rnal.'byor.phyi.nang.gsang.gsum.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/mkha'.'gro.sngags.kyi.lde.mig.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/mkha'.'gro.snying.thig/mkha'.'gro.snying.tig.gi.lag.'grig.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/three.guru.prayer.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/man.ngag/tsokli.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/gter.ma/klong.chen.snying.thig/man.ngag/mandalas.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/ye.shes.gzhon.nu/ye.shes.gzhon.nu'i.rnam.thar.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/rjes.su.rnal.'byor.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/gnubs.chen.sangs.rgyas.ye.shes/rnam.thar.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/rong.zom.chos.kyi.bzang.po/rong.zom.chos.kyi.bzang.po'i.rnam.thar.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/rdza.dpal.sprul/snying.thig.sngon.'gro'i.khrid.yig.kun.bzang.bla.ma'i.zhal.lung.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/rdza.dpal.sprul/dmigs.rim.bsdus.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/bka'.ma/rdza.dpal.sprul/bden.gnyis.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/'dul.ba.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/'bum.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/nyi.khri.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/brgyad.stong.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/khri.brgyad.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/sher.khri.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/sna.tshogs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/dkon.brtsegs.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/phal.chen.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/mdo.sde.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/myang.'das.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/snga.'gyur/lha.sa/rgyud.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/bstan.'gyur/bstod.tshogs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/bstan.'gyur/rgyud.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rnying.ma.bka'.ma/dkar.chag.wylie.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rnying.ma.bka'.ma/lo.rgyud.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/bai.ro.html</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/bai.ro.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/bai.ro.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/'jigs.med.gling.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/'jigs.med.gling.pa.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/sde.dge.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/sde.dge.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/rig.'dzin.tshe.dbang.nor.bu.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/gting.skyes.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/ngag.dbang.lhun.grub.grags.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/nub.ri.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/thub.bstan.nyi.ma.rin.po.che.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/thub.bstan.nyi.ma.rin.po.che.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/dpal.brtsegs.html</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/dpal.brtsegs.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/mtshams.brag.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/dgra.med.rtse.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/sgang.steng.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/rnying.gzhung/rgyud.'bum/sgang.steng.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG11703.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22084.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23703.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21521.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22083.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21518.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W25815.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21519.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG16648.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W18047.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1PD289.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W00KG03976.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W19666.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W2DB19541.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21810.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W29031.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23695.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W2PD16917.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG22088.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD1001.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W20578.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W00EGS1016625.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD889.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD991.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD996.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21888.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1PD108254.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD989.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W25983.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W19229.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22247.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23802.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23819.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23445.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23433.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22920.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W12827.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23760.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23504.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W4CZ1106.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21727.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W07477.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23206.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W3PD1003.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21950.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W25816.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W25817.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23468.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W20865.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23694.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W13780.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21019.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22123.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22124.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG10749.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21967.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22946.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23229.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W30339.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W30348.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23926.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23174.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W8870.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23774.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W9201.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22096.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W9140.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21974.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W9209.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23176.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21854.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23623.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23616.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W29206.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W20338.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W5832.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W19230.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23175.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21728.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W26677.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG2808.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG3511.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W1KG9609.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23627.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21576.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W30199.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22389.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21955.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23183.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23946.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21578.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23198.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W00KG03612.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W20869.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W22642.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21809.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W23197.htm</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21807.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W21813.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://longchenpa.guru/dgon.mdzod/dpe.mdzod/W20877.htm</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
+  <lastmod>2025-11-28T04:20:01+00:01</lastmod>
   <priority>0.51</priority>
 </url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/nyang.ral.nyi.ma.'od.zer/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/chos.dbang.gter.ma/bla.ma.gsang.'dus.las.gsungs.pa'i.khyad.par.bla.sgrub.tshig.bdun.gsol.'debs.bzhugs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/chos.dbang.gter.ma/bka'.'gyur.ro.cog.gi.snying.po.bsdus.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/chos.dbang.gter.ma/na.rag.dong.sprugs.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/chos.dbang.gter.ma/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/snyan.rgyud.drug.gi.sngon.'gro.pdf</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/rdzogs.pa.chen.po.kun.tu.bzang.po'i.dgongs.pa.zang.thal.gyi.rgyud.chen.mthong.ba.dang.thos.pa.dang.btags.pa.dang.smon.lam.pdf</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/rig.'dzin.rgod.ldem/snga.'gyur.byang.gter.chos.kor.las.'don.cha'i.skor.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/pad+ma.gling.pa/pad+ma.gling.pa'i.gter.chos.dkar.chag.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/pad+ma.gling.pa/pad+ma.gling.pa'i.gter.skor.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/pad+ma.gling.pa/sngon.'gro.chos.spyod.kyi.ngag.'don.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/pad+ma.gling.pa/sgang.steng.sprul.sku.kun.bzang.pad.ma.rnam.rgyal.gyi.zhabs.brtan.smon.lam.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/dung.mtsho.ras.pa.phyi.ma.rnam.thar.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/rdzogs.pa.chen.po.yang.ti.nag.po.gser.gyi.'bru.gcig.pa'i.gnad.kyi.gdams.pa.rgyud.kyi.snying.po.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/rdzogs.pa.chen.po.yang.ti.nag.po.gser.gyi.'bru.gcig.pa'i.lo.rgyus.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/rdzogs.pa.chen.po.yang.ti.nag.po.gser.gyi.'bru.gcig.pa'i.sngon.'gro'i.ming.mi.shes.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/rdzogs.pa.chen.po.yang.ti.nag.po.gser.gyi.'bru.gcig.pa'i.sngon.'gro.khrid.rim.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/yab.yum.tshams.la.kha.mkha'.lam.las.pa.la.phab.pa.yin.pa'i.las.mi.bsam.pa.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/yang.ti'i.snyan.rgyud.yi.ge.med.pa'o.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/yang.ti.nag.po.gser.gyi.'bru.gcig.pa'i.chos.skor.txt</loc>
-  <lastmod>2025-11-16T05:30:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/dung.mtsho.ras.pa.phyi.ma/yang.ti.nag.po.thugs.thig.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/'ja'.tshon.pod.drug/brgyud.pa'i.gsol.'debs.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://longchenpa.guru/gter.ma/klong.gsal.snying.po/thun.mong.sngon.'gro'i.khrid.kyi.ngag.'don.txt</loc>
-  <lastmod>2025-11-16T05:30:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
 </urlset>
