@@ -2,6 +2,7 @@
 
 77
 ngo sprod rin po che spras pa'i zhing khams bstan pa'i rgyud ces bya ba bzhugs
+
 78
 @1
 rgya gar skad du
@@ -14,6 +15,7 @@ chos thams cad kyi de bzhin nyid rgyan ma bkod par snang ba ste
 'od kyi yul sku'i mkha' gsung gi zer
 thugs kyi gnas ye gdangs chen po'i snang ba
 khyab brdal chen po'i pho brang
+
 79
 stong pa ye rdzogs kyi gzhal yas na
 gsang ba chen po'i don rang dag tu bkod pa 'di gsungs so
@@ -24,6 +26,7 @@ rang bzhin rdzogs pa chen po'i gnas
 shin tu rgya che la khyab cing gsal ba'i gzhi
 gzhan gyis dpag par bka' ba chen po na
 bcom ldan 'das de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi rdo rje mi bskyod pa chen po'i bdag nyid du bzhugs so
+
 80
 de nas gsang ba'i bdag pos
 chos thams cad yongs su sdud pa zhes bya ba'i sems bskyed de
@@ -41,6 +44,7 @@ de nas nyid kyi rang bzhin gyi gnas nas 'di dag thugs kyi dkyil 'khor nas phyung
 kye gsang ba'i bdag po nyon cig
 nga'i sku ni sangs rgyas thams cad 'dus pa'i sku rdo rje snying po mi shigs pa rgyan gyi 'khor lo zhes bya ba yin no
 nga'i gsung ni rang bzhin rdzogs pa chen po 'bum phrag drug cu rtsa bzhi'i bdag nyid du gnas so
+
 81
 thugs ni mi bskyod pa'i rang bzhin ye shes chen por ye gnas pa yin no
 nga'i mdzad pa ni skye ba bzhi dus thams cad du 'byung ba'o
@@ -55,6 +59,7 @@ shin tu rnam par dag pa rdo rje chen po zhes bya ba'i ting nge 'dzin dang dgra t
 kye lag na rdo rje 'chang
 khyod kyis 'di dag rnams kye don dris pa de legs so
 'di dag rnams kyi tshig 'di la don du skye las bsam mi khyab ste
+
 82
 nga ni lung kun gyi bdag nyid du byung ba'i phyir ro
 de nas 'khor de dag kyang shin tu dga' zhing yid rab tu rangs te
@@ -72,10 +77,12 @@ zhes tshig rnams kyis kyang rab tu bstod cing so so'i ting nge 'dzin rang bzhin 
 sangs rgyas kyi mthus bden pa'i don gyis rang gi rgyud tshim par byas te
 kun kyang 'od zer gyi phung po sna tshogs dang ldan nas
 sangs rgyas rnams kyi bka'i de bzhin nyid yongs su 'dzin par gyur te
+
 83
 sems rangs pa dang ldan par gyur to
 zhes ngo sprod rin po che spras pa'i rgyud las
 gleng gzhi rang bstod kyi le'u dang po'o
+
 @2
 de nas rdo rje 'chang chen po de nyid kyis sku dang gsung dang thugs dang yon tan dang phrin las las 'di dag rnam par phyung ste
 ched du brjod pa 'di dag rnam par brjod do
@@ -90,6 +97,7 @@ sangs rgyas rnams kyi gnas lugs gtan la 'bebs
 de yi phyir na 'di dag mkhas pas btsal
 snying po lta ba'i don du 'di rnams nan tan bya
 skyes bu rnams kyi don la 'jug pa'i thabs
+
 84
 dpe yi ye shes blta bar gang 'dod pa
 don ni 'di ltar skyes bus rig par gyis
@@ -109,6 +117,7 @@ ji ltar rigs pa'i tshogs rnams bsag
 de nas skal ldan rjes 'jug rnams
 rang gi ngo bo blta ba'i phyir
 gnas khang phyogs ni phyed par ni
+
 85
 bu ga nyi ma'i zer ldan dag la yang
 gsal bar byed pa'i me long phyar ba yis
@@ -128,6 +137,7 @@ gsal byed mig gis thabs mchog nyid bltas na
 rig pa ma bu'i tshad rnams ngo 'phrad nas
 chos nyid ma yi tshad rnams shes pa yin
 kham sa'i gzugs brnyan khong stong dbang sgo dong
+
 86
 nang du mar me bcug ste ye shes sgo ngos bzung
 'khar por chus gtams legs pa'i nang nyid blta
@@ -144,6 +154,7 @@ gsal byed ldan pa'i mig gis bltas na ni
 thig le 'od gsal ldan pa mthong ba ni
 ye shes dgongs pa nyid kyi ngo yang 'phrod
 dbyug pa la ni 'khar phor btags bsgrigs steng 'og la
+
 87
 gsal byed ldan pas de nyid bltas pa na
 thig le dgu brtsegs thig le'i don ngo sprod
@@ -163,6 +174,7 @@ rang gi mdun du gong bzhin bzhag nas ni
 gsal byed ldan pa'i mig gis bltas na ni
 khro sku 'jigs pa'i gzugs brnyan nam mkhar ni
 'gro dang 'ong dang stabs dang bcas pa mthong
+
 88
 longs spyod khro bo'i sku yi ngo bstan pas
 rig pa nyid ni gzhon nu khro gnyer can
@@ -183,6 +195,7 @@ yab dang yum gyi ngo bstan ye shes bzung
 mnyam nyid kha sbyor dgongs pa zhes bya'o
 de dag gnyis kyi bar du skyes bu rgyan dang ldan
 gsum gnyis gi cig la bltas pas sku gsum rang ngo 'phrod
+
 89
 sku gsum rang 'jug dgongs pa zhes ni bya
 yang ni skyes bu rgyan ldan gnyis kyi bar
@@ -203,6 +216,7 @@ re re'i kha dog snam bu rnams bltas na
 rigs lnga so so'i sku yang rang ngo 'phrod
 rigs rnams 'byed pa zhes bya'i ngo sprod do
 shing ni bar snang phyogs bzhi steng 'og tu
+
 90
 mu tig sogs pa'i phreng bas yongs bskor te
 gsal byed ldan pa'i mig gis phreng ba la
@@ -222,6 +236,7 @@ de nyid blta zhing blo la goms par bya
 de ltar byas na rtag tu lha dang mnyam par gnas
 me tog snod bkang rang gi mdun du bzhag
 gsal byed ldan pa'i mig gis yang bltas na
+
 91
 chom bu rnams dang rang ngo 'phrad pa yin
 de yi phyir na 'di la su goms pa
@@ -244,6 +259,7 @@ don 'di nyid la rab tu dad pas ni
 'di dag rnams su bstan gyis nyon
 dpe yis dpe rnam pa grangs bstan pas
 phyi yi yul rnams snying por grol
+
 92
 'di ltar mig gi a 'bras phug
 rang gi tshon theb kyis ni de btsir na
@@ -269,6 +285,7 @@ lu gu rgyud ni 'brel chags pas
 sangs rgyas yul ni mngon sum du
 rnal 'byor rnams kyis ci dgar rol
 rang bzhin rdzogs chen rnal 'byor pas
+
 93
 gzhan gyi 'bad pa ma yin par
 'di nyid du ni mngon sum du
@@ -293,6 +310,7 @@ kye ma bcom ldan thugs rje can
 rgya chung sems can blo mchog tu bsdus pa de ltar na
 de dag rnams kyi bye brag rnams
 rim pa ji ltar bdag la gsungs
+
 94
 rdo rje 'chang gis bka' stsal pa
 gsang ba'i bdag po yang nyon cig
@@ -317,6 +335,7 @@ shin tu bsdus pa 'di dag nyid
 dpe dang rtags dang don gsum gyis
 rang bzhin gnas pa'i 'bras bu thob
 phyag rgya lha yi rnal 'byor 'jug
+
 95
 mtshan ma can gyi don du'o
 spros bral nyag gcig dgongs pa ni
@@ -328,6 +347,7 @@ gzhan rtsol rnams kyis ci zhig bya
 'di nyid la ni goms par bya'o
 zhes ngo sprod rin po che spras pa'i rgyud las
 gsang ba nang gi ngo sprod bstan pa'i le'u ste gnyis pa'o
+
 @3
 de nas phyi'i dpe rnam par spros pa zhes bya ba'i ting nge 'dzin las
 bzhengs nas gsang ba'i bdag po la sogs pa rnams la bos nas 'di skad ces gsungs so
@@ -336,6 +356,7 @@ phyi yul gyi gnad kyis nang sems gtan la dbab par bya
 de ltar sems spros pa chod nas
 nang sems kyi gnad kyis gsang ba dbyings gtan la dbab par bya'o
 gsang ba dbyings kyi gnad kyis gsang ba bla na med pa'i rig pa nyid mngon sum du gtan la dbab par bya'o
+
 96
 de'i phyir na sangs rgyas kun gyi tshad 'dzin pa
 dpe'i ye shes rnams la brtag
@@ -362,6 +383,7 @@ man shel snying po nyid la brtag
 thig le rnams kyi tshad 'dzin pa
 dra ba mig tshags bar la brtag
 rnal 'byor goms pa'i tshad 'dzin pa
+
 97
 rig pa tshad la phebs la brtag
 spros med rang dag tshad 'dzin pa
@@ -381,6 +403,7 @@ yul rkyen bral ba'i mtshams su brtag
 rtag pa nyid kyi tshad 'dzin pa
 dran pa sangs pa'i gnas su brtag
 'dzin pa kun gyi tshad 'dzin pa
+
 98
 'dod pa'i yon tan lnga la brtag
 ma'i ga rtsa ba'i tshad 'dzin pa
@@ -405,6 +428,7 @@ longs sku nyid gyi tshad 'dzin pa
 ma bu 'phrad pa'i tshe na brtag
 sprul pa sku yi tshad 'dzin pa
 phyed phyed nyid kyi mtshams su brtag
+
 99
 bla ma'i man ngag tshad 'dzin pa
 'byung ba dengs pa'i dus su brtag
@@ -426,6 +450,7 @@ chos nyid mi g.yo'i tshad 'dzin pa
 mnyam pa nyid kyi dus na brtag
 lhag mthong nyid kyi tshad 'dzin pa
 gdams ngag nyid la brtag
+
 100
 'bad med rang grol tshad 'dzin pa
 khregs chod thod rgal mtshams su brtag
@@ -447,6 +472,7 @@ zhes gsungs pas gsang ba'i bdag po la sogs pa'i 'khor de dag rab tu dang ba skye
 blo'i dri ma thams cad kyang rang bzhin gyis dag nas
 de dag gi tshad rnams dus gcig la zin par gyur te
 mgrin gcig tu thal mo sbyar te
+
 101
 bcom ldan 'das kyi mdun du 'dug ste
 'di skad ces gsol to
@@ -469,6 +495,7 @@ de'i tshe chos thams cad kyi 'du byed la mkhas pa zhes bya ste
 mig dang
 mig gi rnam bar shes pa dang
 rna ba dang
+
 102
 rna ba'i rnam par shes pa dang
 sna dang
@@ -515,6 +542,7 @@ zhes pa rnams dams pa'i tshig tu bsgrags nas gsang ba'i bdag po la 'di skad ces 
 kye gsang ba'i bdag po
 snang ba nyid stong par ngo sprad pas snang ba phung po rnams dang gnyis su mi 'byed par gyur nas chos kyi dbyings kyi dbang du gyur te
 yul thams cad gcer grol du ngo sprad pa'o
+
 104
 stong pas stong pa'i tshad zin te
 grub pa'i mtha'i zhen pa thams cad dus gcig la chod nas stong pa nyid sku'i klong du kun chub par gyur nas
@@ -537,6 +565,7 @@ yul dang 'dzin pa thams cad rang sar dag ste
 mi gnas pa'i klong mkha' mnyam dag pa'i gnas su
 rdo rje snying po dang du len pa zad pa gsal ba'i yul zhes bya ba'i don skyes te
 chos thams cad kyi 'bras bu la dbang thob nas rang bzhin rdzogs pa chen po'i don la gnas pa'o
+
 105
 kye ma gsang ba'i bdag po nyon cig
 ye nas med pa'i stong pa yis
@@ -560,6 +589,7 @@ ma btsal bzhag pa'i dmar po rang byung
 bya btsal rdzogs pa'i ljang gu rang byung
 mi 'gyur khyab pa'i mthing gar rang byung ba'o
 gsang ba'i bdag po rdo rje 'dzin pa che
+
 106
 sku yi gsal chas rig pa dri med mthong
 thig le'i gsal chas rig pa nyag gcig mthong
@@ -579,6 +609,7 @@ sngon du snang ba'i yul la mkhas pas
 dran pa thams cad kyi sgo bkag pa zhes bya ste
 de nyid kyis de nyid grol ba'i man ngag gzhi rnam par dag pas lam mngon du shar ba ste
 sangs rgyas thams cad kyi mdzad pa'i don la mkhas pa zhes bya bar rang byung ba yin pas
+
 107
 bdag nyid lung thams cad kyi lung du rig pa nyid byung ba'o
 kye gsang ba'i bdag po nyon cig
@@ -601,6 +632,7 @@ stong pa rig par ngo sprad pas rig pa nyid dbyings dang ye shes gnyis su med pa'
 de'i phyir na
 sprul sku la ngo sprad pas snang ba 'di gtan la phebs
 longs spyod rdzogs pa'i sku la ngo sprad pas bar do'i snang ba gtan la phebs
+
 108
 chos kyi sku la ngo sprad pas chos nyid ka nas dag pa'i snang ba gtan la 'bebs pa'o
 de ltar na sprul sku dang ngo sprad pas
@@ -620,6 +652,7 @@ chos nyid kun kyang zad pa'i sa'o
 zhes ngo sprod rin po che spras pa gsang ba'i rgyud chen po las
 phyi yul la sprad pa bstan pa'i le'u ste gsum pa'o
 bcom ldan 'das kyis de skad ces bka' stsal pas
+
 109
 gsang ba'i bdag po la sogs pa'i 'khor de dag dga' mgu yi rangs nas
 bcom ldan 'das kyis gsungs pa la mngon par bstod do
@@ -633,5 +666,3 @@ ngo sprod spras pa'i rgyud la ma bu bco lnga
 dge'o
 dge'o
 dge'o
-
-
