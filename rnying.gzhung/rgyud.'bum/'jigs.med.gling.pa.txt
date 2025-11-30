@@ -15,7 +15,7 @@
 012 ton pa 'khor lo rdo rje [txt] Учитель Ваджрачакра (4 глави)
 013 byang sems rin chen 'khor lo zhes bya ba'i rgyud [txt] Тантра «Дорогоцінне колесо бодхічітти» (10 глав)
 014 rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rgyud [txt] Тантра «Ваджрасаттва, великий простір, розширена версія» (11 глав)
-015 nam mkha' che rgyas pa zhes bya ba rnal 'byor ma rgyud [txt] Йоґінійська тантра «Великий простір, розширена версія» (13 глав), переклад Вімаламітра та Дпал Брцеґс
+015 nam mkha' che rgyas pa zhes bya ba rnal 'byor ma rgyud [txt] Йоґінійська тантра «Великий простір, розширена версія» (13 глав), переклад Вімаламітра та Палцек
 016 byang chub kyi sems nya mo bag la nyal [txt] Тантра «Бодхічітта, що спить обережно, як риба» (26 глав)
 017 byang chub kyi sems rmad du byung ba'am chos chen po rmad du byung [txt] Тантра «Чудове виникнення бодхічітти» або «Чудове виникнення великої дгарми» (20 глав)
 018 rdzogs pa chen po chos nyid byang chub kyi sems rin po che bkod pa rnam par dbye ba'i rgyud [txt] Тантра великої досконалості «Розташування дорогоцінностей природи дгарм і бодхічітти з повним розрізненням» (5 глав), переклад Шілендрамітра та ’Джінґ Ґсал ’бар
@@ -95,7 +95,7 @@
 086 man ngag snying dgongs [txt] Настанова сутності думки (14 глав)
 087 thig le kun 'dus chen po'i rgyud [txt] Велика тантра «Зібрання всіх крапель» (12 глав)
 088 sku'i rgyud padma 'khyil pa [txt] Тантра тіла — лотосовий вир (21 глава)
-089 rdo rje rtse mo 'dus pa'i rgyud [txt] Тантра «Зібрання вершин ваджри» (10 глав), переклад Вімаламітра, Ска ба Дпал Брцеґс та Чоґро Луї Ґ’ялцен
+089 rdo rje rtse mo 'dus pa'i rgyud [txt] Тантра «Зібрання вершин ваджри» (10 глав), переклад Вімаламітра, Кава Палцек та Чоґро Луї Ґ’ялцен
 090 ye shes bla ma chen po'i rgyud [txt] Тантра «Великий учитель мудрості» (7 глав)
 091 byang sems rgyal mtshan rtse mo'i rgyud [txt] Тантра «Вершина перемоги бодхічітти» (5 глав)
 092 rdo rje srin po rno ba rdo rje mchu can gyi rgyud dam 'khor ba dong sprugs chen po'i rgyud [txt] Тантра «Люті ваджрні демони з ваджрними іклами» або «Велике струшування сансари» (7 глав)
@@ -117,41 +117,41 @@
 104 rdo rje sems dpa' snying gi me long gi rgyud [txt] Тантра «Дзеркало серця Ваджрасаттви» (8 глав)
 105 kun tu bzang po thugs kyi me long [txt] Дзеркало ума Кунтузанґпо (4 глави)
 106 nyi zla kha sbyor rgyud [txt] Тантра «З’єднання сонця й місяця» (4 глави)
-107 ngo sprod spras pa'i rgyud [txt] Тантра «Прикрашене пряме представлення» (3 глави), переклад Вімаламітра та Ска ба Дпал Брцеґс
-108 sku gdung 'bar ba [txt] Палаючі мощі тіла (3 глави), переклад Вімаламітра та Ска ба Дпал Брцеґс
-109 rin po che spungs pa [txt] Накопичення дорогоцінностей (5 глав), переклад Вімаламітра та Ска ба Дпал Брцеґс
+107 ngo sprod spras pa'i rgyud [txt] Тантра «Прикрашене пряме представлення» (3 глави), переклад Вімаламітра та Кава Палцек
+108 sku gdung 'bar ba [txt] Палаючі мощі тіла (3 глави), переклад Вімаламітра та Кава Палцек
+109 rin po che spungs pa [txt] Накопичення дорогоцінностей (5 глав), переклад Вімаламітра та Кава Палцек
 110 sgron ma 'bar ba [txt] Палаючий світильник (4 глави)
 111 klong drug pa [txt] Шість просторів (6 глав)
 112 klong gsal 'bar ba nyi ma'i rgyud [txt] Тантра «Ясносяючий простір — сонце» (113 глав)
 113 mkha' 'gro kun gyi snying thig klong gsal (phyi ma'i rgyud) [txt] Ясносяючий простір — серце-крапля всіх дакінь (пізніша тантра) (142 глави)
 
 07) ja [vol] Том Джа (7)
-114 snang srid kha sbyor bdud rtsi'i thigs pa 'khor ba thog mtha' gcod pa'i rgyud [txt] Тантра «З’єднання буття й проявів — краплі амрити, що переривають сансару від початку до кінця» (110 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+114 snang srid kha sbyor bdud rtsi'i thigs pa 'khor ba thog mtha' gcod pa'i rgyud [txt] Тантра «З’єднання буття й проявів — краплі амрити, що переривають сансару від початку до кінця» (110 глав), переклад Падмасамбгава та Кава Палцек
 115 rin po che bcud kyi yang snying thog mtha' dras thag gcod pa'i rgyud [txt] Тантра «Найглибша сутність сутності дорогоцінностей, що рішуче перериває початок і кінець» (10 глав)
-116 spros pa gcod pa sde lnga rgyud [txt] Тантра п’яти розділів «Переривання концептуальних конструкцій» (14 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
-117 rin po che bdud rtsi bcud thigs rgyud [txt] Тантра «Краплі сутності дорогоцінної амрити» (15 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
-118 rin po che snang gsal spu gri 'bar bas 'khrul snang thams cad rtsad nas gcod pa nam mkha' dang mnyam pa'i rgyud [txt] Тантра «Ясносяючий дорогоцінний ніж, що перериває всі оманливі прояви від кореня, рівний простору» (35 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+116 spros pa gcod pa sde lnga rgyud [txt] Тантра п’яти розділів «Переривання концептуальних конструкцій» (14 глав), переклад Падмасамбгава та Кава Палцек
+117 rin po che bdud rtsi bcud thigs rgyud [txt] Тантра «Краплі сутності дорогоцінної амрити» (15 глав), переклад Падмасамбгава та Кава Палцек
+118 rin po che snang gsal spu gri 'bar bas 'khrul snang thams cad rtsad nas gcod pa nam mkha' dang mnyam pa'i rgyud [txt] Тантра «Ясносяючий дорогоцінний ніж, що перериває всі оманливі прояви від кореня, рівний простору» (35 глав), переклад Падмасамбгава та Кава Палцек
 119 rin po che spyi gnad skyon sel thig le kun gsal rgyud [txt] Тантра «Всепрояснення крапель — очищення всіх вад загальних ключових пунктів дорогоцінностей» (9 глав)
 120 gter snying rin chen spungs pa'i rgyud [txt] Тантра «Накопичення дорогоцінностей — серце термінів» (9 глав)
-121 thig le ye shes bcud spungs sgron ma 'od 'bar gyi rgyud [txt] Тантра «Світильник, що палає світлом — накопичення сутності мудрості крапель» (17 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
-122 bdud rtsi bcud thigs sgron ma brtsegs pa'i rgyud [txt] Тантра «Накладений світильник крапель сутності амрити» (22 глави), переклад Падмасамбгава та Ска ба Дпал Брцеґс
-123 snying po bcud spungs nam mkha' klong yangs [txt] Накопичення сутності сутності — широкі простори простору (20 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
-124 thugs kyi yang snying dgongs bcud 'dus pa nyi zla 'bar ba'i rgyud [txt] Тантра «Зібрання сутності найглибшої думки ума — палаючі сонце й місяць» (13 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+121 thig le ye shes bcud spungs sgron ma 'od 'bar gyi rgyud [txt] Тантра «Світильник, що палає світлом — накопичення сутності мудрості крапель» (17 глав), переклад Падмасамбгава та Кава Палцек
+122 bdud rtsi bcud thigs sgron ma brtsegs pa'i rgyud [txt] Тантра «Накладений світильник крапель сутності амрити» (22 глави), переклад Падмасамбгава та Кава Палцек
+123 snying po bcud spungs nam mkha' klong yangs [txt] Накопичення сутності сутності — широкі простори простору (20 глав), переклад Падмасамбгава та Кава Палцек
+124 thugs kyi yang snying dgongs bcud 'dus pa nyi zla 'bar ba'i rgyud [txt] Тантра «Зібрання сутності найглибшої думки ума — палаючі сонце й місяць» (13 глав), переклад Падмасамбгава та Кава Палцек
 125 sangs rgyas kun gyi dgongs pa'i bcud bsdus ri bo brtsegs pa'i rgyud [txt] Тантра «Накопичена гора — зведена сутність думки всіх будд» (21 глава)
 126 dri med ka dag gi rgyud rin chen gsal ba chen po zhes bya ba [txt] Тантра «Велике ясне сяйво дорогоцінностей — незаплямована первозданна чистота» (10 глав)
-127 rgyud thams cad kyi rgyal po nyi zla'i snying po 'od 'bar ba bdud rtsi rgya mtshor 'khyil ba'i rgyud [txt] Королівська тантра всіх тантр «Сутність сонця й місяця, палаюче світло — вир амрити в океані» (81 глава), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+127 rgyud thams cad kyi rgyal po nyi zla'i snying po 'od 'bar ba bdud rtsi rgya mtshor 'khyil ba'i rgyud [txt] Королівська тантра всіх тантр «Сутність сонця й місяця, палаюче світло — вир амрити в океані» (81 глава), переклад Падмасамбгава та Кава Палцек
 128 skye med ka dag zang ka [txt] Непороджена первозданна чистота Занґтхал (10 глав)
 129 spros bral don gsal chen po'i rgyud [txt] Велика тантра «Ясний сенс без концептуальних конструкцій» (123 глави)
 130 rgyud thams cad kyi rtse rgyal nam mkha' 'bar ba'i rgyud [txt] Тантра «Цар вершини всіх тантр — палаючий простір» (39 глав), переклад Шрі Ратнаваджра та Герука
-131 rgyud thams cad kyi spyi phud nyi zla bkod pa'i rgyud [txt] Тантра «Загальна квінтесенція всіх тантр — розташування сонця й місяця» (15 глав), переклад Падмасамбгава та Дпал Брцеґс
-132 nam mkha' 'brug sgrogs thog bab klong 'dus spyi rgyal rgya mdud kyi rgyud [txt] Тантра «Грім у просторі — злива просторів, загальний цар-вузол» (10 глав), переклад Падмасамбгава та Дпал Брцеґс
-133 lta ba la shan chen po rin po che sgron ma'i rtsa ba'i rgyud [txt] Корінна тантра «Великий світильник дорогоцінностей — вершина погляду» (14 глав), переклад Падмасамбгава та Дпал Брцеґс
+131 rgyud thams cad kyi spyi phud nyi zla bkod pa'i rgyud [txt] Тантра «Загальна квінтесенція всіх тантр — розташування сонця й місяця» (15 глав), переклад Падмасамбгава та Палцек
+132 nam mkha' 'brug sgrogs thog bab klong 'dus spyi rgyal rgya mdud kyi rgyud [txt] Тантра «Грім у просторі — злива просторів, загальний цар-вузол» (10 глав), переклад Падмасамбгава та Палцек
+133 lta ba la shan chen po rin po che sgron ma'i rtsa ba'i rgyud [txt] Корінна тантра «Великий світильник дорогоцінностей — вершина погляду» (14 глав), переклад Падмасамбгава та Палцек
 134 rtsa rlung thig le'i rgyud [txt] Тантра «Канали, вітри й краплі» (7 глав)
 135 lta ba la thal chen po'i rgyud [txt] Тантра «Велике прямопроникнення погляду» (без глав)
 136 snang byed spu gri'i rgyud [txt] Тантра «Ніж проявлення» (без глав)
 137 'bras bu ye grol chen po'i rgyud [txt] Тантра «Велике первозданне визволення плоду» (без глав)
 138 srog gi 'khor lo'i rgyud [txt] Тантра «Колесо життя» (без глав)
-139 rgyud kyi rtse rgyal nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud [txt] Королівська тантра вершини «Чисте ясне сяйво океану просторів — палаючі сонце й місяць» (24 глави), переклад Падмасамбгава та Дпал Брцеґс
+139 rgyud kyi rtse rgyal nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud [txt] Королівська тантра вершини «Чисте ясне сяйво океану просторів — палаючі сонце й місяць» (24 глави), переклад Падмасамбгава та Палцек
 
 08) nya [vol] Том Нья (8)
 140 rdzogs pa chen po nges don 'dus pa [txt] Велика досконалість «Збірка визначального сенсу» (81 глава), переклад Вімаламітра та Ачар’я Дранпа Ньєше
@@ -194,7 +194,7 @@
 171 chos nyid zhi ba'i lha rgyud [txt] Тантра мирних богів природи дгарм (без глав), переклад Вімаламітра та Ґньяґс
 172 khro bo lha rgyud [txt] Тантра гнівних богів (7 глав), переклад Прасатва та Падма Руце
 173 khro bo lha rgyud kyi rtog pa chen po [txt] Великі міркування тантри гнівних богів (без глав)
-174 thugs rje chen po'i gtor ma'am gtor rgyud chen mo [txt] Велика тантра гторма великого співчуття (44 глави), переклад Падмасамбгава, Вімаламітра та Намкхаї Ньїнґпо; пізніше виправлена Васудхарою та Ґнубс Чен Санґ’є Єше
+174 thugs rje chen po'i gtor ma'am gtor rgyud chen mo [txt] Велика тантра гторма великого співчуття (44 глави), переклад Падмасамбгава, Вімаламітра та Намкхаї Ньїнґпо; пізніше виправлена Васудхарою та Нуб Чен Санґ’є Єше
 175 rnal 'byor nam mkha'i tshogs rgyud chen mo [txt] Велика тантра зборів йоґінів простору (8 глав)
 176 [rnal 'byor nam mkha'i tshogs rgyud chen mo] phyi ma'i rgyud [txt] Пізніша тантра зборів йоґінів простору (15 глав), виправлена Ґнубсом «новою мовою»
 177 dpal 'bar khro mo'i rgyud [txt] Тантра славної палаючої гнівної (без глав)
@@ -246,8 +246,8 @@
 217 rdo rje gdan bzhi'i rgyud [txt] Тантра чотирьох ваджрних тронів
 218 rgyud kyi rgyal po sangs rgyas mnyam sbyor sdus pa'i rgyud dam pa [txt] Священна скорочена королівська тантра з’єднання будд (10 глав), переклад Ґух’яґарбга та ’Броґмі Дпалґ’ї Єше
 219 sangs rgyas mnyam sbyor mkha' 'gro ma sgyu ma bde mchog gi rgyud phyi ma'i yang phyi ma [txt] Найпізніша тантра «З’єднання будд — ілюзорна верховна блаженність дакінь» (22 глави)
-220 zla gsang thig le zhes bya ba'i rgyud kyi rgyal po chen po mchog tu gsang ba [txt] Велика королівська тантра «Таємні краплі місяця — найвища таємниця», переклад Падмасамбгава та Дпал Брцеґс
-221 dpal gsang ba 'dus pa [txt] Славне таємне зібрання (17 глав), переклад Вімаламітра та Дпал Брцеґс; пізніше — Шрадакаравама та Рінчен Занґпо
+220 zla gsang thig le zhes bya ba'i rgyud kyi rgyal po chen po mchog tu gsang ba [txt] Велика королівська тантра «Таємні краплі місяця — найвища таємниця», переклад Падмасамбгава та Палцек
+221 dpal gsang ba 'dus pa [txt] Славне таємне зібрання (17 глав), переклад Вімаламітра та Палцек; пізніше — Шрадакаравама та Рінчен Занґпо
 222 [dpal gsang ba 'dus pa] rgyud phyi ma [txt] Пізніша тантра славного таємного зібрання (18 глав), переклад Дад Чед Ґоча та Рінчен Занґпо; ще пізніше — ’Ґос Лоцава Ґжонну Дпал
 223 rgyud kyi rgyal po chen po las kyi phreng ba'am karma ma le [txt] Велика королівська тантра «Гірлянда діяльності» або Кармамала (9 глав), переклад Дгармашрі Праджа, Вімаламітра та інші з перекладачем Ратна Аґра
 224 ye shes rngam pa glog gi 'khor lo [txt] Тантра «Люте колесо блискавки мудрості» (17 глав), переклад Вімаламітра та Чоґро Луї Ґ’ялцен
@@ -265,10 +265,10 @@
 16) ma [vol] Том Ма (16)
 233 dpal zla gsang nag po'i rgyud [txt] Славна чорна таємна тантра місяця — великий корінний текст (75 глав)
 234 zla gsang nag po'i rtsa rgyud [txt] Корінна чорна таємна тантра місяця (74 глави, закінчується ngan sngags kyi rgyud ces bya ba rdzogs so), схована Манджушрімітрою, знайдена Джнянаґарбгою
-235 zla gsang nag po'i rgyud [txt] Чорна таємна тантра місяця (58 глав), переклад ачар’я Васудхара та Ґнубс Чен Санґ’є Єше
-236 zla gsang drag sngags nag po bshan pa spu gri'i rgyud [txt] Люта чорна мантрна тантра місяця — ніж різника (97 глав), переклад непалець Васудхара та Ґнубс Чен Санґ’є Єше
+235 zla gsang nag po'i rgyud [txt] Чорна таємна тантра місяця (58 глав), переклад ачар’я Васудхара та Нуб Чен Санґ’є Єше
+236 zla gsang drag sngags nag po bshan pa spu gri'i rgyud [txt] Люта чорна мантрна тантра місяця — ніж різника (97 глав), переклад непалець Васудхара та Нуб Чен Санґ’є Єше
 237 drag sngags zla gsang nag po'i rgyud [txt] Люта мантрна чорна тантра місяця (25 глав, містить настанови Ґнубса)
-238 'jam dpal dmar po'i sngags rgyud kyi rgyal po [txt] Королівська мантрна тантра червоного Манджушрі (10 глав), переклад Шантіґарбга та Ґнубс Чен Санґ’є Єше
+238 'jam dpal dmar po'i sngags rgyud kyi rgyal po [txt] Королівська мантрна тантра червоного Манджушрі (10 глав), переклад Шантіґарбга та Нуб Чен Санґ’є Єше
 239 gnod sbyin ma ru rtse ro langs gsang ba'i rgyud [txt] Таємна тантра якшів-мерців Маруце, також відома як настанови Ґнубса Падма Дбанґ Ґ’яла (8 глав)
 240 'jam dpal ma ru rtse'i sngags rgyud bstan pa [txt] Тантра вчення мантр Манджушрі Маруце (17 глав)
 241 dregs pa pho mo 'dus pa'i las rgyud [txt] Тантра діяльності зібрання гордих духів чоловічої та жіночої статі (17 глав), передано Рдо рже Ґтер Зхан Рцалу
@@ -278,7 +278,7 @@
 243 'jam dpal gshin rje'i gshed nag po chen po gsang ba'i rgyud [txt] Тантра великого чорного Ямарі Манджушрі — таємна (33 глави), переклад ачар’я Маханавікутапа
 244 khro bo rnam par rgyal ba'i rgyud phyi ma yang phyi ma zhes bya ba [txt] Найпізніша тантра «Повна перемога гнівних» (22 глави)
 245 dpal tshe bdag nag po'i phrin las kyi dgongs pa thams cad rdzogs pa'i rgyud chen po [txt] Велика тантра «Усе досконале думка діяльності чорного повелителя життя» (30 глав)
-246 'jam dpal gshin rje sdig pa snying 'dzings [txt] Манджушрі Ямарадж — той, що тримає серце гріхів (14 глав), переклад непалець Васудхара та Ґнубс Чен Санґ’є Єше
+246 'jam dpal gshin rje sdig pa snying 'dzings [txt] Манджушрі Ямарадж — той, що тримає серце гріхів (14 глав), переклад непалець Васудхара та Нуб Чен Санґ’є Єше
 247 gshin rje gshed kyi gsang rgyud [txt] Таємна тантра Ями-катів (8 глав), традиція Ґнубса Падма Дбанґ Ґ’яла
 248 'jam dpal gshin rje'i rgyal po sdig pa stobs chen gyi rgyud [txt] Тантра «Цар Манджушрі Ямарадж — велика сила гріхів» (21 глава), переклад Васудхара та Рдо рже Кхрі Ґцуґ
 249 'phags pa 'jam dpal las bzhi 'khor lo gsang ba'i rgyud [txt] Шляхетна таємна тантра чотирьох діяльностей Манджушрі (13 + 1 додаткова глава)
@@ -302,7 +302,7 @@
 265 dbang rgyas rta mchog rol pa [txt] Розширена влада гри верховного коня (60 глав)
 266 padma dbang chen dregs pa srung bzlog yon tan gyi rgyud [txt] Тантра великої влади лотоса — захист і відбиття гордих духів, якості (9 глав), переклад Падмасамбгава та кхаші Ананта (Анандха)
 267 padma dbang chen dregs pa dbang sdud kyi rgyud [txt] Тантра великої влади лотоса — підкорення гордих духів (13 глав), переклад Падмасамбгава та Анандха
-268 padma dbang chen 'dus pa'i rgyud chen po [txt] Велика тантра великої влади лотоса — зібрання (35 глав), переклад Рашісіддхі та Кукурадза, пізніше перевірена Ґнубс Чен Санґ’є Єше
+268 padma dbang chen 'dus pa'i rgyud chen po [txt] Велика тантра великої влади лотоса — зібрання (35 глав), переклад Рашісіддхі та Кукурадза, пізніше перевірена Нуб Чен Санґ’є Єше
 269 dbang chen 'dus pa'i tantra [txt] Тантра великої влади — зібрання (11 + 1 глава танцю)
 270 padma dbang chen dregs pa gzan la 'bebs pa'i rgyud [txt] Тантра великої влади лотоса — скидання гордих духів на інших (12 глав), переклад Падмасамбгава та Анандха
 271 padma dbang chen dregs pa gnad 'bebs kyi rgyud [txt] Тантра великої влади лотоса — удар у життєву точку гордих духів (11 глав), переклад Падмасамбгава та Анандха
@@ -321,7 +321,7 @@
 282 rdo rje sems dpa'i yi ge brgya pa dbang mchog rgyal po'i rgyud [txt] Тантра «Сотня складів Ваджрасаттви — цар верховної влади» (28 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
 283 rdo rje sems dpa'i yi ge brgya pa'i rgyud [txt] Тантра ста складів Ваджрасаттви (27 глав), стиснена Ваджрапані та розвинена Падмасамбгава з Намкхаї Ньїнґпо
 284 rdo rje sems dpa' yi ge brgya pa dbang bskur rgyal po'i rgyud [txt] Тантра «Сотня складів Ваджрасаттви — цар посвячення» (21 глава)
-285 he ru ka gal po [txt] Герука Ґалпо (23 розділи-екзамени), передано Падмасамбгава Васудхарі, а тим — Ґнубс Чен Санґ’є Єше
+285 he ru ka gal po [txt] Герука Ґалпо (23 розділи-екзамени), передано Падмасамбгава Васудхарі, а тим — Нуб Чен Санґ’є Єше
 286 he ru ka'i thugs kyi rgyud gal po [txt] Тантра ума Геруки Ґалпо (9 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
 287 dpal he ru ka gal po [txt] Славний Герука Ґалпо (16 глав)
 288 khro bo pundarika'i rgyud [txt] Тантра гнівного Пундаріки (22 глави), стиснена Ваджрасаттвою, розвинена Падмасамбгава
@@ -330,7 +330,7 @@
 289 dpal khrag 'thung he ru ka 'dus pa'i rgyud chen po [txt] Велика тантра «Славний п’ючий кров Герука — зібрання», також Герука Ґалпо на цвинтарі (32 глави), переклад Падмасамбгава та Вайрочана
 290 'jig rten las 'das pa'i mdo zhes bya ba'i rgyud [txt] Тантра «Сутра за межами світу» (11 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
 291 de bzhin rigs kyi sgrub thabs gsang ba me dpung thugs kyi rgyud [txt] Таємна садгана роду татгаґат — тантра полум’яного ума (22 глави)
-292 bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud [txt] Тантра «Таємне колесо мудрості дорогоцінної амрити» (22 глави), переклад Вімаламітра та Жанґ Джняна, виправлена Ска ба Дпал Брцеґс
+292 bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud [txt] Тантра «Таємне колесо мудрості дорогоцінної амрити» (22 глави), переклад Вімаламітра та Жанґ Джняна, виправлена Кава Палцек
 293 bdud rtsi rin po che 'khrungs pa'i rgyan [txt] Прикраса народження дорогоцінної амрити (27 глав), проголошена в Аканіштхі, переклад Вімаламітра та Ґньяґс Джнянакумара
 294 bdud rtsi bam brgyad [txt] Амрита в восьми бампо
 295 thams cad bdud rtsi'i rang bzhin bdud rtsi bum pa dum bu gsum pa'i rgyud bu chung [txt] Малий текст «Усе має природу амрити — три фрагменти вази амрити»
@@ -411,7 +411,7 @@
 364 mkha' 'gro me lce 'bar ma'i rgyud [txt] Тантра «Дакіні палаючого язика» (22 глави), переклад Чоґро Луї Ґ’ялцен
 
 24) ya [vol] Том Я (24)
-365 dpal sngags kyi srung ma e ka dza ti'i rgyud [txt] Славна мантрна тантра захисниці Екадзаті (96 глав), переклад Дганасамскріта та ’Броґмі Дпалґ’ї Єше
+365 dpal sngags kyi srung ma e ka dza ti'i rgyud [txt] Славна мантрна тантра захисниці Екадзаті (96 глав), переклад Дганасамскріта та Броґмі Палгі Єше
 366 e ka dza ti sbas pa nag mo'i rgyud [txt] Прихована чорна тантра Екадзаті (5 глав)
 367 e ka dza ti za byed sbyang rgyal nag mo'i rgyud [txt] Тантра «Екадзаті — чорна пожирачка, цариця очищення» (32 глави), передача Девачандри Вайрочані
 368 'phags pa he sdud 'bar ma'i rgyud [txt] Шляхетна тантра палаючого Геруки-збирача (11 глав)
@@ -427,7 +427,7 @@
 25) ra [vol] Том Ра (25)
 377 dpal mgon po nag po dur khrod mngon par rol pa mtshon cha 'khor lo'i rgyud [txt] Тантра «Славний чорний захисник — гра на цвинтарі, колесо зброї» (36 глав), переклад брамін Ґсалва Рґ’ян та Васудхара
 378 dpal mgon nag po chen po sku gsung thugs khros pa'i rgyud [txt] Тантра «Славний великий чорний захисник — гнівні тіло, мова й ум» (18 глав)
-379 dpal mgon nag po gsang ba snying gi 'khor lo [txt] Тантра «Славний чорний захисник — таємне колесо серця» (15 розділів), переклад Ґнубс Чен Санґ’є Єше
+379 dpal mgon nag po gsang ba snying gi 'khor lo [txt] Тантра «Славний чорний захисник — таємне колесо серця» (15 розділів), переклад Нуб Чен Санґ’є Єше
 380 dpal nag po chen po me lce phreng ba'i rgyud [txt] Тантра «Славний великий чорний — намисто язиків полум’я» (45 глав), переклад Дганасамскріта та Паґор Вайрочана
 381 dpal nag po chen po'i rgyud dur khrod nag po zhes bya ba [txt] Тантра «Славний великий чорний — чорний цвинтар» (12 глав)
 382 man ngag brtsegs pa gri gug gi rgyud dam pa ma ha ka la'i rgyud [txt] Священна тантра «Накопичені настанови — зігнутий ніж» або Махакала (21 глава), передача Джецун Шантібхадри ченцеві Тшулкхрім Ґ’ялва
