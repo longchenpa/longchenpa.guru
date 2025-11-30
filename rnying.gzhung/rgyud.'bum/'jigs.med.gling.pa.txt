@@ -1,444 +1,444 @@
-Catalogue de l’édition du NGB de ‘Jigs med gling pa
+@#/_/'jigs med gling pa/ rnying ma rgyud 'bum dkar chag/ Каталог Тантр Древнінг Джікме Лінгпи
 
-Volume Ka [1]
-1. rdo rje sems dpa’ nam mkha’ che bram ze rgyas pa’i rgyud : 16 chapitres.
-2. Byang chub kyi sems rmad du byung ba : 42 chapitres, traduit par Shri Simha et Vairocana.
-3. byang chub kyi sems bsgom pa yi ge med pa’i rgyud : 10 chapitres, traduit par Shrî Simha et Vairocana.
-4. chos thams cad sems nyid ye shes kyi rgyud dngos grub rang byung du spyod pa dbang bskur ba
-5. rna rgyud zam pa : pas de divisions en chapitres, version se terminant par les mots : skal ldan gyi bcud chos rdzogs so.
-6. rdzogs pa chen po chos nyid byang chub kyi sems thig le rgya mtsho gnas la ‘jug pa zhes bya ba’i rgyud : 10 chapitres, traduit par Vimalamitra et g.Yu sgra snying po.
-7. byang chub sems kyi man ngag rin chen phreng ba’am Bang mdzod ‘phrul gyi lde mig : 61 chapitres.
-8. man ngag thams cad kyi sdom sam/ Man ngag spyi rgya mdud ces bya ba : pas de divisions en chapitres.
-9. Yang ‘byed ‘phrul gyi lde mig : 14 chapitres.
-10. bang mdzod ‘phrul gyi me long : 10 chapitres, traduit par gNubs chen et présenté comme gNubs chen gyi man ngag gter rgyud.
-11. thag ring du ‘gro ba nam mkha’ dang mnyam pa’i rgyud : 25 chapitres.
-12. ton pa ‘khor lo rdo rje : 4 chapitres.
-13. Byang sems rin chen ‘khor lo zhes bya ba’i rgyud : 10 chapitres.
-14. rDo rje sems dpa’ nam mkha’ che rgyas pa zhes bya ba rgyud : 11 chapitres.
-15. Nam mkha’ che rgyas pa zhes bya ba rnal ‘byor ma rgyud : 13 chapitres, traduit par Vimalamitra et dPal brtsegs.
-16. Byang chub kyi sems nya mo bag la nyal : 26 chapitres.
-17. Byang chub kyi sems rmad du byung ba’am/ Chos chen po rmad du byung : 20 chapitres.
-18. rDzogs pa chen po chos nyid byang chub kyi sems rin po che bkod pa rnam par dbye ba’i rgyud : 5 chapitres, traduit par Shilendramitra et ‘Jing gSal ‘bar.
-19. Byang chub kyi sems rmad du byung ba : 11 chapitres ; ces trois derniers tantras se trouvent dans le Temple de Zab mo po ri (Zab mo po ri’i lha khang).
-20. rDo rje sems dpa’ nam mkha’ che gsang ba snying po rnal ma don gyi rgyud : 12 chapitres.
-21. gSang sngags lam mchog ‘dus pa’i rgyud : 5 chapitres, traduit par Shrî Simha et rDo rje yang dbang gter.
-22. Thugs kyi rgyud rin po che spungs pa’i rgyan : 5 chapitres.
-23. gSang ba spyi rgyud : 25 chapitres, traduit par Vimalamitra et gNyags Jñânakumara.
-24. Rin chen rgyas pa chen po’i rgyud : 61 chapitres.
+01) ka [vol] Том Ка (1)
+001 dkar chag [toc] Зміст тому
+002 rdo rje sems dpa' nam mkha' che bram ze rgyas pa'i rgyud [txt] Тантра Ваджрасаттви «Простір, що охоплює все», у розширеній брамінській версії (16 глав)
+003 byang chub kyi sems rmad du byung ba [txt] Тантра «Чудове виникнення бодхічітти» (42 глави), переклад Шрі Сінґха та Вайрочана
+004 byang chub kyi sems bsgom pa yi ge med pa'i rgyud [txt] Тантра «Медитація на бодхічітту без букв» (10 глав), переклад Шрі Сінґха та Вайрочана
+005 chos thams cad sems nyid ye shes kyi rgyud dngos grub rang byung du spyod pa dbang bskur ba rna rgyud zam pa [txt] Тантра «Усі дгарми — природа ума, мудрість; тантра посвячення, що веде до самовиниклого здійснення, коротка вухова тантра» (без глав)
+006 rdzogs pa chen po chos nyid byang chub kyi sems thig le rgya mtsho gnas la 'jug pa zhes bya ba'i rgyud [txt] Тантра великої досконалості «Проникнення в океан крапель природи дгарм і бодхічітти» (10 глав), переклад Вімаламітра та Ґ’юґра Ньїнґпо
+007 byang chub sems kyi man ngag rin chen phreng ba'am bang mdzod 'phrul gyi lde mig [txt] «Намисто дорогоцінних настанов бодхічітти» або «Чарівний ключ скарбниці» (61 глава)
+008 man ngag thams cad kyi sdom sam man ngag spyi rgya mdud ces bya ba [txt] «Зв’язка всіх настанов» або «Загальний вузол настанов» (без глав)
+009 yang 'byed 'phrul gyi lde mig [txt] Чарівний ключ розкриття (14 глав)
+010 bang mdzod 'phrul gyi me long [txt] Чарівне дзеркало скарбниці (10 глав), переклад Ґнубс Чена, подано як його настановна термінна-тантра
+011 thag ring du 'gro ba nam mkha' dang mnyam pa'i rgyud [txt] Тантра «Далекосяжний, рівний простору» (25 глав)
+012 ton pa 'khor lo rdo rje [txt] Учитель Ваджрачакра (4 глави)
+013 byang sems rin chen 'khor lo zhes bya ba'i rgyud [txt] Тантра «Дорогоцінне колесо бодхічітти» (10 глав)
+014 rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rgyud [txt] Тантра «Ваджрасаттва, великий простір, розширена версія» (11 глав)
+015 nam mkha' che rgyas pa zhes bya ba rnal 'byor ma rgyud [txt] Йоґінійська тантра «Великий простір, розширена версія» (13 глав), переклад Вімаламітра та Дпал Брцеґс
+016 byang chub kyi sems nya mo bag la nyal [txt] Тантра «Бодхічітта, що спить обережно, як риба» (26 глав)
+017 byang chub kyi sems rmad du byung ba'am chos chen po rmad du byung [txt] Тантра «Чудове виникнення бодхічітти» або «Чудове виникнення великої дгарми» (20 глав)
+018 rdzogs pa chen po chos nyid byang chub kyi sems rin po che bkod pa rnam par dbye ba'i rgyud [txt] Тантра великої досконалості «Розташування дорогоцінностей природи дгарм і бодхічітти з повним розрізненням» (5 глав), переклад Шілендрамітра та ’Джінґ Ґсал ’бар
+019 byang chub kyi sems rmad du byung ba [txt] Тантра «Чудове виникнення бодхічітти» (11 глав) — останні три тантри знаходяться в храмі Забмо Порі
+020 rdo rje sems dpa' nam mkha' che gsang ba snying po rnal ma don gyi rgyud [txt] Тантра «Ваджрасаттва, великий простір, таємна сутність, справжній сенс» (12 глав)
+021 gsang sngags lam mchog 'dus pa'i rgyud [txt] Тантра «Зібрання найвищих таємних мантр» (5 глав), переклад Шрі Сінґха та Рдо рже Янґванґ Ґтер
+022 thugs kyi rgyud rin po che spungs pa'i rgyan [txt] Тантра «Прикраса накопичених дорогоцінностей ума» (5 глав)
+023 gsang ba spyi rgyud [txt] Загальна таємна тантра (25 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+024 rin chen rgyas pa chen po'i rgyud [txt] Велика розширена тантра дорогоцінностей (61 глава)
 
-Volume Kha [2]
-25. Byang chub kyi sems kun byed rgyal po lta ba nam mkha’ ltar mtha’ dbus med pa’i rgyud : 84 chapitres, traduit par Shrî Simhakala et Vairocana.
-26. Chos thams cad rdzogs pa chen po byang chub sems su ‘dus pa’i mdo.
-27. La zlo gsang ba’i ‘khor lo zhes bya ba’i rgyud : 11 chapitres. 
-28. Chos thams cad rdzogs pa chen po ‘khor ba rtsad nas gcod pa nam mkha’ dang mnyam pa yi ge med pa’i rgyud : 13 chapitres, traduit par Shrî Simha et Vairocana.
-29. rDzogs pa chen po ‘khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa’i rgyud : 7 chapitres, traduit par Shrî Simha et Vairocana.
-30. rDzogs pa chen po ‘khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa’i rgyud : 11 chapitres, traduit par Shrî Simha et Vairocana.
-31. Rin po che dang mnyam pa skye ba med pa’i rgyud : 14 chapitres, traduit par Shrî Simha et Vairocana.
-32. Sems sgom don drug : traduit par Shrî Simha et Vairocana.
-33. Man ngag rtsal chen : traduit par Shrî Simha et Vairocana.
-34. Byang sems khyung chen : traduit par Shrî Simha et Vairocana.
-35. rDo rje sems dpa’ nam mkha’ che : traduit par Shrî Simha et Vairocana.
-36. Byang chub kyi sems rmad du byung ba, incluant avec ce texte les “ Treize Traductions Ultérieures ” (phyi ‘gyur bcu gsum) qui furent réalisées par Vimalamitra ; ‘Jigs med gling pa n’en donne pas la liste.
-37. Byang chub kyi sems rtsal sprug : 9 chapitres, traduit par Shrî Simha et Vairocana.
-38. Byang sems khyung chen : 10 chapitres, correspondant à la version qui débute par la stance de nas bcom ldan ‘das dpal rdo rje sems dpa’ la…/, traduit par Shrî Simha et Vairocana.
-39. Nam mkha’ che rgyas pa yi ge med pa’i rgyud : 8 chapitres.
-40. Byang chub sems sgom rdo la gser zhun : version sans divisions en chapitres.
-41. Byang chub sems sgom ‘jam dpal bshes gnyen phyi ma’i man ngag.
-42. rDzogs pa chen po ye shes bdun byung gi rgyud : 8 chapitres, correspondant à la version commençant par la stance bkra shis dpal…/.
-43. Rig pa’i khu byug : 7 chapitres, traduit par Shrî Simha et Vairocana.
-44. Byang sems bkra shis mi ‘gyur ba gsal bar gnas pa’i rgyud : 10 chapitres, traduit par Vimalamitra et g.Yu sgra snying po.
-45. rGyud kyi rgyal po gser gyi rus sbal rtsa ba’i rgyud ces bya ba : 30 chapitres, traduit par Vairocana.
-46. Rin po che snang byed kyi rgyud : 19 chapitres.
-47. Byang sems rma bya ‘jing bsnol : 6 chapitres.
-48. rMa bya ‘jing bsnol : 5 chapitres, version qui se termine par les mots mun sel chen mo zhes bya ba.
-49. rDzogs pa chen po lta ba ye shes gting rdzogs : 27 chapitres, traduit par
-50. Byang chub kyi sems sgom pa’i rgyud : 11 chapitres, version qui se termine par les mots gsham na theg pa’i snying po rdzogs so.
+02) kha [vol] Том Кха (2)
+025 byang chub kyi sems kun byed rgyal po lta ba nam mkha' ltar mtha' dbus med pa'i rgyud [txt] Тантра «Бодхічітта — цар-всевиконавець, погляд рівний простору, без краю й середини» (84 глави), переклад Шрі Сінґхакала та Вайрочана
+026 chos thams cad rdzogs pa chen po byang chub sems su 'dus pa'i mdo [txt] Сутра «Усі дгарми зведені в бодхічітту великої досконалості»
+027 la zlo gsang ba'i 'khor lo zhes bya ba'i rgyud [txt] Тантра «Таємне колесо, що перевершує» (11 глав)
+028 chos thams cad rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa yi ge med pa'i rgyud [txt] Тантра великої досконалості «Переривання сансари від кореня, рівний простору, без букв» (13 глав), переклад Шрі Сінґха та Вайрочана
+029 rdzogs pa chen po 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa'i rgyud [txt] Тантра великої досконалості «Переривання сансари від кореня, рівний океану, без каламуті» (7 глав), переклад Шрі Сінґха та Вайрочана
+030 rdzogs pa chen po 'khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud [txt] Тантра великої досконалості «Переривання сансари від кореня, рівний сонцю й місяцю, без плям» (11 глав), переклад Шрі Сінґха та Вайрочана
+031 rin po che dang mnyam pa skye ba med pa'i rgyud [txt] Тантра «Рівний дорогоцінностям, без народження» (14 глав), переклад Шрі Сінґха та Вайрочана
+032 sems sgom don drug [txt] Медитація на ум у шести аспектах, переклад Шрі Сінґха та Вайрочана
+033 man ngag rtsal chen [txt] Велика енергія настанов, переклад Шрі Сінґха та Вайрочана
+034 byang sems khyung chen [txt] Бодхічітта — великий Ґаруда, переклад Шрі Сінґха та Вайрочана
+035 rdo rje sems dpa' nam mkha' che [txt] Ваджрасаттва — великий простір, переклад Шрі Сінґха та Вайрочана
+036 byang chub kyi sems rmad du byung ba [txt] Чудове виникнення бодхічітти, включаючи «Тринадцять пізніших перекладів» Вімаламітри (список не наведено)
+037 byang chub kyi sems rtsal sprug [txt] Тантра «Пробудження енергії бодхічітти» (9 глав), переклад Шрі Сінґха та Вайрочана
+038 byang sems khyung chen [txt] Бодхічітта — великий Ґаруда (версія, що починається nas bcom ldan 'das dpal rdo rje sems dpa' la…) (10 глав), переклад Шрі Сінґха та Вайрочана
+039 nam mkha' che rgyas pa yi ge med pa'i rgyud [txt] Тантра «Великий простір, розширена версія без букв» (8 глав)
+040 byang chub sems sgom rdo la gser zhun [txt] Медитація на бодхічітту — розтоплене золото на камені (без глав)
+041 byang chub sems sgom 'jam dpal bshes gnyen phyi ma'i man ngag [txt] Пізніші настанови медитації на бодхічітту від Манджушрі-митри
+042 rdzogs pa chen po ye shes bdun byung gi rgyud [txt] Тантра великої досконалості «Виникнення семи мудростей» (8 глав, починається bkra shis dpal…)
+043 rig pa'i khu byug [txt] Зозуля усвідомлення (7 глав), переклад Шрі Сінґха та Вайрочана
+044 byang sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud [txt] Тантра «Бодхічітта — незмінне щастя, що ясно перебуває» (10 глав), переклад Вімаламітра та Ґ’юґра Ньїнґпо
+045 rgyud kyi rgyal po gser gyi rus sbal rtsa ba'i rgyud ces bya ba [txt] Королівська тантра «Корінна тантра золотої черепахи» (30 глав), переклад Вайрочана
+046 rin po che snang byed kyi rgyud [txt] Тантра «Виявлення дорогоцінностей» (19 глав)
+047 byang sems rma bya 'jing bsnol [txt] Бодхічітта — павич, що розправляє хвіст (6 глав)
+048 rma bya 'jing bsnol [txt] Павич, що розправляє хвіст (5 глав, закінчується mun sel chen mo)
+049 rdzogs pa chen po lta ba ye shes gting rdzogs [txt] Тантра великої досконалості «Погляд — повна глибина мудрості» (27 глав)
+050 byang chub kyi sems sgom pa'i rgyud [txt] Тантра медитації на бодхічітту (11 глав, закінчується gsham na theg pa'i snying po rdzogs so)
 
-Volume Ga [3]
-51. Klong chen rab ‘byams rgyal po’i rgyud : 47 chapitres.
-52. Kun tu bzang po nam mkha’ che rtsa ba bsdus pa’i rgyud : 17 chapitres, traduit par Shrî Simha et Vairocana.
-53. Byang chub kyi sems kun tu bzang po rig pa rang gi rtsal shar ba’i rgyud : 14 chapitres.
-54. rDo rje sems dpa’ nam mkha’i mtha’ dang mnyam pa’i rgyud chen po : 27 chapitres, traduit par Shrî Simha et Vairocana.
-55. rDo rje sems dpa’ nam mkha’ che kun tu bzang po gsang ba snying po’i rgyud kyi mdo : 26 chapitres, traduit par Shrî Simha et Vairocana.
-56. Ye shes gsang ba zhes bya ba’i rgyud : 12 chapitres.
-57. Byang chub kyi sems ye shes rdzogs pa’i rgyud : 10 chapitres, traduit par Shrî Simha et Vairocana.
-58. rDzogs pa chen po byang chub kyi sems kun la ‘jug pa rnam dag ston pa’i rgyud : 5 chapitres, traduit par Vimalamitra et g.Yu sgra snying po.
-59. Byang chub kyi sems rdo rje ‘od ‘phro ba’i rgyud : 12 chapitres, traduit par Shrî Simha et Vairocana ; le texte est encore appelé Byang sems rje btsan dam pa mais il semble y a voir confusion avec le rJe btsan dam pa qui est a liste des Tantras du rNying ma’i rgyud ‘bum 73 l’un des tantras-racines du Sems sde et non du Klong sde (corpus auquel ce volume est consacré).
-60. Rin po che ‘phags lam bkod pa’i rgyud : 10 chapitres, traduit par Shrî Simha et Vairocana.
-61. rDo rje sems dpa’ nam mkha’i mtha’ dang mnyam pa’i rgyud : 27 chapitres, traduit par Shrî Simha et Vairocana.
-62. rDo rje sems dpa’ nam mkha’i mtha’ dang mnyam pa’i rgyud : chap.
-28-64, représentant onze tomes ou bam po, traduit par Shrî Simha et Vairocana.
-63. Rin po che gdams ngag sna tshogs ‘khor lo’i rgyud : 4 chapitres.
-64. Rin po che gdams ngag sna tshogs ‘khor lo’i rgyud phyi ma : 16 chapitres.
-65. Rin po che ‘khor lo zhes bya ba’i rgyud : 8 chapitres.
-66. Ye shes gsang ba sgron ma rin po che man ngag gi rgyud : 16 chapitres, traduit par Shrî Simha et Vairocana.
+03) ga [vol] Том Ґа (3)
+051 klong chen rab 'byams rgyal po'i rgyud [txt] Тантра «Великий простір — цар безмежного простору» (47 глав)
+052 kun tu bzang po nam mkha' che rtsa ba bsdus pa'i rgyud [txt] Тантра «Кунтузанґпо — великий простір, стислий корінний текст» (17 глав), переклад Шрі Сінґха та Вайрочана
+053 byang chub kyi sems kun tu bzang po rig pa rang gi rtsal shar ba'i rgyud [txt] Тантра «Бодхічітта Кунтузанґпо — самовиникла енергія усвідомлення» (14 глав)
+054 rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud chen po [txt] Велика тантра «Ваджрасаттва, рівний межі простору» (27 глав), переклад Шрі Сінґха та Вайрочана
+055 rdo rje sems dpa' nam mkha' che kun tu bzang po gsang ba snying po'i rgyud kyi mdo [txt] Тантра-сурта «Ваджрасаттва — великий простір Кунтузанґпо, таємна сутність» (26 глав), переклад Шрі Сінґха та Вайрочана
+056 ye shes gsang ba zhes bya ba'i rgyud [txt] Тантра «Таємна мудрість» (12 глав)
+057 byang chub kyi sems ye shes rdzogs pa'i rgyud [txt] Тантра «Повна мудрість бодхічітти» (10 глав), переклад Шрі Сінґха та Вайрочана
+058 rdzogs pa chen po byang chub kyi sems kun la 'jug pa rnam dag ston pa'i rgyud [txt] Тантра великої досконалості «Повністю чисте проникнення бодхічітти в усе» (5 глав), переклад Вімаламітра та Ґ’юґра Ньїнґпо
+059 byang chub kyi sems rdo rje 'od 'phro ba'i rgyud [txt] Тантра «Бодхічітта — ваджрне проміння світла» (12 глав), переклад Шрі Сінґха та Вайрочана (також називається byang sems rje btsan dam pa)
+060 rin po che 'phags lam bkod pa'i rgyud [txt] Тантра «Розташування дорогоцінностей на шляхах шляхетних» (10 глав), переклад Шрі Сінґха та Вайрочана
+061 rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud [txt] Тантра «Ваджрасаттва, рівний межі простору» (27 глав), переклад Шрі Сінґха та Вайрочана
+062 rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud [txt] Тантра «Ваджрасаттва, рівний межі простору» (11 бампо, глави 28–64), переклад Шрі Сінґха та Вайрочана
+063 rin po che gdams ngag sna tshogs 'khor lo'i rgyud [txt] Тантра «Колесо різноманітних дорогоцінних настанов» (4 глави)
+064 rin po che gdams ngag sna tshogs 'khor lo'i rgyud phyi ma [txt] Пізніша тантра «Колесо різноманітних дорогоцінних настанов» (16 глав)
+065 rin po che 'khor lo zhes bya ba'i rgyud [txt] Тантра «Дорогоцінне колесо» (8 глав)
+066 ye shes gsang ba sgron ma rin po che man ngag gi rgyud [txt] Тантра «Таємна мудрість — світильник дорогоцінних настанов» (16 глав), переклад Шрі Сінґха та Вайрочана
 
-Volume Nga [4]
-67. Rin po che srid pa bar do snang ba’i rgyud : 16 chapitres.
-68. ‘Jam dpal gyi bshad rgyud rin po che’i phreng ba : 9 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-69. ‘Jam dpal dgongs pa ‘dus pa : 6 chapitres.
-70. sKu gsum gyi snang ba gsal bar ngo sprod pa’i rgyud : 7 chapitres.
-71. Dur khrod phung po ‘bar ba : 11 chapitres.
-72. rDo rje yang rtse’i rgyud : 21 chapitres.
-73. rDo rje yang tog snying po’i rgyud : 15 chapitres.
-74. sNying po rdo rje rin po che thams cad gcig pa’i rgyud : 23 chapitres.
-75. Dam tshig bkod pa sa gzhi’i rgyud : 3 chapitres [à ne pas confondre avec le texte no. 169 ci-dessous].
-76. ‘Byung po kun ‘dus rgyud : 32 chapitres.
-77. rDo rje gsang ba rin po che dbyig gi sgrol ma shes rab chen po’i mdo zhes bya ba rgyud skad ‘gyur bzhi pa : 4 chapitres.
-78. Lha ma yin g.yul ngo bzlog pa’i rgyud : 30 chapitres.
-79. Ro sreg thal ba nag po’i rgyud : 6 chapitres.
-80. ‘Jig rten gyi phrin las sprod pa bsod nams chen po rdzogs pa shes rab chen po’i rgyud dam/ thal ba nag po’i rgyud : 16 chapitres.
-81. Lha rgyud rin chen spungs pa : 33 chapitres.
-82. Lha rgyud rin chen dbang gi ‘khor lo zhes bya ba : 13 chapitres.
-83. Thig le kun gsal chen po : 97 chapitres, traduit par dPal ldan Seng ge ‘od can (Shrî Simhaprabha) et Vairocana.
-84. Ye shes mar me’i rgyud : 3 chapitres.
-85. rDo rje sems dpa’i dgongs pa tshig gsum gyi rgyud : 3 chapitres.
-86. Man ngag snying dgongs : 14 chapitres.
-87. Thig le kun ‘dus chen po’i rgyud : 12 chapitres.
-88. sKu’i rgyud padma ‘khyil pa : 21 chapitres.
-89. rDo rje rtse mo ‘dus pa’i rgyud : 10 chapitres, traduit par Vimalamitra, sKa ba dpal brtsegs et Cog ro Klu’i rgyal mtshan.
-90. Ye shes bla ma chen po’i rgyud : 7 chapitres.
-74 Revue d'Etudes Tibétaines
-91. Byang sems rgyal mtshan rtse mo’i rgyud : 5 chapitres.
-92. rDo rje srin po rno ba rdo rje mchu can gyi rgyud dam/ ‘khor ba dong sprugs chen po’i rgyud : 7 chapitres.
-93. rDzogs chen thig le gsang ba’i nges rgyud : pas de divisions en chapitres.
-94. Thig le gsang ba’i brda rgyud : 18 chapitres.
+04) nga [vol] Том Нґа (4)
+067 rin po che srid pa bar do snang ba'i rgyud [txt] Тантра «Виявлення буття та бардо як дорогоцінність» (16 глав)
+068 'jam dpal gyi bshad rgyud rin po che'i phreng ba [txt] Тантра пояснення Манджушрі «Намисто дорогоцінностей» (9 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+069 'jam dpal dgongs pa 'dus pa [txt] Збірка думок Манджушрі (6 глав)
+070 sku gsum gyi snang ba gsal bar ngo sprod pa'i rgyud [txt] Тантра «Чітке представлення проявів трьох кай» (7 глав)
+071 dur khrod phung po 'bar ba [txt] Палаюча купа в цвинтарі (11 глав)
+072 rdo rje yang rtse'i rgyud [txt] Тантра «Вершина ваджри» (21 глава)
+073 rdo rje yang tog snying po'i rgyud [txt] Тантра «Сутність вершини ваджри» (15 глав)
+074 snying po rdo rje rin po che thams cad gcig pa'i rgyud [txt] Тантра «Усе в одному — сутність ваджрної дорогоцінності» (23 глави)
+075 dam tshig bkod pa sa gzhi'i rgyud [txt] Тантра «Розташування самай на основі землі» (3 глави)
+076 'byung po kun 'dus rgyud [txt] Тантра «Зібрання всіх духів» (32 глави)
+077 rdo rje gsang ba rin po che dbyig gi sgrol ma shes rab chen po'i mdo zhes bya ba rgyud skad 'gyur bzhi pa [txt] Тантра «Велика праджня — визволителька ваджрної таємної дорогоцінності» (4 глави)
+078 lha ma yin g.yul ngo bzlog pa'i rgyud [txt] Тантра «Відбиття обличчя асурів» (30 глав)
+079 ro sreg thal ba nag po'i rgyud [txt] Тантра «Чорний попіл спалювання трупів» (6 глав)
+080 'jig rten gyi phrin las sprod pa bsod nams chen po rdzogs pa shes rab chen po'i rgyud dam thal ba nag po'i rgyud [txt] Тантра «Велика досконала заслуга — діяльність світу, велика праджня» або «Чорний попіл» (16 глав)
+081 lha rgyud rin chen spungs pa [txt] Тантра богів «Накопичення дорогоцінностей» (33 глави)
+082 lha rgyud rin chen dbang gi 'khor lo zhes bya ba [txt] Тантра богів «Колесо влади дорогоцінностей» (13 глав)
+083 thig le kun gsal chen po [txt] Велике всепрояснення крапель (97 глав), переклад Шрі Сінґхапрабга та Вайрочана
+084 ye shes mar me'i rgyud [txt] Тантра «Лампадка мудрості» (3 глави)
+085 rdo rje sems dpa'i dgongs pa tshig gsum gyi rgyud [txt] Тантра «Трислова думка Ваджрасаттви» (3 глави)
+086 man ngag snying dgongs [txt] Настанова сутності думки (14 глав)
+087 thig le kun 'dus chen po'i rgyud [txt] Велика тантра «Зібрання всіх крапель» (12 глав)
+088 sku'i rgyud padma 'khyil pa [txt] Тантра тіла — лотосовий вир (21 глава)
+089 rdo rje rtse mo 'dus pa'i rgyud [txt] Тантра «Зібрання вершин ваджри» (10 глав), переклад Вімаламітра, Ска ба Дпал Брцеґс та Чоґро Луї Ґ’ялцен
+090 ye shes bla ma chen po'i rgyud [txt] Тантра «Великий учитель мудрості» (7 глав)
+091 byang sems rgyal mtshan rtse mo'i rgyud [txt] Тантра «Вершина перемоги бодхічітти» (5 глав)
+092 rdo rje srin po rno ba rdo rje mchu can gyi rgyud dam 'khor ba dong sprugs chen po'i rgyud [txt] Тантра «Люті ваджрні демони з ваджрними іклами» або «Велике струшування сансари» (7 глав)
+093 rdzogs chen thig le gsang ba'i nges rgyud [txt] Таємна визначальна тантра крапель великої досконалості (без глав)
+094 thig le gsang ba'i brda rgyud [txt] Тантра символів таємних крапель (18 глав)
 
-Volume Ca [5]
-95. rDzogs pa rang byung : 24 chapitres.
-96. Rig pa rang shar chen po’i rgyud : 86 chapitres.
-97. sGra thal ‘gyur : 5 chapitres plus une section intitulée rjes ‘brang.
-98. Rig pa rang grol chen po’i rgyud : 10 chapitres.
-99. bKra shis mdzes ldan rgyud : 5 chapitres.
+05) ca [vol] Том Ца (5)
+095 rdzogs pa rang byung [txt] Самовиникла досконалість (24 глави)
+096 rig pa rang shar chen po'i rgyud [txt] Велика тантра «Самовиникле усвідомлення» (86 глав)
+097 sgra thal 'gyur [txt] Тантра «Проникнення звуку» + розділ rjes 'brang (5 глав + додаток)
+098 rig pa rang grol chen po'i rgyud [txt] Велика тантра «Самовизволене усвідомлення» (10 глав)
+099 bkra shis mdzes ldan rgyud [txt] Тантра «Прекрасні знамення щастя» (5 глав)
 
-Volume Cha [6]
-100. Seng ge rtsal rdzogs rgyud : 13 chapitres, traduit par Vimalamitra.
-101. Nor bu phra bkod : 24 chapitres.
-102. Mu tig phreng ba : 8 chapitres.
-103. Yi ge med pa gsang ba’i rgyud : 6 chapitres.
-104. rDo rje sems dpa’ snying gi me long gi rgyud : 8 chapitres.
-105. Kun tu bzang po thugs kyi me long : 4 chapitres.
-106. Nyi zla kha sbyor rgyud : 4 chapitres.
-107. Ngo sprod spras pa’i rgyud : 3 chapitres, traduit par Vimalamitra et sKa  ba dPal brtsegs.
-108. sKu gdung ‘bar ba : 3 chapitres, traduit par Vimalamitra et sKa ba dPal brtsegs.
-109. Rin po che spungs pa : 5 chapitres, traduit par Vimalamitra et sKa ba dPal brtsegs.
-110. sGron ma ‘bar ba : 4 chapitres.
-111. Klong drug pa : 6 chapitres.
-112. Klong gsal ‘bar ba nyi ma’i rgyud : 113 chapitres.
-113. mKha’ ‘gro kun gyi snying thig klong gsal (phyi ma’i rgyud) : 142 chapitres.
+06) cha [vol] Том Чха (6)
+100 seng ge rtsal rdzogs rgyud [txt] Тантра «Досконала гра лева» (13 глав), переклад Вімаламітра
+101 nor bu phra bkod [txt] Дрібно розташовані дорогоцінності (24 глави)
+102 mu tig phreng ba [txt] Намисто перлин (8 глав)
+103 yi ge med pa gsang ba'i rgyud [txt] Таємна тантра без букв (6 глав)
+104 rdo rje sems dpa' snying gi me long gi rgyud [txt] Тантра «Дзеркало серця Ваджрасаттви» (8 глав)
+105 kun tu bzang po thugs kyi me long [txt] Дзеркало ума Кунтузанґпо (4 глави)
+106 nyi zla kha sbyor rgyud [txt] Тантра «З’єднання сонця й місяця» (4 глави)
+107 ngo sprod spras pa'i rgyud [txt] Тантра «Прикрашене пряме представлення» (3 глави), переклад Вімаламітра та Ска ба Дпал Брцеґс
+108 sku gdung 'bar ba [txt] Палаючі мощі тіла (3 глави), переклад Вімаламітра та Ска ба Дпал Брцеґс
+109 rin po che spungs pa [txt] Накопичення дорогоцінностей (5 глав), переклад Вімаламітра та Ска ба Дпал Брцеґс
+110 sgron ma 'bar ba [txt] Палаючий світильник (4 глави)
+111 klong drug pa [txt] Шість просторів (6 глав)
+112 klong gsal 'bar ba nyi ma'i rgyud [txt] Тантра «Ясносяючий простір — сонце» (113 глав)
+113 mkha' 'gro kun gyi snying thig klong gsal (phyi ma'i rgyud) [txt] Ясносяючий простір — серце-крапля всіх дакінь (пізніша тантра) (142 глави)
 
-Volume Ja [7]
-114. sNang srid kha sbyor bdud rtsi’i thigs pa ‘khor ba thog mtha’ gcod pa’i rgyud : 110 chapitres, traduit par Slob dpon chen po (Padmasambhava) et sKa ba dPal brtsegs.
-115. Rin po che bcud kyi yang snying thog mtha’ dras thag gcod pa’i rgyud : 10 chapitres.
-116. sPros pa gcod pa sde lnga rgyud : 14 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs. La liste des Tantras du rNying ma’i rgyud ‘bum 75
-117. Rin po che bdud rtsi bcud thigs rgyud : 15 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-118. Rin po che snang gsal spu gri ‘bar bas ‘khrul snang thams cad rtsad nas gcod pa nam mkha’ dang mnyam pa’i rgyud : 35 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-119. Rin po che spyi gnad skyon sel thig le kun gsal rgyud : 9 chapitres.
-120. gTer snying rin chen spungs pa’i rgyud : 9 chapitres.
-121. Thig le ye shes bcud spungs sgron ma ‘od ‘bar gyi rgyud : 17 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-122. bDud rtsi bcud thigs sgron ma brtsegs pa’i rgyud : 22 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-123. sNying po bcud spungs nam mkha’ klong yangs : 20 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-124. Thugs kyi yang snying dgongs bcud ‘dus pa nyi zla ‘bar ba’i rgyud : 13 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-125. Sangs rgyas kun gyi dgongs pa’i bcud bsdus ri bo brtsegs pa’i rgyud : 21 chapitres.
-126. Dri med ka dag gi rgyud rin chen gsal ba chen po zhes bya ba : 10 chapitres.
-127. rGyud thams cad kyi rgyal po nyi zla’i snying po ‘od ‘bar ba bdud rtsi rgya mtshor ‘khyil ba’i rgyud : 81 chapitres, traduit par Padmasambhava et sKa ba dPal brtsegs.
-128. sKye med ka dag zang ka : 10 chapitres.
-129. sPros bral don gsal chen po’i rgyud : 123 chapitres.
-130. rGyud thams cad kyi rtse rgyal nam mkha’ ‘bar ba’i rgyud : 39 chapitres, traduit par Shrî Ratnavajra et Heruka.
-131. rGyud thams cad kyi spyi phud nyi zla bkod pa’i rgyud : 15 chapitres, traduit par Padmasambhava et dPal brtsegs.
-132. Nam mkha’ ‘brug sgrogs thog bab klong ‘dus spyi rgyal rgya mdud kyi rgyud : 10 chapitres, traduit par Padmasambhava et dPal brtsegs.
-133. lTa ba la shan chen po rin po che sgron ma’i rtsa ba’i rgyud : 14 chapitres, traduit par Padmasambhava et dPal brtsegs.
-134. rTsa rlung thig le’i rgyud : 7 chapitres.
-135. lTa ba la thal chen po’i rgyud : pas de divisions en chapitres.
-136. sNang byed spu gri’i rgyud : pas de divisions en chapitres.
-137. ‘Bras bu ye grol chen po’i rgyud : pas de divisions en chapitres.
-138. Srog gi ‘khor lo’i rgyud : pas de divisions en chapitres.
-139. rGyud kyi rtse rgyal nyi zla ‘od ‘bar mkha’ klong rnam dag rgya mtsho klong gsal gyi rgyud : 24 chapitres, traduit par Padmasambhava et dPal brtsegs.
+07) ja [vol] Том Джа (7)
+114 snang srid kha sbyor bdud rtsi'i thigs pa 'khor ba thog mtha' gcod pa'i rgyud [txt] Тантра «З’єднання буття й проявів — краплі амрити, що переривають сансару від початку до кінця» (110 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+115 rin po che bcud kyi yang snying thog mtha' dras thag gcod pa'i rgyud [txt] Тантра «Найглибша сутність сутності дорогоцінностей, що рішуче перериває початок і кінець» (10 глав)
+116 spros pa gcod pa sde lnga rgyud [txt] Тантра п’яти розділів «Переривання концептуальних конструкцій» (14 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+117 rin po che bdud rtsi bcud thigs rgyud [txt] Тантра «Краплі сутності дорогоцінної амрити» (15 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+118 rin po che snang gsal spu gri 'bar bas 'khrul snang thams cad rtsad nas gcod pa nam mkha' dang mnyam pa'i rgyud [txt] Тантра «Ясносяючий дорогоцінний ніж, що перериває всі оманливі прояви від кореня, рівний простору» (35 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+119 rin po che spyi gnad skyon sel thig le kun gsal rgyud [txt] Тантра «Всепрояснення крапель — очищення всіх вад загальних ключових пунктів дорогоцінностей» (9 глав)
+120 gter snying rin chen spungs pa'i rgyud [txt] Тантра «Накопичення дорогоцінностей — серце термінів» (9 глав)
+121 thig le ye shes bcud spungs sgron ma 'od 'bar gyi rgyud [txt] Тантра «Світильник, що палає світлом — накопичення сутності мудрості крапель» (17 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+122 bdud rtsi bcud thigs sgron ma brtsegs pa'i rgyud [txt] Тантра «Накладений світильник крапель сутності амрити» (22 глави), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+123 snying po bcud spungs nam mkha' klong yangs [txt] Накопичення сутності сутності — широкі простори простору (20 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+124 thugs kyi yang snying dgongs bcud 'dus pa nyi zla 'bar ba'i rgyud [txt] Тантра «Зібрання сутності найглибшої думки ума — палаючі сонце й місяць» (13 глав), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+125 sangs rgyas kun gyi dgongs pa'i bcud bsdus ri bo brtsegs pa'i rgyud [txt] Тантра «Накопичена гора — зведена сутність думки всіх будд» (21 глава)
+126 dri med ka dag gi rgyud rin chen gsal ba chen po zhes bya ba [txt] Тантра «Велике ясне сяйво дорогоцінностей — незаплямована первозданна чистота» (10 глав)
+127 rgyud thams cad kyi rgyal po nyi zla'i snying po 'od 'bar ba bdud rtsi rgya mtshor 'khyil ba'i rgyud [txt] Королівська тантра всіх тантр «Сутність сонця й місяця, палаюче світло — вир амрити в океані» (81 глава), переклад Падмасамбгава та Ска ба Дпал Брцеґс
+128 skye med ka dag zang ka [txt] Непороджена первозданна чистота Занґтхал (10 глав)
+129 spros bral don gsal chen po'i rgyud [txt] Велика тантра «Ясний сенс без концептуальних конструкцій» (123 глави)
+130 rgyud thams cad kyi rtse rgyal nam mkha' 'bar ba'i rgyud [txt] Тантра «Цар вершини всіх тантр — палаючий простір» (39 глав), переклад Шрі Ратнаваджра та Герука
+131 rgyud thams cad kyi spyi phud nyi zla bkod pa'i rgyud [txt] Тантра «Загальна квінтесенція всіх тантр — розташування сонця й місяця» (15 глав), переклад Падмасамбгава та Дпал Брцеґс
+132 nam mkha' 'brug sgrogs thog bab klong 'dus spyi rgyal rgya mdud kyi rgyud [txt] Тантра «Грім у просторі — злива просторів, загальний цар-вузол» (10 глав), переклад Падмасамбгава та Дпал Брцеґс
+133 lta ba la shan chen po rin po che sgron ma'i rtsa ba'i rgyud [txt] Корінна тантра «Великий світильник дорогоцінностей — вершина погляду» (14 глав), переклад Падмасамбгава та Дпал Брцеґс
+134 rtsa rlung thig le'i rgyud [txt] Тантра «Канали, вітри й краплі» (7 глав)
+135 lta ba la thal chen po'i rgyud [txt] Тантра «Велике прямопроникнення погляду» (без глав)
+136 snang byed spu gri'i rgyud [txt] Тантра «Ніж проявлення» (без глав)
+137 'bras bu ye grol chen po'i rgyud [txt] Тантра «Велике первозданне визволення плоду» (без глав)
+138 srog gi 'khor lo'i rgyud [txt] Тантра «Колесо життя» (без глав)
+139 rgyud kyi rtse rgyal nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud [txt] Королівська тантра вершини «Чисте ясне сяйво океану просторів — палаючі сонце й місяць» (24 глави), переклад Падмасамбгава та Дпал Брцеґс
 
-Volume Nya [8]
-140. rDzogs pa chen po nges don ‘dus pa: 81 chapitres, traduit par Vimalamitra et Âcârya Dran pa ye shes.
-141. rDzogs pa chen po rin po che ‘khor ba rtsad gcod kyi rgyud : 24 chapitres. 76 Revue d'Etudes Tibétaines
-142. rDzogs pa chen po lta ba’i yang snying nam mkha’ klong yangs kyi rgyud : 53 chapitres, traduit par Vimalamitra et Dran pa ye shes.
-143. rDzogs pa chen po dgongs pa bka’ bgros kyi rgyud : 65 chapitres, traduit par Vimalamitra et Dran pa ye shes ; ce texte est appelé le po ti se ru mthing shog can.
-144. rDzogs pa chen po shin tu rnal ‘byor sangs rgyas thams cad ‘byung ba rang byung bde ba ‘khor lo’i rgyud : 66 chapitres.
-145. rDzogs pa chen po nges don ‘dus pa’i yang snying kun tu bzang po ye shes klong gi rgyud : 37 chapitres, traduit par Vimalamitra et Dran pa ye shes.
-146. rDzogs pa chen po rmad byung don gyi snying po rang byung bde ba’i ‘khor lo rgyud : 27 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-147. rDzogs pa chen po nges don rig pa’i gsung rang byung bde ba ‘khor lo’i rgyud : 33 chapitres.
-148. rDzogs pa chen po lta ba thams cad kyi snying po’i rgyud : 28 chapitres, traduit par Vimalamitra et gNyags à Bu tshal.
-149. rDzogs pa chen po kun tu bzang po ye shes gsal bar ston pa’i rgyud : 12 chapitres.
-150. rDzogs pa chen po kun tu bzang po ye shes gsal bar ston pa’i rgyud phyi ma : 4 chapitres.
-151. rDzogs pa chen po kun tu bzang po ye shes gsal bar ston pa’i rgyud phyi ma’i phyi ma : 4 chapitres.
-152. rDzogs pa chen po kun tu bzang po ye shes gsal bar ston pa phyi ma gsang ba’i rgyud : 4 chapitres, traduit par Shrî Simha et rDo rje yang dbang gter.
-153. Ye shes ‘khor lo’i rgyud : 7 chapitres.
-154. rDzogs pa chen po ye shes ‘khor lo gsang ba thugs kyi rgyud : 19 chapitres.
-155. ‘Jam dpal ‘dus pa’i rgyud : 16 chapitres.
-156. sPyan ras gzigs ting ‘dzin rtse gcig gi rgyud : 13 chapitres.
-157. rDzogs pa chen po ma rig mun pa sel bar byed pa lta ba ye shes gting rdzogs rgyud : 41 chapitres, traduit par Vimalamitra et Âcârya Dran pa ye shes ; le texte est appelé le dngul gyi sgril shing can.
+08) nya [vol] Том Нья (8)
+140 rdzogs pa chen po nges don 'dus pa [txt] Велика досконалість «Збірка визначального сенсу» (81 глава), переклад Вімаламітра та Ачар’я Дранпа Ньєше
+141 rdzogs pa chen po rin po che 'khor ba rtsad gcod kyi rgyud [txt] Тантра великої досконалості «Дорогоцінне переривання сансари від кореня» (24 глави)
+142 rdzogs pa chen po lta ba'i yang snying nam mkha' klong yangs kyi rgyud [txt] Тантра великої досконалості «Найглибша сутність погляду — широкі простори простору» (53 глави), переклад Вімаламітра та Дранпа Ньєше
+143 rdzogs pa chen po dgongs pa bka' bgros kyi rgyud [txt] Тантра великої досконалості «Рада думки» (65 глав), переклад Вімаламітра та Дранпа Ньєше (по ті се ру мтхинг шог чан)
+144 rdzogs pa chen po shin tu rnal 'byor sangs rgyas thams cad 'byung ba rang byung bde ba 'khor lo'i rgyud [txt] Тантра великої досконалості «Надзвичайна йоґа — самовиникле колесо блаженства, джерело всіх будд» (66 глав)
+145 rdzogs pa chen po nges don 'dus pa'i yang snying kun tu bzang po ye shes klong gi rgyud [txt] Тантра великої досконалості «Найглибша сутність збору визначального сенсу — простір мудрості Кунтузанґпо» (37 глав), переклад Вімаламітра та Дранпа Ньєше
+146 rdzogs pa chen po rmad byung don gyi snying po rang byung bde ba 'khor lo rgyud [txt] Тантра великої досконалості «Самовиникле колесо блаженства — сутність сенсу чудового виникнення» (27 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+147 rdzogs pa chen po nges don rig pa'i gsung rang byung bde ba 'khor lo'i rgyud [txt] Тантра великої досконалості «Самовиникле колесо блаженства — мова усвідомлення визначального сенсу» (33 глави)
+148 rdzogs pa chen po lta ba thams cad kyi snying po'i rgyud [txt] Тантра великої досконалості «Сутність усіх поглядів» (28 глав), переклад Вімаламітра та Ґньяґс Буцал
+149 rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud [txt] Тантра великої досконалості «Кунтузанґпо, що ясно показує мудрість» (12 глав)
+150 rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma [txt] Пізніша тантра «Кунтузанґпо, що ясно показує мудрість» (4 глави)
+151 rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma [txt] Найпізніша тантра «Кунтузанґпо, що ясно показує мудрість» (4 глави)
+152 rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa phyi ma gsang ba'i rgyud [txt] Таємна пізніша тантра «Кунтузанґпо, що ясно показує мудрість» (4 глави), переклад Шрі Сінґха та Рдо рже Янґванґ Ґтер
+153 ye shes 'khor lo'i rgyud [txt] Тантра «Колесо мудрості» (7 глав)
+154 rdzogs pa chen po ye shes 'khor lo gsang ba thugs kyi rgyud [txt] Тантра великої досконалості «Таємне колесо мудрості ума» (19 глав)
+155 'jam dpal 'dus pa'i rgyud [txt] Тантра «Збірка Манджушрі» (16 глав)
+156 spyan ras gzigs ting 'dzin rtse gcig gi rgyud [txt] Тантра «Односпрямований самадгі Авалокітешвари» (13 глав)
+157 rdzogs pa chen po ma rig mun pa sel bar byed pa lta ba ye shes gting rdzogs rgyud [txt] Тантра великої досконалості «Погляд — повна глибина мудрості, що розвіює темряву невідання» (41 глава), переклад Вімаламітра та Дранпа Ньєше (днгуль гйи сгріл шінґ чан)
 
-Volume Ta [9]
-158. Chos thams cad kyi don bstan pa rdzogs chen thig le nyag gcig ye nas bya rtsol bral ba’am/ klong chen rab ‘byams kyi rgyud : 53 chapitres.
-159. rDzogs pa chen po nges don thams cad ‘dus pa ye shes nam mkha’ dang mnyam pa’i rgyud : 212 chapitres.
-160. Byang chub kyi sems lung rnal ‘byor chen po’i rgyud dam/ sems lng chen po’i mdo : 40 chapitres.
+09) ta [vol] Том Та (9)
+158 chos thams cad kyi don bstan pa rdzogs chen thig le nyag gcig ye nas bya rtsol bral ba'am klong chen rab 'byams kyi rgyud [txt] Тантра «Усі дгарми показують сенс — єдина крапля великої досконалості, споконвічно без зусиль» або «Великий простір безмежного простору» (53 глави)
+159 rdzogs pa chen po nges don thams cad 'dus pa ye shes nam mkha' dang mnyam pa'i rgyud [txt] Тантра великої досконалості «Збірка всього визначального сенсу — мудрість, рівна простору» (212 глав)
+160 byang chub kyi sems lung rnal 'byor chen po'i rgyud dam sems lng chen po'i mdo [txt] Велика йоґічна пророча тантра бодхічітти або Сутра п’яти великих умів (40 глав)
 
-Volume Tha [10]
-La liste des Tantras du rNying ma’i rgyud ‘bum 77
-161. De bzhin gshegs pa thams cad kyi thugs gsang ba’i ye shes don gyi snying po rdo rje bkod pa’i rgyud rnal ‘byor grub pa’i lung kun ‘dus rig pa’i mdo’am/ Sangs rgyas thams cad kyi dgongs pa ‘dus pa’i mdo: 75 chapitres.
-162. De bzhin gshegs pa thams cad kyi thugs gsang ba’i ye shes don gyi snying po khro bo rdo rje’i rigs kun ‘dus rig pa’i mdo : 36 chapitres, traduit par Padmasambhava et Vairocana.
-163. Dur khrod khu byug rol pa : 14 chapitres.
+10) tha [vol] Том Тха (10)
+161 de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po rdo rje bkod pa'i rgyud rnal 'byor grub pa'i lung kun 'dus rig pa'i mdo'am sangs rgyas thams cad kyi dgongs pa 'dus pa'i mdo [txt] Тантра «Таємна мудрість усіх татгаґат — сутність сенсу, ваджрне розташування» або «Сутра збору думки всіх будд» (75 глав)
+162 de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po khro bo rdo rje'i rigs kun 'dus rig pa'i mdo [txt] Тантра «Таємна мудрість усіх татгаґат — сутність сенсу, гнівний ваджрний рід» (36 глав), переклад Падмасамбгава та Вайрочана
+163 dur khrod khu byug rol pa [txt] Гра зозулі на цвинтарі (14 глав)
 
-Volume Da [11]
-164. Kun tu bzang po che ba rang la gnas pa’i rgyud : 31 chapitres.
-165. dBang bskur rgyal po’i rgyud : 10 chapitres.
-166. rGyud kyi rgyal po ting ‘dzin mchog gi rgyud : 11 chapitres.
-167. Phrin las kyi rgyal po skabs sbyor bdun pa’i rgyud : 7 chapitres.
-168. sPyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud : 6 chapitres.
-169. Dam tshig bkod pa’i rgyud : 34 chapitres.
-170. Zhi ba lha rgyud chen po : 9 chapitres, traduit par l’abbé indien Prasatva et Padma Ru rtse.
-171. Chos nyid zhi ba’i lha rgyud : pas de divisions en chapitres, traduit par Vimalamitra et gNyags.
-172. Khro bo lha rgyud : 7 chapitres, traduit par Prasatva et Padma Ru rtse.
-173. Khro bo lha rgyud kyi rtog pa chen po : pas de divisions en chapitres.
-174. Thugs rje chen po’i gtor ma’am gTor rgyud chen mo : 44 chapitres, traduit par Padmasambhava, Vimalamitra et Nam mkha’i snying po ; vérifié et amendé par la suite par Vasudhara et gNubs chen Sangs rgyas ye shes.
-175. rNal ‘byor nam mkha’i tshogs rgyud chen mo : 8 chapitres ;
-176. [rNal ‘byor nam mkha’i tshogs rgyud chen mo] phyi ma’i rgyud : 15 chapitres, corrigé par gNubs avec la “nouvelle langue” (skad gsar).
-177. dPal ‘bar khro mo’i rgyud : pas de divisions en chapitres.
-178. Rakta dmar gyi rgyud : 15 chapitres, traduit par Gro lod rtsal.
-179. rDo rje dur mo’i tantra zhes bya ba : 5 chapitres.
-180. sByin sreg : 2 chapitres.
-181. Khro bo’i sbyin sreg : 2 chapitres.
-182. mChod ‘bul : 1 chapitre.
-183. bsTod pa : 2 chapitres.
-184. ‘Gugs ‘dren : 1 chapitre.
-185. Phur bu : 2 chapitres.
-186. gTor ma : 3 chapitres.
-187. bShig bral gtor ma : 4 chapitres.
-188. gTub pa : chapitres 5-9.
-189. Ho ma rgyud : 2 chapitres, version se terminant par les mots : rdo rje sems
-dpa zhal gdangs kyi ma rgyud rdzogs so/.
-190. sKu gdung ‘bar ba tsha tsha mchod rten gyi rgyud : 9 chapitres.
-191. Hûm mdzad chen po’i rgyud : 11 chapitres, traduit par rDo rje gro lod et Zhang drung. 78 Revue d'Etudes Tibétaines
-192. Zla gsang chen po’i rgyud : 25 chapitres.
-193. Rin chen me lha zhi bar ‘gyur pa ‘bar ba’i rgyud : 26 chapitres.
+11) da [vol] Том Да (11)
+164 kun tu bzang po che ba rang la gnas pa'i rgyud [txt] Тантра «Великий Кунтузанґпо, що перебуває в собі» (31 глава)
+165 dbang bskur rgyal po'i rgyud [txt] Тантра «Цар посвячення» (10 глав)
+166 rgyud kyi rgyal po ting 'dzin mchog gi rgyud [txt] Королівська тантра «Найвище самадгі» (11 глав)
+167 phrin las kyi rgyal po skabs sbyor bdun pa'i rgyud [txt] Тантра «Цар діяльності — сім з’єднань» (7 глав)
+168 spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud [txt] Тантра «Цар усіх практик — старанність, сповнена сенсу» (6 глав)
+169 dam tshig bkod pa'i rgyud [txt] Тантра розташування самай (34 глави)
+170 zhi ba lha rgyud chen po [txt] Велика мирна тантра богів (9 глав), переклад індійський абат Прасатва та Падма Руце
+171 chos nyid zhi ba'i lha rgyud [txt] Тантра мирних богів природи дгарм (без глав), переклад Вімаламітра та Ґньяґс
+172 khro bo lha rgyud [txt] Тантра гнівних богів (7 глав), переклад Прасатва та Падма Руце
+173 khro bo lha rgyud kyi rtog pa chen po [txt] Великі міркування тантри гнівних богів (без глав)
+174 thugs rje chen po'i gtor ma'am gtor rgyud chen mo [txt] Велика тантра гторма великого співчуття (44 глави), переклад Падмасамбгава, Вімаламітра та Намкхаї Ньїнґпо; пізніше виправлена Васудхарою та Ґнубс Чен Санґ’є Єше
+175 rnal 'byor nam mkha'i tshogs rgyud chen mo [txt] Велика тантра зборів йоґінів простору (8 глав)
+176 [rnal 'byor nam mkha'i tshogs rgyud chen mo] phyi ma'i rgyud [txt] Пізніша тантра зборів йоґінів простору (15 глав), виправлена Ґнубсом «новою мовою»
+177 dpal 'bar khro mo'i rgyud [txt] Тантра славної палаючої гнівної (без глав)
+178 rakta dmar gyi rgyud [txt] Тантра червоної крови (15 глав), переклад Ґролло Цал
+179 rdo rje dur mo'i tantra zhes bya ba [txt] Тантра «Ваджрна цвинтарна богиня» (5 глав)
+180 sbyin sreg [txt] Огняна підношення (2 глави)
+181 khro bo'i sbyin sreg [txt] Огняна підношення гнівним (2 глави)
+182 mchod 'bul [txt] Підношення (1 глава)
+183 bstod pa [txt] Славослів’я (2 глави)
+184 'gugs 'dren [txt] Закликання та приведення (1 глава)
+185 phur bu [txt] Кіла (2 глави)
+186 gtor ma [txt] Гторма (3 глави)
+187 bshig bral gtor ma [txt] Незнищенна гторма (4 глави)
+188 gtub pa [txt] Насильницькі практики (глави 5–9)
+189 ho ma rgyud [txt] Тантра гома (2 глави, закінчується rdo rje sems dpa zhal gdangs kyi ma rgyud rdzogs so)
+190 sku gdung 'bar ba tsha tsha mchod rten gyi rgyud [txt] Тантра «Палаючі мощі — цаца та ступи» (9 глав)
+191 hum mdzad chen po'i rgyud [txt] Тантра «Велике ГУМ» (11 глав), переклад Рдо рже Ґролло та Жанґдрун
+192 zla gsang chen po'i rgyud [txt] Велика таємна тантра місяця (25 глав)
+193 rin chen me lha zhi bar 'gyur pa 'bar ba'i rgyud [txt] Тантра «Палаючий вогонь дорогоцінних мирних і гнівних божеств» (26 глав)
 
-Volume Na [12]
-194. dPal gsang ba snying po de kho na nyid nges pa : 21 chapitres.
-195. dPal gsang ba snying po’i rgyud phyi mtha’ : 5 chapitres, traduit par Jñânagarbha et Vairocana.
-196. sGyu ‘phrul brgyad cu pa : 80 chapitres, version débutant par le vers dpal rdo rje sems dpa’ la phyag ‘tshal lo/ et traduite par Vimalamitra et mKhan po Ye shes gzhon nu.
-197. gSang ba snying po de kho na nyid nges pa : 46 chapitres,
-198. [Sans titre] : version en 33 chapitres débutant par le vers de bzhin gshegs pa dgyes pa chen pos…, et finissant par dam tshig tu ston pa’i rgyud rdzogs so..
-199. gSang ba’i snying po de kho na nyid nges pa zhes bya ba’i sgyu ‘phrul brgyad pa : 8 chapitres.
-200. sGyu ‘phrul bla ma : 13 chapitres.
-201. Lha mo sgyu ‘phrul drwa ba : 12 chapitres.
-202. ‘Jam pa’i (= dpal) sgyu ‘phrul drwa ba : 14 chapitres, version du mTshan brjod de Mañjushrî selon la “traduction ancienne” (snga ‘gyur).
+12) na [vol] Том На (12)
+194 dpal gsang ba snying po de kho na nyid nges pa [txt] Славна таємна сутність — визначення таковості (21 глава)
+195 dpal gsang ba snying po'i rgyud phyi mtha' [txt] Пізніша тантра славної таємної сутності (5 глав), переклад Джнянаґарбга та Вайрочана
+196 sgyu 'phrul brgyad cu pa [txt] Вісімдесят розділів магічної мережі (80 глав, починається dpal rdo rje sems dpa' la phyag 'tshal lo), переклад Вімаламітра та Кхенпо Єше Ґжонну
+197 gsang ba snying po de kho na nyid nges pa [txt] Таємна сутність — визначення таковості (46 глав)
+198 [без назви] [txt] Версія в 33 глави, починається de bzhin gshegs pa dgyes pa chen pos…, закінчується dam tshig tu ston pa'i rgyud rdzogs so
+199 gsang ba'i snying po de kho na nyid nges pa zhes bya ba'i sgyu 'phrul brgyad pa [txt] Таємна сутність — визначення таковості, вісім розділів магічної мережі (8 глав)
+200 sgyu 'phrul bla ma [txt] Магічна мережа — вершина (13 глав)
+201 lha mo sgyu 'phrul drwa ba [txt] Магічна мережа богинь (12 глав)
+202 'jam pa'i (= dpal) sgyu 'phrul drwa ba [txt] Магічна мережа Манджушрі (14 глав, версія за старовинним перекладом)
 
-Volume Pa [13]
-203. sGyu ‘phrul drwa ba me long rtsa ba’i rgyud ces bya ba : pas de divisions en chapitres, version se terminant par les mots bshad pa rtog pa’i rgyal po rdzogs so/.
-204. sGyu ‘phrul me long : 13 chapitres, traduit par Vimalamitra et Jñânakumâra.
-205. sGyu ‘phrul drwa ba ye shes snying po’i rgyud : 13 chapitres.
-206. sGyu ‘phrul thal pa’i rgyud : 26 chapitres, traduit par Vimalamitra et Jñânakumâra.
-207. sGyu ‘phrul rgya mtsho : 22 chapitres, traduit par Vimalamitra et Jñânakumâra.
-208. rDo rje gsang ba’i snying po rtsa ba’i rgyud de kho na nyid nges pa : 33 chapitres, l’autre titre du tantra étant rGyud kyi rgyal po sgyu ‘phrul drwa ba zhes bya ba. La liste des Tantras du rNying ma’i rgyud ‘bum 79
-209. sGyu ‘phrul rol pa chen po : 13 chapitres, traduit par Vimalamitra et Jñânakumâra.
-210. rGyud kyi rgyal po sgyu ‘phrul drwa ba theg pa chen po’i yang chen po’i tshul zhes bya ba : 10 chapitres.
-211. gSang ba’i snying po de kho na nyid nges pa khro bo chen po’i stobs : 1 dum.
-212. Khro bo chen po’i stobs kyi rnal ‘byor dbang phyug sgrub pa zhes : traduit par Viamalamitra et Vairocana.
-213. sGyu ‘phrul drwa ba snying po bkod pa : 8 chapitres.
+13) pa [vol] Том Па (13)
+203 sgyu 'phrul drwa ba me long rtsa ba'i rgyud ces bya ba [txt] Корінна тантра «Дзеркало магічної мережі» (без глав, закінчується bshad pa rtog pa'i rgyal po rdzogs so)
+204 sgyu 'phrul me long [txt] Дзеркало магічної мережі (13 глав), переклад Вімаламітра та Джнянакумара
+205 sgyu 'phrul drwa ba ye shes snying po'i rgyud [txt] Тантра «Магічна мережа — сутність мудрості» (13 глав)
+206 sgyu 'phrul thal pa'i rgyud [txt] Тантра «Проникнення магічної мережі» (26 глав), переклад Вімаламітра та Джнянакумара
+207 sgyu 'phrul rgya mtsho [txt] Океан магічної мережі (22 глави), переклад Вімаламітра та Джнянакумара
+208 rdo rje gsang ba'i snying po rtsa ba'i rgyud de kho na nyid nges pa [txt] Корінна тантра «Ваджрна таємна сутність — визначення таковості» (33 глави), також відома як rgyud kyi rgyal po sgyu 'phrul drwa ba
+209 sgyu 'phrul rol pa chen po [txt] Велика гра магічної мережі (13 глав), переклад Вімаламітра та Джнянакумара
+210 rgyud kyi rgyal po sgyu 'phrul drwa ba theg pa chen po'i yang chen po'i tshul zhes bya ba [txt] Королівська тантра «Магічна мережа — спосіб найвищої великої колісниці» (10 глав)
+211 gsang ba'i snying po de kho na nyid nges pa khro bo chen po'i stobs [txt] Таємна сутність — визначення таковості, сила великого гнівного (1 частина)
+212 khro bo chen po'i stobs kyi rnal 'byor dbang phyug sgrub pa zhes [txt] Садгана владики йоґи сили великого гнівного, переклад Вімаламітра та Вайрочана
+213 sgyu 'phrul drwa ba snying po bkod pa [txt] Розташування сутності магічної мережі (8 глав)
 
-Volume Pha [14]
-214. Sangs rgyas mnyam sbyor ram sGyu ma bde mchog : 10 chapitres
-215. [Sangs rgyas mnyam sbyor] rgyud phyi ma : 7 chapitres (rtog pa) ; 216. [Sangs rgyas mnyam sbyor] phyi ma’i phyi ma : version qui correspond au Tantra abrégé (bsdus pa’i rgyud).
-217. rDo rje gdan bzhi’i rgyud.
-218. rGyud kyi rgyal po sangs rgyas mnyam sbyor sdus pa’i rgyud dam pa : 10 chapitres, traduit par Guhya gsang ba et ‘Brog mi dPal gyi ye shes.
-219. Sangs rgyas mnyam sbyor mkha’ ‘gro ma sgyu ma bde mchog gi rgyud phyi ma’i yang phyi ma : 22 chapitres.
-220. Zla gsang thig le zhes bya ba’i rgyud kyi rgyal po chen po mchog tu gsang ba : traduit par Padmasambhava et dPal brtsegs.
-221. dPal gsang ba ‘dus pa : 17 chapitres, traduit par Vimalamitra et dPal brtsegs ; il fut ensuite traduit par Shradakaravarma et Rin chen bzang po.
-222. [dPal gsang ba ‘dus pa] rgyud phyi ma : 18 chapitres, traduit par Dad byed go cha et Rin chen bzang po ; par la suite, le tantra fut traduit par ‘Gos lo tsâ ba gZhon nu dpal d’après un original indien.
-223. rGyud kyi rgyal po chen po las kyi phreng ba’am / Karma mâ le : 9 chapitres, traduit par Dharmashrî Praghaja, Vimalamitra et d’autres pandits avec le traducteur Ratna A gra.
-224. Ye shes rngam pa glog gi ‘khor lo : 17 chapitres, traduit par Vimalamitra et Cog ro klu’i rgyal mtshan ; il en existe apparemment une autre version établie par Vishvamitra et Pe ro (probablement pour Vairocana).
+14) pha [vol] Том Пха (14)
+214 sangs rgyas mnyam sbyor ram sgyu ma bde mchog [txt] Тантра «З’єднання будд» або «Ілюзорна верховна блаженність» (10 глав)
+215 [sangs rgyas mnyam sbyor] rgyud phyi ma [txt] Пізніша тантра з’єднання будд (7 глав — міркування)
+216 [sangs rgyas mnyam sbyor] phyi ma'i phyi ma [txt] Найпізніша тантра з’єднання будд — скорочена версія
+217 rdo rje gdan bzhi'i rgyud [txt] Тантра чотирьох ваджрних тронів
+218 rgyud kyi rgyal po sangs rgyas mnyam sbyor sdus pa'i rgyud dam pa [txt] Священна скорочена королівська тантра з’єднання будд (10 глав), переклад Ґух’яґарбга та ’Броґмі Дпалґ’ї Єше
+219 sangs rgyas mnyam sbyor mkha' 'gro ma sgyu ma bde mchog gi rgyud phyi ma'i yang phyi ma [txt] Найпізніша тантра «З’єднання будд — ілюзорна верховна блаженність дакінь» (22 глави)
+220 zla gsang thig le zhes bya ba'i rgyud kyi rgyal po chen po mchog tu gsang ba [txt] Велика королівська тантра «Таємні краплі місяця — найвища таємниця», переклад Падмасамбгава та Дпал Брцеґс
+221 dpal gsang ba 'dus pa [txt] Славне таємне зібрання (17 глав), переклад Вімаламітра та Дпал Брцеґс; пізніше — Шрадакаравама та Рінчен Занґпо
+222 [dpal gsang ba 'dus pa] rgyud phyi ma [txt] Пізніша тантра славного таємного зібрання (18 глав), переклад Дад Чед Ґоча та Рінчен Занґпо; ще пізніше — ’Ґос Лоцава Ґжонну Дпал
+223 rgyud kyi rgyal po chen po las kyi phreng ba'am karma ma le [txt] Велика королівська тантра «Гірлянда діяльності» або Кармамала (9 глав), переклад Дгармашрі Праджа, Вімаламітра та інші з перекладачем Ратна Аґра
+224 ye shes rngam pa glog gi 'khor lo [txt] Тантра «Люте колесо блискавки мудрості» (17 глав), переклад Вімаламітра та Чоґро Луї Ґ’ялцен
 
-Volume Ba [15]
-225. rTa mchog rol pa : 32 chapitres. 80 Revue d'Etudes Tibétaines
-226. dPal snying rje rol pa’i rgyud dam He ru ka rol pa : 10 chapitres.
-227. bDud rtsi rol pa rim par phye ba rgyas pa : traduit par Vimalamitra et gNyags Jñânakumâra.
-228. Phur pa bcu gnyis kyi rgyud ces byua ba’i mdo : 24 chapitres.
-229. Glang po rab ‘bog gi rgyud : 28 chapitres, traduit par Vishvamitra et ‘Jing gSal ‘bar ; il existe trois tantras portant ce titre, la présente version étant le tantra explicatif (bshad rgyud).
-230. ‘Phags pa thabs kyi zhags pa padmo phreng ba’i don bsdus pa zhes pa’i rgyud : 42 chapitres.
-231. Dri med bshags rgyud : 16 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-232. gZi ldan ‘bar ba mtshams kyi rgyud : pas de divisions en chapitres, version se terminant par les mots : khro bo bcu’i smon lam…
+15) ba [vol] Том Ба (15)
+225 rta mchog rol pa [txt] Гра верховного коня (32 глави)
+226 dpal snying rje rol pa'i rgyud dam he ru ka rol pa [txt] Славна тантра гри співчуття або Гра Геруки (10 глав)
+227 bdud rtsi rol pa rim par phye ba rgyas pa [txt] Розгорнута поетапна гра амрити, переклад Вімаламітра та Ґньяґс Джнянакумара
+228 phur pa bcu gnyis kyi rgyud ces bya ba'i mdo [txt] Сутра-тантра «Дванадцятикіла» (24 глави)
+229 glang po rab 'bog gi rgyud [txt] Тантра «Лютий слон» (28 глав), переклад Вішваміра та ’Джінґ Ґсал ’бар (пояснювальна тантра)
+230 'phags pa thabs kyi zhags pa padmo phreng ba'i don bsdus pa zhes pa'i rgyud [txt] Тантра «Шляхетний лотосовий аркан методів — стислий сенс» (42 глави)
+231 dri med bshags rgyud [txt] Тантра сповіді без плям (16 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+232 gzi ldan 'bar ba mtshams kyi rgyud [txt] Тантра «Променисте палаюче між» (без глав, закінчується khro bo bcu'i smon lam)
 
-Volume Ma [16]
-233. dPal zla gsang nag po’i rgyud : 75 chapitres, considéré comme le “grand Tantra-racine” (rtsa ba’i rgyud chen po).
-234. Zla gsang nag po’i rtsa rgyud : 74 chapitres, version se terminant par les mots ngan sngags kyi rgyud ces bya ba rdzogs so ; ce texte fut caché par Mañjushrîmitra; Jñânagarbha le découvrit et le transmit à Nam mkha’i snying po.
-235. Zla gsang nag po’i rgyud : 58 chapitres, traduit par l’âcârya Vasudhara et gNubs chen Sangs rgyas ye shes.
-236. Zla gsang drag sngags nag po bshan pa spu gri’i rgyud : 97 chapitres, traduit par le Népalais Vasudhara et gNubs chen Sangs rgyas ye shes.
-237. Drag sngags zla gsang nag po’i rgyud : 25 chapitres, contient les préceptes de gNubs chen (gnubs chen gyi man ngag).
-238. ‘Jam dpal dmar po’i sngags rgyud kyi rgyal po : 10 chapitres, traduit par Shântigarbha et gNubs chen Sangs rgyas ye shes.
-239. gNod sbyin ma ru rtse ro langs gsang ba’i rgyud : 8 chapitres ; incluant les préceptes de gNubs, ce tantra a également pour titre Drag po’i sngags rgod padma dbang rgyal gyi bka’ zhes pa.
-240. ‘Jam dpal ma ru rtse’i sngags rgyud bstan pa : 17 chapitres.
-241. Dregs pa pho mo ‘dus pa’i las rgyud : 17 chapitres, remis (gtad pa) à rDo rje gTer gzhan (= bzhad) rtsal.
+16) ma [vol] Том Ма (16)
+233 dpal zla gsang nag po'i rgyud [txt] Славна чорна таємна тантра місяця — великий корінний текст (75 глав)
+234 zla gsang nag po'i rtsa rgyud [txt] Корінна чорна таємна тантра місяця (74 глави, закінчується ngan sngags kyi rgyud ces bya ba rdzogs so), схована Манджушрімітрою, знайдена Джнянаґарбгою
+235 zla gsang nag po'i rgyud [txt] Чорна таємна тантра місяця (58 глав), переклад ачар’я Васудхара та Ґнубс Чен Санґ’є Єше
+236 zla gsang drag sngags nag po bshan pa spu gri'i rgyud [txt] Люта чорна мантрна тантра місяця — ніж різника (97 глав), переклад непалець Васудхара та Ґнубс Чен Санґ’є Єше
+237 drag sngags zla gsang nag po'i rgyud [txt] Люта мантрна чорна тантра місяця (25 глав, містить настанови Ґнубса)
+238 'jam dpal dmar po'i sngags rgyud kyi rgyal po [txt] Королівська мантрна тантра червоного Манджушрі (10 глав), переклад Шантіґарбга та Ґнубс Чен Санґ’є Єше
+239 gnod sbyin ma ru rtse ro langs gsang ba'i rgyud [txt] Таємна тантра якшів-мерців Маруце, також відома як настанови Ґнубса Падма Дбанґ Ґ’яла (8 глав)
+240 'jam dpal ma ru rtse'i sngags rgyud bstan pa [txt] Тантра вчення мантр Манджушрі Маруце (17 глав)
+241 dregs pa pho mo 'dus pa'i las rgyud [txt] Тантра діяльності зібрання гордих духів чоловічої та жіночої статі (17 глав), передано Рдо рже Ґтер Зхан Рцалу
 
-Volume Tsa [17]
-242. ‘Phags pa ‘jam dpal gyi dri ma med pa’i gsang rgyud : 26 chapitres.
-243. ‘Jam dpal gshin rje’i gshed nag po chen po gsang ba’i rgyud : 33 chapitres, traduit par l’âcârya Mahânavikutapata. La liste des Tantras du rNying ma’i rgyud ‘bum 81
-244. Khro bo rnam par rgyal ba’i rgyud phyi ma yang phyi ma zhes bya ba : 22 chapitres.
-245. dPal tshe bdag nag po’i phrin las kyi dgongs pa thams cad rdzogs pa’i rgyud chen po : 30 chapitres, réputé avoir été transmis dans les contrées des dieux (lha yul du grags pa zhes zer).
-246. ‘Jam dpal gshin rje sdig pa snying ‘dzings : 14 chapitres, traduit par le Népalais Vasudhara et gNubs chen Sangs rgyas ye shes.
-247. gShin rje gshed kyi gsang rgyud : 8 chapitres, représentant la tradition de gNubs padma dbang rgyal.
-248. ‘Jam dpal gshin rje’i rgyal po sdig pa stobs chen gyi rgyud : 21 chapitres, traduit par le Népalais Vasudhara et rDo rje khri gtsug.
-249. ‘Phags pa ‘jam dpal las bzhi ‘khor lo gsang ba’i rgyud : 13 chapitres auxquels est ajouté un chapitre supplémentaire numéroté 14.
-250. gShin rje nag po gsang ba de kho na nyid kyi rgyud kha thun : 8 chapitres, transmis au Roi Dza et avant d’être graduellement parvenu jusqu’à gNubs chen.
-251. gShin rje nag po kha thun gsang ba’i de kho na nyid phyi ma’i rgyud ces bya ba : 5 chapitres, traduit par Vasudhara et gNubs chen.
-252. Tshe bdag nag po drag sngags mngon du phyung ba’i rgyud kyi rgyal po : 21 chapitres.
-253. ‘Jam dpal khro bo snying gzer gsang ba’i rgyud : 5 chapitres (skabs), traduit par gNubs chen.
-254. Drag po phung byed kyi rgyud : 21 chapitres.
-255. sNgags kyi de kho na nyid bshad pa : 8 chapitres.
-256. Ngan sngags gtsug gi rgyud phyi ma’i phyi ma : pas de divisions en chapitres.
-257. ‘Jig rten gsum gyi bshad pa dregs rgyud : 8 chapitres.
-258. De bzhin gshegs pa thams cad kyi dgongs pa khro bo ‘dus pa’i rgyud : 9 chapitres, traduit par Vasudhara et rDo rje yang dbang gter.
-259. gShin rje nag po chu thigs sngon mo’i rgyud : 18 chapitres.
-260. gShin rje nag po ngan sngags phyir bzlog pa’i rgyud : 7 chapitres, constituant la suite du précédent tantra (chu thigs sngon mo’i rgyud phyi ma), traduit par gNubs chen.
-261. ‘Phags pa ‘jam dpal mched bzhi’i sngags rgyud : 9 chapitres, présenté comme le tantra-racine (rtsa ba’i rgyud) auquel le no. 262 est associé.
-262. ‘Jam dpal ma ru rtse’i rgyud phyi ma : 7 chapitres.
-263. dPal gshin rje nag po’i me rlung skyin thang ‘khrugs pa’i rgyud : 53 chapitres.
+17) tsa [vol] Том Ца (17)
+242 'phags pa 'jam dpal gyi dri ma med pa'i gsang rgyud [txt] Шляхетна таємна тантра бездоганного Манджушрі (26 глав)
+243 'jam dpal gshin rje'i gshed nag po chen po gsang ba'i rgyud [txt] Тантра великого чорного Ямарі Манджушрі — таємна (33 глави), переклад ачар’я Маханавікутапа
+244 khro bo rnam par rgyal ba'i rgyud phyi ma yang phyi ma zhes bya ba [txt] Найпізніша тантра «Повна перемога гнівних» (22 глави)
+245 dpal tshe bdag nag po'i phrin las kyi dgongs pa thams cad rdzogs pa'i rgyud chen po [txt] Велика тантра «Усе досконале думка діяльності чорного повелителя життя» (30 глав)
+246 'jam dpal gshin rje sdig pa snying 'dzings [txt] Манджушрі Ямарадж — той, що тримає серце гріхів (14 глав), переклад непалець Васудхара та Ґнубс Чен Санґ’є Єше
+247 gshin rje gshed kyi gsang rgyud [txt] Таємна тантра Ями-катів (8 глав), традиція Ґнубса Падма Дбанґ Ґ’яла
+248 'jam dpal gshin rje'i rgyal po sdig pa stobs chen gyi rgyud [txt] Тантра «Цар Манджушрі Ямарадж — велика сила гріхів» (21 глава), переклад Васудхара та Рдо рже Кхрі Ґцуґ
+249 'phags pa 'jam dpal las bzhi 'khor lo gsang ba'i rgyud [txt] Шляхетна таємна тантра чотирьох діяльностей Манджушрі (13 + 1 додаткова глава)
+250 gshin rje nag po gsang ba de kho na nyid kyi rgyud kha thun [txt] Коротка чорна тантра Ями — таємна таковість (8 глав), передана цареві Дза, потім поступово до Ґнубса
+251 gshin rje nag po kha thun gsang ba'i de kho na nyid phyi ma'i rgyud ces bya ba [txt] Пізніша коротка чорна тантра Ями — таємна таковість (5 глав), переклад Васудхара та Ґнубс Чен
+252 tshe bdag nag po drag sngags mngon du phyung ba'i rgyud kyi rgyal po [txt] Королівська тантра «Чорний повелитель життя — явно виведена люта мантра» (21 глава)
+253 'jam dpal khro bo snying gzer gsang ba'i rgyud [txt] Тантра «Таємний гнівний Манджушрі — цвях у серце» (5 розділів), переклад Ґнубс Чена
+254 drag po phung byed kyi rgyud [txt] Тантра «Лютий руйнівник куп» (21 глава)
+255 sngags kyi de kho na nyid bshad pa [txt] Пояснення таковості мантр (8 глав)
+256 ngan sngags gtsug gi rgyud phyi ma'i phyi ma [txt] Найпізніша тантра вершини злих мантр (без глав)
+257 'jig rten gsum gyi bshad pa dregs rgyud [txt] Тантра пояснення трьох світів — горді духи (8 глав)
+258 de bzhin gshegs pa thams cad kyi dgongs pa khro bo 'dus pa'i rgyud [txt] Тантра «Збірка думки всіх татгаґат — гнівні» (9 глав), переклад Васудхара та Рдо рже Янґванґ Ґтер
+259 gshin rje nag po chu thigs sngon mo'i rgyud [txt] Тантра «Чорний Ямарадж — синя крапля води» (18 глав)
+260 gshin rje nag po ngan sngags phyir bzlog pa'i rgyud [txt] Тантра «Чорний Ямарадж — відбиття злих мантр» (7 глав, продовження попередньої)
+261 'phags pa 'jam dpal mched bzhi'i sngags rgyud [txt] Шляхетна мантрна тантра чотирьох братів Манджушрі (9 глав, корінна)
+262 'jam dpal ma ru rtse'i rgyud phyi ma [txt] Пізніша тантра Манджушрі Маруце (7 глав)
+263 dpal gshin rje nag po'i me rlung skyin thang 'khrugs pa'i rgyud [txt] Тантра «Славний чорний Ямарадж — вир вогню й вітру» (53 глави)
 
-Volume Tsha [18]
-264. rTa mchog rol pa’i rgyud : 208 chapitres, traduit par Rashisiddhi et lCe Ku ku râ dza.
-265. dBang rgyas rta mchog rol pa : 60 chapitres.
-266. Padma dbang chen dregs pa srung bzlog yon tan gyi rgyud : 9 chapitres, traduit par Padmasambhava et Kha che Ananta (Anandha).
-267. Padma dbang chen dregs pa dbang sdud kyi rgyud : 13 chapitres, traduit par Padmasambhava et Kha che Anandha. 82 Revue d'Etudes Tibétaines
-268. Padma dbang chen ‘dus pa’i rgyud chen po : 35 chapitres, traduit par Rakshisiddhi et Ku ku ra dzâ, ultérieurement vérifié par gNubs chen Sangs rgyas ye shes.
-269. dBang chen ‘dus pa’i tantra : 11 premiers chapitres auxquels est ajouté un chapitre sur la danse rituelle qui est compté comme douzième chapitre.
-270. Padma dbang chen dregs pa gzan la ‘bebs pa’i rgyud : 12 chapitres, traduit par Padmasambhava et Kha che Anandha.
-271. Padma dbang chen dregs pa gnad ‘bebs kyi rgyud : 11 chapitres, traduit par Padmasambhava et Kha che Anandha.
+18) tsha [vol] Том Тша (18)
+264 rta mchog rol pa'i rgyud [txt] Тантра гри верховного коня (208 глав), переклад Рашісіддхі та лЦе Кукурадза
+265 dbang rgyas rta mchog rol pa [txt] Розширена влада гри верховного коня (60 глав)
+266 padma dbang chen dregs pa srung bzlog yon tan gyi rgyud [txt] Тантра великої влади лотоса — захист і відбиття гордих духів, якості (9 глав), переклад Падмасамбгава та кхаші Ананта (Анандха)
+267 padma dbang chen dregs pa dbang sdud kyi rgyud [txt] Тантра великої влади лотоса — підкорення гордих духів (13 глав), переклад Падмасамбгава та Анандха
+268 padma dbang chen 'dus pa'i rgyud chen po [txt] Велика тантра великої влади лотоса — зібрання (35 глав), переклад Рашісіддхі та Кукурадза, пізніше перевірена Ґнубс Чен Санґ’є Єше
+269 dbang chen 'dus pa'i tantra [txt] Тантра великої влади — зібрання (11 + 1 глава танцю)
+270 padma dbang chen dregs pa gzan la 'bebs pa'i rgyud [txt] Тантра великої влади лотоса — скидання гордих духів на інших (12 глав), переклад Падмасамбгава та Анандха
+271 padma dbang chen dregs pa gnad 'bebs kyi rgyud [txt] Тантра великої влади лотоса — удар у життєву точку гордих духів (11 глав), переклад Падмасамбгава та Анандха
 
-Volume Dza [19]
-272. De bzhin gshegs pa thams cad kyi dgongs pa lung bstan pa dbang chen ‘dus pa’i rgyud : 24 chapitres, traduit par Padmasambhava, sBa Sang shi, Ngan lam rGyal ba mchog dbyangs et Cog ro Klu’i rgyal mtshan.
-273. rNgog ma le brgan gyi rgyud : 17 chapitres, traduit par Padma zhabs, Kha che Anandha et Vairocana.
-274. rTa mgrin las rgyud : 11 chapitres, traduit par Padmasambhava et rGyal ba mchog dbyangs.
-275. rTa mgrin gsang rgyud : 25 chapitres.
-276. Padma dbang chen dregs pa tshar gcod kyi rgyud : 29 chapitres, traduit par Padmasambhava.
-277. Padma dbang chen yang gsang khros pa’i rgyud : 13 chapitres, confié par Vairocana au Roi Khri srong lde btsan.
-278. dPal rta mgrin gsang ba phrin las kyi rgyud ces bya ba : 22 chapitres, transmis par O rgyan sangs rgyas gnyis pa (Padmasambhava) à Khri srong lde btsan et rGyal ba mchog dbyangs.
-279. Phyir mi bzlog pa sdom can rta mgrin gyi rgyud : 6 chapitres.
-280. Padma dbang chen gyi rgyud.
-281. Klu ‘dul ba’i rgyud : 37 chapitres.
-282. rDo rje sems dpa’i yi ge brgya pa dbang mchog rgyal po’i rgyud : 28 chapitres, traduit par Padmasambhava et Nam mkha’i snying po.
-283. rDo rje sems dpa’i yi ge brgya pa’i rgyud : 27 chapitres, résumé et confié par Vajrapâni à Padmasambhava qui le traduisit ensuite avec Nam mkha’i snying po.
-284. rDo rje sems dpa’ yi ge brgya pa dbang bskur rgyal po’i rgyud : 21 chapitres28.
-285. He ru ka gal po : 23 chapitres (appelés brtag pa, examens), transmis par Padmasambhava à Vasudhara et par celui-ci à gNubs chen Sangs rgyas ye shes.
-286. He ru ka’i thugs kyi rgyud gal po : 9 chapitres, traduit par Padmasambhava et Nam mkha’i snying po.
-287. dPal he ru ka gal po : 16 chapitres.
-288. Khro bo pundarika’i rgyud : 22 chapitres, résumé par Vajrasattva et développé par Padmasambhava.
+19) dza [vol] Том Дза (19)
+272 de bzhin gshegs pa thams cad kyi dgongs pa lung bstan pa dbang chen 'dus pa'i rgyud [txt] Тантра «Пророчий збір думки всіх татгаґат — велика влада» (24 глави), переклад Падмасамбгава, Сба Санґші, Нґанлам Ґ’ялва Чоґ’янґ та Чоґро Луї Ґ’ялцен
+273 rngog ma le brgan gyi rgyud [txt] Тантра «Стара мала Рнґоґ» (17 глав), переклад Падма Жабс, кхаші Анандха та Вайрочана
+274 rta mgrin las rgyud [txt] Тантра діяльності Гаяґріви (11 глав), переклад Падмасамбгава та Ґ’ялва Чоґ’янґ
+275 rta mgrin gsang rgyud [txt] Таємна тантра Гаяґріви (25 глав)
+276 padma dbang chen dregs pa tshar gcod kyi rgyud [txt] Тантра великої влади лотоса — остаточне переривання гордих духів (29 глав), переклад Падмасамбгава
+277 padma dbang chen yang gsang khros pa'i rgyud [txt] Найтаємніша гнівна тантра великої влади лотоса (13 глав), довірена Вайрочана цареві Кхрі Сронґ Лде Бцану
+278 dpal rta mgrin gsang ba phrin las kyi rgyud ces bya ba [txt] Славна таємна тантра діяльності Гаяґріви (22 глави), передана Орг’єн Санґ’є Ньїпа (Падмасамбгава) Кхрі Сронґ Лде Бцану та Ґ’ялва Чоґ’янґ
+279 phyir mi bzlog pa sdom can rta mgrin gyi rgyud [txt] Тантра незворотного обітниці Гаяґріви (6 глав)
+280 padma dbang chen gyi rgyud [txt] Тантра великої влади лотоса
+281 klu 'dul ba'i rgyud [txt] Тантра приборкання наґів (37 глав)
+282 rdo rje sems dpa'i yi ge brgya pa dbang mchog rgyal po'i rgyud [txt] Тантра «Сотня складів Ваджрасаттви — цар верховної влади» (28 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
+283 rdo rje sems dpa'i yi ge brgya pa'i rgyud [txt] Тантра ста складів Ваджрасаттви (27 глав), стиснена Ваджрапані та розвинена Падмасамбгава з Намкхаї Ньїнґпо
+284 rdo rje sems dpa' yi ge brgya pa dbang bskur rgyal po'i rgyud [txt] Тантра «Сотня складів Ваджрасаттви — цар посвячення» (21 глава)
+285 he ru ka gal po [txt] Герука Ґалпо (23 розділи-екзамени), передано Падмасамбгава Васудхарі, а тим — Ґнубс Чен Санґ’є Єше
+286 he ru ka'i thugs kyi rgyud gal po [txt] Тантра ума Геруки Ґалпо (9 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
+287 dpal he ru ka gal po [txt] Славний Герука Ґалпо (16 глав)
+288 khro bo pundarika'i rgyud [txt] Тантра гнівного Пундаріки (22 глави), стиснена Ваджрасаттвою, розвинена Падмасамбгава
 
-Volume Wa [20]
-289. dPal khrag ‘thung he ru ka ‘dus pa’i rgyud chen po : 32 chapitres, également appelé He ru ka gal po dur khrod mngon par ‘byung ba’i rgyud, traduit par Padmasambhava et Vairocana.
-290. ‘Jig rten las ‘das pa’i mdo zhes bya ba’i rgyud : 11 chapitres, traduit par Padmasambhava et Nam mkha’i snying po.
-291. De bzhin rigs kyi sgrub thabs gsang ba me dpung thugs kyi rgyud : 22 chapitres.
-292. bDud rtsi rin po che ye shes gsang ba’i ‘khor lo’i rgyud : 22 chapitres, traduit par Vimalamitra et Zhang Jñâna, amendé ensuite par sKa ba dPal brtsegs.
-293. bDud rtsi rin po che ‘khrungs pa’i rgyan : 27 chapitres, énoncé à Akanishtha et traduit par Vimalamitra et gNyags Jñânakumâra.
-294. bDud rtsi bam brgyad : en 8 tomes ou bam po.
-295. Thams cad bdud rtsi’i rang bzhin bdud rtsi bum pa dum bu gsum pa’i rgyud bu chung : en 3 fragments ou dum bu.
-296. bDud rtsi ‘khor lo ‘bar ba’i rgyud : 7 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-297. bDud rtsi rin po che phreng ba’i rgyud : 7 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-298. bDud rtsi bde ba chen po’i rgyud : 10 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-299. dNgos grub chen po nye ba’i snying po’i rgyud : 15 chapitres, transmis par Vimalamitra.
-300. bDud rtsi las rgya mtsho’i rgyud : 20 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-301. bDud rtsi chen po chos nyid gsang ba’i rgyud : 6 chapitres, traduit par Vimalamitra et gNyags Jñânakumâra.
-302. bDud rtsi ‘khyil ba ‘chi med tshe rgyud : 14 chapitres, traduit par Vimalamitra et ‘Jing mchims gSal ‘bar.
-303. bDud rtsi ye shes ‘od ldan gyi rgyud : 59 chapitres, trésor (gter ma) révélé par mNga’ bdag Nyang ral.
+20) wa [vol] Том Ва (20)
+289 dpal khrag 'thung he ru ka 'dus pa'i rgyud chen po [txt] Велика тантра «Славний п’ючий кров Герука — зібрання», також Герука Ґалпо на цвинтарі (32 глави), переклад Падмасамбгава та Вайрочана
+290 'jig rten las 'das pa'i mdo zhes bya ba'i rgyud [txt] Тантра «Сутра за межами світу» (11 глав), переклад Падмасамбгава та Намкхаї Ньїнґпо
+291 de bzhin rigs kyi sgrub thabs gsang ba me dpung thugs kyi rgyud [txt] Таємна садгана роду татгаґат — тантра полум’яного ума (22 глави)
+292 bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud [txt] Тантра «Таємне колесо мудрості дорогоцінної амрити» (22 глави), переклад Вімаламітра та Жанґ Джняна, виправлена Ска ба Дпал Брцеґс
+293 bdud rtsi rin po che 'khrungs pa'i rgyan [txt] Прикраса народження дорогоцінної амрити (27 глав), проголошена в Аканіштхі, переклад Вімаламітра та Ґньяґс Джнянакумара
+294 bdud rtsi bam brgyad [txt] Амрита в восьми бампо
+295 thams cad bdud rtsi'i rang bzhin bdud rtsi bum pa dum bu gsum pa'i rgyud bu chung [txt] Малий текст «Усе має природу амрити — три фрагменти вази амрити»
+296 bdud rtsi 'khor lo 'bar ba'i rgyud [txt] Тантра «Палаюче колесо амрити» (7 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+297 bdud rtsi rin po che phreng ba'i rgyud [txt] Тантра «Намисто дорогоцінної амрити» (7 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+298 bdud rtsi bde ba chen po'i rgyud [txt] Тантра «Велике блаженство амрити» (10 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+299 dngos grub chen po nye ba'i snying po'i rgyud [txt] Тантра «Сутність близьких великих сиддхі» (15 глав), передано Вімаламітрою
+300 bdud rtsi las rgya mtsho'i rgyud [txt] Тантра «Океан діяльності амрити» (20 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+301 bdud rtsi chen po chos nyid gsang ba'i rgyud [txt] Тантра «Велика амрита — таємна природа дгарм» (6 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+302 bdud rtsi 'khyil ba 'chi med tshe rgyud [txt] Тантра «Вир амрити — безсмертне життя» (14 глав), переклад Вімаламітра та ’Джінґ Мчхімс Ґсал ’бар
+303 bdud rtsi ye shes 'od ldan gyi rgyud [txt] Тантра «Амрита — світлоносна мудрість» (59 глав), термінна Ґтерма Ньянґрал Ньїма Одзера
 
-Volume Zha [21]
-304. Phur ba rtsa rgyud rdo rje khros pa : 17 chapitres, traduit par Padmasambhava et Dam ‘bres sa le sur le site de mChims phu dge gong.
-305. Phur pa rtsa dum : traduit par Padmasambhava, lCe Ku ku ra dzâ et Brang ti Jayarakshita.
-306. rDo rje khros pa phur pa rtsa ba’i rgyud kyi bshad pa : 13 chapitres.
-307. rDo rje phur pa gsang ba’i rtsa ba rnal ‘byor chen po yang dag gi rgyud : 20 chapitres, traduit par Padmasambhava et Brang ti Jayarakshita.
-308. De bzhin gshegs pa chen po rdo rje phur pa’i rgyud dam bShad pa’i rgyud : 44 chapitres.
-309. Phrin las phun sum tshogs pa’i rgyud dam/ Karma ku ru’i rgyud : 15 chapitres.
-310. Phur pa las kyi rgyud dam Phrin las kyi rgyud : 14 chapitres, apporté par Padmasambhava de la contrée des Dâkinîs en Oddiyâna et traduit par Rom zom gZhon nu blo gros.
-311. rDo rje phur pa chen po gtor ma’i rgyud : 8 chapitres.
-312. Phur bu za byed yaksha ‘bar ba’i rgyud : 11 chapitres.
-313. rDo rje phur bu chos thams cad mya ngan las ‘das pa’i rgyud : 28 chapitres, traduit par l’âcârya Bhashita.
-314. sKu dang ye shes thams cad ‘dus pa sangs rgyas mdud pa’i rgyud : 15 chapitres, traduit par Jñânagarbha et Vairocana.
-315. rGyud kyi rgyal po khro bo hûm kâ ra’i rgyud : 5 chapitres.
-316. Khro bo rnam rgyal rgyud : 7 chapitres.
-317. dByug sngon rgyud : 5 chapitres.
-318. gShin rje gshed rgyud : 4 chapitres.
-319. Mi g.yo ba’i rgyud : 5 chapitres.
-320. Khro bo rta mgrin rgyud : 6 chapitres.
-321. Khro bo gzhan gyis mi thub rgyud : 5 chapitres.
-322. bDud rtsi ‘khyil ba’i rgyud : 6 chapitres.
-323. Khams gsum rnam rgyal gyi rgyud : 7 chapitres.
-324. sTobs po che’i rgyud : 5 chapitres.
-325. dPal rdo rje phur pa me long gsal ba’i spu gri reg gcod ‘khor lo’i rgyud : 7 chapitres.
-326. rGyud kyi rgyal po dpal ‘jig rten snang byed ces bya ba : 27 chapitres, traduit par Jñânagarbha et Vairocana, avant d’être vérifié par les traducteurs sKa, Cog et Zhang.
-327. rGyud kyi rgyal po rdo rje phreng ba zhes bya ba : 16 chapitres, traduit par Jñânagarbha et Vairocana puis amendé avec la nouvelle langue (skad gsar).
+21) zha [vol] Том Жа (21)
+304 phur ba rtsa rgyud rdo rje khros pa [txt] Корінна тантра кіли Ваджракілаї (17 глав), переклад Падмасамбгава та Дам ’Бре Са Ле в Мчхімс Пху
+305 phur ba rtsa dum [txt] Стислий корінний текст кіли, переклад Падмасамбгава, лЦе Кукурадза та Бранті Джаяракшіта
+306 rdo rje khros pa phur ba rtsa ba'i rgyud kyi bshad pa [txt] Пояснення корінної тантри Ваджракілаї (13 глав)
+307 rdo rje phur pa gsang ba'i rtsa ba rnal 'byor chen po yang dag gi rgyud [txt] Велика йоґічна корінна таємна тантра істинної кіли Ваджракілаї (20 глав), переклад Падмасамбгава та Бранті Джаяракшіта
+308 de bzhin gshegs pa chen po rdo rje phur pa'i rgyud dam bshad pa'i rgyud [txt] Тантра «Великий татгаґата Ваджракілая» або пояснювальна тантра (44 глави)
+309 phrin las phun sum tshogs pa'i rgyud dam karma ku ru'i rgyud [txt] Тантра «Досконале накопичення діяльності» або Карма Куру (15 глав)
+310 phur pa las kyi rgyud dam phrin las kyi rgyud [txt] Тантра діяльності кіли (14 глав), принесена Падмасамбгава з країни дакінь Оддіяни, переклад Ромзом Ґжонну Лодро
+311 rdo rje phur pa chen po gtor ma'i rgyud [txt] Тантра великої кіли Ваджракілаї — гторма (8 глав)
+312 phur bu za byed yaksha 'bar ba'i rgyud [txt] Тантра «Палаючий якша-пожирач кіли» (11 глав)
+313 rdo rje phur bu chos thams cad mya ngan las 'das pa'i rgyud [txt] Тантра «Ваджракіла — усі дгарми за межами страждання» (28 глав), переклад ачар’я Бгашіта
+314 sku dang ye shes thams cad 'dus pa sangs rgyas mdud pa'i rgyud [txt] Тантра «Збірка всіх тіл і мудростей — вузол будд» (15 глав), переклад Джнянаґарбга та Вайрочана
+315 rgyud kyi rgyal po khro bo hum ka ra'i rgyud [txt] Королівська тантра «Гнівний ГУМКАРА» (5 глав)
+316 khro bo rnam rgyal rgyud [txt] Тантра повної перемоги гнівних (7 глав)
+317 dbyug sngon rgyud [txt] Тантра синьої дубини (5 глав)
+318 gshin rje gshed rgyud [txt] Тантра ката Ями (4 глави)
+319 mi g.yo ba'i rgyud [txt] Тантра непохитного (5 глав)
+320 khro bo rta mgrin rgyud [txt] Тантра гнівного Гаяґріви (6 глав)
+321 khro bo gzhan gyis mi thub rgyud [txt] Тантра гнівного, якого ніхто не переможе (5 глав)
+322 bdud rtsi 'khyil ba'i rgyud [txt] Тантра виру амрити (6 глав)
+323 khams gsum rnam rgyal gyi rgyud [txt] Тантра повної перемоги над трьома світами (7 глав)
+324 stobs po che'i rgyud [txt] Тантра великої сили (5 глав)
+325 dpal rdo rje phur pa me long gsal ba'i spu gri reg gcod 'khor lo'i rgyud [txt] Тантра «Славна кіла Ваджракілая — колесо ножа, що ріже дотик ясного дзеркала» (7 глав)
+326 rgyud kyi rgyal po dpal 'jig rten snang byed ces bya ba [txt] Королівська тантра «Славне проявлення світу» (27 глав), переклад Джнянаґарбга та Вайрочана, перевірена Ска, Чоґ і Жанґ
+327 rgyud kyi rgyal po rdo rje phreng ba zhes bya ba [txt] Королівська тантра «Ваджрний ланцюг» (16 глав), переклад Джнянаґарбга та Вайрочана, виправлена «новою мовою»
 
-Volume Za [22]
-328. Phur pa rdo rje bkod pa rnal ‘byor chen po’i rgyud : 15 chapitres
-329. Sangs rgyas thams cad kyi ye shes rtse mo’i rgyud kyi rgyal po chen po : 52 chapitres.
-330. rDo rje phur pa chos thams cad kyi gsang ba’i don gyi rgyud : 5 chapitres.
-331. sBas pa zab mo mdung rtse’i rgyud : 9 chapitres, traduit par Jñânagarbha et Vairocana.
-332. bSe sgrom dmar po’i rgyud : 4 chapitres, transmis par Padmasambhava aux princes et princesses du roi Khri srong lde btsan.
-333. Shwa na dkar nag gi rgyud : 4 chapitres.
-334. rDo rje phur pa phrin las kyi ‘khor lo gab pa gsang ba’i rgyud : 12 chapitres, traduit par Guru Padma et gNyags Jñânakumâra.
-335. rDo rje ‘bar ba gsang ba’i rgyud chung : traduit par Jñânakumâra et Vairocana.
-336. rDo rje ‘bar ba’i rgyud : 17 chapitres formant quatre bam po, traduit par Jñânakumâra et Vairocana avant d’être amendé avec la nouvelle langue (skad gsar).
-337. Phur pa gsang ba’i dgongs rgyud chen po : 82 chapitres, traduit par Padma thod phreng, lCe Ku ku ra dzâ et Bran ti Jayarakshita.
-338. rDo rje phur pa zhe sdang yong su dag pa’i rgyud : 22 chapitres.
-339. rDo rje phur pa gsang ba gdams ngag can gyi rgyud : 18 chapitres.
-340. Phur pa bcu gnyis ‘byung ba’i rgyud chung du bstan pa : 12 chapitres, traduit par Vimalamitra et gNyags Jñânakûmara.
-341. rDo rje phur pa bcu gnyis kyi rgyud : 12 chapitres.
-342. rDo rje phur pa gsang ba’i rgyud : 44 chapitres, traduit par lCe Ku ku ra dzâ et Bran ti Jayarakshita.
-343. rDo rje phur ba gsang ba’i sngags rgyud ‘byung po kun ‘dul : 16 chapitres, extrait par Padmasambhava 
-344. rDo rje phur pa mdung rtse dmar po’i rgyud : 19 chapitres.
+22) za [vol] Том За (22)
+328 phur pa rdo rje bkod pa rnal 'byor chen po'i rgyud [txt] Велика йоґічна тантра розташування кіли Ваджракілаї (15 глав)
+329 sangs rgyas thams cad kyi ye shes rtse mo'i rgyud kyi rgyal po chen po [txt] Велика королівська тантра «Вершина мудрості всіх будд» (52 глави)
+330 rdo rje phur pa chos thams cad kyi gsang ba'i don gyi rgyud [txt] Тантра «Ваджракіла — сенс таємниці всіх дгарм» (5 глав)
+331 sbas pa zab mo mdung rtse'i rgyud [txt] Глибоко прихована тантра списа (9 глав), переклад Джнянаґарбга та Вайрочана
+332 bse sgrom dmar po'i rgyud [txt] Тантра червоної броні бсе (4 глави), передана Падмасамбгава принцам і принцесам Кхрі Сронґ Лде Бцана
+333 shwa na dkar nag gi rgyud [txt] Тантра біло-чорного оленячого собаки (4 глави)
+334 rdo rje phur pa phrin las kyi 'khor lo gab pa gsang ba'i rgyud [txt] Таємна тантра прихованого колеса діяльності кіли Ваджракілаї (12 глав), переклад Ґуру Падма та Ґньяґс Джнянакумара
+335 rdo rje 'bar ba gsang ba'i rgyud chung [txt] Мала таємна тантра палаючого ваджра, переклад Джнянакумара та Вайрочана
+336 rdo rje 'bar ba'i rgyud [txt] Тантра палаючого ваджра (17 глав, 4 бампо), переклад Джнянакумара та Вайрочана, виправлена «новою мовою»
+337 phur pa gsang ba'i dgongs rgyud chen po [txt] Велика таємна тантра думки кіли (82 глави), переклад Падма Тход Пхренґ, лЦе Кукурадза та Бранті Джаяракшіта
+338 rdo rje phur pa zhe sdang yong su dag pa'i rgyud [txt] Тантра «Ваджракіла — повне очищення ненависті» (22 глави)
+339 rdo rje phur pa gsang ba gdams ngag can gyi rgyud [txt] Тантра «Ваджракіла — таємна з настановами» (18 глав)
+340 phur pa bcu gnyis 'byung ba'i rgyud chung du bstan pa [txt] Малий текст «Виникнення дванадцятикіли» (12 глав), переклад Вімаламітра та Ґньяґс Джнянакумара
+341 rdo rje phur pa bcu gnyis kyi rgyud [txt] Тантра дванадцятикіли Ваджракілаї (12 глав)
+342 rdo rje phur pa gsang ba'i rgyud [txt] Таємна тантра Ваджракілаї (44 глави), переклад лЦе Кукурадза та Бранті Джаяракшіта
+343 rdo rje phur ba gsang ba'i sngags rgyud 'byung po kun 'dul [txt] Таємна мантрна тантра кіли «Приборкання всіх духів» (16 глав), витягнута Падмасамбгава
+344 rdo rje phur pa mdung rtse dmar po'i rgyud [txt] Тантра «Ваджракіла — червоний вістря списа» (19 глав)
 
-Volume ‘A [23]
-345. Yum gzungs ma’i dngos grub chen mo’i rgyud : 53 chapitres.
-346. Ma mo srid pa’i rgyud lung gi rgyud phyi ma.
-347. Ma mo srid pa zla gsang thig le’i rgyud 12 chapitres, traduit par Guhya gang ba et ‘Brog mi dPal gyi ye shes.
-348. Ma mo lam rgyud lung : 14 chapitres, traduit par Guhya gang ba et ‘Brog mi dPal gyi ye shes.
-349. Ma mo thams cad kyi las rgyud lung zhes bya ba : 16 chapitres.
-350. Srid pa mtsho bzhi’i rgyud : 22 chapitres.
-351. [Sans titre commençant par] bcom ldan ‘das dpal kun tu bzang mo la phyag ‘tshal lo…, en 8 chapitres.
-352. Ma mo ‘dus pa’i tantra. 86 Revue d'Etudes Tibétaines
-353. [Sans titre commençant par] dPal khrag ‘thung gi rgyal po dang/ yum rigs pa’i rgyal mo la phyag ‘tshal lo, en 9 chapitres et ayant pour titre final : .
-354. Las kyi mkha’ ‘gro ma de kho na nyid gsum du ‘dus pa zhes bya ba’i rgyud : contenant le chapitre d’introduction (gleng gzhi’i le’u) et finissant par las kyi mkha’ ‘gro ma’i rgyud chen rdzogs so.
-355. Ma mo ‘bum tig gi rgyud : 48 chapitres et finissant par les mots rtsa ba’i rgyud rdzogs so.
-356. Ma mo byang chub kyi sems gsang ba’i rgyud : chapitres 49-142, commençant par les mots bcom ldan ‘das rdo rje he ru ka’i rgyal po la phyag ‘tshal lo.
-357. [Sans titre commençant par] sNgon ‘das pa’i dus ma byung ba’i sngon rol na et comptant 32 chapitres, traduit par gNubs Nam mkha’i snying po.
-358. [Sans titre commençant par] bcom ldan ‘das dpal kun tu bzang po la phyag ‘tshal lo, compant 12 chapitres et finissant par les mots byang skor gyi rgyud phyi ma rdzogs so/.
-359. Lha mo nag mo’i sngags rgyud : 11 chapitres.
-360. Lha mo nag mo’i sngags rgyud phyi ma : commençant par de nas byang chub sems dpa’ phyag na rdo rje dang… et comportant 12 chapitres.
-361. dByings gsang ba’i ‘khor lo’i rgyud : 9 chapitres.
-362. Phra men sbyan ki las kyi rgyal mo’i rgyud : 24 chapitres finissant par les mots phra men sbyang rgyal gyi rgyud rdzogs.
-363. sNying thig bskor ba’i rgyud ‘ug pa’i gdong can zhes bya ba : 20 chapitres.
-364. mKha’ ‘gro me lce ‘bar ma’i rgyud : 22 chapitres, traduit par Cog ro Klu’i rgyal mtshan.
+23) 'a [vol] Том ’А (23)
+345 yum gzungs ma'i dngos grub chen mo'i rgyud [txt] Тантра «Мати дгарні — великі сиддхі» (53 глави)
+346 ma mo srid pa'i rgyud lung gi rgyud phyi ma [txt] Пізніша пророча тантра матрік буття
+347 ma mo srid pa zla gsang thig le'i rgyud [txt] Тантра «Матрі буття — таємні краплі місяця» (12 глав), переклад Ґух’яґанґба та ’Броґмі Дпалґ’ї Єше
+348 ma mo lam rgyud lung [txt] Пророча тантра матрі шляху (14 глав), переклад Ґух’яґанґба та ’Броґмі Дпалґ’ї Єше
+349 ma mo thams cad kyi las rgyud lung zhes bya ba [txt] Пророча тантра діяльності всіх матрік (16 глав)
+350 srid pa mtsho bzhi'i rgyud [txt] Тантра буття чотирьох озер (22 глави)
+351 [починається bcom ldan 'das dpal kun tu bzang mo la phyag 'tshal lo] [txt] (8 глав)
+352 ma mo 'dus pa'i tantra [txt] Тантра зібрання матрік
+353 [починається dpal khrag 'thung gi rgyal po dang yum rigs pa'i rgyal mo la phyag 'tshal lo] [txt] (9 глав)
+354 las kyi mkha' 'gro ma de kho na nyid gsum du 'dus pa zhes bya ba'i rgyud [txt] Тантра «Дакіні діяльності — зведена в три таковості»
+355 ma mo 'bum tig gi rgyud [txt] Тантра ста тисяч матрік-крапель (48 глав, закінчується rtsa ba'i rgyud rdzogs so)
+356 ma mo byang chub kyi sems gsang ba'i rgyud [txt] Таємна тантра матрік бодхічітти (глави 49–142, починається bcom ldan 'das rdo rje he ru ka'i rgyal po la phyag 'tshal lo)
+357 [починається sngon 'das pa'i dus ma byung ba'i sngon rol na] [txt] (32 глави), переклад Ґнубс Намкхаї Ньїнґпо
+358 [починається bcom ldan 'das dpal kun tu bzang po la phyag 'tshal lo] [txt] (12 глав, закінчується byang skor gyi rgyud phyi ma rdzogs so)
+359 lha mo nag mo'i sngags rgyud [txt] Мантрна тантра чорної богині (11 глав)
+360 lha mo nag mo'i sngags rgyud phyi ma [txt] Пізніша мантрна тантра чорної богині (12 глав, починається de nas byang chub sems dpa' phyag na rdo rjes…)
+361 dbyings gsang ba'i 'khor lo'i rgyud [txt] Тантра «Таємне колесо простору» (9 глав)
+362 phra men sbyan ki las kyi rgyal mo'i rgyud [txt] Тантра «Цариця діяльності пхраменів» (24 глави, закінчується phra men sbyang rgyal gyi rgyud rdzogs)
+363 snying thig bskor ba'i rgyud 'ug pa'i gdong can zhes bya ba [txt] Тантра циклу серце-крапель «З совиного обличчям» (20 глав)
+364 mkha' 'gro me lce 'bar ma'i rgyud [txt] Тантра «Дакіні палаючого язика» (22 глави), переклад Чоґро Луї Ґ’ялцен
 
-Volume Ya [24]
-365. dPal sngags kyi srung ma e ka dza tî’i rgyud : 96 chapitres, traduit par Dhanasamskrita et ‘Brog mi dPal gyi ye shes.
-366. E ka dza tî sbas pa nag mo’i rgyud : 5 chapitres.
-367. E ka dza tî za byed sbyang rgyal nag mo’i rgyud : 32 chapitres, transmis par Devacandra à Vairocana.
-368. ‘Phags pa he sdud ‘bar ma’i rgyud : 11 chapitres.
-369. dPal lha mo nag mo’i thugs kyi srog sgrub gsang ba’i rgyud : 18 chapitres.
-370. bDud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti’i rgyud : 15 chapitres.
-371. ‘Phags pa lha mo rdo rje nag mo dbang phyug ces bya ba sngags kyi rgyud kyi rgyal po : 15 chapitres.
-372. [Sans titre commençant par] de nas byang chub sems dpa’ sems dpa’ chen po lag na rdo rjes mngon rdzogs rgyal po la ‘di skad ces et consituant le rDo rje nag mo dbang phyug ma phyi ma’i rgyud: 12 ch.
-373. Nag mo sngags kyi rgyud phyi ma’i phyi ma : 7 chapitres, ce corpus de tantra est dit provenir de Vajrâsana. La liste des Tantras du rNying ma’i rgyud ‘bum 87
-374. Lha ‘dre stong gi drwa ba’i rgyud : 53 chapitres.
-375. Srid pa’i bem dngos bstan : 40 chapitres.
-376. rJes ‘brel skabs : en 20 sections.
+24) ya [vol] Том Я (24)
+365 dpal sngags kyi srung ma e ka dza ti'i rgyud [txt] Славна мантрна тантра захисниці Екадзаті (96 глав), переклад Дганасамскріта та ’Броґмі Дпалґ’ї Єше
+366 e ka dza ti sbas pa nag mo'i rgyud [txt] Прихована чорна тантра Екадзаті (5 глав)
+367 e ka dza ti za byed sbyang rgyal nag mo'i rgyud [txt] Тантра «Екадзаті — чорна пожирачка, цариця очищення» (32 глави), передача Девачандри Вайрочані
+368 'phags pa he sdud 'bar ma'i rgyud [txt] Шляхетна тантра палаючого Геруки-збирача (11 глав)
+369 dpal lha mo nag mo'i thugs kyi srog sgrub gsang ba'i rgyud [txt] Таємна тантра «Славна чорна богиня — садгана серця життя» (18 глав)
+370 bdud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti'i rgyud [txt] Тантра «Цар визволительки — таємна купа воронячих голів демонів Кіканґ Роґті» (15 глав)
+371 'phags pa lha mo rdo rje nag mo dbang phyug ces bya ba sngags kyi rgyud kyi rgyal po [txt] Шляхетна мантрна королівська тантра «Богиня Ваджра Чорна — володарка влади» (15 глав)
+372 [починається de nas byang chub sems dpa' sems dpa' chen po lag na rdo rjes mngon rdzogs rgyal po la 'di skad ces] [txt] Пізніша тантра Ваджра Чорної Володарки (12 глав)
+373 nag mo sngags kyi rgyud phyi ma'i phyi ma [txt] Найпізніша мантрна тантра чорної (7 глав), походження з Ваджрасани
+374 lha 'dre stong gi drwa ba'i rgyud [txt] Тантра мережі тисячі богів і демонів (53 глави)
+375 srid pa'i bem dngos bstan [txt] Показ реальних речей буття (40 глав)
+376 rjes 'brel skabs [txt] Розділ зв’язків (20 частин)
 
-Volume Ra [25]
-377. dPal mgon po nag po dur khrod mngon par rol pa mtshon cha ‘khor lo’i rgyud : 36 chapitres, traduit par le brahmane gSal ba rgyan et Vasudhara.
-378. dPal mgon nag po chen po sku gsung thugs khros pa’i rgyud : 18 chapitres.
-379. dPal mgon nag po gsang ba snying gi ‘khor lo : 15 chapitres (appelés rtog pa), traduit par gNubs chen Sangs rgyas ye shes.
-380. dPal nag po chen po me lce phreng ba’i rgyud : 45 chapitres, traduit par Dhanasamskrita et Pa gor Vairocana.
-381. dPal nag po chen po’i rgyud dur khrod nag po zhes bya ba : 12 chapitres.
-382. Man ngag brtsegs pa gri gug gi rgyud dam pa ma hâ kâ la’i rgyud : 21 chapitres, transmis par rJe bstun Shântibhadra au moine Tshul khrims rgyal ba qui en fit la traduction.
-383. dPal nag po chen po drag po’i brtag pa dur khrod chen po’i rgyud : 10 chapitres, traduit et fixé par sNa nam bla ma (rDo rje bdud ‘joms).
-384. Nag po chen po las mgon bya rog dgong gi rgyud : 15 chapitres.
-385. Nag po chen po gzugs can gcer bu’i rgyud : 12 chapitres.
-386. rNal ‘byor dbang phyug chen mo ral gcig ma’i rgyud : 14 chapitres.
-387. Ral gcig ma chos kyi bdag mo spu gri ya ma’i rgyud : 25 chapitres, traduit par Dânashîla et Yang dbang gter.
+25) ra [vol] Том Ра (25)
+377 dpal mgon po nag po dur khrod mngon par rol pa mtshon cha 'khor lo'i rgyud [txt] Тантра «Славний чорний захисник — гра на цвинтарі, колесо зброї» (36 глав), переклад брамін Ґсалва Рґ’ян та Васудхара
+378 dpal mgon nag po chen po sku gsung thugs khros pa'i rgyud [txt] Тантра «Славний великий чорний захисник — гнівні тіло, мова й ум» (18 глав)
+379 dpal mgon nag po gsang ba snying gi 'khor lo [txt] Тантра «Славний чорний захисник — таємне колесо серця» (15 розділів), переклад Ґнубс Чен Санґ’є Єше
+380 dpal nag po chen po me lce phreng ba'i rgyud [txt] Тантра «Славний великий чорний — намисто язиків полум’я» (45 глав), переклад Дганасамскріта та Паґор Вайрочана
+381 dpal nag po chen po'i rgyud dur khrod nag po zhes bya ba [txt] Тантра «Славний великий чорний — чорний цвинтар» (12 глав)
+382 man ngag brtsegs pa gri gug gi rgyud dam pa ma ha ka la'i rgyud [txt] Священна тантра «Накопичені настанови — зігнутий ніж» або Махакала (21 глава), передача Джецун Шантібхадри ченцеві Тшулкхрім Ґ’ялва
+383 dpal nag po chen po drag po'i brtag pa dur khrod chen po'i rgyud [txt] Тантра «Славний великий чорний — лютий розгляд на великому цвинтарі» (10 глав), переклад та встановлення Снанам Лама (Рдо рже Бдуд ’Джомс)
+384 nag po chen po las mgon bya rog dgong gi rgyud [txt] Тантра «Чорний великий захисник діяльності — вороняча думка» (15 глав)
+385 nag po chen po gzugs can gcer bu'i rgyud [txt] Тантра «Чорний великий — оголена форма» (12 глав)
+386 rnal 'byor dbang phyug chen mo ral gcig ma'i rgyud [txt] Тантра «Велика йоґінівладариця однокоса» (14 глав)
+387 ral gcig ma chos kyi bdag mo spu gri ya ma'i rgyud [txt] Тантра «Однокоса — володарка дгарм, ніж Ями» (25 глав), переклад Данашіла та Янґ Дбанґ Ґтер
 
-* Volume A [26]
-388. De bzhin gshegs pas legs par gsung pa’i gsung rab rgya mtsho’i snying por gyur pa rig pa ‘dzin pa’i sde snod dam/ snga ‘gyur rgyud ‘bum rin po che’i rtogs pa brjod pa ‘dzam gling tha grub khyab pa’i rgyan ces bya ba : théoriquement, la version doit inclure le dKar chag de ‘Jigs med gling pa en tant que vingt-sixième volume [probablement numéroté A]. Dans l’édition xylographique du gsung ‘bum de ‘Jigs med gling pa publiée à A dzom chos gar, ce dKar chag est inclus dans le volume Pa [13]. On le retrouve également dans le volume 33 du NGB de Thimphu, ainsi que dans le volume 3 de The Collected Works of Kun-mkhyen ‘Jigs-medgling-pa dans l’édition de Gangtok (1972) qui reproduit le xylographe de sDe dge.
+26) a [vol] Том А (26)
+388 de bzhin gshegs pas legs par gsung pa'i gsung rab rgya mtsho'i snying por gyur pa rig pa 'dzin pa'i sde snod dam snga 'gyur rgyud 'bum rin po che'i rtogs pa brjod pa 'dzam gling tha grub khyab pa'i rgyan ces bya ba [txt] Зміст скарбниці стародавніх тантр Ньїнґма — «Прикраса, що повністю поширює здійснення на Джамбудвіпі», складений Кунґ’єн ’Джігмед Лінґпа (власне dkar chag 'Jigs med gling pa)
+
+2025 (c) Лонгчен Осал
+
