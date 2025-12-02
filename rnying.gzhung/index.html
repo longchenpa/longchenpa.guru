@@ -1,316 +1,61 @@
 <html>
-
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Канон</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="../index.css">
-	<style>
-		@font-face {
-			font-family: 'g';
-			src: url('../Geometria-Bold.otf');
-			font-weight: bold;
-		}
-
-		@font-face {
-			font-family: 'g';
-			src: url('../Geometria-Light.otf');
-		}
-
-		html {
-			max-width: 100%;
-		}
-
-		body {
-			font-family: g;
-			margin: 0;
-			max-width: 100%;
-			overflow-x: hidden;
-			background-image: linear-gradient( to bottom, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
-		}
-
-		header {
-			padding-top: 60px;
-			padding-bottom: 50px;
-			text-align: center;
-			max-width: 100%;
-			position: relative;
-		}
-
-		header>figure {
-			animation-duration: 0.7s;
-			animation-fill-mode: both;
-			animation-name: zoomIn;
-			/* background: #f3a469; */
-			display: inline-block;
-			vertical-align: middle;
-			padding: 30px;
-			border-radius: 70%;
-			box-shadow: inset 0 0 3px 6px rgba(100, 150, 250, 0.3),
-			0 0 1px 2px rgba(0, 150, 0, 1),
-			0 0 1px 3px rgba(150, 0, 0, 1),
-			0 0 1px 4px rgba(250, 200, 120, 1),
-			0 0 6px 13px rgba(250, 250, 250, 0.4);
-		}
-
-		header>div {
-			margin: 10px;
-			vertical-align: middle;
-			display: inline-block;
-			animation-name: fadeInDown;
-			animation-duration: 0.7s;
-			will-change: transform;
-			text-shadow: 1px 3px 8px rgba(36, 37, 38, 0.3);
-		}
-
-		header h1 {
-			text-align: left;
-			font-size: 50px;
-			color: white;
-		}
-
-		header h2 {
-			color: white;
-			font-size: 24px;
-			text-align: left;
-		}
-
-		@keyframes fadeInDown {
-			from {
-				opacity: 0;
-				transform: translate3d(0, -100%, 0);
-			}
-
-			to {
-				opacity: 1;
-				transform: none;
-			}
-		}
-
-		@keyframes fadeInLeft {
-			from {
-				opacity: 0;
-				transform: translate3d(-100%, 0, 0);
-			}
-
-			to {
-				opacity: 1;
-				transform: none;
-			}
-		}
-
-		@keyframes fadeInRight {
-			from {
-				opacity: 0;
-				transform: translate3d(100%, 0, 0);
-			}
-
-			to {
-				opacity: 1;
-				transform: none;
-			}
-		}
-
-		aside {
-			display: block;
-			text-align: center;
-			padding: 40px 0 60px;
-			max-width: 100%;
-			position: relative;
-			will-change: tranform;
-		}
-
-
-
-		.card3d:nth-child(1) {
-			animation-name: fadeInLeft;
-			animation-duration: 0.7s;
-			will-change: transform;
-		}
-
-		.card3d:nth-child(2) {
-			animation-name: zoomIn;
-			animation-duration: 0.7s;
-			will-change: transform;
-		}
-
-		.card3d:nth-child(3) {
-			animation-name: fadeInRight;
-			animation-duration: 0.7s;
-			will-change: transform;
-		}
-
-		.card3d {
-			display: inline-block;
-			margin: 0 10px 30px;
-		}
-
-		.card3d img {
-			border: 5px solid white;
-			will-change: tranform;
-			border: 1px solid rgba(250, 250, 250, 0.3);
-			border-radius: 5px;
-			transition: transform 50ms;
-			max-height: 100%;
-			max-width: 100%;
-		}
-
-		.card3d {
-			transform-style: preserve-3d;
-			perspective: 800px;
-			margin: 20px;
-			position: relative;
-			top: 10px;
-		}
-
-		.card3d-image {
-			overflow: hidden;
-			position: relative;
-			box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
-			transition: transform 50ms;
-		}
-
-		.card3d img {
-			position: relative;
-			border-radius: 5px;
-			height: 360px;
-		}
-
-		.card3d-glare {
-			display: block;
-			background-image: radial-gradient( ellipse closest-side, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, 0));
-			content: '';
-			z-index: 1;
-			position: absolute;
-			top: 0;
-			left: 0;
-			right: 0;
-			bottom: 0;
-		}
-
-		h1 {
-			margin: 0;
-			padding: 0;
-		}
-
-
-
-		main {
-			max-width: 1400px;
-			margin: auto;
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-		}
-
-		@keyframes zoomIn {
-			from {
-				opacity: 0;
-				transform: scale3d(.3, .3, .3);
-			}
-
-			50% {
-				opacity: 1;
-			}
-		}
-
-		h1 {
-			font-size: 22px;
-			text-align: center;
-		}
-
-		main a {
-			animation-duration: 0.7s;
-			animation-fill-mode: both;
-			animation-name: zoomIn;
-			will-change: trnsform;
-			display: block;
-			border-radius: 5px;
-			border: 1px solid rgba(250, 250, 250, 0.3);
-			min-width: 300px;
-			margin: 20px;
-			max-width: 370px;
-			flex: 1 0;
-			transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
-			padding: 10px 20px;
-			text-decoration: none;
-			font-size: 17px;
-			box-shadow: 0 15px 35px rgba(50, 50, 50, 0.3);
-			background: rgba(255, 255, 255, 0.15);
-			color: white;
-			text-shadow: 1px 1px 2px rgba(50, 50, 50, 0.5);
-		}
-
-		main a:hover {
-			color: #555;
-			text-shadow: none;
-			background: rgba(255, 252, 252, .9);
-			box-shadow: 0 20px 50px rgba(50, 50, 50, 0.4);
-			transition: all 0.1s cubic-bezier(0.23, 1, 0.32, 1);
-		}
-
-		footer {
-			text-align: center;
-			color: white;
-			text-align: center;
-			text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.5);
-			padding: 100px 0px 50px;
-			margin: 0 30px;
-			font-size: 17px;
-		}
-
-		footer p {
-			padding-top: 40px;
-			display: inline-block;
-			max-width: 450px;
-		}
-
-		footer a {
-			text-decoration: none;
-			color: white;
-		}
-
-		@media(max-width: 768px) {
-			header h1 {
-				text-align: center;
-				font-size: 40px;
-			}
-
-			main {
-				margin: 10px;
-			}
-
-			main a {
-				margin: 10px;
-				padding: 10px 10px;
-			}
-			header h2 {
-				font-size: 20px;
-			}
-
-			* {
-				animation-name: none !important;
-			}
-		}
-	</style>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Канон</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../index.css">
+  <link rel="stylesheet" href="../longchenpa.css">
 </head>
 
 <body>
-	<div class=header>
-		<div class=a>
-			<a href="../index.html"><img src="../A.svg" alt="" width=60></a>
-		</div>
-		<div class="header-h">
-			<h1><div class="header-h2">Канон Нінгмапи</div></h1><br>
-			<div align=left>Священні Канонічні писання загальні для всіх шкіл Тибету: переклад Слова Будди &mdash; Канжур;<br>
-                        переклад індійських трактатів &mdash; Танжур; епічні життєписи Падмасамбхави;<br>
-                        особливий канон Трьох Внутрішніх Тантр Нінгмапи &mdash; Нінгма Г'юдбум;<br>
-                        лінія пандіт Кама і лінія йогів Терма, особливо таємний Канон Сутності Серця &mdash;  Нінгтік Ябжі.</div>
-		</div>
-                <br><br><br>
-	</div>
-	<main>
+
+  <div class=header>
+    <div class=a>
+      <a href="../index.html"><img src="../A.svg" alt="" width=60></a>
+    </div>
+    <div class="header-h">
+      <h1><div class="header-h2">Канон Нінгмапи</div></h1><br>
+      <div align=left>
+
+Г'ялве Дунгдзін / Канжур / བཀའ་འགྱུར།<br>
+Маве Сенге / Тенжур / བསྟན་འགྱུར།<br>
+Дудкі Шечен / Нінгма Г'юдбум / རྙིང་མའི་རྒྱུད་འབུམ།<br>
+К'єпар Пхакпе Рігдзін / Ньєнг'ю / སྙན་བརྒྱུད།<br>
+Дзамлінг Г'єнчок / Демнгак Дзо / གདམས་ངག་རིན་པོ་ཆེའི་མཛོད།<br>
+Пема Джунгне / Нінгма Кама / རྙིང་མ་བཀའ་མ།<br>
+К'єчок Цулзанг / Йонтен Дзо / ཡོན་ཏན་མཛོད།<br>
+Ракша Тьотренг / Кор Сум / སྐོར་གསུམ་གསུམ།<br>
+Кальден Дрендзе / Дзо Дун / མཛོད་བདུན།<br>
+Дечен Г'ялпо / Нінгтік Ябжі / སྙིང་ཐིག་ཡ་བཞི།<br>
+Дзутрул Тучен / Рінчен Тердзо / རིན་ཆེན་གཏེར་མཛོད།<br>
+Дордже Дракпо Цал / Терсар Чодзо Ченмо / གཏེར་གསར་ཆོས་མཛོད་ཆེན་མོ།<br>
+
+      </div></div>
+      <br><br><br>
+  </div>
+
+  <main>
+
+<!--
+
+1 rgyal ba'i gdung 'dzin/ Г'ялве Дунгдзін / Канжур (བཀའ་འགྱུར།) Тримає всю лінію Слова Будди після парінірвани Шак'ямуні
+2 smra ba'i seng ge/ Маве Сенге / Тенжур (བསྟན་འགྱུར།) Лев Мови – переміг усіх опонентів у дебатах, символ шастрової традиції
+3 skyes mchog tshul bzang/ К'єчок Цулзанг / Йонтен Дзо (ཡོན་ཏན་མཛོད།) Втілення ідеальної дисципліни та відречення царя
+4 bdud kyi gshed chen/ Дудкі Шечен / Нінгма Г'юдбум (རྙིང་མའི་རྒྱུད་འབུམ།) Основний канон трьох внутрішніх тантр, де Падма перемагає мар і підкоряє захисників
+5 'dzam gling rgyan mchog/ Дзамлінг Г'єнчок / Демнгак Дзо (གདམས་ངག་རིན་པོ་ཆེའི་མཛོད།) Найкоштовніші настанови всіх ліній – «прикраса світу»
+6 padma 'byung gnas/ Пема Джунгне (головна форма) Нінгма Кама (རྙིང་མ་བཀའ་མ།) Безперервна лінія від самого Падмасамбхави через 1200 років
+7 khyad par 'phags pa'i rig 'dzin/ К'єпар Пхакпе Рігдзін / Ньєнг'ю (སྙན་བརྒྱུད།) Найвищі усні настанови серце-до-серця
+8 rdzu 'phrul mthu chen/ Дзутрул Тучен / Рінчен Тердзо (རིན་ཆེན་གཏེར་མཛོད།) Гігантська колекція всіх чудодійних терма-циклів
+9 rdo rje drag po rtsal/ Дордже Дракпо Цал / Терсар Чодзо Ченмо (གཏེར་གསར་ཆོས་མཛོད་ཆེན་མོ།) Найновіші та найпотужніші гнівні цикли 20–21 ст.
+10 skal ldan dren mdzad/ Кальден Дрендзе / Дзо Дун Сім Скарбниць (མཛོད་བདུན།) Провадить щасливих істот через всю систему Дзогчен
+11 rakṣa thod phreng/ Ракша Тьотренг / Кор Сум Три Трилогії (སྐོར་གསུམ་གསུམ།) Найгостріші практики Трекчо і Тогал, розбиває «черепи» ілюзій
+12 bde chen rgyal po/ Дечен Г'ялпо / Нінгтік Ябжі (སྙིང་ཐིག་ཡ་བཞི།) Цар Великого Блаженства в чистій землі Зангдок Пальрі вершина Ньїнґтік
+
+Відповідність розділів Канону Ньїнгма до 12 проявів Падмасамбхави!
+Необхідно зберігати обидва порядки.
+
+-->
 
             <a href="snga.'gyur/lha.sa/index.html">
             <h1>
@@ -330,6 +75,33 @@
             на тибетскьку, містяться в 103 томах та називаються Тенжур. Тут повністю викладені коментарі тибетських майстрів.</p>
             </a>
 
+            <a href="rgyud.'bum/index.html">
+                <h1>
+                    <div class=ti>རྙིང་མའི་རྒྱུད་འབུམ།</div>
+                    <div><b>Нінгма Г'юдбум</b></div>
+                </h1>
+                <p>Тантри Маха, Ану та Аті містяться в окремому каноні – Нінгма Г'юдбум, який вперше створив Ратна Лінгпа в 15 ст., доповнив
+                в 18 ст. Каток Геце Махапандіта, та зібране видання в 58 томах видав Алак Зенкар Рінпоче.</p><br><br>
+            </a>
+
+            <a href="snyan.brgyud/index.html">
+            <h1>
+                <div class=ti>སྙན་བརྒྱུད།</div>
+                <div>Ньєнг'ю</div>
+            </h1>
+            <p>Клас текстів усних настанов в школі Ньїнгма. Одна із семи авторитетних передач Кабадун:
+               Кама, Сатер, Янгтер, Гонгтер, Ньєнг'юд, Дакнанг, Же Дрен.
+               Сюди входить відоме Ньєнг'ю Катхока Трічен Чусум Кор, а також Кунсанг Ламей Шалунг.</p><br><br>
+            </a>
+
+            <a href="gdams.ngag/index.txt">
+            <h1>
+                <div class=ti> གདམས་ངག་རིན་པོ་ཆེའི་མཛོད།</div>
+                <div>Демнгак Дзо</div>
+            </h1>
+            <p>Скарбниць Коштовних повчань Демнгак Дзо містить тексти Падмасамбхави, Буддагупти, Джамгона Контрула, Лонгченпи, Мілінг Лочена Дхармашрі, Шамарпи.</div></p><br><br>
+            </a>
+
             <a href="rnying.ma.bka'.ma/index.html">
             <h1>
                 <div class=ti>རྙིང་མ་བཀའ་མ།</div>
@@ -340,13 +112,32 @@
             і завершено зібрання Кама в 132 томах під керівництвом Кенпо Мунсела в монастирі Катхок в наші дні.</p><br><br>
             </a>
 
-            <a href="rgyud.'bum/index.html">
-                <h1>
-                    <div class=ti>རྙིང་མའི་རྒྱུད་འབུམ།</div>
-                    <div><b>Нінгма Г'юдбум</b></div>
-                </h1>
-                <p>Тантри Маха, Ану та Аті містяться в окремому каноні – Нінгма Г'юдбум, який вперше створив Ратна Лінгпа в 15 ст., доповнив
-                в 18 ст. Каток Геце Махапандіта, та зібране видання в 58 томах видав Алак Зенкар Рінпоче.</p><br><br>
+            <a href="yon.tan.mdzod/index.html">
+            <h1>
+                <div class=ti> ཡོན་ཏན་མཛོད།</div>
+                <div>Йонтен Дзо</div>
+            </h1>
+            <p>«Скарбниця дорогоцінних якостей» – відомий трактат Джікме Лінгпи, в якому він викладає
+            весь буддійський шлях, від вчень шравака яни до Великої Довершеності. Він був написаний
+            взимку 1779-80 років.</p><br><br>
+            </a>
+
+            <a href="skor.gsum/index.html">
+            <h1>
+                <div class=ti> སྐོར་གསུམ་གསུམ།</div>
+                <div>Кор Сум</div>
+            </h1>
+            <p>Три Трилогії Кор Сум Лонгченпи — практика і реалізація Дзогчен: відпочинок у природі розуму, самозвільнення
+               всіх явищ і розсіювання темряви невідання. Пряме розпізнавання, медитація й звільнення у присутності.</p><br><br>
+            </a>
+
+            <a href="mdzod.bdun/index.html">
+            <h1>
+                <div class=ti> མཛོད་བདུན།</div>
+                <div>Дзо Дун</div>
+            </h1>
+            <p>Сім Скарбниць Дзо Дун &mdash; енциклопедія Дзогчен. Охоплюють основу, шлях і плід: філософію,
+                   медитацію, трекчо й тогал, природу розуму, Дхармадхату, настанови та погляди всіх шкіл.</div></p><br><br>
             </a>
 
             <a href="../bka'.ma/klong.chen.rab.'byams/snying.thig.ya.bzhi/index.html">
@@ -379,62 +170,13 @@
             керівництвом Кхенпо Ачука в Ячен Гарі створено збірку нових терм Терсар Чодзод Ченмо в 388 томах.</p><br><br>
             </a>
 
-
-
-	</main>
-
-	<footer>
-		<p>Тексти на цьому сайті звірені з джерелами BDRC та перекладені учнями Лонгчен Нінгтік Україна.</p>
-		<br> &nbsp;2011&mdash;2025 &copy;
-		<a href="../dgon.mdzod/'dzin.skyong.html">Гар Обширного Простору</a>
-	</footer>
-
-	<script>
-		document.addEventListener('DOMContentLoaded', e => {
-			let container = document.querySelector('header')
-
-			if (container.offsetWidth >= 768) {
-				let cards = container.querySelectorAll('.card3d')
-				cards.forEach(card => {
-					let img = card.querySelector('.card3d-image')
-					let glare = card.querySelector('.card3d-glare')
-
-					container.addEventListener('mousemove', e => {
-						let { left, right, top, bottom, height, width } = img.getBoundingClientRect()
-						let centerX = right - width / 2
-						let centerY = bottom - height / 2
-						img.style.transform = `
-					rotateX(${-15 * (e.pageY - centerY) / container.offsetHeight}deg)
-					rotateY(${25 * (e.pageX - centerX) / container.offsetWidth}deg)`
-						glare.style.transform = `
-					translateX(${-130 * e.pageX / container.offsetWidth}px)
-					translateY(${-250 * e.pageY / container.offsetHeight}px)`
-					})
-
-					let id
-					let tran = 50
-					container.addEventListener('mouseenter', e => {
-						id = setInterval(() => {
-							if (tran <= 50) {
-								clearInterval(id)
-							} else {
-								tran -= 6
-								img.style.transition = `transform ${tran}ms`
-							}
-						}, 16)
-					})
-
-					container.addEventListener('mouseleave', e => {
-						if (id) clearInterval(id)
-						tran = 500
-						img.style.transition = `transform ${tran}ms`
-						img.style.transform = ''
-					})
-				})
-			}
-		})
-	</script>
-
+  </main>
+  <footer>
+    <center>
+        <a href="https://github.com/longchenpa/longchenpa.guru/"><img src="../seal.png" width=100></a><br><br>
+        <a href="../dgon.mdzod/index.html">Лонгчен Нінгтік Україна</a>
+    </center>
+  </footer>
+  <script src="../card.js"></script>
 </body>
-
 </html>
