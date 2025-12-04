@@ -1,0 +1,1197 @@
+@#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
+
+01) 'dul ba'i sde snod las btus pa'i dge sbyong ma sogs kyi rnam thar skor/ [col] Життєписи бікшуні та інших, зібрані з розділу Вінаї
+
+01) 'dul ba'i sde snod las btus pa'i dge sbyong ma sogs kyi rnam thar skor/ (pod dang po/) [vol] Том 01
+001 dkar chag [toc] Зміст
+002 yum sgyu 'phrul chen mo la rgyal bu don kun grub pa ji ltar 'khrungs tshul gyi lo rgyus/ ('dul ba lung bzhu nas btus/) [txt] Історія народження принца Дона Кунґруба від матері Сґ’ю Пхрул Ченмо
+003 yum sgyu 'phrul chen mo'i lo rgyus dang rgyal bu don kun grub pa ji ltar 'khrungs tshul/ (rgya cher rol pa'i mdo las btus/) [txt] Життєпис матері Сґ’ю Пхрул Ченмо та історія народження принца Дона Кунґруба (зібрано з «Лалітавастара-сутри»)
+004 yum sgyu 'phrul chen mo ston pa'i ma yum du gyur dgos pa'i skye ba sngon gyi lo rgyus ngo mtshar can/ (drin lan bsab mdo las btus/) [txt] Дивовижна історія минулого життя, через яке Сґ’ю Пхрул Ченмо стала матір’ю Будди (зібрано з «Кармашатака»)
+005 btsun mo sa 'tsho ma'i yon tan dang lo rgyus/ (rgya cher rol pa'i mdo las btus/) [txt] Чесноти та історія цариці Са Тшо Ма (зібрано з «Лалітавастара-сутри»)
+006 btsun mo drug khri bden pa la bkod tshul dang sku sras dgra gcan 'dzin gyi ma yum grags 'dzin ma ston pa la chags tshul sogs kyi lo rgyus/ ('dul ba lung bzhi las btus/) [txt] Як шістдесят тисяч цариць були приведені до істини; історія кохання матері Рахули Ґраґдзінми до Будди (зібрано з «Чатурдхармака-віная»)
+007 bran mo zhig gis chos tshig gcig blor bzung nas shi bas bu mo mu tig can du skyes te sangs rgyas kyi bris sku mthong nas 'bras bu thob tshul/ ('dul ba lung bzhi las btus/) [txt] Служниця, запам’ятавши одне вчення, померла і народилась дівчинкою Му Тіґ Чан, побачила зображення Будди й досягла плоду
+008 sa ga ma'i bu sum cu rtsa gnyis rgyal po gsal rgyal gyis bsad kyang sangs rgyas kyis chos bstan nas 'bras bu thob pa'i dbang gis sa ga ma la mya ngan ma skyes pa'i tshul/ ('dul ba lung bzhi las btus/) [txt] Хоч цар Ґсал Ґ’ял убив тридцять два сини Саґами, завдяки вченню Будди вона не зазнала горя
+009 btsun mo zla 'od kyis dge slong ma ri ma'i mdun nas chos thos te lha yul du skyes nas 'bras bu thob tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Цариця Зла Од почула вчення від бікшуні Ріми, народилась у світі богів і досягла плоду
+010 btsun mo dpal ldan la gnas bstan shA ri'i bus chos bstan nas bden pa la bkod tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Шаріпутра пояснює вчення цариці Палден і приводить її до істини
+011 bu mo 'od bzang ma'i skye ba snga phyi'i rnam thar gyi skor/ ('dul ba lung phran tshegs las btus/) [txt] Минулі та майбутні життя дівчини Од Занґ Ма
+012 bram ze'i bu mo zhig bag ma 'gro ba'i lam bar nas sangs rgyas la bsod snyoms phul bas 'bras bu shing n+ya gro d+ha'i dpe la bsten nas gsungs tshul/ ('dul ba lung gzhi las btus/) [txt] Дочка браміна дарує їжу Будді по дорозі на весілля — приклад ньяґродхи
+013 mdze mo zhig gis sangs rgyas la 'bras khu lhung bzed gang phul bas dga' ldan du skyes tshul/ ('dul ba lung gzhi las btus/) [txt] Жінка, хвора на проказу, дарує Будді повну миску рису й народжується у Тушиті
+014 dbul mo grong nyug mas sangs rgyas la mar me phul ba'i lo rgyus/ ('dul ba lung gzhi las btus/) [txt] Бідна жінка з Ґронґ Нюґ дарує Будді лампаду
+015 bu mo zhig gis sangs rgyas la phul zin pa'i nas lhung bzed do gtsang mar byas te btsun mo rin po cher 'gyur bar smon lam btab tshul/ ('dul ba lung gzhi las btus/) [txt] Дівчина вимила рисову миску Будди й дала обітницю стати царицею Рінпоче
+016 rgyal po gsal rgyal gyi btsun mo gzugs mdzes pa'i mchog dbyar tshul ma dang reg bya 'jam pa'i mchog phreng ldan ma gnyis kyi lo rgyus/ ('dul ba lung phran tshegs las btus/) [txt] Дві найпрекрасніші цариці царя Ґсал Ґ’яла — Дб’яр Тшулма та Пхренґ Денма
+017 shA ri'i bu skye ba snga mar bram ze'i bu mor gyur tshul gyi lo rgyus/ ('dul ba lung phran tshegs las btus/) [txt] Історія того, як Шаріпутра у минулому житті був дочкою браміна
+018 bu mo skra can mas skra btsong ste kar sha pa Na lnga brgya'i rin gyis 'phags pa ka t+ya na la gdugs tshod phul ba'i tshul/ ('dul ba lung phran tshegs las btus/) [txt] Дівчина з довгим волоссям продала коси за п’ятсот каршапан і подарувала парасольку благородному Кат’яні
+019 bu mo sde chen ma zhes bya bas brla'i sha bcad nas byi pas dge slong zhig nad las thar ba'i tshul/ ('dul ba lung gzhi las btus/) [txt] Дівчина Сде Чен Ма відрізала м’ясо зі стегна, щоб врятувати хворого бікшу
+
+02) 'dul ba'i sde snod las btus pa'i dge sbyong ma sogs kyi rnam thar skor/ (pod gnyis pa/) [vol] Том 02
+020 dkar chag [toc] Зміст
+021 shA ri'i bu shes rab che ba'i mchog tu gyur pa'i rgyu mtshan sngon bram ze'i bu mor gyur tshe ji ltar smon lam btab tshul/ ('dul ba lung gzhi las btus/) [txt] Причина вищої мудрості Шаріпутри — обітниця, дана в минулому житті дівчинкою-брамінкою
+022 bu mo gos dkar mo zhes bya ba'i skye ba snga phyi'i skor/ (rtogs brgya pa las btus/) [txt] Минулі та майбутні життя дівчини Ґос Кармо («Біле вбрання»)
+023 bu mo rdo rje zhes bya bas sangs rgyas la gsol ba btab nas gzugs mdzes par gyur tshul/ (mdo mdzangs blun nas btus/) [txt] Дівчина на ім’я Дордже попросила Будду про красу й стала прекрасною
+024 ston pa la gdugs tshod phul bas ma 'ongs par sangs rgyas rin chen ldan du gyur tshul lung bstan pa/ (rtogs brgya pa las btus/) [txt] Дарування парасольки Вчителю — пророцтво стати в майбутньому Буддою Рінчен Ден
+025 ston pa'i dbu skra'i mchod rten la mar me phul bas ma skyes dgras bsad pa lhar skyes tshul/ ('dul ba lung gzhung las btus/) [txt] Дарування лампади ступі з волоссям Будди — убита неродженою дитиною, народилась богинею
+026 ser skya'i bu mo bzang mo dang nyan thos 'od srung chen po gnyis lo bcu gnyis lo'i bar du mnyam du bzhugs kyang 'dod pa'i nyes pas ma gos par dgra bcom pa'i go 'phangs thob tshul [txt] Дівчина Сер К’я Бзанґмо та Катьяяна дванадцять років жили разом, але не порушили чистоти й досягли архатства
+027 bu mo mdzes ldan ma rab tu byung nas 'bras bu thob ste sems can 'bum phrag du ma chos la bkod tshul/ (rtogs brgya pa las btus/) [txt] Прекрасна Мдзес Лден Ма прийняла чернецтво, досягла плоду й привела до Дгарми сотні тисяч істот
+028 bu mo mu tig rang gi khyo pho khyim bdag mgon med zas sbyin gyi bu rab sdug dang mnyams du rab tu byung tshul/ (rtogs brgya pa las btus/) [txt] Дівчина Му Тіґ разом зі своїм чоловіком, сином Анаґгапіна, прийняли чернецтво
+029 bu mo zhig gis rang gi gos phud nas ston pa la phul tshul/ (rtogs brgya pa las btus/) [txt] Дівчина відірвала шматок свого одягу й подарувала Вчителю
+030 bu mo ma ga d+hA bzang mo dang bran mo gnyis kyis rgyang ring po nas ston pa la gsol ba btab sangs tshul/ (rtogs brgya pa las btus/) [txt] Дві дівчини — Маґадга Бзанґмо та служниця — з великої відстані звернулися до Будди з молитвою
+031 bu mo 'do bzang ma 'bras bu thob ste rdzu 'phrul bstan nas sems can 'bum phrag du ma bden pa la bkod tshul/ (rtogs brgya pa las btus/) [txt] Дівчина До Занґма досягла плоду, показала чудеса й привела до істини сотні тисяч істот
+032 khyim bdag mgon med zas sbyin gyi bu mo rab sdug ma'i rnam thar/ (rtogs brgya pa las btus/) [txt] Життєпис дочки домогосподаря Анаґгапіна — Раб Сдуґма
+033 btsun mo bde bas bsnyen gnas kyi sdom pa blangs nas srin mo'i 'jigs pa las thar te phyug por gyur tshul/ (mdo mdzangs blun las btus/) [txt] Цариця Бде Ма прийняла вісім обітниць упаваси, врятувалась від ракшасі й стала багатою
+034 bu mo ras+tha zhes bya ba gzugs shin tu mi sdug pa la sangs rgyas kyi thugs rjes rjes bzung nas gzugs mdzes par gyur tshul/ (rtogs brgya pa las btus/) [txt] Потворна дівчина Растха отримала співчуття Будди й стала прекрасною
+035 bu mo bde byed ma bag mar phebs ma 'dod nas ston pa la gsol ba btab pas 'bras bu thob tshul/ (rtogs brgya pa las btus/) [txt] Дівчина Бде Б’єд Ма не захотіла заміжжя, звернулась до Будди й досягла плоду
+036 gdol ba'i bu mo gzugs bzang ma zhig kun dga' bo la chags te sangs rgyas kyis chos bstan tshul/ (stag rna'i mdo las btus/) [txt] Дівчина з нижчої касти Ґзуґс Бзанґма закохалась в Ананду — Будда дав їй вчення
+037 skra ldan ma rab tu byung nas brtson 'grus can rnams kyi mchog tu gyur tshul/ (mdo sde las brgya pa las btus/) [txt] Довговолоса дівчина прийняла чернецтво й стала найкращою серед старанних
+038 mdze mo zhig la ston pa'i mchod rten la mchod pa phul du bcug pas bu mo gser mdog ma nyid du skye ba blangs tshul/ (mdo sde las brgya pa las btus/) [txt] Хвора на проказу жінка зробила підношення ступі й народилась дівчинкою Ґсер Мдоґма
+039 ba lang rdzi mo zhig gis ston pa'i zhal mjal ba tsam gyis sems la dga' bde tshad med pa skyes nas 'bras bu thob pa'i tshul/ (mdo sde las brgya pa las btus/) [txt] Пастушка лише побачила Будду й досягла плоду від невимірної радості
+040 skye dgu'i bdag mo gau ta mI sogs shAkya mo lnga brgya bcas rab tu byung tshul gyi lo rgyus/ ('dul ba lung phran tshegs nas btus/) [txt] Володарка людей Ґаутамі та п’ятсот шак’яських дівчат прийняли чернецтво
+041 skye dgu'i bdag mo 'khor lnga brgya dang lhan du ngo mtshar ba'i rtags dang bcas te mya ngan las 'das tshul/ ('dul ba lung phran tshegs nas btus/) [txt] Ґаутамі та її п’ятсот супутниць досягли парінірвани з дивовижними знаменнями
+042 skye dgu'i bdag mos bud med rnams la chos kyi sgo mo ji ltar phyes tshul gsungs pa'i lo rgyus/ (drin lan bsam pa'i mdo las btus/) [txt] Як Ґаутамі відкрила двері Дгарми для жінок
+043 bu mo ut+pa la'i mdog can rab tu byung nas rdzu 'phrul can rnams kyi mchog tu gyur tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Дівчина кольору лотоса прийняла чернецтво й стала найкращою серед тих, хто володіють надприродними силами
+044 ston pas rdzu 'phrul gyis bu mo ut+pa la'i lang tsho'i khengs pa bcom nas thar lam la bkod tshul/ (rtogs brgya pa las btus/) [txt] Будда надприродною силою приборкав гордість юної Утпали й привів її на шлях визволення
+045 ut+pa la'i mdog can gyis rang gi lo rgyus dang sbyar nas bud med lnga brgya 'bras bu la bkod tshul/ (drin lan bsam pa'i mdo las btus/) [txt] Утпала кольору лотоса розповіла свою історію й привела п’ятсот жінок до плоду
+046 dge slong ma ut+pa la'i kha dog ma 'khor bsgyur du sprul nas rdzu 'phrul bstan pa'i lo rgyus/ ('dul ba lung phran tshegs las btus/) [txt] Бікшуні Утпала створила ілюзію зміни кольору тіла й показала чудеса
+047 dge slong ma ut+pa la'i mdog can la chom rkun pa dag dad pa skyes nas bsod snyoms dang ras yug phul ba'i lo rgyus/ ('dul ba lung rnam 'byed las btus/) [txt] Розбійники увірували в Утпалу кольору лотоса й піднесли їжу та тканину
+048 dge slong ma shes rab can dag gis dge slong dga' byed la chos kyi don rgya cher dris tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Мудрі бікшуні докладно розпитували Ананду про зміст Дгарми
+049 ut+pa la'i mdog can dgra bcom mar gyur tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Утпала кольору лотоса стала архатом
+050 skem mo go ta mi sangs rgyas dang 'phrad nas 'dul 'dzin gyi mchog tu lung bstan tshul/ ('dul ba lung phran tshegs las btus/) [txt] Суха Ґаутамі зустріла Будду й отримала пророцтво стати найкращою в дотриманні Вінаї
+051 shAkya ma lnga brgya rab tu byung nas skem mo go ta mi la bsten 'bras bu thob tshul/ ('dul ba lung phran tshegs las btus/) [txt] П’ятсот шак’яських дівчат прийняли чернецтво під проводом сухої Ґаутамі й досягли плоду
+052 bu mo chos sbyin ma rab tu byung nas chos drug gi bslab bya bslab ste 'bras bu thob tshul/ ('dul ba lung phran tshegs las btus/) [txt] Дівчина Чос Сб’їн Ма прийняла чернецтво, вивчила шість параміт й досягла плоду
+053 sangs rgyas la bu'i 'du shes mnga' ba'i bran mo ka tsang ga'i skye ba snga phyi'i skor/ (rtogs brgya pa las btus/) [txt] Минулі та майбутні життя служниці Ка Тсанґа, яка бажала сина від Будди
+054 dge slong ma sbed ma sbrum mar gyur pa'i tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Історія бікшуні Сбе Ма, яка завагітніла
+
+03) 'dul ba'i sde snod las btus pa'i dge sbyong ma sogs kyi rnam thar skor/ (pod gsum pa/) [vol] Том 03
+055 dkar chag [toc] Зміст
+056 dge slong ma chos byin mas rgyal po gsal rgyal la dbyar khang gi sa bslang zhing 'khor rnam 'bras bu la bkod tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Бікшуні Чос Сб’їн купила землю у царя Ґсал Ґ’яла для літнього притулку й привела його оточення до плоду
+057 dge slong ma 'ga' zhig la g.yon can dag gis 'dod pa spyod nas sun phyungs kyang bslab pa ma nyams pa'i gtam rgyud lnga/ ('dul ba lung gzhi las btus/) [txt] П’ять історій про бікшуні, яких ліворукі чоловіки примушували до бажання, але вони не порушили обітниць
+058 dge slong lam chung pa dang dge slong ma bcu gnyis sde dag gi skye ba snga phyi'i skor/ ('dul ba lung rnam 'byed las btus/) [txt] Минулі та майбутні життя бікшу Лам Чунґпа та дванадцяти груп бікшуні
+059 dge slong dga' byed ched du mngag nas mi rtag pa dang bdag med pa sogs kyi gdams pa bstan nas dge slong ma lnga brgya 'bras bu la bkod tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Будда доручив Ананді навчати п’ятсот бікшуні непостійності, без-я та ін., і всі досягли плоду
+060 ston pas dge slong ma rnams la gdams pa'i 'dul ba'i chos dge slong ma zla bas thugs la bzung tshul/ ('dul ba lung rphran tshegs las btus/) [txt] Бікшуні Зла Ма запам’ятала настанови Будди щодо Вінаї для бікшуні
+061 dge slong ma zhig gis dge slong dang lhan cig tu grur zugs pa'i ltung byed kyi bcas pa bsrungs tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Бікшуні разом з бікшу перепливали річку, але зберегли обітницю порушення
+062 dge slong ma zhes bya ba'i chos kyi don la mnyam par bzhags pas snam sbyar bor kyang mtshor ba'i tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Бікшуні занурилась у медитацію на сенс Дгарми й навіть кинуте на неї вбрання не торкнулось тіла
+063 dge slong ma sbom dga' mos spos tshong gi bu la ldog pas bsnun tshul/ ('dul ba lung rnam 'byed las btus/) [txt] Товста бікшуні Ґа Мо повернулася й ударила сина торговця пахощами
+064 bu mo 'dus mo bu dang khyo bo bcas rab tu byung nas bden pa mthong tshul/ (mdo sde las brgya pa las btus/) [txt] Дівчина Дус Мо разом з сином і чоловіком прийняли чернецтво й осягнули істину
+065 mo 'gal gyi bu'i skye ba snga ma rgyal po zla sbyin gyi bu mo grangs las 'das pa zhes bya ba'i lo rgyus/ (ye shes rgyas pa'i mdo las btus/) [txt] Минуле життя матері Ананди — дочка царя Зла Сб’їн на ім’я Ґранґс Лас Дас Па
+066 bu mo lha mo dri ma med pa'i 'od ces bya bas ston pa'i mdun nas ma 'ongs par bud med kyi rten gyis sangs rgyas kyi bstan pa bsrung bar smon lam btab tshul/ (dri ma med pa'i 'od kyi zhus pa las btus/) [txt] Дівчина-богиня Дрі Ма Мед Паї Од дала обітницю в майбутньому захищати вчення Будди жіночим тілом
+067 btsun mo dpal bzang dang gser mchog snang ba gnyis kyis sangs rgyas kyi bstan pa skyong bar dam bcas tshul/ (ye shes phyag rgya'i ting nge 'dzin gyi mdo las btus/) [txt] Цариці Пал Бзанґ та Ґсер Мчоґ Снанґ Ба дали обітницю захищати вчення Будди
+068 tshe dang ldan pa grags pa'i ma dang chung ma gnyis la sangs rgyas kyis chos bstan nas bden pa la bkod tshul/ (mngon par 'byung ba'i mdo las btus/) [txt] Будда дав вчення матері та молодшій сестрі Ананди й привів їх до істини
+069 lha mo dri ma med pa'i 'od ces bya bas ma 'ongs par bud med kyi gzugs kyis mu stegs pa rnams 'dul bar lung bstan pa'i tshul/ ('phags pa sprin chen po'i mdo las btus/) [txt] Богиня Дрі Ма Мед Паї Од отримала пророцтво приручати єретиків жіночим тілом
+070 blo gros bzang mos ston pa la chos bcu'i don dris te de'i bsgrub par dam bcas tshul dang bu mo des 'phags pa 'jam dpal la chos kyi dbyings las brtsams te dris lan mdzad tshul/ (dkon mchog brtsegs pa le'u sum bcu pa las btus/) [txt] Бло Ґрос Бзанґмо запитала Будду про десять дгарм і дала обітницю їх здійснити; потім запитала Манджушрі про дгарма-дхату
+071 klu'i bu mo bye ba phrag dgu bcu rtsa drug gis ston pa la mchod cing de dag lung bstan pa'i skor/ (dkon mchog brtsegs pa le'u sum bdun pa las btus/) [txt] Дев’яносто шість мільйонів дочок наґів піднесли дари Будді й отримали пророцтва
+072 bu mo dpal phreng mas ston pa'i mdun du yi dam chen po bcu bcas te smon lam btab tshul/ (dkon mchog brtsegs pa le'u zhe brgyad pa las btus/) [txt] Дівчина Пал Пхренґма перед Буддою дала десять великих обітниць
+073 bu mo rnam dag dad pa 'khor bu mo lnga brgya dang bcas pa rang rang gi lus kyi rgyan cha thams cad sangs rgyas la mchod pa'i tshul/ (dkon mchog brtsegs pa le'u bzhi bcu pa las btus/) [txt] Дівчина Рнам Даґ Дад Па разом з п’ятсот супутницями піднесли Будді всі прикраси зі своїх тіл
+074 dge bsnyen ma gang gA'i mchog ces bya bas ston pa la zab mo'i gnas lugs las brtsams te dri ba mdzad tshul/ (dkon mchog brtsegs pa le'u so gcig pa las btus/) [txt] Упосатха Ґанґа Мчоґ запитала Будду про глибоких станів
+075 bu mo mya ngan med kyis byin pas theg pa chen po'i zab mo'i gtam gyi dri ba dri lan mdzad tshul/ (dkon mchog brtsegs pa le'u so gnyis pa las btus/) [txt] Дівчина Мя Нґан Мед К’їс Б’їн запитала й відповіла про глибоку махаянську мову
+076 bu mo dri ma med kyi byin pas nyan thos brgyad dang byang chub sems dpa' brgyad la zab mo'i don gyi dri ba mdzad tshul/ (dkon mchog brtsegs pa le'u so gsum pa las btus/) [txt] Дівчина Дрі Ма Мед К’ї Б’їн запитала вісім шравак і вісім бодгісаттв про глибокий сенс
+077 btsun mo bde ldan ma zhes bya ba sangs rgyas dang 'phrad nas lung bstan pa thob tshul/ ('phags pa bde ldan ma lung bstan pa'i mdo las btus/) [txt] Цариця Бде Лден Ма зустріла Будду й отримала пророцтво
+078 bu mo zla mchog ces bya bas nyan thos dang byang chub sems dpa' rnams la zab mo'i chos kyi 'bel gtan mdzad tshul/ (zla mchog gi lung bstan pa'i mdo las btus/) [txt] Дівчина Зла Мчоґ продемонструвала шравакам і бодгісаттвам глибоку Дгарму
+
+02) mdo sde'i sde snod las btus pa'i byang chub sems ma'i rnam thar skor [col] Збірка життєписів бодгісаттв-жінок, зібраних з розділу Сутр
+
+04) mdo sde'i sde snod las btus pa'i byang chub sems ma'i rnam thar skor/ (pod bzhi pa/) [vol] Том 04
+079 dkar chag [toc] Зміст
+080 lha mo chen mo dpal zhes bya bas mtshan gyi rnam grangs brgyad rtsa brgyad kyi phan yon dang de'i rgyu rkyen bu mo de'i de bzhin gshegs pa du ma la bsnyen bkur byas pa'i tshul bstan pa [txt] Велика богиня Пал пояснює користь 108 імен та свою службу багатьом Буддам
+081 byang chub sems dpa'i bud med 'gyur ba zhes pa sangs rgyas dang mjal nas lung bstan brnyes tshul/ (bud med 'gyur ba lung bstan pa'i mdo las btus/) [txt] Бодгісаттва, що стане жінкою, зустрічає Будду й отримує пророцтво
+082 gzhon nu nor bzang gi dge ba'i bshes gnyen byang chub sems ma nyi shu'i rang rang gis mngon du brnyes pa'i skor [txt] Двадцять бодгісаттв-жінок — духовних подруг юнака Норзанґа — та їхні реалізації
+
+05) mdo sde'i sde snod las btus pa'i byang chub sems ma'i rnam thar skor/ (pod lnga pa/) [vol] Том 05
+083 dkar chag [toc] Зміст
+084 gzhon nu nor bzang gi dge ba'i bshes gnyen byang chub sems ma nyi shu'i rang rang gis mngon du brnyes pa'i skor [txt] Двадцять бодгісаттв-жінок — духовних подруг юнака Норзанґа (продовження)
+085 sman 'tshong ma'i bu mo gser mchog 'od dpal zhes pa theg pa chen po'i lam la bkod tshul/ ('jam dpal rnam par rol pa'i mdo las btus/) [txt] Дочка торговця ліками Ґсер Мчоґ Од Пал введена на шлях Махаяни
+086 bu mo rin chen sna tshogs can dang nyan thos 'od srung chen po gnyis kyis zab mo'i gtam gyi dri ba dang dri lan mdzad pa'i tshul/ (klu'i rgyal po rgya mtshos zhus pa'i mdo las btus/) [txt] Дівчина Рінчен Сна Тшоґс Чан та Махакашьяпа обмінюються глибокими питаннями-відповідями
+087 mi'am ci'i bu mo brgyad khri bzhi stong la ston pas bud med kyi lus rten las log ste skyes par gyur nas sangs rgyas pa'i chos bcu gsungs tshul/ (mi'am ci'i rgyal po sdong pos zhus pa'i mdo las btus/) [txt] Будда перетворює 84 000 якшині на чоловіків і викладає їм десять дгарм Будди
+088 lha mo mi 'chi bas ting nge 'dzin la snyoms par zhugs nas rang nyid gang du sangs rgyas pa'i zhing gi bkod pa bstan pa'i tshul/ ('phags pa dkon mchog sprin zhes bya ba'i mdo las btus/) [txt] Богиня Амітаюс входить у самадгі й показує устрій своєї чистої землі
+
+03) lha mo rnams dang rgya gar gyi mkha' 'gro ma dag gi rnam thar [col] Життєписи богинь та індійських дакіні
+
+06) lha mo rnams dang rgya gar gyi mkha' 'gro ma dag gi rnam thar/ (pod drug pa/) [vol] Том 06
+089 dkar chag [toc] Зміст
+090 sgrol ma'i rgyud kyi 'byung khungs gsal bar byed pa'i lo rgyus gser gyi phreng ba [txt] Золота гірлянда — історія походження тантр Тари
+091 rje btsun sgrol ma'i lha chos kyi lo rgyus g.yu lo bkod pa'i dga' tshal [txt] Бірюзовий сад — божественна історія Достопочтенної Тари
+092 sgrol ma'i lo rgyus [txt] Історія Тари (загальна)
+093 sgrol ma spyi'i lo rgyus [txt] Загальна історія Тари
+094 sgrol ma 'jigs pa brgyad skyob kyi lo rgyus [txt] Історія Тари, що рятує від восьми страхів
+095 lha mo nor rgyun ma'i lo rgyus [txt] Історія богині Норґ’юнма
+096 lha mo nor rgyun ma spyi'i lo rgyus [txt] Загальна історія Норґ’юнми
+097 ri khrod lo gyon ma'i lo rgyus [txt] Історія Ло Ґ’йонми з цвинтаря
+098 lha mo skul byed ma'i lo rgyus [txt] Історія богині Скул Б’єдма
+099 lha mo 'od zer can gyi lo rgyus [txt] Історія богині Од Зер Чан
+100 lo gyon ma'i lo rgyus [txt] Історія Ло Ґ’йонми
+101 dbyangs can ma'i lo rgyus [txt] Історія Сарасваті (перший текст)
+102 dbyangs can ma'i lo rgyus [txt] Історія Сарасваті (другий текст)
+103 dbyangs can ma dmar mo'i gsang sgrub kyi lo rgyus mtshon tsam [txt] Коротка історія таємної садгани червоної Сарасваті
+104 lha mo ku ru kul+le'i lo rgyus [txt] Історія богині Куруккулли (перший текст)
+105 lha mo ku ru kul+le'i lo rgyus [txt] Історія Куруккулли (другий текст)
+106 so sor 'brang ma sogs lha mo lnga'i lo rgyus [txt] Історія п’яти богинь на чолі з Сосор Дранґмою
+107 rdo rje rnal 'byor ma'i lo rgyus [txt] Історія Ваджрайоґіні
+108 rdo rje rnal 'byor ma'i rnam thar [txt] Життєпис Ваджрайоґіні
+109 rnam rgyal ma'i lo rgyus [txt] Історія Намґ’ялми
+110 dud srol ma'i lo rgyus [txt] Історія Дудсолми
+111 lha mo'i lo rgyus [txt] Історія богині (загальна)
+112 gsang ba ye shes kyi rnam thar bsdus pa [txt] Короткий життєпис Ґуґ’яджняни
+113 rdo rje phag mo'i lo rgyus bsdus pa [txt] Коротка історія Ваджраварагі
+114 rigs byed ma'i lo rgyus [txt] Історія Ріґджедми
+115 su kha sid+d+hi 'am bde dngos grub kyi lo rgyus [txt] Історія Сукхасіддгі / Бде Нґос Ґруб
+116 yid 'phrog ma'i lo rgyus/ (g.yu thog gsar rnying gi rnam thar las btus/) [txt] Історія Юд Пхроґми (зі старих і нових життєписів Ютокпи)
+117 gzugs kyi nyi ma'i rnam thar [txt] Життєпис Ґзуґс к’ї Ньїма
+118 ma gcig grub pa'i rgyal mo'i lo rgyus cung zad brjod pa ngo mtshar yid ches [txt] Дивовижна коротка історія цариці Мачіґ Ґрубпа
+119 dge slong ma dpal mo'i mdzad rnam shel dkar phreng ba [txt] Кришталева гірлянда діянь бікшуні Палмо
+120 dge slong ma dpal mo'i rnam thar bsdus pa [txt] Короткий життєпис бікшуні Палмо
+121 DA ki ma skal ba bzang mo'i lo rgyus [txt] Історія дакіні Келва Занґмо
+122 DA ki ma nu gu ma'i rnam thar [txt] Життєпис дакіні Нуґуми
+
+04) bal yul gyi mkha' 'gro ma dag gi rnam thar skor [col] Життєписи дакіні Непалу
+
+07) bal yul gyi mkha' 'gro ma dag gi rnam thar/ (pod bdun pa/) [vol] Том 07
+123 dkar chag [toc] Зміст
+124 lha lcam man+d+ha ra wa'i rnam par thar pa gu ru pad+ma'i zhal lung rin chen phreng ba [txt] Життєпис Мандарави — коштовна гірлянда усних настанов Ґуру Падми
+125 bal 'bangs kA la sid+d+hi'i lo rgyus bsdus pa [txt] Коротка історія непальської підданої Калахіддгі
+126 dam tshig sgrol ma mon mo bkra shis khye'u 'dren gyi lo rgyus bsdus pa [txt] Коротка історія непалки Тари — Бкрашіс К’є Дрен
+127 ma mA ki bal mo shAkya de bI'i lo rgyus [txt] Історія непальської дакіні Шак’ядеви
+128 bal mo bza' khri btsun gyi lo rgyus [txt] Історія непальської цариці Кхрітсун
+
+05) mo rgyud kyi chos skyong dang rgya nag gi mkha' 'gro ma dag gi rnam thar [col] Захисниці жіночих тантр та китайські дакіні
+
+08) mo rgyud kyi srung ma dang rgya nag gi bsam gtan ma'i skor/ (pod brgyad pa/) [vol] Том 08
+129 dkar chag [toc] Зміст
+130 mo rgyud kyi srung ma'i skor [txt] Захисниці жіночих тантр
+131 rgya nag yul gyi skyes chen ma dag gi rnam thar gces btus kyi skor [txt] Вибрані життєписи великих жінок-дакіні Китаю
+
+06) mkha' 'gro rgya mtsho'i rnam thar [col] Життєписи Дакіні Океану (Кхандро Ґ’ятсо)
+
+09) mkha' 'gro ma dbang sgron gyi gter ma/ (pod dgu pa/) [vol] Том 09
+132 dkar chag [toc] Зміст
+133 mkha' 'gro rgya mtsho'i rnam thar [txt] Життєпис Дакіні Океану
+
+07) ye shes mtsho rgyal gyi rnam thar skor [col] Життєписи Єше Цхоґ’ял
+
+10) btsun mo bka' thang dang ye shes mtsho rgyal rnam thar/ (pod bcu pa/) [vol] Том 10
+134 dkar chag [toc] Зміст
+135 btsun mo bka' thang [txt] Бка’ тханґ Достопочтенної (Єше Цхоґ’ял)
+136 ye shes mtsho rgyal gyi rnam thar rgyas pa [txt] Розгорнутий життєпис Єше Цхоґ’ял
+137 bka' chen gyi thim yig dang mkha' 'gro mtsho rgyal gyi skyes rabs le'u bdun pa [txt] Розчинення великого заповіту та глава сьома про минулі життя Дакіні Цхоґ’ял
+
+11) mkha' 'gro ye shes mtsho rgyal gyi rnam thar/ (pod bcu gcig pa/) [vol] Том 11
+138 dkar chag [toc] Зміст
+139 ye shes mkha' 'gro'i rnam thar bsdus pa ut+pal phreng ba [txt] Короткий життєпис Єше Кхандро — Гірлянда лотосів
+140 ye shes mtsho rgyal gyi rnam thar thos pa don ldan [txt] Життєпис Єше Цхоґ’ял, що має сенс при одному лише слуханні
+141 ye shes mtsho rgyal gyi mdzad tshul rnam thar gab pa mngon phyung dri za'i glu phreng [txt] Прихований і явлений життєпис Єше Цхоґ’ял — Пісенна гірлянда ґандгарвів
+142 ya shes mtsho rgyal gyi rnam thar rgyas par bkod pa [txt] Докладно викладений життєпис Єше Цхоґ’ял
+143 ye shes mtsho rgyal gyi rnam thar mdor bsdus sgo nas gsol ba 'debs pa mos gus gdung ba'i tam+bu ra [txt] Короткий життєпис Єше Цхоґ’ял з молитвою відданості — Тамбура, що викликає тугу
+144 ye shes mtsho rgyal gyi rnams thar ut+pal pad+ma'i phreng ba [txt] Життєпис Єше Цхоґ’ял — Гірлянда лотосів синього і рожевого лотоса
+145 ye shes mtsho rgyal gyi rnam thar don bsdus snying po [txt] Скорочений життєпис Єше Цхоґ’ял — Суть сенсу
+
+08) gangs can rig pa 'dzin ma dag gi rnam thar [col] Життєписи тибетських Рігдзінма (жінок-носіїв знання)
+
+12) lha lcam pad+ma gsal sogs kyi rnam thar/ (pod bcu gnyis pa/) [vol] Том 12
+146 dkar chag [toc] Зміст
+147 lha lcam pad+ma gsal lung bstan pa'i skor [txt] Пророцтва про Лха Лчам Падма Ґсал
+148 lha lcam pad+ma gsal gyi lo rgyus [txt] Історія Лха Лчам Падма Ґсал
+149 snang sa 'od 'bum gyi rnam thar [txt] Життєпис Снанґ Са Од Бум
+150 'gro ba bzang mo'i rnam thar [txt] Життєпис Ґро Ва Бзанґ Мо
+151 ma cig gi rnam thar mdzad pa bco lnga ma [txt] П’ятнадцята глава життєпису Мачіґ
+152 gcod kyi rnam bshad las ma cig lab kyi sgron ma'i rnam par thar pa mdor bsdus [txt] Короткий життєпис Мачіґ Лаб К’ї Сґронма з коментаря до Чод
+153 ma gcig lab kyi sgron ma'i lo rgyus [txt] Історія Мачіґ Лаб К’ї Сґронма
+
+13) gangs can rig pa 'dzin ma dag gi rnam thar/ (pod bcu gsum pa/) [vol] Том 13
+154 dkar chag [toc] Зміст
+155 a ma lab sgron gyi rnam thar lo rgyus chen mo [txt] Великий життєпис А Ма Лаб Сґрон
+156 jo mo sman mo'i lo rgyus bsdus pa [txt] Коротка історія Джо Мо Сман Мо
+157 mkha' 'gro ma kun dga' 'bum gyi lo rgyus [txt] Історія Кхандро Кун Ґа Бум
+158 jo mo nyi shu rtsa bzhi'i zhu lan lo rgyus [txt] Історія двадцяти чотирьох Джо Мо
+159 ma na ong jo'i rnam thar zur tsam [txt] Короткий життєпис Ма На Онґ Джо
+160 drin can ras ma'i rnam thar [txt] Життєпис Дрін Чен Рас Ма
+161 sprul sku jo 'bum gyi rnam thar [txt] Життєпис тулку Джо Бум
+162 jo jo bong lha rje ma'i rnam par thar pa rin po che'i phreng ba [txt] Життєпис Джо Джо Бонґ Лха Рдже Ма — Коштовна гірлянда
+163 las can bu mo me thog gsal sgron ma'i rnam thar [txt] Життєпис Лас Чен Бу Мо Ме Тхоґ Ґсал Сґрон Ма
+164 a ce rig stong rgyal mo'i rnam thar [txt] Життєпис А Че Ріґ Стонґ Рґял Мо
+165 bsod nams dpal 'dren gyi mdzad spyod phyi yi rnam thar [txt] Зовнішній життєпис Бсод Намс Дпал Дрен
+166 bsod nams dpal 'dren gyi thugs gshis nang gi rnam thar mngon shes skor [txt] Внутрішній життєпис Бсод Намс Дпал Дрен — розділ ясновидіння
+167 bsod nams dpal 'dren gyi gsung gi sbas rgya 'gyur gyi skor gsang ba'i rnam thar [txt] Таємний життєпис Бсод Намс Дпал Дрен — розділ мови
+168 bsod nams dpal 'dren gyi dag pa rang snang sun ma'i zhus lan gsal byed le'u yi skor [txt] Розділ відповідей на питання про чисті самопрояви Бсод Намс Дпал Дрен
+169 bsod nams dpal 'dren gyi de kho na nyid kyi rnam thar [txt] Життєпис сутнісної природи Бсод Намс Дпал Дрен
+170 bsod nams dpal 'dren gyi phrin las thugs rje'i nyi zer mkha' spyod du bgrod tshul [txt] Як Бсод Намс Дпал Дрен променями співчуття досягла Кхечарі
+
+14) gangs can rig pa 'dzin ma dag gi rnam thar/ (pod bcu bzhi pa/) [vol] Том 14
+171 dkar chag [toc] Зміст
+172 rje btsun rta mgrin dbang mo'i lo rgyus [txt] Історія Достопочтенної Хаяґріви-Ванґмо
+173 yum chen lha 'dzin dbyangs can sgrol ma'i rnam thar [txt] Життєпис Великої Матері Лха Дзін Дб’янґс Чен Сґрол Ма
+174 ye shes mkha' 'gro jo sgron ma'i rnam thar yon tan mngon du phyung ba yid ches yon tan gsal ba'i me long [txt] Життєпис Єше Кхандро Джо Сґрон Ма — Дзеркало, що ясно показує чесноти
+175 skal ldan phrin las dbang mo'i rnam thar gsang ba'i ye shes [txt] Таємний життєпис Скал Лдан Пхрін Лас Дбанґ Мо
+176 kun dga' 'phrin las dbang mo'i rnam thar kha skongs bde chen nyin byed gsal ba'i bdag po [txt] Доповнений життєпис Кун Ґа Пхрін Лас Дбанґ Мо — Володар ясного світла Великого Блаженства
+177 'gro la bu bzhin brtse ba'i ma thar lam khrid pa'i sa mkhan ma'am de'i rnam thar rab gsal ma [txt] Ясний життєпис Матері, що веде по шляху визволення з любов’ю матері до дитини
+178 o rgyan bu khrid kyi phyi nang gsang gsum gyi rnam par thar ba bsdus pa [txt] Короткий життєпис зовнішнього, внутрішнього та таємного Оґ’єн Бу Кхрід
+179 rdo rje phag mo'i 'khrungs rab dang skye phreng rim byon gyi mdzad rnam [txt] Народження та послідовні втілення Дордже Пхаґмо
+180 gung ru ye shes kyi mkha' 'gro ma'i rnam par thar pa pad dkar 'khri shing [txt] Життєпис дакіні Ґунґ Ру Єше — Білий лотосовий трон
+181 gung ru ye shes kyi mkha' 'gro ma'i 'khrungs rabs bshad pa [txt] Пояснення попередніх народжень дакіні Ґунґ Ру Єше
+182 mkha' 'gro chos 'dzoms sam gling bza' a khrom ma'i rnam thar [txt] Життєпис Кхандро Чос Дзомс (Самлінґ За А Кхром Ма)
+183 sprul pa'i yum chen gyi rnam thar mdor bsdus [txt] Короткий життєпис тулку Великої Матері
+184 mi 'gyur dpal gyi sgron ma'i rnam thar dad pa'i gdung sel [txt] Життєпис Мі Ґ’юр Дпал Ґ’ї Сґрон Ма — Розвіювання туги віри
+185 kun bzang chos kyi sgron ma mchog gi rnam bsdus [txt] Короткий життєпис Найвищої Кун Бзанґ Чос К’ї Сґрон Ма
+186 bde chen dbang mo'i rnam bsdus [txt] Короткий життєпис Бде Чен Дбанґ Мо
+
+15) gangs can rig pa 'dzin ma dag gi rnam thar/ (pod bco lnga pa/) [vol] Том 15
+187 dkar chag [toc Зміст
+188 yum chen kun tu bzang mo'i rnam thar zab don gter mdzod mthong ba don ldan sogs [txt] Життєпис Великої Матері Кунтузанґмо — Скарбниця глибокого сенсу та інші тексти, що мають сенс при одному лише баченні
+189 rig 'dzin chos nyid bzang mo'i rnam thar rnam mkhyen bde ster [txt] Життєпис від’янідгарині Чос Ньїд Бзанґ Мо — Дарувальниця всезнання та блаженства
+
+16) gangs can rig pa 'dzin ma dag gi rnam thar/ (pod bcu drug pa/) [vol] Том 16
+190 dkar chag [toc] Зміст
+191 lha rin chen mtsho'i rnam thar mdor bsdus [txt] Короткий життєпис Лха Рінчен Мтшо
+192 kun bzang chos sgron gyi rnam thar bsdus pa pad dkar phreng ba [txt] Короткий життєпис Кун Бзанґ Чос Сґрон — Гірлянда білих лотосів
+193 dbus mo bde ba'i rdo rje'i rnam thar chen mo'i 'jug gi kha skong nyung ngu g.yu yi phra tshom [txt] Невелике доповнення до вступу великого життєпису Дбус Мо Бде Ваї Рдо Рдже — Бірюзові нитки
+194 bde ba'i rdo rje'i 'das rjes kyi rnam thar don bsdus su bkod pa [txt] Скорочений життєпис Бде Ваї Рдо Рдже після її смерті
+195 rta mgrin lha mo'i rnam thar rags bsdus su bkod pa dad ldan yid kyi gsos sman [txt] Короткий життєпис богині Хаяґріви — Ліки для віруючого розуму
+196 rta mgrin lha mo'i lo rgyus [txt] Історія богині Хаяґріви
+197 sras mo mkha' dbyings sgrol ma'i rnam thar [txt] Життєпис дочки Мкха’ Дб’їнґс Сґрол Ма
+198 mdo tshe 'dzin dbang mo'i rnam thar [txt] Життєпис Мдо Тше Дзін Дбанґ Мо
+199 DA k+ki blo gsal sgrol ma'i rnam thar [txt] Життєпис дакіні Бло Ґсал Сґрол Ма
+200 sras mo mkha' spyod dbang mos rong btsan kha ba dkar po nas gter sbram drangs pa bcas kyi rnam bshad mdo tsam [txt] Коротке пояснення, як дочка Мкха’ Спйод Дбанґ Мо дістала терма з Бтсан Кха Ва Дкар По в Ронґу
+201 DA k+ki mkha' spyod dbang mos gter 'don lo rgyus ngo mtshar dgyes pa'i glu dbyangs [txt] Дивовижна історія виявлення терма дакіні Мкха’ Спйод Дбанґанґ Мо — Радісна пісня
+202 tA re lha mo'i rnam thar 'og min bgrod pa'i them skas [txt] Життєпис богині Тари — Сходи до Аканіштхи
+203 tA re lha mo mchog gi rnam thar mdo tsam brjod pa ngo mtshar lha yi rol mo [txt] Короткий життєпис вищої богині Тари — Дивовижна божественна мелодія
+204 sgrung pa g.yu sman ngo sprod mdor bsdus [txt] Коротке представлення оповідачки Ґ’ю Сман
+205 mu med ye shes mtsho mo'i rnam thar dad pa'i shing rta [txt] Життєпис Му Мед Єшес Мтшо Мо — Колісниця віри
+206 mu med ye shes mtsho mo'i rnam thar ma bcos dad pa'i rang mdangs [txt] Неприкрашений життєпис Му Мед Єшес Мтшо Мо — Природне світло віри
+
+09) dag snang dang 'das log gi skor [col] Чисті видіння та повернення з потойбіччя
+
+17) dag snang dang 'das log gi skor/ (pod bcu bdun pa/) [vol] Том 17
+207 dkar chag [toc] Зміст
+208 jo mo sgrol ma'i dag pa rab 'byams dkyil 'khor pho brang gzigs tshul gsang ba'i rnam thar [txt] Таємний життєпис Джо Мо Сґрол Ма — як вона побачила палац безмежної чистоти
+209 g.yu lo bkod pa'i zhing khams kyi mthong snang ut+pala'i phreng ba [txt] Видіння чистої землі Ґ’ю Ло Бкод Па — Гірлянда лотосів
+210 po tA la'i dag snang 'phrul yun sman pa'i gsos sbyin pad dkar chun po [txt] Чисте видіння Потали — Тривале чудесне зцілення білим лотосом
+211 dpal ri'i dag snang mngon snang gsal ba'i sgron me [txt] Ясне явлення чистого видіння Ґорі — Ліхтар
+212 gling bza' chos skyid bar do'i gnas su byon nas 'khor 'das kyi chos kyi rgyal po chen pos dkar nag dbye ba'i 'bras bu'i rnam thar mdor bsdus [txt] Короткий життєпис Лінґ За Чос Ск’їд після смерті в бардо
+213 karma dbang 'dzin gyi rnam thar [txt] Життєпис Карма Дбанґ Дзін
+214 sangs rgyas chos 'dzoms kyi lo rgyus rnam thar khyad par can [txt] Особливий життєпис Санґґ’є Чос Дзомс
+
+18) dag snang dang 'das log gi skor/ (pod bco brgyad pa/) [vol] Том 18
+215 dkar chag [toc] Зміст
+216 snang sa 'od 'bum ngan song gnas su byon skabs 'khor 'das chos rgyal chen pos dkar nag dbye 'byed mdzad pa'i 'bras bu'i rnam thar nas mdo tsam bsdus pa [txt] Коротко про Снанґ Са Од Бум у нижніх світах
+217 kun bzang chos kyi sgrol ma'i 'das log mthong ba don ldan kun gsal shel gyi me long [txt] Повернення Кун Бзанґ Чос К’ї Сґрол Ма з потойбіччя — Кришталеве дзеркало
+218 tshul khrims chos mtsho la stan gcig thog tu mtsho rgyal gyis cha bskur gyi bskul ma nyung bsdus mtho ris thar pa'i them skas nyid kyi mthong tshul [txt] Видіння Тшул Кхрімс Чос Мтшо
+219 skal bzang sgrol ma la ban chung bsam gtan blo gros kyis skyid sdug gi cha bskur ngu 'bro dgos shor b+hi dza hA ra [txt] Вайрочана для Скал Бзанґ Сґрол Ма
+
+10) o rgyan d+hu ma tha la'i lam yig dang sgrol ma'i rgyud dag [col] Путівники до Уддіяни Дхума Тали та тантри Тари
+19) Том 19
+220 dkar chag [toc] Зміст
+221 o rgyan d+hu ma tha la'i gnas yul gyi dkar chag rig 'dzin zhing du bgrod pa'i them skas [txt] Путівник до Уддіяни Дхума Тали — Сходи до чистої землі від’янідгар
+222 o rgyan mkha' 'gro'i gling gi lam yig thar lam bgrod pa'i them skas [txt] Путівник до острова дакіні в Уддіяні
+223 sgrol ma 'dus pa don dam pa zhes bya ba rnal 'byor ma'i rgyud [txt] Тантра йоґіні «Збір Тари — Найвищий сенс»
+224 don dam pa zhes bya ba phyi ma'i rgyud kyi rgyal po [txt] «Найвищий сенс» — пізніша тантра-цар
+225 sgrol ma 'dus pa don dam pa zhes bya ba rnal 'byor ma'i rgyud kyi rgyal po [txt] Тантра-цар йоґіні «Збір Тари — Найвищий сенс»
+226 'dus pa don dam pa las phyi ma'i rgyud kyi rgyal po [txt] Пізніша тантра-цар зі «Збору Найвищого сенсу»
+227 sgrol ma dkar mo'i tshe yi yang tig gi rgyud kyi snying po [txt] Суть тантри есенції життя Білої Тари
+
+11) mkha' 'gro'i rgyud dag [col] Тантри Дакіні
+
+20) mkha' 'gro'i rgyud dag/ (pod nyi shu pa/) [vol] Том 20
+228 dkar chag [toc] Зміст
+229 gsang ba phyag chen brda'i rgyud [txt] Таємна тантра махамудри символів
+230 brda rgyud kyi 'grel pa mar me'i 'phreng ba [txt] Коментар до тантри символів — Гірлянда лампад
+231 mkha' 'gro ma thams cad kyi gsang ba man ngag gi rgyud [txt] Таємна настановна тантра всіх дакіні
+232 brda rgyud khog don yi dam lha'i gsang mdzod [txt] Глибинний сенс тантри символів — Таємна скарбниця божеств
+233 bka' srung mkha' 'gro'i be bum [txt] Кувшин-посвята захисниць-дакіні
+234 dri med gsang ba'i sgon ma [txt] Бездоганна таємна підготовча практика
+
+12) rtogs brjod dang brda mgur gsang mdzod skor [col] Духовні пісні, символічні пісні та таємні скарбниці
+
+21) mkha' 'gro rgya mtsho'i rtogs brjod dang brda mgur gsang mdzod/ (pod nyer gcig pa/) [vol] Том 21
+235 dkar chag [toc] Зміст
+236 rig 'dzin mkha' 'gro'i rtogs pa brjod pa'i glu [txt] Пісня реалізації Від’ядгарині Кхандро
+237 zhal gdams 'od kyi snye ma [txt] Усні настанови — Промені світла
+238 thig le dag pa'i phreng ba [txt] Гірлянда чистих крапель
+239 phyag rgya chen po rin po che brda'i man ngag [txt] Настанова махамудри — символи коштовності
+240 phyag rgya chen po rdo rje'i glu [txt] Пісня махамудри Ваджри
+241 phyag rgya chen po rin po che dbang gi 'khor lo [txt] Колесо посвяти коштовної махамудри
+242 khyad par chos brda brul tsho bdun pa [txt] Особливі символічні вчення — сім груп зміїних тантр
+243 ye shes kyi mkha 'gro ma sum cu rtsa lnga'i rtogs pa brjod pa [txt] Пісня реалізації тридцяти п’яти дакіні мудрості
+244 mkha' 'gro ma'i brda mgur [txt] Символічна пісня дакіні
+245 rdo rje mkha' 'gro'i mgur [txt] Пісня Ваджра-дакіні
+246 mkha' 'gro ma'i 'byams glu [txt] Любовна пісня дакіні
+247 rnal 'byor pa thams cad kyi de kho na nyid snang ba grub pa rnams kyi rdo rje'i mgur [txt] Ваджрна пісня всіх йоґінів, що здійснили сутність
+248 rnal 'byor pho mo nyer gcig gi thugs nyams mgur du bzhengs pa las khol du phyung ba [txt] Витягнуті пісні серця двадцяти однієї йоґіні
+249 phyag chen brda'i man ngag las khol du phyung ba 'ga' [txt] Декілька витягнутих настанов махамудри символів
+250 mkha' 'gro ma'i man ngag snyan nas snyan du brgyud pa gdung ba bcad pa'i gdams pa [txt] Настанова дакіні, що передається від вуха до вуха — розсікання туги
+251 btsun mo drug gi bka' babs kyi gdams pa dang lo rgyus [txt] Настанови та історії шести цариць
+252 rnal 'byor ma chu dun mas bai ro tsa na la gdams pa [txt] Сімнадцять йоґіні дають настанови Вайрочані
+253 mkha' 'gro stong gi gsang mdzod [txt] Таємна скарбниця дакіні
+
+13) mngon spyod ma sogs kyi zhus lan skor [col] Питання-відповіді головної дакіні Мнґон Спйод Ма та інших
+
+22) mkha' 'gro'i gtso mo mngon spyod ma sogs kyi zhus lan/ (pod nyer gnyis pa/) [vol] Том 22
+254 dkar chag [toc] Зміст
+255 mkha' 'gro'i gtso mo mngon spyod ma sogs kyi gsang ba bsam gyi mi khyab pa'i zhus lan dang gdams pa'i chos tshul [txt] Непередбачувані таємні питання-відповіді та вчення головної дакіні Мнґон Спйод Ма та інших
+
+14) lha mo dang rgya gar gyi mkha' 'gro ma rnams kyi gsung chos [col] Вчення богинь та індійських дакіні
+
+23) lha mo dang rgya gar gyi mkha' 'gro ma rnams kyi gsung chos/ (pod nyer gsum pa/) [vol] Том 23
+256 dkar chag [toc] Зміст
+257 mnga' bdag myang gi zhal gdams [txt] Усні настанови Ньянґської цариці
+258 bkra shis brgyad pa [txt] Вісім благословень
+259 phag mo dbu bcad ma'i sgrub thabs [txt] Садгана Ваджраварагі з відрубаною головою
+260 sangs rgyas kyi bstod pa [txt] Прославлення Будди
+261 tshe dpag med pa'i dkyil 'khor gyi cho ga [txt] Ритуал мандали Амітаюса
+262 tshe dpag tu med pa'i sbyin sreg gi cho ga [txt] Ритуал вогняного підношення Амітаюсу
+263 rta mgrin sgrub thabs [txt] Садгана Хаяґріви
+264 tshe dang ye shes dpag tu med pa'i sgrub thabs [txt] Садгана безмежного життя та мудрості
+265 tshe dpag med pa'i dkyil 'khor gyi cho ga [txt] Ритуал мандали Амітаюса (другий)
+266 'jig rten dbang phyug gsang ba'i sgrub thabs [txt] Таємна садгана Локешвари
+267 sgyu 'phrul chen mo'i sgrub thabs [txt] Садгана Махамайї
+268 de kho na nyid gsal bar byed pa'i sgron me [txt] Ліхтар, що ясно показує сутність
+269 'phags pa 'jam dpal gyi sgrub thabs [txt] Садгана благородного Манджушрі
+270 'phags pa 'jam dpal rin po che'i cho ga [txt] Ритуал коштовного Манджушрі
+271 ngag gi dbang phyug la bstod pa [txt] Прославлення Сарасваті
+272 spyan ras gzigs dbang phyug la bstod pa [txt] Прославлення Авалокітешвари
+273 'jigs med grags pa'i bstod pa don gnyis lhun grub [txt] Прославлення Амітаюса — Самоздійснення двох цілей
+274 rigs kyi 'jig rten mgon po'i sgrub thabs kyi snang ba [txt] Явлення садгани захисника роду
+275 lhan cig skyes grub kyi gzhung 'grel [txt] Текст і коментар до сахаджа-сіддгі
+276 rdo rje theg pa'i rtsa ba'i ltung ba bcu bzhi pa'i 'grel pa [txt] Коментар до чотирнадцяти кореневих падінь Ваджраяни
+277 spyan ras gzigs dbang phyug gi bstod pa [txt] Прославлення Авалокітешвари (друге)
+278 rje btsun thugs rje chen po la bstod pa [txt] Прославлення Достопочтенного Великого Співчуття
+279 po bstod [txt] Прославлення (загальне)
+280 spyan ras gzigs dbang phyug zhal bcu gcig pa'i sgrub thabs [txt] Садгана одинадцятиликого Авалокітешвари
+281 'jig rten dbang phyug la bstod pa [txt] Прославлення Локешвари
+282 rnal 'byor ma'i sgrub thabs [txt] Садгана йоґіні
+283 gnyis su med par grub pa'i sgrub thabs [txt] Садгана недвойственного здійснення
+284 sgyu ma lam rim gyi sa bcad [txt] Ступені шляху ілюзії — план
+285 sgyu ma lam rim pa [txt] Послідовні ступені шляху ілюзії
+286 sgyu ma lam gyi rim pa'i 'grel pa [txt] Коментар до послідовних ступенів шляху ілюзії
+287 ni gu ma'i zhal gdams skor [txt] Цикл усних настанов Ніґуми
+288 bar do med par 'tshang rgya ba'i gdams pa [txt] Настанова прямого переходу без бардо
+289 nad gdon gyi gdams pa [txt] Настанова проти хвороб і злих духів
+290 mdud 'grol 'gren 'grems [txt] Розв’язування вузлів — провідник
+291 'gren 'grems rtsa sgor rlung 'don ma [txt] Провідник — витягування вітру в каналах
+292 rtsa brkyang bskum gyi gdams pa [txt] Настанова розтягування-скорочування каналів
+293 rtsa kha 'byed pa'i gdams pa [txt] Настанова відкриття отворів каналів
+294 gegs sel rdo rje'i gar [txt] Усунення перешкод — ваджрний танець
+295 gegs sel 'phrul 'khor [txt] Усунення перешкод — магічне колесо
+296 rgyud gsum dril ba'i man ngag rdo rje'i khrus [txt] Настанова згортання трьох тантр — ваджрне омивання
+297 'khor lo sdom pa myur du sgrub pa zhes ba'i thabs [txt] Швидка садгана Самвари
+298 'khor lo sdom pa'i dkyil 'khor gyi cho ga [txt] Ритуал мандали Самвари
+299 dpal 'chi med ye shes chen po [txt] Славний Великої Безсмертної Мудрості
+300 lam 'khyer gyi chos gsum [txt] Три дгарми, що беруться на шлях
+301 ni gu ma'i zhal gdams kyi skor gyi lus sbyong [txt] Очищення тіла з циклу настанов Ніґуми
+302 chos drug rdo rje'i tshig rkang [txt] Шість дгарм — ваджрні вірші
+303 chos drug tshig gsal [txt] Шість дгарм — ясні слова
+304 gzhi lam 'bras bu'i rnam bzhag [txt] Розташування основи, шляху та плоду
+305 phyag chen ga'u ma'i rdo rje'i tshig rkang [txt] Махамудра в скриньці — ваджрні вірші
+306 lam 'khyer rnam gsum gyi rdo rje'i tshig rkang [txt] Три способи взяти на шлях — ваджрні вірші
+307 sems 'chi med kyi rtsa ba [txt] Корінь безсмертного розуму
+308 rang grol phyag rgya chen po [txt] Самовизволена махамудра
+309 smon lam bka' rgya ma [txt] Молитва-печатка
+310 rdo rje phag mo gsang ba'i sgrub pa [txt] Таємна садгана Ваджраварагі
+311 gdams pa gzer gsum gyi man ngag [txt] Настанова трьох цвяхів
+312 rig 'dzin chen po pad+ma 'byung gnas la bla ma kun 'dus kyi sgo nas bstod pa [txt] Прославлення великого від’янідгари Падма Джунґне як зібрання всіх лам
+313 slob dpon pad+ma la khyad par 'phags pa lnga'i sgo nas bstod pa [txt] Прославлення вчителя Падми через п’ять виняткових якостей
+314 slob dpon pad+ma la sid+d+hi kun 'byung gi sgo nas bstod pa [txt] Прославлення вчителя Падми як джерела всіх сіддгі
+315 slob dpon pad+ma la thugs rjes 'gro ba 'dren pa'i sgo nas bstod pa [txt] Прославлення вчителя Падми як провідника істот співчуттям
+316 slob dpon pad+ma la skyon spangs yon tan gyi sgo nas bstod pa [txt] Прославлення вчителя Падми через відкинення вад і наявність чеснот
+317 slob dpon pad+ma la rtags kyi sgo nas bstod pa [txt] Прославлення вчителя Падми через знаменнями
+318 'bras bu nyi ma mun sel gyi khrid [txt] Проведення «Плоду — розсіювача темряви сонця»
+
+15) mtsho rgyal dang ma cig gi gsung chos [col] Вчення Єше Цхоґ’ял та Мачіґ Лабдрон
+
+24) mtsho rgyal dang ma cig gi gsung/ (pod nyer bzhi pa/) [vol] Том 24
+319 dkar chag [toc] Зміст
+320 mkha' 'gro ye shes mtsho rgyal gyi gsung skor [txt] Цикл промов дакіні Єше Цхоґ’ял
+321 ma gcig lab sgron gyi gsung 'bum [txt] Збірка промов Мачіґ Лабдрон
+
+16) ma cig lab sgron gyi bka' 'bum [col] Збірка священних слів Мачіґ Лабдрон
+
+25) ma cig lab sgron gyi gsung dang der 'brel chos tshan 'ga'/ (pod nyer lnga pa/) [vol] Том 25
+322 dkar chag [toc] Зміст
+323 zhal gdams thugs kyi bdud rtsi [txt] Усні настанови — нектар серця
+324 nyer bzhi rin chen sgron me [txt] Ліхтар двадцяти чотирьох коштовностей
+325 gcod yul gyi skyabs 'gro bshags pa sems bskyed gsol 'debs ring thung gsum [txt] Три короткі: притулок, сповідь, бодгічітта та молитва в практиці Чод
+326 gsol ba phur tshugs su 'debs pa sku gsum byin 'bebs ma [txt] Молитва пронизливого пхурбу — Мати благословення трьох тіл
+327 sde skor bcu bdun pa [txt] Сімнадцять розділів
+328 rtsa tshig bcu bdun pa [txt] Сімнадцять кореневих віршів
+329 shes rab kyi pha rol tu phyin pa'i man ngag yang tshoms zhus lan ma [txt] Настанова до Праджняпараміти — додаткова відповідь на питання
+330 ma 'ongs lung bstan 'ga' zhig [txt] Декілька пророцтв на майбутнє
+331 gnad gegs sel ba'i sgron ma [txt] Ліхтар усунення ключових перешкод
+332 bar do grgs sel sgron ma [txt] Ліхтар усунення перешкод у бардо
+333 zhs len gegs sem gsung gi sgron me [txt] Ліхтар мови — усунення перешкод у прийнятті вчень
+334 gsang ba thugs kyi sgron ma [txt] Таємний ліхтар серця
+335 gzhi lam du slong ba'i zhal gdams [txt] Усні настанови про введення основи на шлях
+336 ma gcig bka' 'bum gyi dkar chag gsal ba'i sgron me dngul dkar me long [txt] Зміст збірки Мачіґ — Срібне дзеркало-ліхтар ясності
+337 ma gcig bka' 'bum gyi sde tshan phyag len du 'gel ba'i go rim gsal ba'i 'khrid rim [txt] Послідовність введення розділів збірки Мачіґ у практику
+338 sems don drug pa [txt] Шість смислів розуму
+339 chos sku gcig 'char [txt] Єдине виникнення дгармакаї
+340 phung po gzan skyur [txt] Відкидання агрегатів назовні
+341 chos nyid don gyi srung ma [txt] Захисниця справжнього сенсу дгарми
+342 bla ma brgyud pa'i ngo sprod [txt] Представлення лінії лам
+343 skar chen mtheb mnan pa'i rig pa mdung tshugs kyi man ngag [txt] Настанова списа знання, що притискає велику зірку
+344 a sgom pa a bklag pa a skye med du sgom pa [txt] Медитація «А» — читання «А» — медитація на ненароджене «А»
+345 hUM gi gdams pa [txt] Настанова ХУМ
+346 phaT kyi gdams pa [txt] Настанова ПХАТ
+347 lag khrid chung ba [txt] Коротке ручне керівництво
+348 nam mkha' khong skor gyi gdams pa [txt] Настанова циклу неба
+349 nam mkha' lam 'khyer gyi gdams pa [txt] Настанова взяти небо на шлях
+350 gcod skor gsum [txt] Три цикли Чод
+351 bogs 'don gsum [txt] Три витяги сили
+352 bar do'i gdams pa gnyis [txt] Дві настанови бардо
+353 tshigs su bcad pa chen mo [txt] Великий віршований текст
+354 snyan brgyud chen mo [txt] Велика усна передача передача
+355 rtsal sbyong [txt] Тренування енергії
+356 phung po gzan du skyur ba'i man ngag zab mo [txt] Глибока настанова відкидання агрегатів
+357 gdan thog gcig ma dang gegs sel [txt] Єдина практика на килимку та усунення перешкод
+358 nam mkha' sgo 'byed [txt] Відкриття дверей неба
+359 gcod kyi gegs sel drug gsum bco brgyad [txt] Шістдесят вісім усунень перешкод у Чод
+360 gcod kyi bka' tshoms chen mo [txt] Велике зібрання слів Чод
+361 bka' tshogs kyi sa ma 'brel [txt] Зв’язок текстів зібрання
+362 snyan brgyud rin po che [txt] Коштовна усна передача
+363 gcod mdor bsdus [txt] Скорочений Чод
+364 nang rig 'khrul gcod [txt] Розсічення ілюзії внутрішнього знання
+
+26) ma cig lab sgron gyi gsung dang der 'brel chos tshan 'ga'/ (pod nyer drug pa/) [vol] Том 26
+365 dkar chag [toc] Зміст
+366 snyan brgyud kyi gdams pa gong khug ma [txt] Глибока настанова усної передачі
+367 gcod kyi lag khrid che chung [txt] Велике і мале ручне керівництво Чод
+368 gnyan sar nyal ba'i bdud gcod [txt] Чод демонів у Гньяні
+369 gsal byed rin chen 'phreng ba [txt] Гірлянда коштовностей, що прояснює
+370 bka' tshoms sum cu rtsa lnga pa [txt] Тридцять п’ять зібрань слів
+371 zhus lan che chung gnyis [txt] Великі та малі питання-відповіді
+372 gcod kyi brjod bral sdom tshig [txt] Невимовні зобов’язання Чод
+373 dbang po sgo lnga'i khrid [txt] Проведення через п’ять органів чуття
+374 ngo sprod yang khol thugs kyi nying khu [txt] Повторне представлення — суть серця
+375 gnad thebs [txt] Удар по ключовій точці
+376 thun mong gi le lag brgyad [txt] Вісім звичайних додатків
+377 bka' brgyud chen mo [txt] Велика лінія передачі слів
+378 gcod kyi lo rgyus chen mo [txt] Велика історія Чод
+379 gcod bka' brgyud kyi lo rgyus [txt] Історія лінії передачі Чод
+380 sgo 'byed bcu pa [txt] Десять відкривачів дверей
+381 gcod kyi gdams pa rin chen sgron ma [txt] Настанова Чод — Ліхтар коштовностей
+382 bla ma'i rnal 'byor thun mong ma yin pa [txt] Незвичайна йоґа гуру
+383 gcod yul gter ma'i bla ma brgyud pa [txt] Лінія лам терма Чод
+384 gcod kyi phrin las kyi rim pa [txt] Послідовність дійової практики Чод
+385 gcod thor bu'i gdams pa bzhi bcu pa [txt] Сорок розкиданих настанов Чод
+
+27) phung po gzan bskyur gyi rnam bshad/ (pod nyer bdun pa/) [vol] Том 27
+386 dkar chag [toc] Зміст
+387 lab kyi sgron ma'i rnam thar phung po gzan bskyur gyi rnam par bshad pa mkha' 'gro bye ba'i gsang lam [txt] Життєпис Лаб К’ї Сґрон Ма — пояснення практики «відкидання агрегатів назовні» як таємний шлях мільйонів дакіні
+
+17) jo mo sman mo dang kun dga' 'bum gyi gser chos [col] Золоті вчення Джо Мо Сман Мо та Кунґа Бум
+
+28) jo mo sman mo dang kun dga' 'bum gyi gser chos/ (pod nyer brgyad pa/) [vol] Том 28
+388 dkar chag [toc] Зміст
+389 jo mo sman mo'i gter chos [txt] Терма Джо Мо Сман Мо
+390 kun dga' 'bum gyi gter chos [txt] Терма Кунґа Бум
+
+18) mi 'gyur dpal sgron gyi gsung [col] Промови Міг’юр Дпалг’ї Дрон
+29) rje btsun mi 'gyur dpal sgron gyi gsung/ (pod nyer dgu pa/) [vol] Том 29
+
+391 dkar chag [toc] Зміст
+392 thugs thig ka dag gi zab khrid kyi ljags bshad zin bris su byas pa rig 'dzin zhal lung [txt] Усне пояснення глибокого проведення чистої краплі серця — Записане усне слово від’янідгари
+393 dkon mchog spyi 'dus kyi khrid yig man ngag gsal sgron snying po [txt] Проведення «Зібрання трьох коштовностей» — Суть ясного ліхтаря настанов
+394 snying thig ma bu'i khrid yig bde chen lam bzang [txt] Проведення «Серце-краплі матері й дитини» — Добрий шлях великого блаженства
+395 na rag dong sprugs kyi dbang gi cho ga mtshams sbyor gyis brgyan pa bde chen lam bzang [txt] Ритуал посвяти «Витягування з пекла» — Прикрашений проміжними практиками, добрий шлях великого блаженства
+396 bla ma drag po'i lha khrid kyi dmigs rim [txt] Етапи візуалізації гнівного гуру-божества
+397 mkha' 'gro gsang ba ye shes kyi rnal 'byor rim bzhi'i lam zab nyams su len pa'i khrid yig man ngag gsal sgron [txt] Проведення чотириступеневої йоґи таємної мудрості дакіні — Ясний ліхтар настанов
+398 rtsa ba gsum gyi gtor 'bul lag len bde khyad byed tshul [txt] Практика підношення тори трьом кореням — Легкий спосіб відмінності
+399 a ti zab don snying po'i khrid dmigs zin bris su spel ba kun bzang dgongs rgyan [txt] Записане проведення візуалізації суті глибокого сенсу Аті — Прикраса наміру Самантабгадри
+
+19) 'phrin las chos sgron sogs mkha' 'gro ma 'ga'i gsung chos [col] Вчення Пхрін Лас Чос Сґрон та інших дакіні
+30) 'phrin las chos sgron sogs mkha' 'gro ma 'ga'i gsung chos/ (pod sum bcu pa/) [vol] Том 30
+
+400 dkar chag [toc] Зміст
+401 'phrin las chos sgron gyi gsung [txt] Промови Чінла Чодрон
+402 bslab bya thar lam rab snang [txt] Ясний шлях визволення — те, чого треба навчати
+403 gzim chung ma'i zhal gdams [txt] Усні настанови молодшої дружини
+404 a phyi'i sgrub thabs [txt] Садгана Ач’ї
+405 rdo rje phag mo'i sgrub thabs dpa' mo snying thig gi bsnyen yig mkha' spyod bgrod pa'i lam bzang [txt] Садгана Ваджраварагі — Сн’їнґ Тхіґ Дпа’ Мо — Добрий шлях до Кхечарі
+406 zhal gdams mkha' 'gro'i snying khrag [txt] Усні настанови — Кров серця дакіні
+407 dpa' mo snying thig gi cha lag rab gnas mdor bsdus [txt] Коротке освячення додатків Сн’їнґ Тхіґ Дпа’ Мо
+408 mon rdzong ras chen gyi rnam par thar pa ngo mtshar nor bu'i phreng ba dad pa'i mig 'byed [txt] Життєпис Мон Дзонґ Рас Чен — Дивовижна коштовна гірлянда, що відкриває очі віри
+409 mgnon dga'i zhing skyes kyi smon lam mthong ba rang grol [txt] Молитва народження в Абгіраджді — Самовизволення при одному баченні
+410 dwangs ma rang grol gyi mkha' 'gro sku gsum lam bzang gi dbang chog dngos grub bum bzang [txt] Посвята трьох тіл дакіні Дванґ Ма Ранґрол — Добрий шлях
+411 sku gsum mkha' 'gro'i las tshogs las gshin gson rjes 'dzin thugs rje'i lcags kyu [txt] З діяльності трьох тіл дакіні — Гак для порятунку померлих
+412 khros ma nag mo'i gdangs chen gnas yul dur khrod kyi glu gar rgyal ba dgyes pa'i mchod sprin [txt] Велика гнівна Чорна — танець на цвинтарі
+413 gnas kyi mdo byang [txt] Путівник до святих місць
+414 khyung ltag gnas yig [txt] Путівник до Кх’юнґ Таґ
+415 ye shes DA ki'i brda dbyangs gsol 'debs [txt] Символічна пісня-молитва дакіні мудрості
+416 DAk+ki rta mgrin lha mo'i zhal gdams [txt] Усні настанови дакіні Хаяґріви
+417 DA ki bde ldan lha mo'i gsung nyung bsdus [txt] Короткі промови дакіні Сукхаваті
+418 phag mo'i sgrub thabs [txt] Садгана Варагі
+419 gsang sgrub nyi zla'i zer thig [txt] Таємна садгана Сонця й Місяця — Промені
+420 thugs dam tshogs kyi bskang ba [txt] Виконання зобов’язань перед захисниками
+421 gter srung phrin las bcol ba [txt] Доручення діяльності захисникам терма
+422 byin rlabs dbang gi rjes gnang [txt] Післяпосвята благословення
+423 bla ma'i rnal 'byor byin rlabs myur stsol [txt] Йоґа гуру — Швидке дарування благословення
+
+20) dbus bza' mkha' 'gro'i gter chos [col] Терма дакіні Бубза Кхандро
+
+31) dbus bza' mkha' 'gro'i gter chos/ (pod so gcig pa/) [vol] Том 31
+424 dkar chag [toc] Зміст
+425 dbus mo bde ba'i rdo rje'i rnam thar skal ldan dad pa'i mchod sdong [txt] Життєпис Бумо Дева Дордже — Ступа віри щасливих
+426 rang rnam tshigs bcad ma ku su la'i nyams byung gi gtam [txt] Автобіографія в віршах — Досвід Ку Су
+
+32) dbus bza' mkha' 'gro'i gter chos/ (pod so gnyis pa/) [vol] Том 32
+427 dkar chag [toc] Зміст
+428 ka la ping+ka'i sgra tshig mkha' 'gro'i zhal chems yang byang gab thig snying po [txt] Символічні слова Калапінґки — Заповіт дакіні
+429 DAk+ki'i gsang tshig u pa de sha dang tshan pa gsum [txt] Таємні слова дакіні — три розділи
+430 o rgyan rnam thar dri med pad+ma dkar po [txt] Життєпис Уддіяни — Чистий білий лотос
+431 zab lam bla ma'i rnal 'byor skal ldan lam grol [txt] Глибока йоґа гуру — Шлях щасливого визволення
+432 rig 'dzin 'dus pa'i gsol 'debs byin rlabs sprin phung [txt] Молитва зібрання від’янідгар — Хмара благословень
+433 rig 'dzin byin 'bebs byin rlabs char 'bebs bdud rtsi'i thig le [txt] Дарування благословення від’янідгар — Крапля нектару
+434 rig 'dzin 'dus pa'i sgrub thabs yid bzhin nor bu shin tu zab pa'i man ngag [txt] Садгана зібрання від’янідгар — Глибока настанова коштовності бажань
+435 'dzab bskul gsol 'debs dngos grub bum bzang [txt] Молитва-спонукання мантри — Добрий кувшин здійснень
+436 rig 'dzin bla ma'i don bskang dngos grub snye ma [txt] Виконання зобов’язань перед гуру від’янідгар
+437 rig 'dzin 'dus pa'i brgyud 'debs byin rlabs dpal phreng [txt] Лінія молитви зібрання від’янідгар
+438 rig dzin 'dus pa'i nang sgrub rin chen dbang gi rgyal po [txt] Внутрішня садгана зібрання — Цар влади коштовностей
+439 thun mtshams mchod bstod [txt] Підношення та прославлення в сесіях
+440 tshogs mchod rig 'dzin dgyes skong dngos grub myur thob spros med rgyun khyer [txt] Ганачакра зібрання від’янідгар — Швидке здійснення без ускладнень
+441 gu ru'i gsang sgrub rdo rje rgya can shin tu zab pa mkha' 'gro'i thugs bcud zab pa'i mthar thug [txt] Таємна садгана гуру з ваджрною печаттю — Найглибше серце дакіні
+442 rig 'dzin 'dus pa'i cha lag bdud rtsi sgrub thabs mdor bsdus snying po dpa' bo gcig sgrub [txt] Додаток – Садгана нектару здійснення одного героя
+443 rig 'dzin byin rlabs sprin phung [txt] Хмара благословень від’янідгар
+444 tshe sgrub bsdus pa yang gsang snying po [txt] Скорочена садгана довголіття — Таємна суть
+445 smin byed dbang gi sta gon smin grol lam bzang [txt] Посвята дозрівання — Добрий шлях визволення
+446 zab gter dbang gi lhan thabs dbang bzhi'i chu rgyun [txt] Додаткові чотири посвяти глибокого терма
+447 rig 'dzin 'dus pa'i dbang chog ye shes drwa ba byin rlabs char 'bebs [txt] Посвята зібрання від’янідгар — Мережа мудрості
+448 don dbang 'brel tshad rang grol gab pa mngon phyungs [txt] Посвята сенсу – Самовизволення при правильному зв’язку
+449 lha dbang don bsdus DAk+kis mngon sum du gsungs pa shin tu zab pa'i mthar thug [txt] Скорочена посвята божеств – Найглибше
+450 rtsa gsum dril sgrub dngos grub mchog ster rdo rje'i rgyan can mkha' 'gro'i thugs bcud shin tu zab pa [txt] Згортання трьох коренів – Найвище дарування здійснень
+451 rtsa gsum tshogs mchod dngos grub mchog brnyes [txt] Ганачакра трьох коренів – Найвище здійснення
+452 'gro 'dul 'phags pa'i gsol 'debs byin rlabs dpal ster [txt] Молитва приборкання істот Арією
+453 bskyed rdzogs las rim rnal 'byor 'jug pa'i cho ga dngos grub 'byung gnas [txt] Ритуал входження в йоґу стадій виникнення та завершення
+454 'gro 'dul 'phags pa'i rtsa sgrub byang chub lam bzang dngos grub snye ma [txt] Коренева садгана приборкання істот Арією
+455 cho ga kun gyi cha lag las rim pa bdun pa [txt] Сім етапів дій – додаток до всіх ритуалів
+456 'gro 'dul 'phags pa'i bskang bshags zab mo [txt] Глибоке виконання та сповідь Арії приборкання істот
+457 'gro 'dul 'phags pa'i me mchod las bzhi lhun grub [txt] Вогняне підношення Арії – Самоздійснення чотирьох діяльностей
+458 'gro 'dul 'phags pa'i zhal sgrub rgyun khyer zab mo [txt] Щоденна садгана обличчя Арії
+459 'phags pa'i zhal sgrub dngos grub snye ma [txt] Садгана обличчя Арії – Швидке здійснення
+460 'gro 'dul 'phags pa'i rtsa dbang ye shes snang byed [txt] Коренева посвята Арії – Ясність мудрості
+461 'gro 'dul 'phags pa'i dbang gi cha lag gab thig [txt] Додаток до посвячення Арії – Прихована крапля
+462 dbang chen brgyud pa'i gsol 'debs yid bzhin nor bu [txt] Молитва лінії великої посвяти – Коштовність бажань
+463 dbang chen zab gnad sngon 'gro'i 'jug chos [txt] Вступ до ключових моментів великої посвяти
+464 pad+ma dbang gi sgrub thabs khams gsum rnam rgyal 'dod dgu'i gter mdzod shin tu zab pa rat+na'i rgya can [txt] Садгана Падма-Ванґ – Найглибша скарбниця дев’яти бажань
+465 dbang chen pad+ma he ru ka'i don bskang yid bzhin sprin phung [txt] Виконання зобов’язань перед Падма Херукою
+466 dbang chen rtsa sgrub ye shes rab 'bar [txt] Коренева садгана великої посвяти – Полум’я мудрості
+467 dbang chen sgrub thabs rgyun khyer zab mo [txt] Щоденна садгана великої посвяти
+468 dbang chen drag po'i bskul ba rdo rje'i thog mda' [txt] Гнівне спонукання великої посвяти – Ваджрна блискавка
+469 dbang chen pad+ma he ru ka'i drag sgrub pha rol dpung 'joms [txt] Гнівна садгана Падма Херуки – Розгром ворожих сил
+470 dbang chen pad+ma he ru ka'i cha lag drag po'i las kyi sbyor ba [txt] Додаток – гнівні дії Падма Херуки
+471 dbang chen pad+ma drag po'i gtor bzlog bsdus pa [txt] Скорочений відбій тори гнівного Падми
+472 yi dma dbang chen yab yum gyi rtsa dbang byin rlabs gter mdzod [txt] Коренева посвята батько-мати великої посвяти
+473 rje btsun 'phags ma'i gsol 'debs byin rlabs dpal ster [txt] Молитва до Достопочтенної Арії
+474 rje btsun 'phags ma'i sgrub thabs byin rlabs dpal ster [txt] Садгана Достопочтенної Арії
+475 rje btsun 'phags ma'i rje gnang gter gyi bum bzang [txt] Дозвіл-посвята Арії з терма
+476 mkha' 'gro'i gsol 'debs zab mo [txt] Глибока молитва до дакіні
+477 rdo rje phag mo'i sgrub thabs rdo rje'i rgya can shin tu zab pa [txt] Садгана Ваджраварагі з ваджрною печаттю
+478 ye shes mkha' 'gro'i bskang ba byin rlabs dbyig 'thob mos pa'i do shal [txt] Виконання зобов’язань перед дакіні мудрості
+479 ye shes mkha' 'gro'i bskang ba bsdus pa tshangs pa'i sgra dbyangs [txt] Скорочене виконання – Голос Брагми
+480 ye shes mkha' 'gro'i nang sgrub zab mo rgyun khyer gsang ba'i rgya can shin tu zab pa [txt] Внутрішня садгана дакіні мудрості – Найглибше з печаттю
+481 mkha' 'gro'i tshogs mchod ye shes sprin phung spros med rgyun khyer [txt] Ганачакра дакіні – Хмара мудрості без ускладнень
+482 rdo rje phag mo'i gsang sgrub pad+ma'i rgya can yang zab snying po gcig dril [txt] Таємна садгана Ваджраварагі – Єдина суть з лотосовою печаттю
+483 yang gsang mkha' 'gro'i rtsa sgrub bsdus pa rgyun khyer 'od gsal snying po [txt] Скорочена коренева садгана вищої таємної дакіні
+484 mkha' 'gro'i gsang sgrub rgyun khyer zab pa'i snying po [txt] Суть щоденної таємної садгани дакіні
+485 gsang ba ye shes ma'i gsol 'debs dbang gi chu bo [txt] Молитва до таємної мудрості-дакіні – Ріка посвяти
+486 yang gsang mkha' 'gro'i srog sgrub gsang ba'i rgya can [txt] Життєва садгана вищої таємної дакіні
+487 rdo rje phag mo'i las tshogs khams gsum dbang sdud yid bzhin nor bu [txt] Діяльність Ваджраварагі – Підкорення трьох світів
+488 srid 'phel 'khor lo 'dod 'byung dbang rgyal [txt] Колесо зростання буття – Володар бажань
+489 rdo rje phag mo'i bla rdo srog gi 'khor lo zab rgya can [txt] Колесо життя-камінь Ваджраварагі
+490 ye shes mkha' 'gro'i me mchod dngos grub chu gter [txt] Вогняне підношення дакіні мудрості – Ріка здійснень
+491 phag mo'i cha lag myur mdzad dbang mo'i sgrub thabs rat+na'i rgya can [txt] Додаток – швидка садгана Володарки Влади
+492 rje btsun ma'i bstod pa bsdus pa dngos grub nor gter [txt] Скорочене прославлення Достопочтенної – Скарбниця здійснень
+493 dbyings yum rnal 'byor dbang mo'i 'byung lus 'khrul zhig gi gdams pa shog dril gcig pa las khol phyungs man ngag sgyu lus lhar ldang [txt] Настанова про ілюзорне тіло з елементу
+494 rdo rje phag mo'i smin byed gsang ba'i dbang bzhi thun min nges don mkha' 'gro'i thugs bcud ye shes bdud rtsi'i sprin phung zab rgya can [txt] Посвята дозрівання Ваджраварагі – Чотири незвичайні посвяти
+495 rig 'dus tshogs mchod kyi 'don 'grigs gsal bar bkod pa [txt] Чітко складений текст ганачакри зібрання від’янідгар
+
+33) dbus bza' mkha' 'gro'i gter chos/ (pod so gsum pa/) [vol] Том 33
+496 dkar chag [toc] Зміст
+497 rdo rje phag mo'i zab rgyud [txt] Глибока тантра Ваджраварагі
+498 phag mo'i rdzogs rim gsang ba thugs kyi rgya can shin tu zab pa mkha' spyod bgrod pa'i myur lam don gyi snying po zab pa'i mthar thug 'od gsal mngon gyur [txt] Ступінь завершення Варагі – таємна печатка серця, найглибший швидкий шлях до Кхечарі, кінцева суть ясного світла
+499 yang gsang bla med sngags kyi lam mchog phyag rgya gnyis ldan mkha' 'gro'i thugs bcud sbas pa mngon bstan zab lam snying po [txt] Вища таємниця безвершинної мантраяни – подвійна мудра, приховане та явлене серце дакіні, суть глибокого шляху
+500 sbyor sgrol dgongs pa'i zab gnad [txt] Глибокі ключові пункти наміру об’єднання-визволення
+501 rdzogs chen mtha' grol klong yangs kyi dgongs pa 'od gsal sgron me [txt] Намір Дзоґчен – визволення меж, простір безмежності, ясне світло-ліхтар
+502 myur lam thod rgal gyi gdams pa 'ja' lus mngon grub [txt] Настанова швидкого шляху тходґал – здійснення райдужного тіла
+503 'od gsal don gyi snying po nam mkha' klong yangs [txt] Суть сенсу ясного світла – безмежний простір неба
+504 thod rgal 'ja' lus mngon grub kyi pra khrid sangs rgyas mnyam sbyor 'od gsal snying po [txt] Практичне проведення тходґал райдужного тіла – суть ясного злиття з буддами, суть ясного світла
+505 ye shes mkha' 'gro'i gsol 'debs rmongs pa kun sel shes rab gsal byed [txt] Молитва до дакіні мудрості – розсіює всю темряву невідання, прояснює мудрість
+506 brgyud pa'i gsol 'debs bsdus pa [txt] Скорочена молитва лінії
+507 mkha' 'gro sgrub pa'i cha lag sngon 'gro'i las rim dngos grub sgo 'byed [txt] Попередні практики садгани дакіні – відкривач дверей здійснення
+508 ye shes mkha' 'gro'i bla rdo srog gi 'khor lo dngos grub bum bzang [txt] Колесо життя-камінь дакіні мудрості – добрий кувшин здійснень
+509 DAk+ki mtsho rgyal gyi bla rdo gsang ba'i rgya can dngos grub gter bum [txt] Камінь життя дакіні Цхоґ’ял – таємна печатка, скарбниця здійснень
+510 ye shes mkha' 'gro'i sgrub thabs dngos grub dpal ster [txt] Садгана дакіні мудрості – славне дарування здійснень
+511 ye shes mkha' 'gro'i gsang sgrub rgyun khyer snying po [txt] Щоденна таємна садгана дакіні мудрості – суть
+512 mkha' 'gro'i tshogs mchod kun bzang dgyes skong dngos grub char 'bebs [txt] Ганачакра дакіні – дощ здійснень, що тішить Самантабгадру
+513 mkha' 'gro'i me mchod gsang ba'i rgya can [txt] Вогняне підношення дакіні – з таємною печаттю
+514 ye shes mkha' 'gro'i sgrub thabs byin rlabs myur 'thob shin tu zab pa'i rgya can [txt] Садгана дакіні мудрості – швидке отримання благословення, найглибше з печаттю
+516 DAk+ki'i tshogs mchod rgyun khyer snying po [txt] Щоденна ганачакра дакіні – суть
+517 ye shes mkha' 'gro'i sgrub thabs yang bcud snying po dpa' bo dgyes pa'i mgul rgyan shin tu zab pa [txt] Садгана дакіні мудрості – намисто, що тішить героїв, найглибше
+518 bde chen mtsho rgyal ma'i gsang dbang skal ldan rjes 'dzin 'dod 'jo'i bum bzang [txt] Таємна посвята Великого Блаженства Цхоґ’ял Ма – добрий кувшин для щасливих послідовників
+519 gnad kyi yig chung bsdus pa [txt] Скорочений текст ключовий текст
+520 cho ga spyi'i mtshams sbyor dngos grub bum bzang [txt] Загальні проміжні практики ритуалів – добрий кувшин здійснень
+521 rtsa gsum spyi'i dkar gtor 'dod dgu kun 'byung dang sngon 'gro'i 'jug sgo zab mo [txt] Загальний білий тор трьох коренів – джерело дев’яти бажань та глибокий вступ
+522 spyi gces sngon 'gro 'i 'jig sgo zab mo [txt] Загальний вступ – глибокі двері
+523 rtsa gsum spyi gces mchod rdzas byin rlabs bsdus pa [txt] Скорочене благословення підношень трьох коренів
+524 gnam phud bdud rtsi kun khyab [txt] Перший дар неба – нектар, що пронизує все
+525 sa chog dang las gang byed kyi kyi sngon 'gro [txt] Попередні практики ритуалу землі та будь-якої діяльності
+526 rnam rgyal bum pa sgrub thabs bdud rtsi'i zil ma [txt] Садгана переможної вази – краплі нектару
+527 bdag dbang ye shes sgo 'byed [txt] Відкриття дверей самовлади мудрості
+528 sngon 'gro'i spyi gces gab pa mngon phyungs [txt] Загальний вступ – явлення прихованого
+529 zab mchos spyi la gces pa'i bsnyen sgrub yan lag bzhi'i dmigs rim dngos grub snye ma [txt] Чотири допоміжні візуалізації для наближення-здійснення глибоких практик
+530 rtsa gsum spyi'i dbang bzhi rgyal thabs spyi blugs mdzes pa'i do shal don dbang 'brel tshad don ldan mkha' 'gro'i thugs bcud zab pa'i snying po [txt] Чотири посвяти трьох коренів – прекрасний метод, суть серця дакіні
+531 rtsa gsum spyi'i me mchod las bzhi lhun 'grub rin chen bang mdzod [txt] Вогняне підношення трьох коренів – самовдійснення чотирьох діяльностей, скарбниця коштовностей
+532 rtsa gsum spyi gces las bzhi'i thig yig a dar+sha [txt] Краплинний текст чотирьох діяльностей трьох коренів – Адарша
+533 rtsa gsum spyi gces dngos grub len chog 'dod dgu'i char 'bebs [txt] Практика взяття здійснень трьох коренів – дощ дев’яти бажань
+534 bi ma mi tra'i zhal gzigs 'jam dpal dbyangs kyi sgrub thabs zab rgya can [txt] Садгана Манджушрі, явленого Вімамітрою – з глибокою печаттю
+535 'jam dpal dbyangs kyi sgrub thabs shes rab nyi ma [txt] Садгана Манджушрі – Сонце мудрості
+536 'jam dbyangs sgrub thabs a ti'i lugs spros med rgyun khyer [txt] Садгана Манджушрі в стилі Аті – щоденна без ускладнень
+537 'jam dpal mngon rtogs bsdus pa [txt] Скорочена садгана явлення Манджушрі
+538 'jam dpal rtsa sgrub bsdus pa shes rab blo 'phel [txt] Скорочена коренева садгана Манджушрі – зростання мудрості
+539 rgyun khyer tshogs mchod bsdus pa [txt] Скорочена щоденна ганачакра
+540 gtor 'bul dngos grub bum bzang [txt] Підношення тори – добрий кувшин здійснень
+541 rigs gcig rdo rje sems dpa'i bsgom bzlas bsdus pa ye shes lam bzang [txt] Скорочена медитація-мантрове повторення єдиного роду Ваджрасаттви – добрий шлях мудрості
+542 gu ru'i sgrub pa byin rlabs bum bzang [txt] Садгана гуру – добрий кувшин благословень
+543 grod lod sgrub thabs byin rlabs mchog ster zab mo [txt] Садгана гнівного гуру – найвище дарування благословень, глибока
+545 yi dam rdo rje gzhon nu'i gsang sgrub zab mo [txt] Таємна садгана юного Ваджри – божество
+546 rnal 'byor lam 'khyer ku sA li'i tshogs bsags [txt] Ганачакра Ку Салі для взяття на шлях
+547 dbang sdud zil gnon zab mo [txt] Глибоке підкорення влади
+548 myur lam 'pho ba'i gdams pa bde chen lam bzang [txt] Настанова швидкого перенесення свідомості – добрий шлях великого блаженства
+549 'pho ba'i gsol 'debs thugs rje'i lcags kyu [txt] Молитва перенесення – гак співчуття
+550 bla ma'i rnal 'byor byin rlabs myur 'jug bdud rtsi'i thigs pa smin grol lam bzang [txt] Йоґа гуру – швидке входження благословення, крапля нектару дозрівання-визволення
+551 gsol 'debs bsam pa lhun grub ma [txt] Молитва самовдійснення бажань
+552 bla ma rgyang 'bod byin rlabs bcud bum [txt] Далеке закликання гуру – кувшин суті благословення
+553 ye shes DAk+ki'i gsol 'debs byin rlabs sprin phung [txt] Молитва до дакіні мудрості – хмара благословень
+554 myur lam thod rgal gyi zin bris don gsal snying gi me long [txt] Записане проведення швидкого шляху тходґал – дзеркало серця
+555 chab shog kyi skor [txt] Цикл паперових записок
+556 brda don 'brel ba rdo rje'i gad mo [txt] Зв’язок символів – ваджрний сміх
+557 rnal 'byor nyams kyis bslangs pa'i mtshar glu [txt] Дивовижна пісня, викликана досвідом йоґи
+558 bar do'i mthong snang nges 'byung gsal sgron [txt] Ліхтар ясного світла в бардо – неминуче явлення
+559 angs mdog dpal ri'i smon lam bsdus pa thugs rje'i lcags kyu [txt] Скорочена молитва до Ґорі – гак співчуття
+560 mkha' spyod zhing bgrod smon lam byang chub lam bzang thar pa'i sgo 'byed zab mo [txt] Молитва молитва переходу до Кхечарі – глибокі двері визволення
+561 smon lam dpag bsam rgyas pa yid bzhin dpal ster [txt] Розширена молитва – славне дарування бажань
+562 rdzogs chen gsang lam smon lam kun bzang thugs thig [txt] Молитва таємного шляху Дзоґчен – крапля серця Самантабгадри
+563 seng chen nor bu dgra 'dul gyi gsol 'debs byin rlabs 'od dkar [txt] Молитва до Великого Лева – біле світло благословення
+564 dregs pa rnam gsum gyi gsol bskul bsdus pa phrin las dngos grub kun 'byung [txt] Скорочене спонукання трьох класів дреґпа – джерело всіх здійснень діяльності
+565 bka' srung srog gi spu gri'i rtsa sgrub phrin las myur mgyogs [txt] Коренева садгана меча життя захисників вчення – швидка діяльність
+566 gnod sbyin srog bdag chen po'i gsol mchod bdud las rnam rgyal phrin las myur 'grub [txt] Підношення великому володареві якшів – швидке здійснення діяльності
+567 dregs pa yongs 'dus za ngu dgra bo 'phung byed gnam lcags thog mda' zab mo [txt] Глибока небесна залізна блискавка для всіх дреґпа
+568 sa skyong lha reg gnyan rtse'i gsol mchod 'dod dgu'i dpal ster [txt] Підношення захисникам землі – славне дарування дев’яти бажань
+569 srung ma spyi la gces pa'i phrin bcol dpag bsam snye ma [txt] Доручення діяльності загальним захисникам – швидке здійснення
+570 gter srung lha rabs gnyan po g.yul rgyal gyi gsol mchod phrin las lhun grub [txt] Підношення захисникам терма – самовдійснення діяльності
+571 klu bsang 'dod dgu'i dpal ster ba [txt] Підношення наґам – славне дарування дев’яти бажань
+
+34) dbus bza' mkha' 'gro'i gter chos/ (pod so bzhi pa/) [vol] Том 34
+572 dkar chag [toc] Зміст
+573 phur sgrub bdud las rnam rgyal gyi cha lag gsol 'debs byin rlabs dpal ster [txt] Додаток до садгани Пхурби «Повна перемога над демонами» – молитва благословення
+574 phur sgrub bdud las rnam rgyal mtsho rgyal thugs bcud [txt] Серцева суть Цхоґ’ял у садгані Пхурби «Повна перемога над демонами»
+575 phur sgrub bdud las rnam rgyal gyi rtsa sgrub bar chad kun sel dngos grub bum bzang [txt] Коренева садгана Пхурби «Повна перемога» – усуває всі перешкоди
+576 tshogs mchod rgyun khyer tshogs gnyis mthar phyin [txt] Щоденна ганачакра – завершення двох нагромаджень
+577 phur sgrub bdud las rnam rgyal gyi tshogs mchod ye shes sprin phung [txt] Ганачакра садгани Пхурби – хмара мудрості
+578 phur sgrub bdud las rnam rgyal gyi cha lag bskang ba shel gyi me long [txt] Доповнення – виконання зобов’язань садгани Пхурби
+579 tshogs mchod bsdus pa bsod nams chu gter [txt] Скорочена ганачакра – океан заслуг
+580 me tshogs gtong ba dngos grub lcags kyu [txt] Вогняне підношення – залізний гак здійснення
+581 phur sgrub zab mo drag bskul ye shes me phreng [txt] Глибоке гнівне спонукання садгани Пхурби – гірлянда полум’я мудрості
+582 phur sgrub bdud las rnam rgyal gyi drag sgrub zab mo [txt] Гнівна садгана Пхурби «Повна перемога» – глибока
+583 phur pa drag sgrub kyi cha lag sngon 'gro [txt Попередні практики гнівної садгани Пхурби
+584 phur pa'i drag bzlog spu gri'i 'khor lo [txt] Колесо кинджала-відбивача гнівного Пхурби
+585 phur sgrub bdud las rnam rgyal gyi rtsa dbang dngos grub snye ma [txt] Коренева посвята садгани Пхурби «Повна перемога»
+586 brgyud pa'i gsol 'debs byin rlabs mchog ster [txt] Молитва лінії – найвище дарування благословення
+587 DAk+ki'i thugs kyi sgrub pa dngos grub bum bzang [txt] Садгана серця дакіні – добрий кувшин здійснень
+588 mkha' 'gro'i don dbang dngos grub sgo 'byed byin rlabs bcud ster [txt] Посвята сенсу дакіні – відкривач дверей здійснення
+589 tshe sgrub yang bcud snying po [txt] Садгана довголіття – суть есенції
+590 ye shes mkha' 'gro'i me mchod dngos grub bang mdzod [txt] Вогняне підношення дакіні мудрості – скарбниця здійснень
+591 mkha' 'gro'i dgongs pa 'dus pa'i sgrub thabs rgyun khyer yang zab snying po [txt] Щоденна садгана зібрання наміру дакіні – найглибша суть
+592 mkha' 'gro gsang ba 'dus pa'i don dbang skal ldan rjes 'dzin zab rgya can [txt] Посвята сенсу таємного зібрання дакіні – для щасливих послідовників
+593 ye shes mkha' 'gro'i lo rgyus me tog chun po mdzes pa'i phreng ba [txt] Історія дакіні мудрості – прекрасна гірлянда квітів
+594 ye shes mkha' 'gro'i sgrub thabs bde chen mchog stsol [txt] Садгана дакіні мудрості – найвище дарування великого блаженства
+595 DAk+ki'i tshogs mchod bdud rtsi'i sprin dpung [txt] Ганачакра дакіні – хмара нектару
+596 mkha' 'gro dgongs 'dus kyi cha lag mtsho rgyal sgrub thabs rlung sems dbang sdud bde drod rang 'bar [txt] Додаток до зібрання наміру дакіні – садгана Цхоґ’ял, підкорення вітру-розуму
+597 mkha' 'gro dgongs 'dus kyi cha lag mkha' 'gro'i tshogs mchod spros med rgyun khyer tshogs gnyis myur rdzogs [txt] Ганачакра дакіні без ускладнень – швидке завершення двох нагромаджень
+598 mkha' 'gro dgongs 'dus kyi cha lag me mchod bsdus pa tshogs gnyis myur rdzogs [txt] Скорочене вогняне підношення зібрання – швидке завершення двох нагромаджень
+599 mkha' 'gro dgongs 'dus kyi cha lag rdzogs chen gnad kyi me long [txt] Дзеркало ключових пунктів Дзоґчен у зібранні наміру дакіні
+600 mkha' 'gro dgongs 'dus kyi cha lag mtsho rgyal gsang dbang spros med don gyi snying po shes rab rtsa 'byed [txt] Таємна посвята Цхоґ’ял у зібранні – суть без ускладнень, що розтинає корінь мудрості
+601 'pho ba ye shes sgo 'byed [txt] Перенесення свідомості – відкривач дверей мудрості
+602 mkha' 'gro dgongs 'dus kyi cha lag mtsho rgyal gsang dbang shes rab rtsa 'byed kyi ngo sprod gab pa mngon phyungs gsang ba'i srog thig mkha' 'gro'i gsang tshig [txt] Представлення таємної посвяти Цхоґ’ял – явлення прихованого, таємна нитка життя дакіні
+603 mkha' 'gro'i gsol 'debs byin rlabs dpal phreng [txt] Молитва до дакіні – славна гірлянда благословень
+604 DAk+ki mtsho rgyal thugs sgrub dngos grub snye ma [txt] Садгана серця дакіні Цхоґ’ял – швидке здійснення
+605 rig 'dzin mkha' 'gro'i spyi bskang nyams chag rang grol dngos grub char 'bebs [txt] Загальне виконання для від’янідгар – самовизволення порушень, дощ здійснень
+606 mkha' 'gro'i srog sgrub yang bcud snying po'i bskyed rim zur gsal rdo rje'i rgya can [txt] Побудова стадії життєвої садгани дакіні – ясний варіант з ваджрною печаттю
+607 dgongs 'dus gnad byang bsdus pa gsal ba'i sgo 'byed gser gyi lde mig gsang ba'i rgya can [txt] Скорочений ключовий текст зібрання наміру – золотий ключ ясності, з таємною печаттю
+608 mkha' 'gro'i srog sgrub yang bcud snying po [txt] Життєва садгана дакіні – суть есенції
+609 nyams len gnad kyi man ngag DAk+ki'i thugs bcud [txt] Настанова ключових пунктів практики – серцева суть дакіні
+610 dpal ri'i smon lam gsang lam mngon 'byed [txt] Молитва до Ґорі – явлення таємного шляху
+611 lha mo'i gsol 'debs byin rlabs dbyig thob [txt] Молитва до богині – отримання багатства благословення
+612 lha mo'i sgrub thabs dngos grub mchog stsol dbang gi lcags kyu me tog phreng mdzes [txt] Садгана богині – найвище дарування здійснень, прекрасна гірлянда квітів
+613 dbang gi lha mo'i sgrub thabs bsdus pa dngos grub snye ma [txt] Скорочена садгана богині Влади – швидке здійснення
+614 rig byed lha mo'i brgyud 'debs dngos grub char 'bebs dngos grub char 'bebs [txt] Лінія молитви богині Від’ї – подвійний дощ здійснень
+615 mkha' 'gro'i mngon rtogs bsdus pa [txt] Скорочена садгана явлення дакіні
+616 bcom ldan dbang gi lha mo'i bla rdo srog gi 'khor lo yang gsang mkha' 'gro'i thugs bcud rin chen snying po [txt] Колесо життя-камінь богині Влади – вища таємниця, суть коштовності серця дакіні
+617 rig byed lha mo'i gsang sgrub zab mo [txt] Таємна садгана богині Від’ї – глибока
+618 rig byed lha mo'i gsang sgrub snang srid dbang sdud [txt] Таємна садгана богині Від’ї – підкорення буття й небуття
+619 dbang gi lha mo'i sgrub thabs [txt] Садгана богині Влади
+620 bdud 'joms rdo rje'i zab chos yongs rdzogs kyi sta gon dbang gi phyag bzhes gsal bar bkod pa yid bzhin re skong dpag bsam rgyas pa [txt] Чітко викладена печатка посвяти повного циклу глибоких вчень Ваджракілаї – здійснення бажань
+
+35) dbus bza' mkha' 'gro'i gter chos/ (pod so lnga pa/) [vol] Том 35
+621 dkar chag [toc] Зміст
+622 bla ma mkha' 'gro'i sgrub thabs byin rlabs sprin phung [txt] Садгана гуру-дакіні — Хмара благословень
+623 bla ma mkha' 'gro'i tshogs mchod spros med rgyun khyer [txt] Щоденна ганачакра гуру-дакіні без ускладнень
+624 phung po'i mchod sbyin tshogs gnyis chu gter [txt] Підношення агрегатів — океан двох нагромаджень
+625 bde ba'i rdo rje'i phyag rgya bsdus pa byin rlabs dpal ster [txt] Скорочена мудра Бде Ваї Рдо Рдже — славне дарування благословення
+626 rig 'dzin bla ma'i gsol 'debs byin rlabs gter mdzod [txt] Молитва до гуру від’янідгари — скарбниця благословень
+627 sku gsum DAk+ki'i gsol 'debs dngos grub bang mdzod [txt] Молитва до дакіні трьох тіл — скарбниця здійснень
+628 bla ma mkha' 'gro'i gsol 'debs byin rlabs bum bzang [txt] Молитва до гуру-дакіні — добрий кувшин благословень
+629 zab gter chos sgo 'byed pa'i gsol 'debs thugs dam gnad bskul [txt] Молитва, що відкриває двері глибокого терма — ключове спонукання серцевих зобов’язань
+630 nor lha'i sgrub thabs dngos grub bum bzang [txt] Садгана бога багатства — добрий кувшин здійснень
+631 dam rdzas dug bsgyur phrin las myur mgyogs spu gri'i 'khor lo zab pa'i rgya can [txt] Перетворення отрути в амріти — швидка діяльність, глибоке колесо кинджала з печаттю
+632 rung ma'i gsol mchod bsdus pa [txt] Скорочене підношення Рунґмі
+633 lhag pa'i lha la gsol 'debs thugs rgyud gnad bskul [txt] Молитва до вищих божеств — ключове спонукання розуму
+634 gsol 'debs bar chad lam sel dang bsam pa myur 'grub [txt] Молитва усунення перешкод і швидкого здійснення бажань
+635 gsol 'debs thugs rjes myur 'dzin 'od gsal rang grol sogs tshan pa bcu [txt] Десять молитов на кшталт «Швидке оволодіння співчуттям» та «Самовизволення ясного світла»
+636 gsol 'debs yid bzhin nor bu sogs tshan pa bcu bzhi [txt] Чотирнадцять молитов на кшталт «Коштовність бажань»
+637 gsol 'debs dus ngan 'jigs skyob bsam pa myur 'grub ma sogs tshan pa bcu gnyis [txt] Дванадцять молитов на кшталт «Захист від лихих часів і швидке здійснення бажань»
+638 'og min mkha' spyod zhing du skye ba'i smon lam dri med nor bu [txt] Молитва народження в Аканіштсі-Кхечарі — Чистий коштовність
+639 g.yu lo bkod du skye ba'i smon lam phan bde'i myu gu [txt] Молитва народження в Ґ’ю Ло Бкод — Паросток користі й блаженства
+640 rje btsun bzhad pa rdo rje'i gsol 'debs thugs rje'i myu gu [txt] Молитва до Достопочтенного Бжад Па Рдо Рдже — Паросток співчуття
+641 skye phreng gsol 'debs bsdus pa byin rlabs sprin phung [txt] Скорочена молитва лінії втілень — хмара благословень
+642 ku sA li'i nyams byung gi gnas tshul mdor bsdus rdo rje'i spun gyi dris lan mos pa'i lam bzang sogs tshan pa gsum [txt] Три короткі тексти на кшталт «Стан досвіду Ку Салі»
+643 zhal gdams bslab bya'i skor [txt] Цикл усних настанов про те, чого треба навчати
+644 bu slob rnams la springs pa'i zhal gdams snying po'i don bsdus gsal ba'i me long [txt] Послання учням — дзеркало суті сенсу
+645 zhal gdams rnams phyogs gcig tu bsdus pa mthong ba don ldan sna tshogs rang grol [txt] Збірка усних настанов — самовизволення при одному баченні
+646 phur sgrub bdud las rnam rgyal gyi 'don 'grigs theg chen lam 'jug [txt] Текст читання садгани Пхурби «Повна перемога» — вступ на шлях Махаяни
+647 sku phreng gsol 'debs byin rlabs dbyig thob [txt] Молитва лінії тіл — отримання багатства благословення
+648 skyes phreng gsol 'debs thugs rje'i lcags kyu [txt] Молитва лінії втілень — гак співчуття
+649 rdo rje phag mo'i sgrub thabs kyi mtshams lugs las 'grigs bsdus pa gsal bar bkod pa [txt] Чітко складені проміжні практики садгани Ваджраварагі
+650 zab gter dbang gi 'don 'grigs gsal ba'i me long skal bzang 'jug ngogs [txt] Текст читання посвяти глибокого терма — дзеркало для щасливих
+
+36) dbus bza' mkha' 'gro'i gter chos/ (pod so drug pa/) [vol] Том 36
+651 dkar chag [toc] Зміст
+652 dbang gi lha mo'i las tshogs khams gsum dbang sdud phrin las myur 'grub [txt] Діяльність богині Влади — швидке підкорення трьох світів
+653 dbang gi lha mos rjes su 'dzin pa'i smon lam phan bde'i 'byung gnas [txt] Молитва, щоб богиня Влади взяла під опіку — джерело користі й блаженства
+654 rig byed lha mo'i smin byed dbang gi 'jugs ngogs dngos grub snye ma [txt] Вступ до посвяти дозрівання богині Від’ї — швидке здійснення
+655 ma rgyud gsang ba ye shes kyi gsang sgrub rgyun khyer lam zab dngos grub snying po [txt] Щоденна таємна садгана мудрості материнських тантр — суть глибокого шляху здійснення
+656 gsang ba ye shes ma'i mngon rtogs [txt] Явлення таємної мудрості-дакіні
+657 ye shes mkha' 'gro'i sgrub thabs dbang gi rgyud smin [txt] Садгана дакіні мудрості — дозрівання потоку посвяти
+658 'jam dpal mngon rtogs shes rab blo 'phel [txt] Явлення Манджушрі — зростання мудрості
+659 dbyangs can lha mo'i bsgom bzlas bsdus pa [txt] Скорочена медитація-мантрове повторення Сарасваті
+660 tshe 'phel yid bzhin 'khor lo'i mngon rtogs bsdus pa [txt] Скорочене явлення колеса бажань довголіття
+661 rje btsun sgron ma'i gsol 'debs dpag bsam snye ma [txt] Молитва до Достопочтенної Сґронми — швидке здійснення бажань
+662 'phags ma'i gsol 'debs 'jigs pa kun skyob [txt] Молитва до Арії — захист від усіх страхів
+663 'phags ma'i mngon rtogs bsdus pa byin rlabs chu gter [txt] Скорочене явлення Арії — океан благословень
+664 yid bzhin 'khor lo'i rtsa sgrub rdo rje'i snying po dang rjes rim mchod bstod [txt] Коренева садгана колеса бажань — суть Ваджри та подальше підношення
+665 'chi ba bslu ba'i thabs ku sA li'i man ngag [txt] Настанова обману смерті Ку Салі
+666 o rgyan tshe dpag med kyi sgrub thabs tshe bcud bsdus pa 'gyur med g.yung drung [txt] Садгана Амітаюса з Уддіяни — незмінний свастика есенції життя
+667 tshe sgrub rdo rje pha lam nyi zla kha sbyor shin tu gsang ba'i rgya can [txt] Садгана довголіття — злиття сонця й місяця батько-мати, найтаємніше з печаттю
+668 sa ra ha pa'i mngon rtogs byin rlabs sprin phung [txt] Явлення Сараги — хмара благословень
+669 rdzogs pa chen po ma bsgom sangs rgyas kyi zin bris dpal ldan bla ma'i zhal rgyun nag 'gros su bkod pa tshig don rab gsal skal ldan dgyes pa'i mgul rgyan [txt] Записане «Дзоґчен без медитації — безпосереднє ставання буддою» — намисто, що тішить щасливих
+670 snang sbyang sogs khrid yig rnams kyi sngon 'gro bshad bya'i yan lag bshad pa rnam grol lam bzang [txt] Пояснення вступних частин до проваджень очищення явищ та ін. — добрий шлях повного визволення
+
+37) dbus bza' mkha' 'gro'i gter chos/ (pod so bdun pa/) [vol] Том 37
+671 dkar chag [toc] Зміст
+672 'gro 'dul gsang sngags gling pa'i rnam thar [txt] Життєпис Додул Санг'є Лінгпа
+
+38) dbus bza' mkha' 'gro'i gter chos/ (pod so brgyad pa/) [vol] Том 38
+673 dkar chag [toc] Зміст
+674 'pho ba chen po'i gdams pa ma bsgom sangs rgyas kyi don 'grel dpal ldan bla ma'i zhal lung kun tu bzang po'i thugs bcud rgyud 'dzin 'od bskur grol ba'i man ngag brjod byang du bkod pa [txt] Велике перенесення свідомості без медитації — пояснення сенсу безпосереднього ставання буддою
+675 rigs bzang la gdams pa'i zhal gdams u pa de sha sogs [txt] Усні настанови роду Ріґс Бзанґ — Упадеша та ін.
+676 dris lan gsal ba'i me long [txt] Дзеркало ясних відповідей на питання
+677 sa gter sngon 'gro'i cha lag sbyor ba yan lag zab mo thar pa'i them skas [txt] Глибокі допоміжні практики вступу до земних терма — сходи визволення
+678 sngon 'gro dang khregs chod thod rgal rnams kyi khrid sbyang gi lag len dngos grub bum bzang [txt] Практичне застосування проваджень вступу, тхреґчод і тходґал — добрий кувшин здійснень
+679 myur lam thod rgyal gyi lag len 'od gsal sgron me [txt] Практика швидкого шляху тходґал — ліхтар ясного світла
+680 kun bzang chos nyid bde skyong dbang mo'i zab gter gyi dkar chag mkha' spyod bgrod pa'i them skas [txt] Зміст глибокого терма Кун Бзанґ Чос Ньїд Бде Скйонґ Дбанґ Мо — сходи до Кхечарі
+681 bla ma'i rnal 'byor thugs rje'i rjes 'dzin byin rlabs bum bzang [txt] Йоґа гуру — слід співчуттям бере під опіку, добрий кувшин благословень
+
+21) tA re lha mo'i gter chos [col] Терма Кхандро Тари Лхамо
+39) mkha' 'gro tA re lha mo'i gter chos/ (pod so dgu pa/) [vol] Том 39
+
+682 dkar chag [toc] Зміст
+683 bla ma'i rnal 'byor byin rlabs gter mdzod [txt] Йоґа гуру — Скарбниця благословень
+684 bla med gsang ba'i rgyud lasaH [txt] З безвершинної таємної тантри — ЛАСО
+685 bla ma'i rnal 'byor zab mo kun 'dus rdo rje'i rang sgra [txt] Глибока йоґа гуру — зібрання всього у власному звуці Ваджри
+686 bla ma'i rnal 'byor byin rlabs myur stsol thugs rje'i chu rgyun [txt] Йоґа гуру — швидке дарування благословення, потік співчуття
+687 bla ma'i rnal 'byor bsdus pa byin rlabs char 'bebs [txt] Скорочена йоґа гуру — дощ благословень
+688 bla ma'i rnal 'byor byin rlabs myur 'jug [txt] Йоґа гуру — швидке входження благословення
+689 bla mar gdung 'bod thugs rje'i lcags kyu [txt] Закликання гуру здалеку — гак співчуття
+690 bla ma'i sgrub pa do thub snying gi nor bu [txt] Садгана гуру — Коштовність суті
+691 gu ru'i gsang sgrub 'dod 'byung dpal ster [txt] Таємна садгана гуру — славне джерело бажань
+692 rig 'dzin bla ma'i tshogs mchod dngos grub 'byung gter [txt] Ганачакра гуру від’янідгар — джерело здійснень
+693 bla ma gsang ba'i sgrub thabs [txt] Таємна садгана гуру
+694 zab sgrub bde legs dpal ster [txt] Глибока садгана — славне благо
+695 gu ru'i sgrub thabs ye shes dpal ster [txt] Садгана гуру — славне мудрості
+696 rig 'dzin pad+ma'i gsang sgrub bde chen rol mo [txt] Таємна садгана Падми від’янідгари — велика гра блаженства
+697 bde chen zhing du skye ba'i smon lam bde chen lam bzang [txt] Молитва народження в Сукхаваті — добрий шлях великого блаженства
+698 tshogs bsdus 'dod 'byung dpal ster [txt] Скорочена ганачакра — славне джерело бажань
+699 rdor sems brgyud 'debs byin rlabs cher 'bebs [txt] Молитва лінії Ваджрасаттви — великий дощ благословень
+700 rdor sems 'gro drug rang grol gyi gsang sgrub bsdus pa dpal gyi bum bzang [txt] Скорочена таємна садгана самовизволення шести класів істот — добрий славний кувшин
+701 rdor sems 'gro drug rang grol gyi bshags pa dri med 'od gsal [txt] Сповідь самовизволення шести класів — чисте ясне світло
+702 sgos bskang dpag bsam rgyas pa [txt] Окреме виконання — розширення бажань
+703 rdor sems sgrub thabs bsdus pa dag byed bdud rtsi'i chu rgyun 'brel tshad rang grol [txt] Скорочена садгана Ваджрасаттви — потік нектару очищення
+704 o rgyan sman gyi rgyal po'i sgrub thabs dug gsum nad sel bdud rtsi'i sman mdzod [txt] Садгана Царя Ліків з Уддіяни — скарбниця ліків-нектару від трьох отрут
+705 o rgyan sman gyi rgyal po'i dbang chog bdud rtsi'i char rgyun [txt] Посвята Царя Ліків — дощ нектару
+706 sman bla'i cho ga nyung bsdus dug gsum nad sel rnam rgyal mchog [txt] Скорочений ритуал Царя Ліків — вища перемога над трьома отрутами
+707 tshe sgrub gsol 'debs 'chi med dpal ster [txt] Молитва садгани довголіття — славне безсмертя
+708 tshe sgrub rdo rje'i rgya mdud 'chi med g.yul bzlog [txt] Садгана довголіття — ваджрний вузол безсмертя, відбій смерті
+709 tshe sgrub tshogs bsdus nyams chags rang grol [txt] Скорочена ганачакра садгани довголіття — самовизволення порушень
+710 'byung lnga'i lha mo'i tshe 'gugs dbang gi lcags kyu [txt] Закликання життя п’яти богинь елементів — гак влади
+711 tshe sgrub rdo rje'i rgya mdud kyi lo rgyus bsdus pa rin chen phreng ba [txt] Коротка історія садгани ваджрного вузла — коштовна гірлянда
+712 'jam dbyangs zab sgrub ye shes nyi ma ma rig mun sel [txt] Глибока садгана Манджушрі — сонце мудрості, що розсіює темряву невідання
+713 'jam dpal bsdus pa [txt] Скорочена (садгана Манджушрі)
+714 dag snang las: smra seng bsdus pa [txt] З чистого видіння — скорочена Сімха-мукхі
+715 sgyu 'phrul drwa ba'i gnad gsang bsdus pa shes rab sgo 'byed [txt] Скорочений таємний ключовий пункт мережі ілюзії — відкривач дверей мудрості
+716 rtsa gsum bsdus pa dngos grub kun 'byung [txt] Скорочене трьох коренів — джерело всіх здійснень
+717 tsa gsum tshogs mchod bsdus pa yid bzhin nor sprin dpung [txt] Скорочена ганачакра трьох коренів — хмара коштовностей бажань
+718 rtsa gsum dril sgrub bsdus pa ye shes snang ba'i sgo 'byed [txt] Скорочене згортання трьох коренів — відкривач явлення мудрості
+719 phur ba'i rtsa bsgrub gcig dril rdo rje'i go cha gzhom med bsrung ba'i gur kham [txt] Коренева садгана Пхурби єдиного згортання — незламна броня Ваджри
+720 tshogs mchod 'dod dgu'i sprin phung nor bu'i phreng ba [txt] Ганачакра — хмара дев’яти бажань, коштовна гірлянда
+721 phur pa'i tshogs mchod bsdus pa nyams chags rang grol [txt] Скорочена ганачакра Пхурби — самовизволення порушень
+722 rdo rje phur pa'i gab don bsdus pa srog gi yang thig [txt] Скорочений прихований сенс Ваджракілаї — есенція життя
+723 yi dam drag po'i lus dkyil ye shes me dpung [txt] Тіло гнівного божества — полум’я мудрості
+724 rdo rje rigs kyi drag sgrub ye shes me lce [txt] Гнівна садгана роду Ваджра — язик полум’я мудрості
+725 srung ba'i 'khor lo ye shes ra gur [txt] Колесо захисту — шатро мудрості
+726 mtsho rgyal gsol 'debs [txt] Молитва до Цхоґ’ял
+727 mtsho rgyal mdun bskyed bde stong nyi zla kha sbyor [txt] Передбачення Цхоґ’ял — злиття сонця й місяця порожності-блаженства
+728 mtsho rgyal tshogs mchod bdud rtsi'i sprin dpung [txt] Ганачакра Цхоґ’ял — хмара нектару
+729 gter srung sngags kyi bdag mo'i gsol mchod [txt] Підношення Володарці мантр — захисниці терма
+730 rgyal yum ye shes mtsho rgyal gyi sgrub thabs bsdus pa bde stong ye shes dpal ster [txt] Скорочена садгана цариці Єше Цхоґ’ял — славне мудрості порожності-блаженства
+731 gsol 'debs 'dzin pa rang grol [txt] Молитва — самовизволення тримача
+732 tshogs mchod 'dod dgu'i sprin chen [txt] Велика хмара ганачакри дев’яти бажань
+733 bskang ba rdo rje'i sgra dbyangs [txt] Виконання — звук Ваджри
+734 gter 'byung nor bu'i rgyal po [txt] Виявлення терма — цар коштовностей
+735 bla ma'i rnal 'byor thar pa'i lam bzang [txt] Йоґа гуру — добрий шлях визволення
+736 gsol 'debs smin grol lam bzang [txt] Молитва дозрівання-визволення — добрий шлях
+737 mtsho rgyal bsdus pa mkha' spyod lam bzang [txt] Скорочена Цхоґ’ял — добрий шлях до Кхечарі
+738 mtsho rgyal bsdus pa bdud rtsi'i thig pa [txt] Скорочена Цхоґ’ял — крапля нектару
+739 mkha' 'gro tshogs mchod bsdus pa kun bzang mchod sprin [txt] Скорочена ганачакра дакіні — хмара підношень Самантабгадри
+740 mtsho rgyal smon lam bsdus pa rnam dag dri med [txt] Скорочена молитва Цхоґ’ял — цілковито чистий
+741 mtsho rgyal rgyun khyer tshogs gnyis dpal ster [txt] Щоденна Цхоґ’ял — славне двох нагромаджень
+742 tshogs mchod bdud rtsi'i sprin phung [txt] Ганачакра — хмара нектару
+743 dbang bskur byin rlabs kyi rim pa: dngos grub char 'bebs [txt] Послідовність посвяти благословення — дощ здійснень
+744 brgyud 'debs byin rlabs char 'bes [txt] Молитва лінії — дощ благословень
+745 tshogs mchod sgrib pa kun sel [txt] Ганачакра — очищення всіх затемнень
+746 yang zab las: DAk+ki'i sun bzlog bsdus pa [txt] Вища глибока — скорочений відбій дакіні
+747 DAk+ki'i sgrub thabs zab pa'i mthar thugs bde stong dpal ster [txt] Садгана дакіні — кінцева суть порожності-блаженства
+748 mtsho rgyal dril sgrub ut+pal phreng ba [txt] Згортана садгана Цхоґ’ял — гірлянда лотосів
+749 mtsho rgyal tshogs mchod 'dod 'byung dpal ster [txt] Ганачакра Цхоґ’ял — славне джерело бажань
+750 mtsho rgyal bsdus pa ut+pal nor bu'i phreng ba [txt] Скорочена Цхоґ’ял — гірлянда коштовностей лотосів
+751 tshogs mchod bsdus pa kun bzang mchod sprin [txt] Скорочена ганачакра — хмара підношень Самантабгадри
+752 DAk+ki'i sgrub thabs 'dod 'byung dbang gi nor bu [txt] Садгана дакіні — коштовність влади бажань
+753 bla ma'i rnal 'byor dbang bzhi'i chu rgyun [txt] Йоґа гуру — потік чотирьох посвят
+754 khros chung bsdus pa thugs rje'i nyi ma [txt] Скорочена гнівна мала — сонце співчуття
+755 ma gcig thugs bcud rgyun gyi rnal 'byor gcig tu dril ba [txt] Безперервна йоґа серцевої суті Мачіґ — єдине згортання
+756 bshags smon mkha' spyod lam bzang [txt] Сповідь і молитва — добрий шлях до Кхечарі
+757 tshogs mchod dpal gyi bum bzang [txt] Ганачакра — добрий славний кувшин
+758 khros ma'i sgos bskang pad+ma'i phreng ba [txt] Окреме виконання гнівної — гірлянда лотосів
+759 ma cig khros ma'i gsol mchod bsdus pa [txt] Скорочене підношення гнівній Мачіґ
+760 gter srung sngags kyi bdag mo'i gsol mchod [txt] Підношення Володарці мантр — захисниці терма
+761 ma cig khros ma'i zab dbang bde chen thar pa'i them skas [txt] Глибока посвята гнівної Мачіґ — сходи визволення великого блаженства
+762 gnas sbyong cho ga nyung bsdus thugs rje'i lcags kyu [txt] Скорочений ритуал очищення місця — гак співчуття
+763 bskul bzlog rdo rje'i tho ba bdud dpung 'joms mdzad [txt] Спонукання-відбиття — ваджрна блискавка, що розгромлює сили демонів
+764 khros ma'i bsang mchod nam mkha' kun khyab [txt] Димне підношення гнівної — пронизує все небо
+765 cha lags mkha' 'gro'i zhal bstabs rkyen ngan kun sel [txt] Додаток – усне вчення дакіні – усуває всі погані умови
+766 gdon grol chang bu brgya rtsa [txt] Визволення від злих духів — сто коротких
+767 srid gsum zil gnon 'khor ba rgyun gcod [txt] Підкорення трьох світів – переривання безперервності самсари
+768 lus sbyin rkyen ngan kun grol ma cig thugs dam yang zhun [txt] Підношення тіла – усуває всі погані умови, очищена серцева суті Мачіґ
+769 lus sbyin bar chad kun sel [txt] Підношення тіла – усуває всі перешкоди
+770 zab lam gces 'dzin rang grol tshogs gnyis myur rdzogs [txt] Глибокий шлях дорогого тримача – самовизволення, швидке завершення двох нагромаджень
+771 bya 'bod bsdus pa mkha' lam rlung gcod [txt] Скорочене закликання – переривання вітру в просторі неба
+772 char 'bebs dbul ba kun sel dpag bsam rgyas pa [txt] Дощ – усуває злидні, розширення бажань
+773 bde skyong gsang ba'i rnal 'byor mkha' spyod dbang mo'i gsol 'debs thar pa'i grong 'jug [txt] Таємна йоґа захисниці блаженства – молитва Кхечарі-Ванґмо, вхід у місто визволення
+774 myur lam mkha' spyod dbang mi'i gsang sgrub bde chen lam bzang [txt] Швидкий шлях до влади Кхечарі – таємна садгана, добрий шлях великого блаженства
+775 rje btsun rdo rje mkha' spyod ma'i tshogs mchod kun bzang mchod sprin [txt] Ганачакра Достопочтенної Ваджра Кхечарі – хмара підношень Самантабгадри
+776 bde chen rgyal mo'i bskang ba pad+ma rA ga'i chun 'phyang [txt] Виконання Великої Цариці Блаженства – лотосова ріг
+777 rdo rje rnal 'byor ma'i rgyun khyer [txt] Щоденна (садгана) Ваджрайоґіні
+778 mkha' spyod rgyun khyer bsdus pa bde stong DAk+ki'u gsang lam [txt] Скорочена щоденна Кхечарі – таємний шлях дакіні порожності-блаженства
+779 rgyal yum mkha' spyod ma'i smon lam bsdus par nam mkhyen thar pa'i lam bzang [txt] Скорочена молитва цариці Кхечарі – добрий шлях всезнання й визволення
+780 zla gam klong dgu'i dril sgrub bde stong dpal ster [txt] Згортана садгана дев’яти просторів місяця – славне порожності-блаженства
+781 rgyal yum maN+d+ha ra ba'i gsol 'debs byin rlabs myur 'jug [txt] Молитва до цариці Мандарави — швидке входження благословення
+782 DAk+ki'i rje mo mtsho rgyal sgrub thabs bsdus pa don gnyis dpal ster [txt] Скорочена садгана цариці дакіні Цхоґ’ял – славне двох цілей
+783 rgyal yum maN+d+ha ra ba'i tshogs mchod TAk+ki'i dgyes ston [txt] Ганачакра цариці Мандарави – радісний бенкет дакіні
+784 bde chen mkha' 'gro man+d+ha ra ba'i sgos bskang [txt] Окреме виконання Великого Блаженства дакіні Мандарави
+785 sgrol ma'i gsol 'debs thugs dam gnad bskul [txt] Молитва до Тари — ключове спонукання серцевих зобов’язань
+786 sgrol ma'i gsol 'debs 'jigs pa kun skyob [txt] Молитва до Тари — захист від усіх страхів
+787 sgrol ma'i sgub thabs bsdus pa 'dod'byung nor bu [txt] Скорочений метод захисту Тари — коштовність джерело бажань
+788 gol ma'i rgyun khyer bsdus pa tshogs gnyis dpal ster [txt] Скорочена щоденна (практика) для відхилень — славне двох нагромаджень
+789 sgrol ma'i g.yang 'bod dpag bsam ljon bzang [txt] Закликання процвітання Тари — добре дерево бажань
+790 gsol 'debs byin rlabs myur 'jug [txt] Молитва — швидке входження благословення
+791 sgrol ma'i sgub thabs bsdus pa 'dod 'byung nor bu [txt] Скорочений захист Тари — коштовність джерело бажань
+792 sgrol ma'i cho ga rnam mkhyen lam bzang [txt] Ритуал Тари — добрий шлях всезнання
+793 sgrol ma'i sgub thabs bsdus pa [txt] Скорочений захист Тари
+794 rje btsun dbyangs can lha mo'i rgyun khyer shes rab gsal ba'i nyi ma [txt] Щоденна Сарасваті — сонце ясності мудрості
+795 'phags ma dbyangs can lha mo'i tshogs mchod kun bzang mchod pa'i sprin dpung [txt] Ганачакра благородної Сарасваті – хмара підношень Самантабгадри
+796 dbyangs can dkar mo'i sgrub thabs bsdus pa sprin bral zla gzer [txt] Скорочена садгана Білої Сарасваті – місячний промінь без хмар
+797 rigs byed ma'i lus dkyil bsdus pa [txt] Скорочена мандала тіла Ріґджедми
+
+40) mkha' 'gro tA re lha mo'i gter chos/ (pod bzhi bcu pa/) [vol] Том 40 — Терма Кхандро Таре Лхамо (другий том)
+798 dkar chag [toc] Зміст
+799 dbang mdzad ku ru kul+le'i phyag rgya bsdus pa dbang gi lcags kyu [txt] Скорочена мудра посвячення Куруккулли — залізний гак влади
+800 b+hud+d+ha DAk+ki'i gsang sgrub rkyen ngan kun sel dngos grub dpal ster [txt] Таємна садгана буддівської дакіні — усуває всі погані умови, славне здійснення
+801 tshogs mchod bdud rtsi'i sprin dpung [txt] Ганачакра — велика хмара нектару
+802 gnas dang zhing gi mkha' 'gro rnams la bde stong dpal ster dga' bzhi'i rol ston dgyes pa bskangs ba'i ngo mtshar mchod sprin [txt] Дивовижне підношення дакіні місць і чистих земель — вистава чотирьох радощів порожності-блаженства
+803 sangs rgyas dpa' mo'i gter srung 'jigs byed mched bzhi [txt] Чотири жахливі сестри — захисниці терма Буддівської Дпа’ Мо
+804 sangs rgyas dpa' mo'i rgyun 'khyer bsdus pa [txt] Скорочена щоденна практика Буддівської Дпа’ Мо
+805 rgyal yum rten 'brel lha mo'i sgrub thabs bsdus pa dgos 'dod kun 'byung [txt] Скорочена садгана цариці залежного виникнення — джерело всіх бажань
+806 rten 'brel nyes pa kun sel gyi mngon rtogs bsdus pa [txt] Скорочене явлення очищення всіх вад залежного виникнення
+807 nyes sel tshogs mchod bsdus pa [txt] Скорочена ганачакра очищення вад
+808 rten 'brel lha mo'i smin byed dbang chog nyes tshogs rang grol ye shes dpal ster [txt] Посвята дозрівання богині залежного виникнення — самовизволення вад і нагромаджень, славне мудрості
+809 sgol dkar rgyun khyer ye shes nyi ma [txt] Щоденна біла форма — сонце мудрості
+810 nor rgyun mkha' 'gro'i sgrub thabs nyung bsdus dgos 'dod nor bu'i char 'bebs [txt] Скорочена садгана дакіні багатства — дощ коштовностей бажань
+811 g.yang 'bod bsdus pa dbang gi lcags kyu [txt] Скорочене закликання процвітання — залізний гак влади
+812 phag mo'i gsang sgrub dngos grub gter bum [txt] Таємна садгана Варагі — скарбниця здійснень
+813 mkha' 'gro gsang ba'i tshogs mchod nyams chags rang grol [txt] Таємна ганачакра дакіні — самовизволення порушень
+814 byad bzlog seng ha TAk+ki'i gsang sgrub byad ma gdug pa'i srog len [txt] Відбиття проклять — таємна садгана левиці-дакіні, що забирає життя злих
+815 mkha' 'gro seng gdong ma'i gsang sgrub yes hses nyi ma [txt] Таємна садгана левиці-дакіні — сонце мудрості
+816 'od zer can ma'i dgra 'ching rlung gi zhags pa [txt] Промениста — пастка вітру, що зв’язує ворогів
+817 'od zer can ma'i gsol 'debs rkyen ngan bar chad bzlog thabs phongs pa kun sel [txt] Молитва до Променистої — усуває перешкоди й злидні
+818 sngags kyi bdag mo'i gsol mchod [txt] Підношення Володарці мантр
+819 sngags kyi bdag mo'i gsol mchod dgra bo 'joms pa'i tho ba [txt] Підношення Володарці мантр — блискавка, що розгромлює ворогів
+820 sngags srung ma'i gsol mchod bsdus pa dgra bo 'joms pa'i tho ba [txt] Скорочене підношення захисницям мантр — блискавка перемоги над ворогами
+821 sngags srung ma'i gsol mchod bsdus pa 'phrin las myur 'jug [txt] Скорочене підношення захисницям мантр — швидке входження діяльності
+822 dbyings yum snang srid ma chen gyi gsol mchod bstan dgra bsgral ba'i glog zhags [txt] Підношення Великій Матері Простору — блискавична пастка, що перемагає ворогів вчення
+823 srung ma'i gsol mchod bsdus pa 'phrin las glog gi zhags pa [txt] Скорочене підношення захисницям — блискавична пастка діяльності
+824 gter srung rA hu la'i gsol mchod bsdus pa 'phrin las glog gi zhags 'khyugs pa [txt] Скорочене підношення Раху — блискавична пастка пастка діяльності
+825 gsol mchod bsdus pa 'phrin las glog gi zhags 'khyugs [txt] Скорочене підношення — блискавична пастка діяльності
+826 seng chen gyi gsol mchod myur mgyogs glog gi zhags pa [txt] Підношення Великому Леву — швидка блискавична пастка
+827 lung rta bskyed pa [txt] Підняття вітряного коня
+828 seng chen gsol mchod bsdus pa 'phrin las glog gi zhags 'khyugs [txt] Скорочене підношення Великому Леву — блискавична пастка діяльності
+829 dga' bde'i gsol mchod bsdus pa 'phrin las kun 'grub [txt] Скорочене підношення радості й блаженства — здійснення всіх діяльностей
+830 pad+ma'i tha tshig la gnas bstan skyong las myur rlung gi zhags pa [txt] Підношення останнього слова Падми — швидка пастка вітру захисту вчення
+831 tshe gcig sangs rgya sgrub pa'i rnal 'byor pa la dgos 'dod char ltar 'bebs pa'i bsam 'phrel dbang gi rgyal po [txt] Для йоґіна, що здійснює просвітлення в одному житті — дощ бажань
+832 nor bdag karma badz+ra gyi gsol mchod bsdus pa dbang gi rgyal po [txt] Скорочене підношення Карма Ваджрі — цар влади
+833 srung ma'i khri 'khrugs kun sel [txt] Усунення всіх ворожнеч захисниць
+834 dkor srung dur khrod bdag mo'i gsol mchod [txt] Підношення Володарці цвинтаря — захисниці скарбів
+835 bstan dgra tshar gcod gdug pa'i snying 'byin [txt] Перерізання ворогів вчення — витягування серця злих
+836 bsangs mchod [txt] Димне підношення
+837 lha chen gsol bsdus dbang sdud lcags kyu [txt] Скорочене підношення Великому Божеству — залізний гак влади
+838 zab gsang nye lam khol phyung mgron bzhir mchod 'bul kun bzang mchod sprin [txt] Підношення чотирьом гостям з відкриттям глибокої таємниці — хмара підношень Самантабгадри
+839 srung ma 'khon 'khrugs kun sel [txt] Усунення всіх ворожнеч захисниць
+840 nor bdag karma badz+ra gyi rigs bdag phyag rgya bsdus pa [txt] Скорочена мудра роду Карма Ваджри — володар багатства
+841 nor bdag gsol mchod las bzhi lhun grub [txt] Підношення Володарю багатства — самовдійснення чотирьох діяльностей
+842 sgrub thabs gsal ba'i me long gi las gzhung sgrub pa'i tshogs mchod sngags kyi 'da' ga [txt] Діяльність з «Дзеркала ясної садгани» — ганачакра здійснення
+843 gter srung klu lcam mched lnga'i gsol mchod bsdus pa dbul sel nor bu [txt] Скорочене підношення п’ятьом сестрам-наґіням — коштовність, що усуває злидні
+844 bse rag bkar thabs [txt] Метод розсіювання бсе
+845 mchod 'phreng bsdus pa dpag bsam rgyas pa [txt] Скорочена гірлянда підношень — розширення бажань
+846 dpal ri'i smon lam zang thal sgo 'byed [txt] Молитва до Ґорі — пряме проникнення
+847 brtan ma'i gsol mchod phrin las kun 'grub [txt] Підношення Бртанмі — здійснення всіх діяльностей
+848 gter srung sha gzam dmar po'i gsol mchod bsdus pa [txt] Скорочене підношення червоному Ша Ґзам — захиснику терма
+849 skye phreng gsol 'debs me tog phreng mdzes [txt] Молитва лінії втілень — прекрасна гірлянда квітів
+850 skye rgyud gser gyi me tog 'dab ldan g.yu yi sbrang bcud [txt] Золотий квітка з пелюстками лінії втілень — нектар бірюзової бджоли
+851 gsol 'debs byin rlabs char 'bebs [txt] Молитва — дощ благословень
+852 sku dngos gsol 'debs bde chen 'dren pa'i lcags kyu [txt] Молитва до справжнього тіла — гак, що веде до великого блаженства
+853 zab lam kun 'dus kyi gsol 'debs byin rlabs myur 'jug [txt] Молитва зібрання всіх глибоких шляхів — швидке входження благословення
+854 gsol 'debs byin rlabs myur 'jug [txt] Молитва — швидке входження благословення
+855 gsol 'debs thugs rje'i sprin phung [txt] Молитва — хмара співчуття
+856 gsol 'debs bdud rtsi'i chu rgyun [txt] Молитва — потік нектару
+857 sgol ma'i gsol 'debs byin rlabs myur 'jug [txt] Молитва до форми — швидке входження благословення
+858 gu ru'i gsol 'debs byin rlabs char 'bebs [txt] Молитва до гуру — дощ благословень
+859 'jig skyob gsol 'debs [txt] Молитва захисту від небезпек
+860 sku gsum gsol 'debs byin rlabs gter mdzod [txt] Молитва до трьох тіл — скарбниця благословень
+861 bshags pa mthong ba rang grol [txt] Сповідь — самовизволення при одному баченні
+862 kaH tho rgyal ba'i bstan rgyas smon lam [txt] Молитва поширення вчення Кахтог
+863 smon lam don mthun rdo rje'i rang sgra thos grol sgra dbyangs [txt] Молитва згідного сенсу — ваджрний звук, що визволяє при слуханні
+864 smon lam thar pa'i lam bzang [txt] Молитва — добрий шлях визволення
+865 grib sel bdud rtsi'i chu rgyun [txt] Очищення затемнень — потік нектару
+866 chang skyems yid kyi dpal ster [txt] Підношення чанґу — славне розуму
+867 gnas yig mdor bsdus skal bzang dga' ba'i dpal ster [txt] Скорочений путівник до святих місць — славне щасливих
+868 bra byang shel gyi me long [txt] Кришталеве дзеркало-інвентар
+869 snyan lung gu ru nga 'dra ma'i lung byang [txt] Пророчий текст усної передачі «Ґуру, подібний мені»
+870 brda byang 'phrul gyi me long [txt] Чарівне дзеркало-інвентар символів
+871 brda byang rdo rje'i glu tshig tm bu ra'i sgra dbyangs [txt] Ваджрні пісенні слова інвентаря символів — тамбуровий звук
+872 gdams ngag sems 'dzin dran pa'i mu 'khyud [txt] Настанова тримання розуму — обруч пам’ятання
+873 blo chung rmongs pa bsal ba'i me long [txt] Дзеркало, що усуває темряву малого розуму
+874 gdams ngag sems 'dzin nyung bsdus rnam mkhyen lam bzang [txt] Скорочена настанова тримання розуму — добрий шлях всезнання
+875 mkha' 'gro rin po che tA re de wIs nam sprul 'jigs med phun tshogs la phul ba'i zhu 'phrin phyag yig phyogs bsdus [txt] Збірка листів-прохань до Кхандро Тари Лхамо від Джігме Пхунтшоґа
+876 glu rdzong bkra shis sgo brgyad don 'grub bsam 'phel nor bu [txt] Пісенна фортеця — вісім дверей блага, здійснення бажань, зростання
+877 gshis lugs ma bcos snang ba'i skyo glu [txt] Сумна пісня природного, неприкрашеного стану
+878 zhal gdams dang de'i 'grel ba ye shes sgron me'i skor [txt] Цикл усних настанов та їх коментарів — ліхтар мудрості
+879 'jang g.yu lha'i rtogs brjod dpa' bo'i gad rgyangs [txt] Життєпис Джанґ’ю Лхи — героїчний речитатив
+
+22) zla gsal dbang mo'i gsung 'bum [col] Збірка промов Ласал Вангмо
+41) mdo zla gsal dbang mo'i gsung chos/ (pod zhe gcig pa/) [vol] Том 41
+880 dkar chag [toc] Зміст
+881 mdo zla gsal dbang mo'i mdzad rnam rags bsdus [txt] Короткий життєпис Мдо Зла Ґсал Дбанґ Мо
+882 dbyangs can bstod pa byin rlabs mchog stsol [txt] Прославлення Сарасваті — найвище дарування благословення
+883 dbyangs can gsol 'debs chu skyes 'dzum dkar [txt] Молитва до Сарасваті — біла посмішка лотоса
+884 'tsho byed bla ma brgyud pa'i gsol 'debs dad pa'i 'khri shing [txt] Молитва до лінії лам-цілителів — трон віри
+885 gsol 'debs dad pa'i 'khri shing [txt] Молитва — трон віри
+886 ge sar rgyal po'i rnam thar las hor 'dul gyi rtogs pa brjod pa g.yul rgyal lha'i rnga sgra [txt] З життєпису Ґесара — приборкання Хора, барабан богів перемоги
+887 thub smon dad pa'i me tog [txt] Молитва до Будди — квітка віри
+888 thub bstod ut+pa la chun po [txt] Прославлення Будди — гірлянда лотосів
+889 'jam dpal bstod pa blo gros dpal bskyed [txt] Прославлення Манджушрі — зростання слави мудрості
+890 dbyangs can bstod pa dri za'i rgyud mangs [txt] Прославлення Сарасваті — численні мелодії ґандгарвів
+891 dbyangs can bstod pa byin rlabs mchog stsol [txt] Прославлення Сарасваті — найвище дарування благословення (друге)
+892 dbyangs can gsol 'debs chu skyes 'dzum dkar [txt] Молитва до Сарасваті — біла посмішка лотоса (друга)
+893 dbyangs can gsol 'debs me tog chun po [txt] Молитва до Сарасваті — гірлянда квітів
+894 ye shes mtho rgyal mchog la bstod tshig gsol 'debs sprin dkar bla bre [txt] Прославлення-молитва до вищої Єше Мтхо Рґял — біла хмара
+895 mtsho rgyal rnam thar nyung bsdus [txt] Короткий життєпис Цхоґ’ял
+896 gsol 'debs thugs dam rgyud bskul lha'i rnga sgra [txt] Молитва-спонукання серцевих зобов’язань — барабан богів
+897 'jam dbyangs khri srong dran pa'i gdung dbyangs lha'i rol mo [txt] Мелодія пам’яті про Трисонґ Децена — божественна музика
+898 mkha' spyod rje mor 'bod pa'i gdung dbyangs [txt] Закликання Володарки Кхечарі — мелодія туги
+899 mkha' spyod rdo rje rnal 'byor mar 'bod pa'i gdung dbyangs lha'i rol mo [txt] Закликання червоної Ваджрайоґіні Кхечарі — божественна музика
+900 mkha' spyod pad ma'i 'od du 'dren pa'i lcags kyu [txt] Гак, що веде до світла Падми Кхечарі
+901 mkha' spyod zhing khams dran pa'i skyo glu [txt] Сумна пісня пам’яті про чисту землю Кхечарі
+902 smon lam mkha' spyod zhing du bgrod pa'i them skas [txt] Молитва-сходи переходу до чистої землі Кхечарі
+903 rtsa ba'i bla mar gsol 'debs byin rlabs gter mdzod [txt] Молитва до кореневого гуру — скарбниця благословень
+904 gsol 'debs dad gsum 'dren pa'i shing rta [txt] Молитва — колонія, що веде три види віри
+905 thub bstan lung rigs smra ba'i nyi mar bstod pa [txt] Прославлення Будди-вчення як сонця, що промовляє логіку
+906 zhabs brtan gsol 'debs [txt] Молитва довгого життя
+907 zhabs brtan [txt] Довгого життя (друга)
+908 skyabs mchog rnams la thugs rgyud bskul ba'i gdung dbyangs rjes 'dzin lcags kyu rnon po [txt] Мелодія спонукання розуму притулків — гострий гак послідовників
+909 dpal chen khro bo'i rgyud bskul gsol 'debs khrag 'thung khros pa'i gad rgyangs [txt] Спонукання гнівного Великославетного — героїчний речитатив п’ючого кров
+910 gsol 'debs bar chad dbyings sgrol [txt] Молитва — визволення перешкод у просторі
+911 lha mo 'od zer can ma'i gsol 'debs bdud dgra'i dpung 'joms [txt] Молитва до богині Променистої — розгром війська демонів
+912 bzhengs bskul dus mtha'i me rlung 'tshub ma [txt] Спонукання вставати — вихор вогню кінця часу
+913 gsol mchod dgra bla dgyes pa'i 'dzum dkar [txt] Підношення — біла посмішка ворожого божества
+914 thugs dam rgyud bskul drag po'i rngams glu [txt] Гнівна пісня спонукання серцевих зобов’язань
+915 rgud sel nor bu rin chen [txt] Усунення занепаду — коштовність
+916 seng chen skyes bu dran glu khu byung mgrin glu [txt] Пісня пам’яті про Великого Лева — природна горлова пісня
+917 ge sar skyes bu chen po'i mnga' gsol [txt] Підношення влади Великому Герою Ґесару
+918 ge sar gsol bsdus [txt] Скорочена молитва до Ґесара
+919 gsol mchod 'dod don myur 'grub [txt] Підношення — швидке здійснення бажань
+920 ge sar 'phrin bskul [txt] Спонукання діяльності Ґесара
+921 gsol bsdus dngos grub kun 'byung [txt] Скорочена молитва — джерело всіх здійснень
+922 dpa' lha'i gsol mchod phrin las glog zhags [txt] Підношення героїчному божеству — блискавична пастка діяльності
+923 seng stag gsol mchod g.yul rgyal ba dan dkar po [txt] Підношення Леву-Тигру — біла перемога в битві
+924 seng stag gsol mchod dpa' bo'i gad rgyangs [txt] Підношення Леву-Тигру — героїчний речитатив
+925 seng stag gsol mchod bdud las rnam rgyal [txt] Підношення Леву-Тигру — повна перемога над демонами
+926 dpa' lha'i gsol mchod dgra lha'i rngams glu [txt] Підношення героїчному божеству — гнівна пісня божества ворогів
+927 dpa' lha'i gsol mchod dbang sdud 'od dmar lcags kyu [txt] Підношення героїчному божеству — червоний залізний гак влади
+928 dpa' lha'i gsol mchod tshangs pa'i glu dbyangs [txt] Підношення героїчному божеству — пісня Брагми
+929 phrin bcol dgra lha dgyes pa'i rol mo [txt] Доручення діяльності — радісна мелодія божества ворогів
+930 dpa' lha'i gsol mchod 'dod rgu'i dpal ster [txt] Підношення героїчному божеству — славне дев’яти бажань
+931 dpa' lha'i gsol mchod dgra lha'i sprin dkar g.yo ba'i bla bre [txt] Підношення героїчному божеству — біла рухома хмара божества ворогів
+932 gsol mchod dpa' gtum 'brug sgra [txt] Підношення — грім гнівного героя
+933 dpa' lha'i gsol mchod phrin las char 'bebs [txt] Підношення героїчному божеству — дощ діяльності
+934 gsol mchod me tog chun po [txt] Підношення — гірлянда квітів
+935 dpa' lha'i gsol mchod drang srong dmod pa'i mtshon cha [txt] Підношення героїчному божеству — зброя гніву ріші
+936 gsol mchod bde stong rdo rje'i rol dbyangs [txt] Підношення — музика порожності-блаженства Ваджри
+937 gsol mchod me tog char 'bebs [txt] Підношення — дощ квітів
+938 gsol mchod 'dod rgu'i dpal ster don grub dgra lha'i rgyal dbyangs [txt] Підношення дев’яти бажань — здійснення, царська пісня божества ворогів
+939 spyi dpon gsol mchod dgra bla dgyes pa'i gad rgyangs [txt] Підношення головнокомандувачу — героїчний речитатив божества ворогів
+940 dung mtsho'i bsang mchod dgos 'dod char 'bebs [txt] Димне підношення озера раковин — дощ бажань
+941 ge sar gsol mchod dgra lha bzhad pa'i rgyal dbyangs [txt] Підношення Ґесару — царська пісня божества ворогів
+942 ge sar rgyal po'i rnam thar rags bsdus [txt] Короткий життєпис царя Ґесара
+943 mdo tshang gi brgyud pa'i rnam thar mdor bsdus [txt] Короткий життєпис лінії Мдо
+944 bod yig slob grwa'i slob ma 'ga' la gnang ba'i smon tshig rtsom thor [txt] Різні молитви, дані учням тибетської школи письма
+945 sman rtsis khang la cung tsam bsngags pa dpyid kyi rgyal mo'i mgrin glu [txt] Невелике прославлення медичного інституту — горлова пісня цариці весни
+946 ka rtsom snying gtam sum cu pa [txt] Тридцять сердечних слів на букву КА
+947 tshe thar byed thabs bsdus pa [txt] Скорочений метод порятунку життя
+948 tshe thar gtong thabs 'chi med srog ster [txt] Метод відпускання життя — дарування безсмертного життя
+949 tshe thar gtong thabs bsdus pa [txt] Скорочений метод відпускання життя
+
+23) thub bstan rig byed lha mo'i gsung chos [col] Вчення богині-захисниці вчення Будди – Тубтен Ріґджед Лхамо
+
+42) sdom gsum rnam bshad blo gsar yid kyi me tog stod cha/ (pod zhe gnyis pa/) [vol] Том 42 – Верхня частина
+950 dkar chag [toc] Зміст
+951 sdom gsum rnam nges kyi rnam bshad blo gsar yid kyi me tog [txt] Пояснення трьох обітниць – Новий розум, квітка серця (повний текст)
+
+43) sdom gsum rnam bshad blo gsar yid kyi me tog smad cha/ (pod zhe gsum pa/) [vol] Том 43 – Нижня частина
+952 dkar chag [toc] Зміст
+953 le'u gsum pa byang sdom [txt] Глава третя – Бодгісаттвські обітниці
+
+44) tshad ma rigs gter gyi rnam bshad blo gsar yid kyi me tog/ (pod zhe bzhi pa/) [vol] Том 44
+954 dkar chag [toc] Зміст
+955 tshad ma rigs gter gyi rnam bshad blo gsar yid kyi me tog [txt] Пояснення «Скарбниці логіки» Дгармакирті – Новий розум, квітка серця
+
+45) mdzod kyi rnam bshad blo gsar yid kyi me tog stod cha/ (pod zhe lnga pa/) [vol] Том 45 – Верхня частина
+956 dkar chag [toc] Зміст
+957 mngon pa'i mdzod kyi rnam bshad blo gsar dga' ston yid kyi me tog [txt] Пояснення «Абхідгарма-коші» Васубандгу – Новий розум, святкова квітка серця
+
+46) mdzod kyi rnam bshad blo gsar yid kyi me tog bar cha/ (pod zhe drug pa/) [vol] Том 46 – Середня частина
+958 dkar chag [toc] Зміст
+959 gnas gsum pa 'jig rten bstan pa [txt] Третя глава – Вчення про світ
+
+47) mdzod kyi rnam bshad blo gsar yid kyi me tog smad cha/ (pod zhe bdun pa/) [vol] Том 47 – Нижня частина
+960 dkar chag [toc] Зміст
+961 gnas lnga pa phra rgyas bstan pa [txt] П’ята глава – Докладне та коротке вчення
+
+48) dbu ma la 'jug pa'i rnam bshad blo gsar yid kyi me tog/ (pod zhe brgyad pa/) [vol] Том 48
+962 dkar chag [toc] Зміст
+963 dbu ma la 'jug pa'i rnam bshad blo gsar yid kyi me tog [txt] Пояснення «Вступу до Мадг’яміки» Чандракирті – Новий розум, квітка серця
+
+49) mngon rtogs rgyan gyi rnam bshad blo gsar yid kyi me tog/ (pod zhe dgu pa/) [vol] Том 49
+964 dkar chag [toc] Зміст
+965 mngon rtogs rgyan gyi rnam bshad blo gsar yid kyi me tog [txt] Пояснення «Прикраси здійснення» Міфама – Новий розум, квітка серця
+
+24) mkha' 'gro'i bstod tshogs gces btus [col] Вибрані прославлення дакіні — Коштовна скриня
+
+50) mkha' 'gro'i bstod tshogs gces btus rin chen gter gyi sgrom bu/ (pod lnga bcu pa/) [vol] Том 50
+966 dkar chag [toc] Зміст
+967 sher phyin ma dkar mo'i bstod pa khag [txt] Прославлення білої Парджняпараміти (збірка)
+968 gdugs dkar bstod pa khag [txt] Прославлення білої парасольки (збірка)
+969 rnam rgyal ma'i bstod pa khag [txt] Прославлення Намґ’ялми (збірка)
+970 rig byed ma'i bstod pa khag [txt] Прославлення Ріґджедми (збірка)
+971 rje btsun sgrol ma'i bstod pa khag [txt] Прославлення Достопочтенної Тари (збірка)
+972 rdo rje rnal 'byor ma'i bstod pa khag [txt] Прославлення Ваджрайоґіні (збірка)
+973 dbyangs can ma'i bstod pa khag [txt] Прославлення Сарасваті (збірка)
+974 mkha' spyod dkar dmar gyi bstod pa khag [txt] Прославлення білої та червоної Кхечарі (збірка)
+975 nor rgyun ma'i bstod pa khag [txt] Прославлення Норґ’юнми (збірка)
+976 dpal gsang ba 'dus pa'i rigs bzhi'i lha mo rdo rje ma lnga la bstod pa rin chen rgyan phreng [txt] Прославлення п’яти Ваджра-дакіні чотирьох родів Ґух’ясамаджі — коштовна гірлянда прикрас
+977 thams cad grub pa dpal 'phel lha mo la slob dpon klu sgrub kyis bstod pa [txt] Прославлення Васубандгу богині Пелпел Лхамо «Всездійснювальна»
+978 dpal lha mo la bstod pa khag [txt] Прославлення Палден Лхамо (збірка)
+979 bdag med ma lha mo bco lnga la bstod pa [txt] Прославлення п’ятнадцяти богинь Наїратм’ї
+980 mkha' 'gro ma sme ba brtsegs la bstod pa byin rlabs char 'bebs [txt] Прославлення Сіме Брцеґс — дощ благословень
+981 zhing gi dbang phyug ma'i bstod pa [txt] Прославлення Володарки чистих земель
+982 mkha' 'gro rgya mtsho la bstod pa [txt] Прославлення океану дакіні
+983 dpal sngags kyi bsdags mo la bstod pa mthing nag rba rtu dga' ba'i dbyangs [txt] Прославлення дружини мантр — темно-синя хвиля радісного звуку
+984 dpal ldan dmag zor rgyal mo la bstod pa lha mo mnyes pa'i rngam glu [txt] Прославлення Достославної Маґзор Ґ’ялмо — гнівна пісня, що тішить богиню
+985 dur khrod lha mo la bstod pa gnod sbyin kun tu dga' ba'i dbyangs [txt] Прославлення богині цвинтаря — звук, що радує всіх якшів
+986 dpal ldan lha mo rdo rje rab brtan ma la bstod pa nang gi de nyid brjod pa [txt] Прославлення Достославної Ваджра Рабтенми — виклад внутрішньої сутності
+987 dpal ldan lha mo'i ka bstod [txt] Коротке (ка) прославлення Палден Лхамо
+988 bdud mo re ma ti la bstod pa [txt] Прославлення демонеси Рематі
+989 dpal ldan lha mo dud sol ma'i ka bstod [txt] Коротке прославлення Палден Лхамо Дудсолми
+990 lha mo chen mo tsA muN+Di la bstod pa [txt] Прославлення великої богині Чамунді
+991 bsrung ba'i lha mo lnga la bstod pa [txt] Прославлення п’яти захисниць-богинь
+992 tshe ring ma la bstod pa ka la ping+ka'i dbyangs snyan [txt] Прославлення Цхерінґми — приємний звук Калапінґи
+993 rdo rje grags rgyal ma la bstod pa [txt] Прославлення Ваджра Віджая
+994 'phags ma zla mdzes ma la bstod pa srog yod pa'i zhags pa [txt] Прославлення Арії Зла Мдзес Ма — пастка з життям
+995 ye shes kyi mkha' 'gro ni gu ma la bstod pa byin rlabs myur mgyogs [txt] Прославлення дакіні мудрості Ніґуми — швидке благословення
+996 'chi med man+da ra ba la bstod pa DA ki dgyes pa'i rol mo [txt] Прославлення безсмертної Мандарави — радісна гра дакіні
+997 ye shes mtsho rgyal la bstod pa khag [txt] Прославлення Єше Цхоґ’ял (збірка)
+998 ma gcig lab sgron la bstod pa khag [txt] Прославлення Мачіґ Лабдрон (збірка)
+999 ye shes kyi mkha' 'gro bsod nams dpal 'dren la dpa' bo rin chen dpal gyis bstod pa [txt] Прославлення дакіні мудрості Сонам Палдрен героєм Рінчен Палом
+1000 mu med ye shes mtsho mo la bstod pa khag [txt] Прославлення Му Мед Єшес Мтшо Мо (збірка)
+
+25) zhal gdams kyi skor gces btus [col] Вибрані усні настанови – Ліхтар, що ясно показує шлях визволення
+
+51) zhal gdams kyi skor gces btus thar lam gsal ba'i sgron me/ (pod nga gcig pa/) [vol] Том 51
+1001 dkar chag [toc] Зміст
+1002 jo mo la gdams pa'i chos skor [txt] Цикл вчень, даних жінкам
+
+52) zhal gdams kyi skor gces btus thar lam gsal ba'i sgron me/ (pod nga gnyis pa/) [vol] Том 52
+1003 dkar chag [toc] Зміст
+1004 bka' stan las zur du phyung ba'i gdams kyi skor [txt] Настанови, витягнуті з Канджуру
+1005 ma Ni bka' 'bum las zur du phyung ba'i gdams kyi skor [txt] Настанови, витягнуті з Мані Кабум
+1006 bod kyi bud med rnams la zhal chems su bzhag pa [txt] Заповіт тибетським жінкам
+1007 bzhi gsum bcu gnyis pa [txt] Тридцять чотири (настанови)
+1008 pha dam pa sangs rgyas kyi gung zur du phyung ba'i gdams skor [txt] Настанови Пха Дампа Санґґ’є
+1009 mi la ras pa'i mgur 'bum las zur du phyung ba'i gdams skor [txt] Настанови з пісень Мілерепи
+1010 thang stong rgyal po'i rnam thar las zur du phyung ba'i gdams skor [txt] Настанови з життєпису Тханґтонґ Ґ’ялпо
+1011 rdo rje gling pa'i gter chos las zur du phyung ba'i gdams skor [txt] Настанови з терма Дордже Лінґпи
+1012 'bri gung pa'i gsung las zur du phyung ba'i gdams skor [txt] Настанови з промов Дріґунґпи
+1013 rong ston chen pos yum la gnang ba'i zab lam 'pho ba'i gdams skor [txt] Глибока настанова перенесення свідомості, дана Ронґтон Ченпо матері
+1014 bu mo tshe ring g.yang 'dzoms la gdams pa [txt] Настанова дівчині Цхерінґ Янґдзом
+1015 red mda' ba gzhon nu blo gros kyi gdams skor [txt] Настанови Реддави Ґжонну Лодро
+1016 jo mo dil ma la mkhas grub karma chags med kyis gdams pa [txt] Настанова Джо Мо Ділмі від Карма Чаґмед
+1017 paN chen blo bzang chos rgyan gyis lcang ra chos mdzad ma blo bzang chos 'dzin la gsungs pa [txt] Настанова Панчен Лобзанґ Чок’єн Ланґрі Чодзін
+1018 dkon mchog 'jigs med dbang pos dpon mo bsod nams chos 'dzin gyi nyams len rgyun khyer du gdams pa [txt] Настанова Дконмчоґ Джігмед Ванґпо пані Сонам Чодзін
+1019 tA ra nA tha'i gdams skor [txt] Настанови Тара Натхи
+1020 gu ge chos kyi rgyal po'i sras mo bu khrid dbang mo la shAkya'i btsun pa blo bzang dpal ldan ye shes kyis gdams pa [txt] Настанова принцесі Ґуґе від Блозанґ Пелден Єше
+1021 rig 'dzin 'jigs med gling pas pad+ma chos 'dzoms la gdams pa [txt] Настанова Падма Чос Дзомс від Джігме Лінґпи
+1022 sa skyong sde dge'i btsun mo dam pa ngang tshul byang chub rgyal mo la rdzogs chen pa rang byung rdo rjes gdams pa [txt] Настанова принцесі Дерґе від Ранґджунґ Дордже
+1023 lha lcam ngang tshul byang chub rgyal mo la 'jigs med gling pas gdams pa [txt] Настанова принцесі Нґанґцул Чанчуб Ґ’ялмо від Джігме Лінґпи
+1024 skyes ma 'ga' la gdams pa thor bu'i skor [txt] Розкидані настанови різним жінкам
+1025 zhabs dkar tshogs drug rang grol gyis rgan mo rnams la gdams pa [txt] Настанови старим жінкам від Жабкар Цоґдруґ Ранґдрол
+1026 jo mo ri khrod gsar du bzung ba la go bde'i ngo sprod cig [txt] Легке представлення новій відлюдниці
+1027 brag dkar blo bzang dpal ldan gyi gdams skor [txt] Настанови Драґкар Лобзанґ Пелден
+1028 lcam pad+ma mtsho rgyal mo'i bkas bskul ba'i ngor dus mtha'i sngags chung dbang rgyas rdo rjes gsungs pa [txt] Настанова на прохання сестри Падма Цхоґ’ял
+1029 bdud 'joms gling pa'i gdams skor [txt] Настанови Дуджом Лінґпи
+1030 ge bcags tshangs dbyangs rgya mtsho'i gdams skor [txt] Настанови Ґечаґ Цанґ’янґ Ґ’ятсо
+1031 dge ma dpal sgron la gdams pa [txt] Настанова Ґема Пелдрон
+1032 btsun ma chos bzang la gdams pa [txt] Настанова Цунма Чозанґ
+1033 mkhan chen ngag gi dbang pos chos dbyings dbang mo la gdams pa [txt] Настанова Кхенчен Наґванґ Чодзін Дбанмо
+1034 a 'dzom rgyal sras kyi gdams skor [txt] Настанови Аджом Ґ’ялсе
+1035 chang 'tshong ma la gdams pa [txt] Настанова продавчині чанґу
+
+26) mkha' 'gro'i chos mdzod chen mo'i dkar chag [col] Повний зміст «Великої скарбниці дгарми дакіні»
+
+53) mkha' 'gro'i chos mdzod chen mo'i dkar chag/ (pod nga gsum pa/) [vol] Том 53
+1036 dkar chag [toc] Зміст
+1037 sngon 'gro'i gtam [txt] Вступне слово
+1038 mkha' 'gro'i chos mdzod chen mo'i dkar chag [txt] Повний зміст «Великої скарбниці дгарми дакіні»
+
+Джерело: https://library.bdrc.io/show/bdr:MW3CN2459
+
+2025 (с) Лонгчен Осал
