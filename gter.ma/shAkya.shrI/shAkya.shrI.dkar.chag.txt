@@ -66,7 +66,7 @@
 064 theg pa'i rtse rgyal a ti rdzogs pa chen po las: khregs chod kyi gsang lam snying gi dum bu gnyis pa rig pa gcer mthong gi gdams pa [txt] З Аті-йоги, царя вчень: Друга частина таємного пути трекчо «Настанова голого бачення усвідомлення»
 065 thun mong ma yin pa sems khrid nyung bsdus thar pa'i sgo 'byed [txt] Незвичайне коротке керівництво розумом «Відкривач дверей звільнення»
 066 zhal gdams [txt] Усні настанови
-067 bcud len gyi rim pa lam gong 'phel ba'i gdams pa [txt] Етапи практики витягу сутності «Настанова поступового піднесення пути»
+067 bcud len gyi rim pa lam gong 'phel ba'i gdams pa [txt] Етапи практики витягу сутності «Настанова поступового піднесення шляху»
 068 tsaN+Da lI brgyud 'debs [txt] Лінія молитви Чандалі
 069 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i gdams pa [txt] З Серцевої краплі довгого життя Падми: Настанова безсмертної дакині
 070 pad+ma tshe yi snying thig las: 'chi med mkha' 'gro'i rgyud bskul [txt] Заклик лінії безсмертної дакині
@@ -75,7 +75,7 @@
 073 snyan brgyud skor dkar chag zur gsal ltar chos tshan bcu gcig [toc] Зміст кола усної передачі — одинадцять тем вчень
 074 mkha' 'gro snyan brgyud kyi yab bka' bde mchog lhan skyes kyi sgrub thabs nyung ngu tshogs mchod bcas khrigs su bkod pa [txt] Коротка садхана з цогом спонтанно-присутнього Верховного Блаженства з чоловічої частини усної передачі дакинь
 075 grub chen shAkya shrI'i dgongs gter gu drag bde gshegs 'dus pa'i gtor bzlog nag 'gros su bkod pa [txt] З ґонґтер Великого Сиддхи Шак'я Шрі: Відбиття торма гнівного зібрання суґат у формі чорного ґрос
-076 rig 'dzin grub dbang shAkya shrI dzanyA na'i dgongs gter dang gsung thor bu'i dkar chag rdo rje nor bu'i phreng ba [toc] Зміст ґонґтерів та розкиданих вчень Рігдзіна Ґрубванґ Шак'я Шрі «Гірлянда ваджрних коштовностей»
+076 rig 'dzin grub dbang shAkya shrI dzanyA na'i dgongs gter dang gsung thor bu'i dkar chag rdo rje nor bu'i phreng ba [toc] Зміст ґонґтерів та розкиданих вчень Рігдзіна Друбванґа Шак'я Шрі «Гірлянда ваджрних коштовностей»
 077 dpar byang smon tshig [txt] Колофон та побажання
 
 Джерело: https://library.bdrc.io/show/bdr:MW23563
