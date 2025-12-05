@@ -1,0 +1,222 @@
+@#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
+
+01) pod gcig pa [vol] Єдиний том
+
+001 dkar chag [toc] Зміст
+002 bod kyi lo rgyus las 'phros pa'i gtam nor bu'i do shal [txt] Перлина з історії Тибету
+003 gleng gzhi [txt] Вступ
+004 mchod brjod [txt] Прославлення
+005 nang don dngos bshad pa [txt] Пряме пояснення змісту
+006 mchan 'grel [txt] Коментар
+
+007 byang 'brog gi lam yig [txt] Дорожні нотатки Північного нагір'я
+008 mgo brjod [txt] Вступне слово
+009 gleng brjod [txt] Розповідь
+010 nang don dngos bshad pa [txt] Пряме пояснення змісту
+011 rdza chu kha'i yul sde [txt] Місцевості долини Дзачу
+012 gser tha'i yul sde [txt] Місцевості Серта
+013 'brog pa'i mna' grogs [txt] Друзі-кочівники
+014 'brog pa'i tis rtsod [txt] Спір про податки кочівників
+015 'brog mi'i ngo tsha'i skor [txt] Про сором кочівників
+016 'brog mi'i shes rig [txt] Знання кочівників
+017 'brog mi'i chos [txt] Релігія кочівників
+018 'brog pa'i ma Ni'i rgya zhag [txt] Мані-стіни кочівників
+019 'brog pa'i glang zla'i bzhi rgyal [txt] Чотири царі бика-місяця кочівників
+020 'brog pa'i slob gso'i skor [txt] Про освіту кочівників
+021 'brog pa'i mtsher sa [txt] Печінка кочівників
+022 'brog pa'i sbra khyim [txt] Якові намети кочівників
+023 'brog pa'i 'tsho ba [txt] Життя кочівників
+024 'brog pa'i phyugs las [txt] Скотарство кочівників
+025 'brog pa'i she nor [txt] Вівці та яки кочівників
+026 'brog pa'i tshe thar [txt] Життєві історії кочівників
+027 'brog pa'i chas lugs [txt] Одяг кочівників
+028 'brog pa'i rngon bda' [txt] Полювання кочівників
+029 'brog pa'i re ston [txt] Свята кочівників
+030 'brog pa'i lo gsar [txt] Новий рік кочівників
+031 'brog pa'i 'du ba [txt] Зібрання кочівників
+032 'brog pa'i gnyen sgrig [txt] Шлюби кочівників
+033 'brog pa'i yul khrims [txt] Звичаєве право кочівників
+034 'brog pa'i kha mchu [txt] Усна традиція кочівників
+035 'brog pa'i mi stong [txt] Тисяча людей кочівників
+036 'brog pa'i rkun stong [txt] Тисяча злодіїв кочівників
+037 'brog pa'i rta stong [txt] Тисяча коней кочівників
+038 'brog pa'i byi stong [txt] Тисяча мишей кочівників
+039 'brog pa'i bag stong [txt] Тисяча наречених кочівників
+040 'brog pa'i skyel 'grul [txt] Перевезення кочівників
+041 tshig mdzod dang 'grel bshad [txt] Словник і коментар
+
+042 sgrung lde'u bon gsum gyi gtam [txt] Оповіді про казки, лдеу та бон
+043 gleng gzhi [txt] Вступ
+044 sgrung gi skor [txt] Про казки
+045 gling ge sar gyi sgrung skor [txt] Казки про Ґлінґ Ґе-сара
+046 gna' sgrung gi skor [txt] Давні казки
+047 ro langs gser sgrung gi skor [txt] Казки про золотого зомбі
+048 ma sang gi sgrung skor [txt] Казки братів
+049 mchil ba'i sgrung skor [txt] Казки про слинних
+
+050 lde'u'i skor [txt] Про лдеу
+051 khegs kyi skor [txt] Про кегс
+052 rgyal po'i mtshan gyi skor [txt] Про імена царів
+053 zhang zhung skad kyi skor [txt] Про мову Жанґ-жунґ
+054 bod mi'i ming don gyi skor [txt] Про значення тибетських імен
+055 lde'u 'phrul gyi skor [txt] Про чарівні лдеу
+056 zab gnad kyi lde'u'i skor [txt] Про глибокі лдеу
+057 gsang gnad kyi lde'u'i skor [txt] Про таємні лдеу
+
+058 bon gyi skor [txt] Про бон
+059 bon sgo bzhi mdzod kyi skor [txt] Про чотири портали скарбниці бон
+060 bon theg pa rim dgu'i skor [txt] Про дев’ять поступових колісниць бон
+061 bon brdol 'khyar bsgyur gsum skor [txt] Про три способи поширення бон
+062 rgyu'i bon rigs bzhi'i skor [txt] Про чотири причинні традиції бон
+063 bon shes pa can bcu gnyis kyi skor [txt] Про дванадцять істот із знанням бон
+064 mgon shes lha bon [txt] Захисники-бони
+065 thug dkar gyi gzhung skor [txt] Тексти білого Туґ
+066 sgra bla wer ma'i skor [txt] Про Сґра-бла Верма
+067 sgra bla bse'u ru gcig skor [txt] Про єдиний ріг Сґра-бла
+068 sgra bla'i tshig don skor [txt] Значення слів Сґра-бла
+069 g.yang shes phya bon [txt] Бон процвітання
+070 'go ba'i lha lnga'i skor [txt] Про п’ятьох богів голови
+071 klung rta'i skor [txt] Про коней річок
+072 phya g.yang gi skor [txt] Про пхья та ґ’янґ
+073 phug lha'i skor [txt] Про богів печер
+074 rmu thag gi skor [txt] Про мотузки рму
+075 'gro shes glud gton [txt] Викуп за свідомість істот
+076 mdos kyi skor [txt] Про мдос
+077 glud kyi skor [txt] Про викуп
+078 yas kyi skor [txt] Про верхні світи
+079 pho glud mo glud chung glud gsum gyi skor [txt] Три викупи: чоловічий, жіночий, малий
+080 mdos kyi tshad skor [txt] Розміри мдос
+081 glud kyi yon tan skor [txt] Переваги викупу
+082 glud rdzas kyi dgos pa'i skor [txt] Матеріали для викупу
+083 'dur shes srid gshen [txt] Провідники поховань
+084 shi thabs kyi skor [txt] Методи поховання
+085 'dur thabs kyi skor [txt] Ритуали поховання
+086 bla bslu'i skor [txt] Викуп душі
+087 gshed 'dur gyi skor [txt] Про ката поховань
+088 gtsang shes sel 'debs [txt] Очищення
+089 sel dgos pa'i rgyu mtshan [txt] Причини очищення
+090 sel gyi lag len skor [txt] Методи очищення
+091 sel bya'i skor [txt] Об’єкти очищення
+092 bsang gi skor [txt] Про окурування
+093 tshan khrus kyi skor [txt] Про ритуальне обмивання
+094 tshan dkar gyi skor [txt] Про біле обмивання
+095 bag ma'i tshan khrul [txt] Помилки обмивання нареченої
+096 dmar tshan gyi skor [txt] Про червоне обмивання
+097 'grol shes gtad byad [txt] Передача свідомості звільнення
+098 dbyings kyi lha tshogs mchod pa'i skor [txt] Підношення богам простору
+099 mkha'i dbal mo bskang ba'i skor [txt] Задоболення небесних дакіні
+100 klong gi dam can brten pa'i skor [txt] Покладання на обітниці простору
+101 klu gnyan sa bdag gto bcos skor [txt] Ритуали для наґів, нєнів, са-дагів
+102 gto bcos kyi lag len skor [txt] Методи гто
+
+103 phan shes sman dpyad [txt] Медицина
+104 rgyu rkyen mthong la dpyad pa'i skor [txt] Діагностика причин
+105 ngos 'dzin rtsa la dpyad pa'i skor [txt] Пульсова діагностика
+106 phan gnod chu la dpyad pa'i skor [txt] Діагностика сечі
+107 'chi sos khams la dpyad pa'i skor [txt] Три гумори
+108 gso bya nad kyi bye brag skor [txt] Види хвороб
+109 gso byed gnyen po'i bye brag skor [txt] Види ліків
+110 spyod lam gyis bcos pa'i skor [txt] Лікування способом життя
+111 sman gyi bcos pa'i skor [txt] Лікування травами
+112 dpyad kyis bcos pa'i skor [txt] Лікування процедурами
+113 me btsa'i skor [txt] Мокса
+114 thur ma'i dpyad skor [txt] Кровопускання
+115 gdon rigs kyi skor [txt] Види демонів
+
+116 skos shes rtsis mkhan [txt] Астрологія
+117 skos kyi don skor [txt] Значення астрології
+118 gab rtse'i skor [txt] Китайська астрологія
+119 spar kha sme ba'i gling skor [txt] Календар
+120 sme ba'i skor [txt] Календарні обчислення
+121 gshen rab kyi 'das loam [txt] Роки Шенраба
+122 'byung ba dus kyi 'khor lo'i skor [txt] Колесо елементів і часу
+123 ju zhag rten 'brel las rtsis skor [txt] Джутак і карма
+124 gtsug lag gi go don skor [txt] Наука
+
+125 smrang shes gto dgu [txt] Дев’ять гто давніх оповідей
+126 smrang gi don skor [txt] Значення смранґ
+127 srid pa'i mi'u brgyud kyi skor [txt] Родовід людства
+128 gto dgu'i don skor [txt] Дев’ять гто
+129 srid pa'i grol phug gi skor [txt] Печера звільнення існування
+130 srid pa pho dgu dang srid pa mo dgu'i skor [txt] Дев’ять чоловічих і жіночих існувань
+131 srid pa'i chog rabs kyi skor [txt] Походження світу
+132 'dre dang sri'i skor [txt] Демони та срі
+133 'dre srir brdzangs 'debs kyi skor [txt] Очищення від демонів
+134 kag nyen bzlog pa'i nyin gto'i skor [txt] Щоденні гто проти перешкод
+135 rten 'brel srid pa'i rtsis gto'i skor [txt] Астрологічні гто
+
+136 lding shes sha ba'i bon [txt] Бон оленячих ритуалів
+137 sha ba'i bon dgu'i skor [txt] Дев’ять бон оленя
+138 sha ba'i mdos chog gi sta gon skor [txt] Ритуали мдос оленя
+139 sha ba'i mdos kyi chog rabs skor [txt] Походження мдос оленя
+140 sha ba'i mdos kyi rgyu mtshan skor [txt] Причини мдос оленя
+141 sha ba'i lding shes kyi don skor [txt] Значення лдинґ оленя
+142 bon pos rnga la zhon pa'i skor [txt] Бонпо на барабанах
+143 dmar mchod kyi lo rgyus skor [txt] Історія червоних підношень
+144 ban bon rtsod gleng gi skor [txt] Полеміка бан і бон
+
+145 'phur shes ju thig [txt] Ритуали пхурбу і джутіґ
+146 ju thig gi srol ji ltar byung skor [txt] Походження традиції джутіґ
+147 ju thig gi yig cha'i skor [txt] Тексти джутіґ
+148 ju thig gi rten bca' ba'i skor [txt] Освячення джутіґ
+149 ju thig lag len gyi skor [txt] Практика джутіґ
+150 ju thig gi mdud pa'i skor [txt] Вузли джутіґ
+151 ju thig lag len gyi spyod pa'i skor [txt] Застосування джутіґ
+152 ju thig gi dgos pa'i skor [txt] Мета джутіґ
+
+153 sgrol shes 'phrul bon [txt] Чарівний бон звільнення
+154 bsnyen pa'i skor [txt] Підхід
+155 sgrub pa'i skor [txt] Садхана
+156 las sbyor gyi skor [txt] Діяльність
+157 rgyud chen po bcu gnyis kyi skor [txt] Дванадцять великих тантр
+158 las sbyor la 'jug tshul gyi skor [txt] Входження в діяльність
+159 bsgral ba'i zhing gi skor [txt] Поля вбивства
+160 spyod lam 'gal 'brel gyi skor [txt] Порушення обітниць
+161 dz+wo this dbal gyi skor [txt] Дзотхі
+162 spyi spungs sngags sems kyi skor [txt] Мантра і семс
+163 dbal ji ltar srid pa'i skor [txt] Походження дбал
+164 dbal zangs kyi skor [txt] Мідний дбал
+165 srid pa'i dug yas bcu gsum gyi skor [txt] Тринадцять отрут існування
+166 rub kyi lo rgyus shig gi skor [txt] Історія руб
+167 snang bzher lod po'i dz+wo this kyi skor [txt] Дзотхі Снанґ-бжер Лодпо
+
+168 mchan 'grel [txt] Коментар
+169 lung 'dren gyi dpe khungs [txt] Джерела цитат
+170 gzi yi phreng ba [txt] Намисто дзі
+171 gleng brjod [txt] Розповідь
+172 bod kyi mi rigs [txt] Народи Тибету
+173 bod kyi skad yig [txt] Тибетська мова
+174 bod dang bon po [txt] Тибет і бонпо
+175 zhang zhung dang bod [txt] Жанґ-жунґ і Тибет
+176 chos dang srid [txt] Дхарма і держава
+177 mchan 'grel [txt] Коментар
+
+178 tun hong nas thon pa'i dpe rnying sbas pa'i rgun chung gi phyi mo'i skor bshad pa [txt] Про тексти з Дуньхуану
+179 rdzogs pa chen po'i skor gyi dris lan [txt] Відповіді про Дзоґчен
+180 dri ba dang po/ ci zhig la rdzogs pa chen po zer [txt] Питання 1: Що таке Дзоґчен?
+181 dri ba gnyis pa/ rdzogs pa chen po ji ltar dar ba red [txt] Питання 2: Як поширився Дзоґчен?
+182 dri ba gsum pa/ rdzogs pa chen po de bon dang rnying ma'i chos shig red dam [txt] Питання 3: Чи є Дзоґчен бон чи нінґма?
+183 dri ba bzhi pa/ rdzogs chen dang deng dus spyi tshogs bar la 'brel ba gang yod [txt] Питання 4: Зв’язок Дзоґчен з сучасним суспільством
+
+184 bod kyi gso rig las mngal chags tshul dang der brtag thabs skor mdo tsam bstan pa [txt] Тибетська медицина: зачаття і діагностика вагітності
+185 mngal gyi srid pa chags pa'i rgyu [txt] Причини зачаття
+186 mngal du chags pa'i dus [txt] Час зачаття
+187 mngal du chags pa'i rtags [txt] Ознаки вагітності
+188 mngal chags stangs [txt] Типи вагітності
+189 mngal las 'byung ba'i byed las [txt] Діяльність під час вагітності
+190 mngal gnas pho mo'i chags rkyen [txt] Умови для хлопчика чи дівчинки
+191 mngal gnas 'phel rgyas kyi dus rim [txt] Стадії розвитку плоду
+192 nya'i gnas skabs [txt] Стадія риби
+193 rus sbal gyi gnas skabs [txt] Стадія черепахи
+194 phag gi gnas skabs [txt] Стадія свині
+195 mngal gnas 'phel rgyas kyi mtshan nyid [txt] Ознаки розвитку плоду
+196 rang bzhin bdun gyi mtshan nyin [txt] Сім природних ознак
+197 rang bzhin bdun gyi me drod [txt] Температура семи природ
+198 sbrum ma'i zas spyod kyi skor [txt] Харчування вагітної
+199 spyod lam kyi skor [txt] Поведінка вагітної
+200 mngal du gnas stangs la brtag pa [txt] Діагностика положення плоду
+201 mngal gnas kyi dus rtsis [txt] Обчислення терміну
+202 mngal gnas pho mo'i rtags [txt] Ознаки хлопчика чи дівчинки
+203 byis pa btsa' ran pa'i rtags [txt] Ознаки природних пологів
+
+2025 (c) Лонгчен Осал
