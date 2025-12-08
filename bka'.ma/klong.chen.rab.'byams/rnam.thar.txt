@@ -1,53 +1,161 @@
-@#/_/chos grags bzang po/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar/
+Максима Сохацького
+Порівняльний аналіз біографій Лонгчена Рабджама
 
-Source: https://library.bdrc.io/show/bdr:MW2CZ7505, Font: Ume, Pages: 23
-Source: https://library.bdrc.io/show/bdr:MW12827_741B20, Font: Uchen, Pages: 46
+Анотація
+
+Стаття містить огляд десяти різних видань намтару (біографії визволення) великого нінґмапинського
+вченого та майстра дзоґчену Клонґчен Рабджампи Дріме Озера (Лонґченпи, 1308–1363/64),
+взяті виключно з цифрового архіву Buddhist Digital Resource Center (BDRC).
+Після дедуплікації тексти впорядковано хронологічно за часом створення або основної передачі.
+Для кожного видання подано стислий академічний аналіз походження тексту, верифікацію авторства
+та умови включення до канонічних збірок. Огляд демонструє еволюцію біографії Лонґченпи від
+ранніх свідчень учнів до сучасних компіляцій, відображаючи особливості нінґмапинської традиції,
+що спирається на візійні та терма-передачі.
+
+Вступ
+
+Жанр намтару в тибетському буддизмі є не просто історичною розповіддю, а сотеріологічним інструментом,
+що розкриває просвітлені якості суб’єкта, аби надихати практиків на шлях до осягнення.
+Для Лонґчена Рабджампи Дріме Озера — «Безплямного Сайва, що є Чодаком тантри Лонгчен Рабджам Г'ялпо»
+та систематизатора вчень дзоґчену — існує понад два десятки намтарів різного обсягу:
+від коротких узагальнень (mdor bsdus) до розлогих візійних наративів (mthong ba don ldan).
+Ця стаття розглядає тринадцять верифікованих видань з BDRC, впорядкованих хронологічно.
+Дати встановлено за колофонами, історією передачі та науковими джерелами;
+авторство перевірено за профілями агентів BDRC та метаданими.
+
+I. Надавніша біографія Лонгченпи Чодрака Зангпо
+
+Джерела BDRC: MW2CZ7505 [1] (dbu med, 23 арк., скан 2009 р. з фотокопій рукописів
+монастирів Сера та Таші Рабтенлінґ); MW12827_741B20 [2] (dbu can, 46 арк.).
+Біографія датована серединою XIV ст, невдовзі після 1364.
+
+Найдавніший намтар, складений невдовзі після парінірвани Лонгченпи (1363/64) його прямим учнем
+Чодрак Зангпо з Кхаму — названим духовним сином і спадкоємцем. Текст ґрунтується на свідченнях
+очевидців та візійних передачах під час відлюдницьких практик Лонґченпи в Гангрі Токар.
+Колофон містить авторство «Мдо Кхампа Чодрак Зангпо». Аутентичність підтверджується включенням
+до ранніх збірок Сунг Бум; профіль BDRC P6861 ідентифікує Чодрака Зангпо як йоґіна XIV ст. з Мдо Кхаму.
+
+Він описує народження Лонгченпи в долині Дро (регіон у центральному Тибеті), його навчання в
+монастирі Сангпу та духовні видіння, як-от зустріч з Рематі (легендарною йозінею).
+За Цумагарі (2016), це "одне з найстаріших письмових джерел" про життя Лонгченпи, базоване на усних розповідях.
+
+@#/_/chos grags bzang po/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar/
+[1]: https://library.bdrc.io/show/bdr:MW2CZ7505, Font: Ume, Pages: 23
+[2]: https://library.bdrc.io/show/bdr:MW12827_741B20, Font: Uchen, Pages: 46
+
+II. Біографія Лонгченпи для споглядання.
+
+Джерела BDRC: MW1KG12048_AE8CDA [3], MW2PD20323_92DBAF (31–52 арк.) [4],
+MW1PD100944_B99680 [5], MW19229_8C5573 [6], MW25983_49A50D [7]. Біографія датована кінцем XIV — початком XV ст.
+
+Класичний візійний намтар «приємний для споглядання», включений до циклу Віма Нінгтік, який Лонгченпа
+систематизував у 1340–1360-х рр. Остаточна редакція — справа рук його найближчих спадкоємців (найімовірніше
+Ґ’ялсре Драґпа Озер, пом. 1409). Текст підкреслює Дзокчен Семде та зустрічі Лонгченпи з Вімаламітрою.
+Аутентичність забезпечена безперервною передачею в межах розширеної ка ма (snga 'gyur bka' ma shin tu rgyas pa)
+та колекцій старих рукописів.
+
+Назва означає "Бачення, що приносить користь" — підкреслює практичну цінність для медитаторів.
+За Кхенпо Йеші (2023), це пов'язано з ранніми вченнями Дзогчен, як "Одинадцять Слів і Значень" (ключова формула просвітлення).
+Додано як додаток до медитаційних текстів для ініціації учнів; в BDRC — як частина ширшої колекції.
 
 @#/_/bi ma snying thig/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
-
-Source: https://library.bdrc.io/show/bdr:MW1KG12048_AE8CDA
-
-@#/_/pad gling thugs sras 05 kun bzang 'gyur med mchog grub/ rgyal ba klong chen pa'i rnam thar/
-
-Fifth Peling Tukse, Gyurme Chokdrub Pelbar Zangpo
-
-Source: https://library.bdrc.io/show/bdr:MW24007, Pages: 66, Font: Uchen
-
-@#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ dri med 'od zer gyi rnam thar mthong ba don ldan/
-
-Source: https://library.bdrc.io/show/bdr:MW1KG4884_0F25A9, Index: 095
-
-@#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus/
-
-Source: https://library.bdrc.io/show/bdr:MW1KG4884_88BE9A, Index: 006
-
-@#/_/snga 'gyur bka' ma shin tu rgyas pa/  bi ma snying thig gi skor/ glegs bam ngi pa chi pa/ nang gses hUM rtags can/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
-
-Source: https://library.bdrc.io/show/bdr:MW1PD100944_B99680, Pages: 40
-Source: https://library.bdrc.io/show/bdr:MW19229_8C5573, Pages: 40
-Source: https://library.bdrc.io/show/bdr:MW25983_49A50D, Pages: 40
-
-@#/_/pad gling thugs sras 05 kun bzang 'gyur med mchog grub/ rgyal ba klong chen pa'i rnam thar/
-
-Source: https://library.bdrc.io/show/bdr:MW1KG17150, Pages: 24, Font: Ume
+[3]: https://library.bdrc.io/show/bdr:MW1KG12048_AE8CDA
 
 @#/_/dpe rnying rtsa chen par ma'i skor phyogs bsdus/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
+[4]: https://library.bdrc.io/show/bdr:MW2PD20323_92DBAF
 
-Source: https://library.bdrc.io/show/bdr:MW2PD20323_92DBAF
+@#/_/snga 'gyur bka' ma shin tu rgyas pa/  bi ma snying thig gi skor/ glegs bam ngi pa chi pa/
+     nang gses hUM rtags can/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
+
+[5]: https://library.bdrc.io/show/bdr:MW1PD100944_B99680, Pages: 40
+[6]: https://library.bdrc.io/show/bdr:MW19229_8C5573, Pages: 40
+[7]: https://library.bdrc.io/show/bdr:MW25983_49A50D, Pages: 40
+
+III. Коротке резюме. Текст номер 6.
+
+Джерело BDRC: MW1KG4884_88BE9A (том 1, індекс 006) [8]. Видання dpal brtsegs, XVIII ст., за рукописом XIV ст.
+Коротке резюме (mdor bsdus), складене на основі автобіографічних нотаток самого
+Лонґченпи та свідчень учнів. Включене до канонічного зібрання творів (dpal brtsegs xylograph, XVIII ст.).
+Служить вступним текстом для вивчення лінії втілень Лонґченпи (від принцеси Мандарави).
+
+Короткий огляд для ритуалів, підсумовує ключові події, як відхід у паринірвану (стан повного просвітлення).
+За Мартіном (1997), це типовий "підсумок" у тибетських історичних текстах.
+
+@#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus/
+[8]: https://library.bdrc.io/show/bdr:MW1KG4884_88BE9A, Index: 006
+
+IV. Розширена версія для споглядання. Текст номер 95.
+
+Джерело BDRC: MW1KG4884_0F25A9 [9] (том 4, арк. 181–235). Видання dpal brtsegs, XVIII ст.
+Розширена версія візійного намтару, складена Чодрака Зангпо (колофон прямо вказує на нього).
+Ввійшла до Сунгбум під час нінґмапинського відродження XVII–XVIII ст. Текст зберігає оригінальну структуру XIV ст.
+
+@#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ dri med 'od zer gyi rnam thar mthong ba don ldan/
+[9]: https://library.bdrc.io/show/bdr:MW1KG4884_0F25A9, Index: 095
+
+V. Намтар Лонгченпи Кунзана Г'юрме Чодруба
+
+Джерела BDRC: MW1KG17150 [10] (dbu med, 24 арк.); MW24007 [11] (dbu can, 66 стор., Делі 1984).
+Походження та верифікація: Автор — П’ятий Пад глінґ тхуксре (серцевий син) Кунзана Г'юрме Чодруба Палбар Трінлей (лінія Лха лун).
+Текст створений у Східному Тибеті, містить пророцтво про переродження Лонґченпи як Пема Лінґпа (1450–1521). Видання 1984 р. — перевидання рукопису XVIII ст.
+
+Написана в традиції Пема (терма — приховані вчення, "відкриті" пізніше), де Лонгченпу вважають втіленням
+Падмасамбхави (засновника Нінгма). Фокус на чудесах і терма-лініях. За Баттерсом (2023),
+це зберігає спадщину через "духовних синів" (thugs sras — метафоричні послідовники).
+
+@#/_/pad gling thugs sras 05 kun bzang 'gyur med mchog grub/ rgyal ba klong chen pa'i rnam thar/
+[10]: https://library.bdrc.io/show/bdr:MW1KG17150, Pages: 24, Font: Ume
+
+@#/_/pad gling thugs sras 05 kun bzang 'gyur med mchog grub/ rgyal ba klong chen pa'i rnam thar/ Намтар Лонгченпи Кунзана Г'юрме Чодруба
+[11]: https://library.bdrc.io/show/bdr:MW24007, Pages: 66, Font: Uchen
+
+VI. Біографія Лонгченпи Пема Осала Таяса
+
+Джерело BDRC: MW20205_990809 [12]. Біографія датована XIX ст.
+Походження та верифікація: Скорочений «дорогоцінний екстракт» авторства Пема Осал Мтхаяса (BDRC P6613),
+створений у контексті руху Ріме в XIX ст. Текст спирається на терма-пророцтва Ратна Лінґпи та Пема Кара.
 
 @#/_/pad+ma 'od gsal mtha' yas/ gter chen dri med 'od zer gyi rnam thar bsdus pa rin po che'i snye ma/
+[12]: https://library.bdrc.io/show/bdr:MW20205_990809
 
-Source: https://library.bdrc.io/show/bdr:MW20205_990809
+VII. Сучасна наукова компіляція Добі Церінга Дордже
+
+Джерело BDRC: MW3CN6498 [13] (Лхаса, 2015, ISBN 9787223044851). Сучасна наукова компіляція, укладена тибетським дослідником Добі Цхерінгом Дордже.
+Збирає уривки з різних класичних намтарів, доповнені коментарями з колекцій Г'юбум. Представляє найновіший етап академічного осмислення біографії Лонґченпи.
 
 @#/_/rdo sbis tshe ring rdo rje/ klong chen rab 'byams pa'i rnam thar phyogs bsgrigs/
+[13]: https://library.bdrc.io/show/bdr:MW3CN6498
 
-Source: https://library.bdrc.io/show/bdr:MW3CN6498
+Бібліографія
 
-@#/_/Albion M. Butters/ Source: The Life and Works of Longchenpaunlocked/
+[14] Barron, R. (trans.). (2007). The Precious Treasury of Philosophical Systems. Padma Publications.
+[15] Dudjom Rinpoche. (1991). The Nyingma School of Tibetan Buddhism. Wisdom Publications.
+[16] Germano, D. (1994). Poetry of the Infinite. University of Wisconsin Press.
+[17] Nyoshul Khenpo. (2005). A Marvelous Garland of Rare Gems. Padma Publications.
+[18] Ricard, M. (n.d.). Chronology of Buddhism. Rangjung Yeshe Wiki.
 
-Source: The Life and Works of Longchenpaunlocked
+Додаток 1. Додаткові матеріали
+
+[19] @#/_/Albion M. Butters/ Source: The Life and Works of Longchenpaunlocked/
+The Life and Works of Longchenpaunlocked
 Albion M. Butters
 https://doi.org/10.1093/acrefore/9780199340378.013.1128
 Published online: 22 March 2023
 
+[20] @#/MARC-HENRI DEROCHE/ DPAL RI MONASTERY/
 https://researchmap.jp/7000009398/published_papers/11336121/attachment_file.pdf
+MARC-HENRI DEROCHE
+HISTORY OF THE FORGOTTEN MOTHER-MONASTERY OF THE RNYING MA SCHOOL: DPAL RI MONASTERY IN THE TIBETAN “VALLEY OF THE EMPERORS”
+Kyoto University
+
+[21] @#/Khenpo Yeshi/ The Origins of the Dzogchen Eleven Words and Meanings: Comparing Nyima Bum, Longchenpa, and Rikzin Gödemchen/
+The Origins of the Dzogchen Eleven Words and Meanings: Comparing Nyima Bum, Longchenpa, and Rikzin Gödemchen
+December 2023 Journal of Tibetan Literature
+DOI:10.58371/jtl.2023.69
+Authors: Khenpo Yeshi
+University of California, Berkeley
+
+[22] @#/Shinichi Tsumagari/ Meaningful to Behold : A Critical Edition and Annotated Translatio of Longchenpa's Biography/
+
+[23] @#/Dan Martin/ TIBETAN HISTORIES A Bibliography of Tibetan-Language Historical Works/
+
