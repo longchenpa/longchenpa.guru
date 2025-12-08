@@ -1,5 +1,4 @@
-Максима Сохацького
-Порівняльний аналіз біографій Лонгчена Рабджама
+@#/_/rnam dag ston pa/ dri med 'od zer rnam thar gi 'dra zhib dpyad pa/ Порівняльний аналіз Максима Сохацького біографій Лонгчена Рабджама
 
 Анотація
 
@@ -64,7 +63,7 @@ MW1PD100944_B99680 [5], MW19229_8C5573 [6], MW25983_49A50D [7]. Біографі
 @#/_/dpe rnying rtsa chen par ma'i skor phyogs bsdus/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
 [4]: https://library.bdrc.io/show/bdr:MW2PD20323_92DBAF
 
-@#/_/snga 'gyur bka' ma shin tu rgyas pa/  bi ma snying thig gi skor/ glegs bam ngi pa chi pa/
+@#/_/snga 'gyur bka' ma shin tu rgyas pa/ bi ma snying thig gi skor/ glegs bam ngi pa chi pa/
      nang gses hUM rtags can/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
 
 [5]: https://library.bdrc.io/show/bdr:MW1PD100944_B99680, Pages: 40
@@ -131,29 +130,10 @@ VII. Сучасна наукова компіляція Добі Церінга 
 [16] Germano, D. (1994). Poetry of the Infinite. University of Wisconsin Press.
 [17] Nyoshul Khenpo. (2005). A Marvelous Garland of Rare Gems. Padma Publications.
 [18] Ricard, M. (n.d.). Chronology of Buddhism. Rangjung Yeshe Wiki.
+[19] Albion M. Butters. Source: The Life and Works of Longchenpa. https://doi.org/10.1093/acrefore/9780199340378.013.1128
+[20] MARC-HENRI DEROCHE. DPAL RI MONASTERY. https://researchmap.jp/7000009398/published_papers/11336121/attachment_file.pdf
+[21] Khenpo Yeshi. The Origins of the Dzogchen Eleven Words and Meanings: Comparing Nyima Bum, Longchenpa, and Rikzin Gödemchen. DOI:10.58371/jtl.2023.69
+[22] Shinichi Tsumagari. Meaningful to Behold : A Critical Edition and Annotated Translatio of Longchenpa's Biography.
+[23] Dan Martin. TIBETAN HISTORIES A Bibliography of Tibetan-Language Historical Works.
 
-Додаток 1. Додаткові матеріали
-
-[19] @#/_/Albion M. Butters/ Source: The Life and Works of Longchenpaunlocked/
-The Life and Works of Longchenpaunlocked
-Albion M. Butters
-https://doi.org/10.1093/acrefore/9780199340378.013.1128
-Published online: 22 March 2023
-
-[20] @#/MARC-HENRI DEROCHE/ DPAL RI MONASTERY/
-https://researchmap.jp/7000009398/published_papers/11336121/attachment_file.pdf
-MARC-HENRI DEROCHE
-HISTORY OF THE FORGOTTEN MOTHER-MONASTERY OF THE RNYING MA SCHOOL: DPAL RI MONASTERY IN THE TIBETAN “VALLEY OF THE EMPERORS”
-Kyoto University
-
-[21] @#/Khenpo Yeshi/ The Origins of the Dzogchen Eleven Words and Meanings: Comparing Nyima Bum, Longchenpa, and Rikzin Gödemchen/
-The Origins of the Dzogchen Eleven Words and Meanings: Comparing Nyima Bum, Longchenpa, and Rikzin Gödemchen
-December 2023 Journal of Tibetan Literature
-DOI:10.58371/jtl.2023.69
-Authors: Khenpo Yeshi
-University of California, Berkeley
-
-[22] @#/Shinichi Tsumagari/ Meaningful to Behold : A Critical Edition and Annotated Translatio of Longchenpa's Biography/
-
-[23] @#/Dan Martin/ TIBETAN HISTORIES A Bibliography of Tibetan-Language Historical Works/
-
+2025 (c) Лонгчен Осал
