@@ -147,10 +147,23 @@ IV. Розширена версія для споглядання. Текст н
 
 Структура строго відповідає класичному візійному намтару: 13 великих розділів (le'u chen po bcu gsum),
 кожен з яких завершується практичними вказівками для медитації на відповідний етап життя Лонґченпи.
-Містить найповніший опис передачі Ньїнґтхік Вімала-мітрою → Джнянасутрою → Вімаламітрою → Лонґченпою.
-Багато автобіографічних вставок у першій особі («nga drimed özer gyis…») — Лонґченпа сам диктував або
-редагував окремі фрагменти. Включено унікальні деталі, відсутні в інших версіях: опис 18-ти великих
+Містить найповніший опис передачі Ньїнuтік. Багато автобіографічних вставок у першій особі («nga drimed özer gyis»)
+— Лонґченпа сам диктував або редагував окремі фрагменти. Включено унікальні деталі, відсутні в інших версіях: опис 18-ти великих
 видінь Лонґченпи в Чімпху, повний перелік 108 терма-циклів, які він передбачав відкрити в майбутніх втіленнях тощо.
+
+У колофоні MW1KG4884_0F25A9 зазначено [25]:
+
+«Нехай завдяки біографії Всезнаючого Безплямного Променя Світла — що при самому спогляданні наповнена глибоким змістом —
+Верховний Рінчен Ґрубоче переправить матерів-істот шести світів через океан сансари і невідворотно посадить їх на острів
+безсмертний Рінченлінґ, де буде розгорнуто великий бенкет радості Священною Дгармою! Нехай із засніжених вершин чотирьох Кай
+потоком Вчення, що має вісім досконалих галузей, повністю згасне пекуча спрага всіх без винятку істот і водночас досконало
+розквітне океан благих якостей і щастя! Цю біографію принца Дріме Озера — що при самому спогляданні
+наповнена глибоким змістом — у сніжних ущелинах північних гір, у самотньому відлюдді, склав і упорядкував той,
+хто невтомно тримає обітниці чистої аскетичної практики, Чоґдраґ Занґпо з Докаму — найкращий син свого батька.
+Ретельно розгляньте її і глибоко дослідіть! Вона перевищує навіть великий барабан Брагми і незліченні тантри Вищої Радості.
+Нехай учені, що прагнуть знання, завжди тримають її на вершині своїх устремлінь! Завдяки цій та іншим найчистішим,
+бездоганним доброчесним діянням нехай будуть умилостивлені вчителі-держателі скарбниці безлічі якостей відречення й осягнення,
+і нехай усі міцно утвердяться на первісній основі Самантабгадри! ШУБГАМ! Благословення всьому!»
 
 Саме цей текст вважається «матір'ю всіх пізніших намтарів Лонґченпи».
 У XVII–XVIII ст. під час «другого поширення» Ньїнґма (особливо завдяки Ріґдзін Дюджom Лінґпа та лінії Зурманґ)
@@ -267,6 +280,15 @@ VII. Сучасна наукова компіляція Добі Церінга 
      pra rin chen nyi zla … bdag gis kyang de ltar ma nor bstod rtsa ti gtsug tu khur ba'o ces pa 'di ni rma
      bya gus pa'i sgos rtsa ni'i pe da a bad la byung ma yan pa'i sa dad pa'i rlabs gyo bas ma nor bstod rtsa
      ti gtsug tu khur ba'o de de bdag gis kyang de ltar ma nor bstod rtsa ti gtsug tu khur ba'o/ mangga laM
-
+[25] MW1KG4884_0F25A9 Colophone: kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/ yas rin chen gru bo ches/
+     /'gro drug ma rnams srid pa'i mtsho bsgral nas/ /mi g.yo rin chen gling du rab son te/
+     /dam pa'i chos kyi dga' ston 'gyed par shog/ bkra shis gang zhig sku bzhi'i gangs ri las/
+     /dam chos yan lag brgyad ldan chu klung gis/ /'gro ba'i tsha gdung ma lus zhi ba dang /
+     /mnyam du dge legs phun sum tshogs gyur cig/ rgyal sras dri med 'od zer gyi/ /rnam thar mthong ba don ldan 'di/
+     /byang phyogs gangs kyi ri khrod du/ /byar med brtul zhugs 'dzin pa yi/ /chos grags bzang po mdo khams pa/
+     /pha yi bu mchog de yis bkod/ /legs par ltos la zhib mor dpyod/ /'di ni tshangs pa'i rnga chen dang/
+     /rab dga'i rgyud mangs las 'phags shing/ mkhas pa'i 'dun sar 'jug par spyod/ /'di sogs dge ba rab dkar dri med des/
+     /spangs rtogs yon tan du ma'i mdzod 'dzin pa'i/ /ded dpon bla ma rnams ni mnyes byas nas/ /kun bzang gdod ma'i sa la rab gnas shog/
+     //shub+haM//bkra shis//_//
 
 2025 (c) Лонгчен Осал
