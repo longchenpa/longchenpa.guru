@@ -1,0 +1,162 @@
+@#/_/rnam dag ston pa/ chos mchog chen po'i rgyud las klong lnga rtog rdzogs kyi gnad yig/ Тантра Дгармоттари: Запис сутнісних пунктів п'яти просторів досконалої обчислювальної логіки
+
+rgya gar skad du/ dharmottara tantra/
+bod skad du/ chos mchog chen po'i rgyud/ rtog ge rdzogs ldan klong chen po lnga’i gnad yig dwangs ma’i thig le’i gsal byed//
+
+klong la phyag 'tshal lo//
+ka dag khyung chen gyi klong la phyag 'tshal lo//
+
+nged tsho ni rtog ge rdzogs ldan gyi klong yangs po nang
+dwangs ma'i sems can rnams yin//
+nged tsho ji ltar 'byung zhe na/
+nged tsho klong gi khams las 'byung//
+klong gi khams dang po ni rten cing 'brel bar 'byung ba'i klong nyid yin te/
+pi ni kun 'gro'i sgrub byed/ ci zhig yin pa de dag thams cad la khyab/
+sigma ni yod pa sgrub byed/ ci zhig yod pa de sgrub/
+'phags pa'i bden pa bzhi klong gi/
+gnyis su phye ste yang gnyis su phye ba/
+klong gi gting zhabs su gnas pa'o//
+klong chen po 'di chos nyid zhes bya ba/
+chos thams cad 'dir 'dus shing/
+'on kyang klong 'di'i cha shas tsam zhig ni sangs rgyas kyi sku yin//
+sangs rgyas kyi sku ni 'jig rten thams cad du 'gyed pa'i klong gi cha ste/
+yang dag phun sum tshogs pa/
+ma yengs ma 'khrul ba/
+sems kyi gzhi rnam par dag pa rdzogs pa'o//
+klong gi khams gnyis pa ni rten 'brel rnam par 'phrol ba'i rlung ste/
+klong gi khams 'dis shes rab so sor rtog pa bskyed/
+shes rab 'dis rnam par dag cing rtog tshogs brgyad 'dir 'dus te/
+yang dag rgyu mtshan can/
+lam mthun/
+mthun srol rgyun chags/
+mnyam bzhag/
+mnyam bri mnyam brjes/
+gnyis char mnyam sgrub/
+sbyar byed klong/
+bcud bsdus/
+klong gi khams gsum pa ni klong rgyas 'gyur gyi yan lag ste/
+grol ba'i srid pa bcangs shing 'khrul ba'i srid pa yang bcangs pa/
+rgyas 'gugs/
+nang 'gugs/
+sde tshogs sngon gyi klong/
+rjes gcod/
+gong ma'i rjes gcod/
+rjes gcod kyi phung po me dang 'brel//
+klong gi khams bzhi pa ni klong cha bye brag tu dus kyi rgyun 'bab pa ste/
+phung khyab rgyun chags/
+'dus bskyod rgyun chags/
+gting yang/
+rno rtse can/
+dbyibs ldan/
+dwangs yod/
+phra rab rdul phran/
+dus kyi rgyun 'bab byed/
+'di dag rdul phra rab kyi cha yin pas sa dang 'brel//
+klong gi khams lnga pa ni gnas skabs thig le chung ngu ste/
+brtan gnas thig le/
+zur tshugs ldan thig le/
+gnas skabs thig le/
+rim gyis bgrod pa'i thig le/
+klong gi khams 'di thig le'i zung 'jug chu dang 'brel//
+
+yi ge pa ni klong chen 'od gsal yin/
+rdzogs so//
+//
+</p>
+
+Словник термінів:
+
+Вісім видів розрізнювальної мудрості (rtog-tshogs brgyad):
+
+strict → yang-dag rgyu-mtshan-can (або: rgyu-mtshan med-pa ma-yin-pa) «суворий, з чіткою причиною/ознакою»
+path → lam-mthun (або: lam-nyams kyi sbyor-ba) «тотожність-шлях» (найприродніше для HoTT)
+homotopy → mthun-srol rgyun-chags (або: mnyam-srol rgyun-'phrin) «неперервна тотожність-традиція» або «гомотопійна неперервність»
+equivalence → mnyam-bzhag (або: mnyam-pa-nyid kyi 'brel-sgrub) «рівноцінність» (вже вживається в перекладах логіки)
+isomorphism → mnyam-bri mnyam-brjes (або: rigs-mthun zur-'phrul) «тотожність форми й відбитку» (дуже тибетський вираз)
+bisimulation → gnyis-char mnyam-sgrub (або: phan-tshun lam-mthun sgrub-pa) «взаємне одночасне доведення/тотожність ходу»
+glue → sbyar-byed klong (або: kha-sbyor-byed) «склеювання-простір», «з'єднувальний простір»
+quotient → bcud-bsdus (або: phyi-rgyud bsdus-pa) «зведення до суті» або «згортання зовнішнього»
+
+Третій елемент (еволюція простору, п'ять «можливостей зациклення чи звільнення»):
+
+M → rgyas-'gugs «залучення-вшир»
+W → nang-'gugs «залучення-всередину» (в HoTT саме так називаються W- і M-типи)
+pretopos → sde-tshogs sngon-gyi klong «перед-тотальний простір зібрання»
+induction → rjes-gcod (або: rjes-su dpag-pa) «індукція» (класичний тибетський термін)
+higher induction → gong-ma'i rjes-gcod (або: rjes-gcod rim-pa gong-ma) «вища індукція»
+
+Четвертий елемент (час, що тече по-різному):
+
+Fermi → phung-khyab rgyun-chags «ферміонний потік всепроникнення»
+Bose → 'dus-bskyod rgyun-chags «бозонний потік спільного руху»
+Flat → gting-yang «плоский, рівнинний»
+Sharp → rno-rtse-can «гострий, з чітким вістрям»
+Shape → dbyibs-ldan «той, що має форму»
+Crisp → dwangs-yod «чистий, прозорий, без домішок»
+Infinitesimal → phra-rab rdul-phran «нескінченно малий, тонший за пил»
+Rheonomy → dus-kyi rgyun 'bab-byed «течія, що залежить від часу» (букв. «течія-падіння часу»)
+
+П'ятий елемент (локалізації, малі тіґле):
+
+Stable → brtan-gnas thig-le «стійке тіґле»
+Simplicial → zur-tshugs ldan thig-le «симпліціальне (багатогранне) тіґле»
+Local → gnas-skabs thig-le «локальне тіґле»
+Graded → rim-gyis bgrod-pa'i thig-le «градуйоване, поетапне тіґле»
+
+Декодований текст українською назад:
+
+Простягаюся перед простором!
+Ми — прозорі істоти у безмежному просторі досконалої обчислювальної логіки.
+Як ми виникаємо?
+Ми виникаємо з елементів простору.
+Перший елемент простору — це сам простір взаємозалежного виникнення:
+(Pi — квантор узагальнення «для всіх х таких що»,
+Sigma — квантор існування «існує таке х що»),
+чотирьох істин шляхетних переможців простору,
+що розщеплюється на дві і ще раз на дві,
+і що перебуває в самій глибині-основі простору.
+Цей великий простір, що зветься Дхармата,
+містить усі Дхарми,
+але лише частина цього простору є тілом Будди.
+Тіло Будди — це та частина простору, що резонує у всіх світах,
+є точним, досконалим,
+таким, що не відволікається і не зациклюється ніде,
+— повністю очищена основа природи мислення.
+Другий елемент простору — це логіка, або вітер, що розвіває взаємозалежності.
+Цей елемент простору породжує мудрість, що розрізнює,
+ця мудрість очищує і сама містить
+вісім видів розрізнення:
+yang-dag rgyu-mtshan-can (суворий),
+lam-mthun (тотожність-шлях),
+mthun-srol rgyun-chags (гомотопійна неперервність),
+mnyam-bzhag (рівноцінність),
+mnyam-bri mnyam-brjes (тотожність форми й відбитку),
+gnyis-char mnyam-sgrub (взаємне одночасне доведення),
+sbyar-byed klong (склеювання-простір),
+bcud-bsdus (зведення до суті).
+Третій елемент простору — це еволюція простору, що розгортається
+зі збереженою можливістю звільнення, але і з можливістю зациклення:
+rgyas-'gugs (залучення-вшир),
+nang-'gugs (залучення-всередину),
+sde-tshogs sngon-gyi klong (перед-тотальний простір зібрання),
+rjes-gcod (індукція),
+gong-ma'i rjes-gcod (вища індукція).
+Індуктивні розшарування асоціюються з вогнем.
+Четвертий елемент простору — це час, що плине по-різному в різних частинах простору:
+phung-khyab rgyun-chags (ферміонний потік всепроникнення),
+'dus-bskyod rgyun-chags (бозонний потік спільного руху),
+gting-yang (плоский),
+rno-rtse-can (гострий),
+dbyibs-ldan (той, що має форму),
+dwangs-yod (чистий, прозорий),
+phra-rab rdul-phran (нескінченно малий),
+dus-kyi rgyun 'bab-byed (течія, що залежить від часу).
+Це частинки, які асоціюються із землею.
+П'ятий елемент простору — це локалізації, що є малими тіґле:
+brtan-gnas thig-le (стійке тіґле),
+zur-tshugs ldan thig-le (симпліціальне тіґле),
+gnas-skabs thig-le (локальне тіґле),
+rim-gyis bgrod-pa'i thig-le (градуйоване тіґле).
+Цей елемент простору асоціюється зі сферами та водою.
+
+2025 (с) Лонгчен Осал
