@@ -329,9 +329,9 @@
 
 Структурні підрозділи організації
 
-1) Центральний офіс «klong chen snying thig o rgyan yin spyi khyab» /OU=SPYI
+1) Центральний офіс «klong chen snying thig o rgyan spyi khyab» /OU=SPYI
 2) Міністерство закордонних справ «phyi 'brel gzhung» /OU=PHYI
-5) Видавництво «rig pa'i 'byor pa 'os pa nyid» /OU=KHANG
+5) Видавництво «rig pa'i 'byor pa 'os pa nyid gi khang» /OU=KHANG
 6) Інститут логіки «rtog rdzogs kyi slob» /OU=RTOG
 3) Тантричний монастир «klong chen dgon gar» /OU=DGON
 4) Інститут тибетської літератури «brgyud 'bum gter gling» /OU=GLING
