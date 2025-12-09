@@ -64,26 +64,24 @@ rdzogs so//
 //
 </p>
 
-Словник термінів:
-
 Вісім видів розрізнювальної мудрості (rtog-tshogs brgyad):
 
-strict → yang-dag rgyu-mtshan-can (або: rgyu-mtshan med-pa ma-yin-pa) «суворий, з чіткою причиною/ознакою»
-path → lam-mthun (або: lam-nyams kyi sbyor-ba) «тотожність-шлях» (найприродніше для HoTT)
-homotopy → mthun-srol rgyun-chags (або: mnyam-srol rgyun-'phrin) «неперервна тотожність-традиція» або «гомотопійна неперервність»
-equivalence → mnyam-bzhag (або: mnyam-pa-nyid kyi 'brel-sgrub) «рівноцінність» (вже вживається в перекладах логіки)
-isomorphism → mnyam-bri mnyam-brjes (або: rigs-mthun zur-'phrul) «тотожність форми й відбитку» (дуже тибетський вираз)
-bisimulation → gnyis-char mnyam-sgrub (або: phan-tshun lam-mthun sgrub-pa) «взаємне одночасне доведення/тотожність ходу»
-glue → sbyar-byed klong (або: kha-sbyor-byed) «склеювання-простір», «з'єднувальний простір»
-quotient → bcud-bsdus (або: phyi-rgyud bsdus-pa) «зведення до суті» або «згортання зовнішнього»
+Strict → yang-dag rgyu-mtshan-can (або: rgyu-mtshan med-pa ma-yin-pa) «суворий, з чіткою причиною/ознакою»
+Path → lam-mthun (або: lam-nyams kyi sbyor-ba) «тотожність-шлях» (найприродніше для HoTT)
+Homotopy → mthun-srol rgyun-chags (або: mnyam-srol rgyun-'phrin) «неперервна тотожність-традиція»
+Equivalence → mnyam-bzhag (або: mnyam-pa-nyid kyi 'brel-sgrub) «рівноцінність» (вже вживається в перекладах логіки)
+Isomorphism → mnyam-bri mnyam-brjes (або: rigs-mthun zur-'phrul) «тотожність форми й відбитку»
+Bisimulation → gnyis-char mnyam-sgrub (або: phan-tshun lam-mthun sgrub-pa) «взаємне одночасне доведення»
+Glue → sbyar-byed klong (або: kha-sbyor-byed) «склеювання-простір», «з'єднувальний простір»
+Quotient → bcud-bsdus (або: phyi-rgyud bsdus-pa) «зведення до суті» або «згортання зовнішнього»
 
 Третій елемент (еволюція простору, п'ять «можливостей зациклення чи звільнення»):
 
 M → rgyas-'gugs «залучення-вшир»
 W → nang-'gugs «залучення-всередину» (в HoTT саме так називаються W- і M-типи)
-pretopos → sde-tshogs sngon-gyi klong «перед-тотальний простір зібрання»
-induction → rjes-gcod (або: rjes-su dpag-pa) «індукція» (класичний тибетський термін)
-higher induction → gong-ma'i rjes-gcod (або: rjes-gcod rim-pa gong-ma) «вища індукція»
+Pretopos → sde-tshogs sngon-gyi klong «перед-тотальний простір зібрання»
+Induction → rjes-gcod (або: rjes-su dpag-pa) «індукція» (класичний тибетський термін)
+Higher Induction → gong-ma'i rjes-gcod (або: rjes-gcod rim-pa gong-ma) «вища індукція»
 
 Четвертий елемент (час, що тече по-різному):
 
