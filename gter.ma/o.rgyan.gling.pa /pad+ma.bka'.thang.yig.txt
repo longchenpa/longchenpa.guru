@@ -1,13 +1,6 @@
-@#/_/'gro ba'imagonapo pad+ma 'byung gnas zhabs/_/bstanapa'i mnga' bdag mkhanachenazhiba'atsho/_/gangasacanadapa' po khri srong ldebatsanamachog_/mkhan 
-slob chos gsum zhabs la gus phyag 'tshal/_/zhes bsted phyagasngonadub_tang nas/_rgyal bstan dar zhing 'gro rnams_skyid pa/_rgyul mas_bde jingalo phyugasalegasal/_mthar thug_mkha' khyabakyisemasacan 
-thamasacadasangs rgyas kyi go'apang 'thobabasogs par gzhan gyi'aphral phugasakyidonaMchen rnams yongs su'agrubaba'i smon lam bzang posamatshamasasbyor bgyi'o/_/paN chen erangs/_/
+@#/_/u rgyan pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so/
 
-_
- @#/_/u rgyan pad+ma 'byung gnas kyi skyes rabs 
-rnam par thar pa rgyas par bkod pa 
-pad+ma bka'i thang yig ces 
-bya ba bzhugs so/_/
-gter chen u rgyan gling pas gter nas bton/
+/gter chen u rgyan gling pas gter nas bton/
 ser gtsug nang bstan dpe rnying 'tshol bsdu phyogs sgrig khang nas bsgrigs/
 
 _
@@ -164,17 +157,17 @@ le'u brgya dang brgyad/_mos gus brjed byang dkar shog la btab pa/ [374]
 mjug byang*/
 
 _
-@#/_/u rgyan pad+ma 'byung gnas kyi skyes rabs rnam par 
-thar pa rgyas par bkod pa pad+ma bka'i 
-thang yig ces bya ba bzhugs so/_/
-@##/_/u rgyan skad du:_ru ak+Sha sha ka ra NaH_bod skad du:_gu ru pad+ma 
-'byung gnas kyi skyes rabs rnam par thar pa zhes bya ba:_bden pa rang byung 
-sangs rgyas sku lnga 'chang :_sna tshogs thabs kyis sems can bde la bkod:
-gdul bya'i bsam pa yongs su rdzogs mdzad pa'i:_skye shi mi mnga' rdo rje'i 
-sku la 'dud:_lha lcam man+dA ra ba dang :_bal 'bangs ka la sid+d+hi dang :_bal 
-mo shAkya de ba dang :_mon mo bkra shis khye 'dren dang :_bud med ye shes 'tsho 
-rgyal dang :_gu ru'i thugs su byon pa'i bud med lngasaH_mi 'dul las can 
-kha lo rnam bsgyur dang :_dkon mchog gsum ni gnas [(]2na[)]par bya ba dang :
+@#/_/u rgyan pad+ma 'byung gnas kyi skyes rabs rnam par thar pa rgyas par bkod pa pad+ma bka'i thang yig ces bya ba bzhugs so/
+
+/u rgyan skad du:_ru ak+Sha sha ka ra NaH_bod skad du:
+gu ru pad+ma 'byung gnas kyi skyes rabs rnam par thar pa zhes bya ba:
+bden pa rang byung sangs rgyas sku lnga 'chang:
+sna tshogs thabs kyis sems can bde la bkod:
+gdul bya'i bsam pa yongs su rdzogs mdzad pa'i:_skye shi mi mnga' rdo rje'i sku la 'dud:
+lha lcam man+dA ra ba dang :_bal 'bangs ka la sid+d+hi dang :_bal mo shAkya de ba dang :
+mon mo bkra shis khye 'dren dang :_bud med ye shes 'tsho rgyal dang :
+gu ru'i thugs su byon pa'i bud med lngasaH_mi 'dul las can kha lo rnam bsgyur dang :
+dkon mchog gsum ni gnas [(]2na[)]par bya ba dang :
 bstan gnyis ya ma zung gi sel med phyiraH_mdo sngags thabs dang shes rab 
 snying po'i bka':_nye bar gyur pa gsang sngags bsgrub pa'i lung :_bden pa'i 
 bka' 'chad nges pa'i don go phyiraH_u rgyan gu ru pad+ma 'byung gnas kyi:_sku 
