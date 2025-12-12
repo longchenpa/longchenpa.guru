@@ -12,19 +12,23 @@
 @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char zhes bya ba/ Йонтен Рінпоче Дзо
 @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char/ Йонтен Рінпоче Дзо: Скарбниця Коштовних Якостей (,,173)
 @#/_/'ju mi pham/ byin brlabs char 'bebs/ A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line Prayer
-@#/_/DA ki gsang spyod kyi sgrub thabs bzhugs so//
-@#/_/DA ki ma'i mkha' 'gro ma'i zhal gdams/
-@#/_/DA ki sde gsum gyi sngags 'bum logs su bkol ba bzhugs/
 @#/_/bai ro tsa na/ gnyis pa byin rlabs dbang gi skor la sngon 'gro'i chos spyod bzhugs so/_/
 @#/_/bai ro tsa na/ rdzogs pa chen po klong sde rdo rje zam pa'i bla brgyud gsol 'debs ni/ Молитви лінії передачі Лонгде Ваджрного Мосту
 @#/_/bai ro tsa na/ rigs 'dzin rnams kyi zhal chems/ Заповіт Володарів Знань
 @#/_/bai ro tsa na/ snyan brgyud rda rje zam pa'i nyams khrid sgom gyi yi ge gsal ba'i sgron ma/ Світлоносна лампа ясного письма: настанови з практики досвіду Ваджрного Мосту усної традиції
 @#/_/bde ba stobs ldan ma'i sgrub thabs bzhugs/
 @#/_/bdud 'joms gling pa gter chos/ dkar chag/ Індекс творів Дуджома Лінгпи
+@#/_/bha ra ta/ rol mo'i bstan bcos/ Natyashastra by Bharata
 @#/_/bi ma snying thig/ bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ Золоті Літери: Тантра Єдиного Сина Вчення, Золоте Серце, Сонце, що Яскраво Сяє
+@#/_/bi ma snying thig/ dkar chag/ Віма Нінгтік Карчак. Версія Єше Де Тартанга Тулку
 @#/_/bi ma snying thig/ klong chen pa'i bi ma lo rgyud/
 @#/_/bi ma snying thig/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
+@#/_/bi ma snying thig/ rdo rje 'chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ Золоті Літери: Серце Вімаламітри.
+@#/_/bi ma snying thig/ rigs 'dzin gyi 'das rjes bzhi zhar 'byung dang bcas pa/ Золоті Літери: Тантра чотирьох явлень спадщини Від'ядгар, що виникають разом
+@#/_/bi ma snying thig/ sgom nyams drug pa/ Віма Нінгтік. Заповіти чотирьох Від'ядгар: Шість медитативних досвідів Манджушрімітри.
+@#/_/bi ma snying thig/ shrI sing ha'i gzer bu bdun pa/ Тут містяться сім цвяхів (gzer bu bdun pa) Шрі Сінгхи (shrI sing ha).
 @#/_/bi ma snying thig/ sngon 'gro/ Віма Сангва Дзокчен Нінгтік Ньондро
+@#/_/bi ma snying thig/ ye shes mdo'i bzhag thabs bzhi yod/ Чотири способи саморозміщення (bzhag thabs bzhi)
 @#/_/brgyud las btus pa'i rdo rje zam pa'i dam tshig nyi shu pa bzhugs so/
 @#/_/bsre ba rnam bzhi'i zhal gdams bzhugs so/
 @#/_/bya bral sangs rgyas rdo rje/ nam mkha'i nor bu rin po che'i zhabs brtan gsol 'debs/ Молитва Намкаю Норбу і його послідовникам
@@ -32,6 +36,9 @@
 @#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
 @#/_/chos kyi grags pa/ spyod 'jug 'grel ba las/ Bodhicaryāvatāra Overview
 @#/_/chos la mi brten rkyen gyis grol ba'i dpe bzhugs/
+@#/_/DA ki gsang spyod kyi sgrub thabs bzhugs so//
+@#/_/DA ki ma'i mkha' 'gro ma'i zhal gdams/
+@#/_/DA ki sde gsum gyi sngags 'bum logs su bkol ba bzhugs/
 @#/_/dbang chog che ba'i dkyil 'khor gyi tshon tho ni/
 @#/_/dpe rnying rtsa chen par ma'i skor phyogs bsdus/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
 @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po/ Розповідь Дака Шаті
@@ -228,4 +235,3 @@
 @#/_/zhal gdams 'phrul gyi me long dgu skor/
 @#/_/zhal gdams kun tu bzang po thugs ye shes kyi me long gi ye shes 'di la lnga ste/
 @#/_/zla ba bzhi pa'i 'chi ltas brtag pa bzhugs/
-@#/_/भरत/ नाट्य शास्त्र/ Nāṭyaśāstra by Bharataḥ
