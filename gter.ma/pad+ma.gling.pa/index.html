@@ -137,8 +137,8 @@
             box-shadow: inset 0 0 0 1px rgba(160, 130, 255, .18) !important;
         }
         main section:hover {
-            border-color: rgba(190, 155, 255, .55) !important;
-            box-shadow: inset 0 0 0 1px rgba(190, 150, 255, .40) !important;
+            border-color: rgba(190, 155, 255, .40) !important;
+            box-shadow: inset 0 0 0 1px rgba(190, 150, 255, .25) !important;
         }
 
         main h2 {
@@ -1225,24 +1225,18 @@
                     });
                 }
             }
-            /* Safari: throttle canvas loops to ~8fps to stop column repaint blinking */
-            var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-            var THROTTLE = isSafari ? 8 : 1;  /* update every Nth frame */
-            var starFrame = 0;
             function drawStars() {
-                starFrame++;
-                if (starFrame % THROTTLE === 0) {
-                    sx.clearRect(0, 0, sc.width, sc.height);
-                    stars.forEach(function (s) {
-                        s.a += s.da * THROTTLE;
-                        if (s.a > 1) s.da *= -1;
-                        if (s.a < 0) s.da *= -1;
-                        sx.beginPath();
-                        sx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
-                        sx.fillStyle = 'hsla(' + s.hue + ',90%,90%,' + Math.abs(s.a) + ')';
-                        sx.fill();
-                    });
-                }
+                sx.clearRect(0, 0, sc.width, sc.height);
+                stars.forEach(function (s) {
+                    s.a += s.da;
+                    if (s.a > 1) s.da *= -1;
+                    if (s.a < 0) s.da *= -1;
+                    sx.beginPath();
+                    sx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+                    /* reduced lightness for cross-browser parity */
+                    sx.fillStyle = 'hsla(' + s.hue + ',80%,80%,' + Math.abs(s.a) + ')';
+                    sx.fill();
+                });
                 requestAnimationFrame(drawStars);
             }
             initStars();
@@ -1278,10 +1272,7 @@
                     maxLife: Math.random() * 400 + 300
                 });
             }
-            var partFrame = 0;
             function drawParticles() {
-                partFrame++;
-                if (partFrame % THROTTLE !== 0) { requestAnimationFrame(drawParticles); return; }
                 px.clearRect(0, 0, pc.width, pc.height);  /* gentler clear — no element invalidation (Safari fix) */
                 var i = parts.length;
                 while (i--) {
@@ -1297,11 +1288,12 @@
                         continue;
                     }
                     px.save();
-                    px.globalAlpha = p.alpha * 0.55;
+                    /* softened alpha/glow for cross-browser parity */
+                    px.globalAlpha = p.alpha * 0.45;
                     px.font = 'bold ' + p.size + 'px serif';
-                    px.fillStyle = 'hsl(' + p.hue + ',80%,85%)';
-                    px.shadowColor = 'hsl(' + p.hue + ',100%,75%)';
-                    px.shadowBlur = 14;
+                    px.fillStyle = 'hsl(' + p.hue + ',70%,75%)';
+                    px.shadowColor = 'hsl(' + p.hue + ',100%,70%)';
+                    px.shadowBlur = 10;
                     px.fillText(p.glyph, p.x, p.y);
                     px.restore();
                 }
